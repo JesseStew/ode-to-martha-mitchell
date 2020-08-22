@@ -1,71 +1,116 @@
 <template>
-	<v-card>
-		<v-container>
-      <v-row dense>
-        <v-col cols="12">
-          <v-card
-            color="#385F73"
-            dark
-          >
-            <v-card-title class="headline">Unlimited music now</v-card-title>
+	<v-container fluid>
+		<v-row dense>
 
-            <v-card-subtitle>Listen to your favorite artists and albums whenever and wherever, online and offline.</v-card-subtitle>
+				<img
+					src="../assets/home/cabin-cool.jpg"
+					style="
+						max-width: 100%;
+						object-fit: cover;
+					"
+				/>
 
-            <v-card-actions>
-              <v-btn text>Listen Now</v-btn>
-            </v-card-actions>
-          </v-card>
-        </v-col>
+		</v-row>
+		<v-row dense>
 
-        <v-col
-          v-for="(item, i) in items"
-          :key="i"
-          cols="12"
-        >
-          <v-card
-            :color="item.color"
-            dark
-          >
-            <div class="d-flex flex-no-wrap justify-space-between">
-              <div>
-                <v-card-title
-                  class="headline"
-                  v-text="item.title"
-                ></v-card-title>
+				<v-navigation-drawer
+					expand-on-hover
+					permanent
+				>
+					<v-list
+						dense
+						nav
+						class="py-0"
+					>
+						<v-list-item class="px-0">
+							<v-list-item-avatar>
+								<img src="https://randomuser.me/api/portraits/women/10.jpg">
+							</v-list-item-avatar>
 
-                <v-card-subtitle v-text="item.artist"></v-card-subtitle>
-              </div>
+							<v-list-item-content>
+								<v-list-item-title>Application</v-list-item-title>
+								<v-list-item-subtitle>Subtext</v-list-item-subtitle>
+							</v-list-item-content>
+						</v-list-item>
 
-              <v-avatar
-                class="ma-3"
-                size="125"
-                tile
-              >
-                <v-img :src="item.src"></v-img>
-              </v-avatar>
-            </div>
-          </v-card>
-        </v-col>
-      </v-row>
-    </v-container>
-	</v-card>
+						<v-divider></v-divider>
+
+						<v-list-item
+							v-for="item in items"
+							:key="item.title"
+							link
+						>
+							<v-list-item-icon>
+								<v-icon>{{ item.icon }}</v-icon>
+							</v-list-item-icon>
+
+							<v-list-item-content>
+								<v-list-item-title>{{ item.title }}</v-list-item-title>
+							</v-list-item-content>
+						</v-list-item>
+					</v-list>
+				</v-navigation-drawer>
+
+		</v-row>
+
+		<!-- <v-app-bar app>
+			<v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
+		</v-app-bar> -->
+	</v-container>
 </template>
 
 <script>
 	export default {
 		data: () => ({
-      items: [
+			drawer: false,
+      pages: [
         {
-          color: '#1F7087',
           src: '../assets/home/cabin-cool.jpg',
           title: 'Home',
-          artist: 'Foster the People',
         },
         {
-          color: '#952175',
           src: '"../assets/home/cabin-cool.jpg"',
-          title: 'Halcyon Days',
-          artist: 'Ellie Goulding',
+          title: 'Legacy Letter',
+        },
+        {
+          src: '"../assets/home/cabin-cool.jpg"',
+          title: 'Intro',
+        },
+        {
+          src: '"../assets/home/cabin-cool.jpg"',
+          title: 'Day One',
+        },
+        {
+          src: '"../assets/home/cabin-cool.jpg"',
+          title: 'Day Two',
+        },
+        {
+          src: '"../assets/home/cabin-cool.jpg"',
+          title: 'Day Three',
+        },
+        {
+          src: '"../assets/home/cabin-cool.jpg"',
+          title: 'Day Four',
+        },
+        {
+          src: '"../assets/home/cabin-cool.jpg"',
+          title: 'Day Five',
+        },
+        {
+          src: '"../assets/home/cabin-cool.jpg"',
+          title: 'Day Six',
+        },
+        {
+          src: '"../assets/home/cabin-cool.jpg"',
+          title: 'Time Line',
+        },
+        {
+          src: '"../assets/home/cabin-cool.jpg"',
+          title: 'Help Lines',
+        },
+        {
+          src: '"../assets/home/cabin-cool.jpg"',
+          title: 'Contact',
         },
       ],
     }),
