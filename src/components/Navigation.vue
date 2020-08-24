@@ -21,14 +21,22 @@
 							align="center"
 							justify="center"
 						>
-							<div class="display-3"> {{page.title}} </div>
+							<div style="
+								font-family: Lamplighter Script Regular;
+								font-size: 7em;
+								color: #f5df12;
+								text-shadow: 0 0 5px #FFFFFF;
+								margin-top: 30%;
+								margin-left: 30%;
+							"
+							> {{page.title}} </div>
 						</v-row>
 					</v-img>
 			</v-carousel-item>
 		</v-carousel>
 		<v-tabs
 			sticky
-      background-color="deep-purple accent-4"
+      background-color="indigo darken-4 accent-4"
       center-active
       dark
     >
