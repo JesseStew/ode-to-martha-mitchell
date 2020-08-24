@@ -10,33 +10,28 @@
 				:key="i"
 				:src="page.src"
 			>
-				<v-img
-						contain
-						:color="color"
-						height="100%"
-						tile
-					>
-						<v-row
-							class="fill-height"
-							align="center"
-							justify="center"
-						>
-							<div style="
-								font-family: Lamplighter Script Regular;
-								font-size: 7em;
-								color: #f5df12;
-								text-shadow: 0 0 5px #FFFFFF;
-								margin-top: 30%;
-								margin-left: 30%;
-							"
-							> {{page.title}} </div>
-						</v-row>
-					</v-img>
+			<v-row
+				class="fill-height"
+				align="center"
+				justify="center"
+			>
+				<div style="
+					font-family: Lamplighter Script Regular;
+					font-size: 4.5em;
+					color: #fbfe2e;
+					text-shadow: 0 0 5px #ff3503;
+					margin-top: 40%;
+					margin-left: 45%;
+				"
+				> {{page.title}} </div>
+
+			</v-row>
 			</v-carousel-item>
 		</v-carousel>
 		<v-tabs
 			sticky
-      background-color="indigo darken-4 accent-4"
+			background-color="#14143a"
+			centered
       center-active
       dark
     >
@@ -57,7 +52,7 @@
 					src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/one.jpg?alt=media&token=3c27091d-a563-48fc-8120-36169b4bb561',
 					name: 'Home',
 					path: '/',
-					title: 'Home',
+					title: 'An Ode to Martha Mitchell',
 					index: 0,
         },
         {
