@@ -15,15 +15,32 @@
 				align="center"
 				justify="center"
 			>
-				<div style="
-					font-family: Lamplighter Script Regular;
-					font-size: 5.5em;
-					color: #fbfe2e;
-					text-shadow: 0 0 5px #ff3503;
-					margin-top: 30%;
-					margin-left: 35%;
-				"
-				> {{page.title}} </div>
+				<div
+					style="
+						margin-top: 30%;
+						margin-left: 35%;
+					">
+					<span
+					style="
+						font-family: Lamplighter Script Regular;
+						font-size: 5.5em;
+						color: #fbfe2e;
+						text-shadow: 0 0 5px #ff3503;
+					">
+					{{page.text}}
+					</span>
+					<!-- <br /> -->
+					<!-- <span
+					style="
+						font-family: Lamplighter Script Regular;
+						font-size: 2em;
+						color: #fbfe2e;
+						margin-left: 150px;
+						text-shadow: 0 0 5px #ff3503;
+					">
+					{{page.subtitle}}
+					</span> -->
+				</div>
 
 			</v-row>
 			</v-carousel-item>
@@ -52,7 +69,9 @@
 					src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/one.jpg?alt=media&token=3c27091d-a563-48fc-8120-36169b4bb561',
 					name: 'Home',
 					path: '/',
-					title: 'An Ode to Martha Mitchell',
+					title: 'Home',
+					text: 'An Ode to Martha Mitchell',
+					subtitle: 'Headwaters to COVID-19, Impeachment and Murder',
 					index: 0,
         },
         {
