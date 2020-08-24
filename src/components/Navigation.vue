@@ -17,11 +17,11 @@
 			>
 				<div style="
 					font-family: Lamplighter Script Regular;
-					font-size: 4.5em;
+					font-size: 5.5em;
 					color: #fbfe2e;
 					text-shadow: 0 0 5px #ff3503;
-					margin-top: 40%;
-					margin-left: 45%;
+					margin-top: 30%;
+					margin-left: 35%;
 				"
 				> {{page.title}} </div>
 
