@@ -22,3 +22,15 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# Notes
+## Home
+
+### To Do
+* Add Correct Text
+* Chapter Selector
+* Page Turner Buttons
+
+### In Progress
+* Subtitle
+

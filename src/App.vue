@@ -31,6 +31,15 @@ export default {
 </script>
 
 <style>
+.small-text {
+	font-size: .8em;
+}
+.h-l {
+    font-weight: bold;
+}
+.douglas {
+    font-weight: bold;
+}
 @font-face {
     font-family: "Adequate-ExtraLight";
     src: url("./assets/fonts/Adequate-ExtraLight.ttf");
