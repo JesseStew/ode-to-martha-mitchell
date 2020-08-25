@@ -56,18 +56,22 @@
 			</v-tab>
     </v-tabs>
 		<v-container fluid>
-			<slot></slot>
+			<v-row>
+				<v-col cols="12">
+					<slot></slot>
+				</v-col>
+				<v-row justify="start">
+					<v-btn @click="itrModel(model - 1)" class="mx-5" fab dark :color="currentColor">
+						<v-icon dark>mdi-minus</v-icon>
+					</v-btn>
+				</v-row>
+				<v-row justify="end">
+					<v-btn @click="itrModel(model + 1)" class="mx-5" fab dark :color="currentColor">
+						<v-icon dark>mdi-plus</v-icon>
+					</v-btn>
+				</v-row>
+			</v-row>
 		</v-container>
-		<v-row justify="start">
-				<v-btn @click="itrModel(model - 1)" class="mx-5" fab dark :color="currentColor">
-					<v-icon dark>mdi-minus</v-icon>
-				</v-btn>
-			</v-row>
-			<v-row justify="end">
-				<v-btn @click="itrModel(model + 1)" class="mx-5" fab dark :color="currentColor">
-					<v-icon dark>mdi-plus</v-icon>
-				</v-btn>
-			</v-row>
 	</div>
 </template>
 
