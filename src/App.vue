@@ -5,10 +5,9 @@
     <!-- Sizes content based upon application components -->
     <v-main>
       <!-- Provides the application the proper gutter -->
-      <navigation></navigation>
-      <v-container fluid>
+      <navigation>
         <router-view></router-view>
-      </v-container>
+      </navigation>
     </v-main>
 
     <v-footer app></v-footer>

@@ -895,16 +895,6 @@
 				<span class="douglas">Douglas:</span> Tomorrow, we will pick this up in the morning.
 				</p>
 			</v-col>
-			<v-row justify="start">
-				<v-btn class="mx-5" fab dark color="#14143a">
-					<v-icon dark>mdi-minus</v-icon>
-				</v-btn>
-			</v-row>
-			<v-row justify="end">
-				<v-btn class="mx-5" fab dark color="#14143a">
-					<v-icon dark>mdi-plus</v-icon>
-				</v-btn>
-			</v-row>
 		</v-row>
 	</div>
 </template>

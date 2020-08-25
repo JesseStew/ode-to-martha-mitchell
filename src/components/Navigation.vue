@@ -55,6 +55,19 @@
 				{{ page.title }}
 			</v-tab>
     </v-tabs>
+		<v-container fluid>
+			<slot></slot>
+		</v-container>
+		<v-row justify="start">
+				<v-btn @click="itrModel(model - 1)" class="mx-5" fab dark :color="currentColor">
+					<v-icon dark>mdi-minus</v-icon>
+				</v-btn>
+			</v-row>
+			<v-row justify="end">
+				<v-btn @click="itrModel(model + 1)" class="mx-5" fab dark :color="currentColor">
+					<v-icon dark>mdi-plus</v-icon>
+				</v-btn>
+			</v-row>
 	</div>
 </template>
 
@@ -77,6 +90,15 @@ export default {
 	methods: {
 		tabMethod(index) {
 			this.model = index
+		},
+		itrModel(modelItr) {
+			if (11 < modelItr) {
+				this.model = 0
+			} else if (modelItr < 0) {
+				this.model = 11
+			} else {
+				this.model = modelItr
+			}
 		}
 	},
 	created: function(){
