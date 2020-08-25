@@ -4,9 +4,9 @@
       <v-row no-gutters>
         <v-col cols="12">
           <h1 class="pb-5 px-5">
-            An Ode Martha Mitchell
+            An Ode Martha Mitchell*
           </h1>
-          <h2 class="pb-5 px-5">
+          <h2 class="pb-5 px-5" style="font-size: 1.2em; margin-top: -20px">
             Headwaters to COVID-19, Impeachment and Murder
           </h2>
         </v-col>
@@ -38,6 +38,9 @@
           <p class="px-5">
           While this interview is yours to read in any manner you desire, I would highly recommend that you start with me at the beginning, the cornerstone of the cover-up, with The Legacy Letter, linked below.
           </p>
+          <!-- large link to interview -->
+          <!-- split the screen -->
+          <!-- large link to legacy letter -->
           <p class="small-text">
             *Martha Mitchell (1918-1975) was A Washington D.C. socialite and wife of John Mitchell, U.S. Attorney General under Richard Nixon. John Mitchell also served as chairman of Richard Nixon’s 1972 reelection campaign. He was ultimately convicted of conspiracy, obstruction of justice and perjury in relation to events surrounding the Watergate Scandal. The Martha Mitchell effect is a term utilized in psychiatry in relation to a patient being misdiagnosed as being delusional, when in fact the content of their misinterpreted delusions are an actual representation of events experienced by them. The origin of this term references events that occurred to Martha Mitchell in 1972, when she claimed that White House officials were engaging in illegal activities. Mitchell also claimed she was drugged, beaten and forced under guard to remain in hotel room in California to prevent her from further contacting the press about Watergate break-in and ensuing scandal. Aides of President Nixon informed the media that she was ‘resting’ in a psychiatric hospital; the intent of this statement was to discount the validity of her credibility and therefore observations. A substantial proportion of Martha Mitchells’ claims were later validated.
           </p>

@@ -89,7 +89,7 @@
 					index: 2,
         },
         {
-					src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/home.jpg?alt=media&token=41c7eb6a-72ab-4e0c-b40c-bd5ceabd522b',
+					src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day1_final.jpg?alt=media&token=83309fb8-5b5e-4c06-baf3-24ba21d86058',
 					name: 'DayOne',
 					path: '/day-one',
 					title: 'Day One',
