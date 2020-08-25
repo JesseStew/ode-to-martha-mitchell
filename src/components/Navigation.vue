@@ -51,7 +51,7 @@
       center-active
       dark
     >
-			<v-tab @click="model = page.index" :to="page.path" v-for="page in pages" :key="page.id">
+			<v-tab @click="tabMethod(page.index)" :to="page.path" v-for="page in pages" :key="page.id">
 				{{ page.title }}
 			</v-tab>
     </v-tabs>
@@ -63,18 +63,77 @@ export default {
 	computed: {
 		imgSrc() {
 			return this.pages[this.$route.name].src
+		},
+		currentRoute() {
+			return this.$_.last(this.$_.split(window.location.href, '/'))
 		}
 	},
 	methods: {
-
+		tabMethod(index) {
+			this.model = index
+		}
 	},
-	// created: function(){
-	// 	console.log('currentRouteName:', this.$route.name)
-	// 	if (this.$route.name === 'LegacyLetter') {
-	// 		console.log('hello')
-	// 		this.model = 1
-	// 	}
-	// },
+	beforeCreate: function(){
+		console.log('beforeCreate - currentRouteName:', this.$_.last(this.$_.split(window.location.href, '/')))
+	},
+	created: function(){
+		console.log('created - currentRouteName:', this.currentRoute)
+		// this.$router.push({ path: this.currentRoute })
+		if (this.currentRoute === 'legacy-letter') {
+			console.log('hello')
+			this.model = 1
+		} else if (this.currentRoute === 'intro') {
+			console.log('hello')
+			this.model = 2
+		} else if (this.currentRoute === 'day-one') {
+			console.log('hello')
+			this.model = 3
+		} else if (this.currentRoute === 'day-two') {
+			console.log('hello')
+			this.model = 4
+		} else if (this.currentRoute === 'day-three') {
+			console.log('hello')
+			this.model = 5
+		} else if (this.currentRoute === 'day-four') {
+			console.log('hello')
+			this.model = 6
+		} else if (this.currentRoute === 'day-five') {
+			console.log('hello')
+			this.model = 7
+		} else if (this.currentRoute === 'day-six') {
+			console.log('hello')
+			this.model = 8
+		} else if (this.currentRoute === 'time-line') {
+			console.log('hello')
+			this.model = 9
+		} else if (this.currentRoute === 'help-lines') {
+			console.log('hello')
+			this.model = 10
+		} else if (this.currentRoute === 'contact') {
+			console.log('hello')
+			this.model = 11
+		} else {
+			this.model = 0
+		}
+	},
+	beforeMount: function(){
+		console.log('beforeMount - currentRouteName:', this.currentRoute)
+	},
+	mounted: function(){
+		console.log('mounted - currentRouteName:', this.currentRoute)
+	},
+	beforeUpdate: function(){
+		console.log('beforeUpdate - currentRouteName:', this.currentRoute)
+	},
+	updated: function(){
+		console.log('updated - currentRouteName:', this.currentRoute)
+	},
+	beforeDestroy: function(){
+		console.log('beforeDestroy - currentRouteName:', this.currentRoute)
+	},
+	destroyed: function(){
+		console.log('destroyed - currentRouteName:', this.currentRoute)
+	},
 	watch: {
 		model: function (val) {
 			console.log('val:', val)
