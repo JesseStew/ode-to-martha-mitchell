@@ -66,7 +66,7 @@ Vue.use(VueRouter)
     component: () => import(/* webpackChunkName: "contact" */ '../views/Contact.vue')
   }
 ]
-
+// small change
 const router = new VueRouter({
   mode: 'history',
   base: process.env.BASE_URL,
