@@ -11,7 +11,6 @@
 				style="margin-top: -30px">
 					(The Human Zoo, Pajama Liar, Worst Boss Ever, Feed The Hole, Bear Traps, Invisible Hand of High Crimes, Waving At The Enemy, Carouselambra, Choke Berries, Free Money To Africa, That Old Ford, Brother Can You Spare A Dime, Developing Detection Tools, Nosey Neighbors, Sniffing Out Surveillance, Ricardo & Smith Inc, Love Story, The Legacy Letter, Harassment Of Potential Donors, Rocky Top, Introducing The Spy King, Fitting In, Bird Bath, The Hills Have Eyes, Sin City, Tree Falling On My Life, The New Scarlet Letter A, Bear Country Jamboree, Moving To Tennessee, Splitting Cords, Into The Woods, Mickey Mouse, Welcome To The Filth, You’re Not In College Anymore, Dream Cabin, Insect Drone, Losing The War, Prehistoric Paradise, Forties Funk, Financial Breakdown, Minority Report, Talk Of The Town, Winter, Nobody Runs Here, Prototypes In Paradise, A Dangerous Deception, Nicotina, I Thought You Were Special, Red Velvet, Rattling My Cage, Take The Long Way Home, Terrifying Trees, Peddling Produce, You Look Familiar, Speaking With Billionaires, Deer In The Headlights, Sunset People, Grandma Says, An Unusual Alliance, Camouflage, Leaving The Volunteer State, Careless Whispers and More… See Timeline for Chronology of Events)
 				</p>
-				<day-links></day-links>
 				<p>
 					<span class="h-l">H.L.</span> I find it interesting that you left out the word ‘abortion’ in the summary you gave me. Don’t you think that it should be included? Isn’t this at the core of the cover-up and scandal we are about to dig into?
 				</p>
@@ -895,26 +894,13 @@
 				<span class="douglas">Douglas:</span> Tomorrow, we will pick this up in the morning.
 				</p>
 			</v-col>
-			<v-row justify="start">
-				<v-btn class="mx-5" fab dark color="#14143a">
-					<v-icon dark>mdi-minus</v-icon>
-				</v-btn>
-			</v-row>
-			<v-row justify="end">
-				<v-btn class="mx-5" fab dark color="#14143a">
-					<v-icon dark>mdi-plus</v-icon>
-				</v-btn>
-			</v-row>
 		</v-row>
 	</v-container>
 </template>
 
 <script>
-import DayLinks from '@/components/DayLinks.vue';
 export default {
-	components: {
-		DayLinks
-	}
+	components: {}
 }
 </script>
 
