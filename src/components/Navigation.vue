@@ -79,46 +79,30 @@ export default {
 			this.model = index
 		}
 	},
-	beforeCreate: function(){
-		console.log('beforeCreate - currentRouteName:', this.$_.last(this.$_.split(window.location.href, '/')))
-	},
 	created: function(){
-		console.log('created - currentRouteName:', this.currentRoute)
 		// this.$router.push({ path: this.currentRoute })
 		if (this.currentRoute === 'legacy-letter') {
-			console.log('hello')
 			this.model = 1
 			this.color = this.brown
-			console.log(this.color)
 		} else if (this.currentRoute === 'intro') {
-			console.log('hello')
 			this.model = 2
 		} else if (this.currentRoute === 'day-one') {
-			console.log('hello')
 			this.model = 3
 		} else if (this.currentRoute === 'day-two') {
-			console.log('hello')
 			this.model = 4
 		} else if (this.currentRoute === 'day-three') {
-			console.log('hello')
 			this.model = 5
 		} else if (this.currentRoute === 'day-four') {
-			console.log('hello')
 			this.model = 6
 		} else if (this.currentRoute === 'day-five') {
-			console.log('hello')
 			this.model = 7
 		} else if (this.currentRoute === 'day-six') {
-			console.log('hello')
 			this.model = 8
 		} else if (this.currentRoute === 'time-line') {
-			console.log('hello')
 			this.model = 9
 		} else if (this.currentRoute === 'help-lines') {
-			console.log('hello')
 			this.model = 10
 		} else if (this.currentRoute === 'contact') {
-			console.log('hello')
 			this.model = 11
 		} else {
 			this.model = 0
@@ -126,9 +110,7 @@ export default {
 	},
 	watch: {
 		model: function (val) {
-			console.log('val:', val)
 			let page = this.$_.find(this.pages, { 'index': val })
-			console.log('page:', page)
 			if (this.$route.path !== page.path) {
 				this.$router.push({ path: page.path })
 			}
