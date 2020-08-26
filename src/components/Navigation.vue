@@ -188,7 +188,7 @@ export default {
 		blue: '#14143a',
 		pages: [
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/one.jpg?alt=media&token=3c27091d-a563-48fc-8120-36169b4bb561',
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/home_final.jpg?alt=media&token=1e3e6040-05df-4ece-a5ae-4d2456b9b680',
 				name: 'Home',
 				path: '/',
 				title: 'Home',
@@ -198,7 +198,7 @@ export default {
 				color: '#14143a'
 			},
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/legacy.jpg?alt=media&token=e8decf49-8721-49e7-af09-c92a95593242',
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/legacy_letter_final.jpg?alt=media&token=312794d3-1b43-4318-a5a3-c78032c8347e',
 				name: 'LegacyLetter',
 				path: '/legacy-letter',
 				title: 'Legacy Letter',
@@ -206,12 +206,12 @@ export default {
 				color: '#845a1f'
 			},
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/intro.jpg?alt=media&token=2fa7ae19-e5b3-4532-b71f-9732a0ef8db2',
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/intro_final.jpg?alt=media&token=1150a81a-b310-4d15-896a-f1e3b044fa58',
 				name: 'Intro',
 				path: '/intro',
 				title: 'Intro',
 				index: 2,
-				color: '#845a1f'
+				color: '#14143a'
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day1_final.jpg?alt=media&token=83309fb8-5b5e-4c06-baf3-24ba21d86058',
@@ -222,7 +222,7 @@ export default {
 				color: '#845a1f'
 			},
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/two.jpg?alt=media&token=84711dfd-8352-4d3a-9c2d-ec76debbe8d2',
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day2_final.jpg?alt=media&token=dd87c64a-fc3f-4132-846f-81b729efe155',
 				name: 'DayTwo',
 				path: '/day-two',
 				title: 'Day Two',
@@ -230,15 +230,15 @@ export default {
 				color: '#14143a'
 			},
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/three.jpg?alt=media&token=01469ec1-0e47-4d65-8fe4-520f6945c340',
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day3_final.jpg?alt=media&token=d03bcbe4-9127-4310-ae3f-77ec9f2e27b0',
 				name: 'DayThree',
 				path: '/day-three',
 				title: 'Day Three',
 				index: 5,
-				color: '#845a1f'
+				color: '#14143a'
 			},
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/four.jpg?alt=media&token=1afb6f39-d0c1-414f-a8c1-041682930897',
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day4_final.jpg?alt=media&token=4ed64693-955e-452d-aff9-ffe2fead816a',
 				name: 'DayFour',
 				path: '/day-four',
 				title: 'Day Four',
@@ -246,7 +246,7 @@ export default {
 				color: '#845a1f'
 			},
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/five.jpg?alt=media&token=358f4746-e66d-47dc-8610-2614a22e7730',
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day5_final.jpg?alt=media&token=f76bc224-5467-480d-8410-52fd062b0c13',
 				name: 'DayFive',
 				path: '/day-five',
 				title: 'Day Five',
@@ -254,7 +254,7 @@ export default {
 				color: '#14143a'
 			},
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/six-2.jpg?alt=media&token=49845f90-038a-47bb-bf07-f456324c4a2e',
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day6_upsidedown_final.jpg?alt=media&token=bfa6858f-68ed-452e-b2fc-687c32e5e29c',
 				name: 'DaySix',
 				path: '/day-six',
 				title: 'Day Six',
@@ -262,7 +262,7 @@ export default {
 				color: '#845a1f'
 			},
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/time.jpg?alt=media&token=72d15a0f-81f0-4a1c-b004-8d921b034c96',
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/timeline_final.jpg?alt=media&token=15538309-fe3b-47a3-a5b3-da5d415f7dde',
 				name: 'TimeLine',
 				path: '/time-line',
 				title: 'Time Line',
@@ -270,20 +270,20 @@ export default {
 				color: '#845a1f'
 			},
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/help.jpg?alt=media&token=1f448e42-f353-4d60-924f-f5c913a5aec5',
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/help_lines_final.jpg?alt=media&token=8be75e81-2f68-49cb-8acb-14a2c17797d0',
 				name: 'HelpLines',
 				path: '/help-lines',
 				title: 'Help Lines',
 				index: 10,
-				color: '#845a1f'
+				color: '#14143a'
 			},
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/contact.jpg?alt=media&token=49b412eb-ee2b-4e16-9695-89dca2bf4dec',
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/contact_final.jpg?alt=media&token=ada557f6-f20b-462b-827b-793e81f237f1',
 				name: 'Contact',
 				path: '/contact',
 				title: 'Contact',
 				index: 11,
-				color: '#845a1f'
+				color: '#14143a'
 			},
 		],
 	}),
