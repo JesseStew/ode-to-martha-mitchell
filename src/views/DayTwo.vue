@@ -3,13 +3,13 @@
 		<v-row>
 			<v-col cols="12">
 				<h1 class="interview-title">
-					Day Two - Washington D.C.
+					Day 2 - Washington D.C.
 				</h1>
 			</v-col>
 			<v-col>
-			<p class="small-text" style="margin-top: -30px">
+				<p class="small-text" style="margin-top: -30px">
 					(Counter Attack, Clinton’s Clowns: Gates & Schmidt, Hillary & Bill Clinton’s Role, Secret Treatises, Hillary’s Data Alliances, Wiping Down The Crime Scene, East Egg vs. West Egg, Nursing School Desertion, Joyriding With Debby DoNothing, Baracks Phone Calls, Holding Children Hostage, A Lousy Encyclopedia Salesman, Wife-Queen-Wife, This Woman’s Work, Fueling Up The Yachts, A Better Man, War Child, Always In Second Place, No Son Of Mine, Focus on Abortion, Kings Castle, Torn Between Two Continents, Woman In Chains, It Never Snows In LA, Give To Live, Unequal Alliance, Losing Your Rembrandt, 8 Million Ways To Lie, Headwaters Of The Filth, My Own Strange Path, Exorcism, The Quest For immortality, Rockets To Nowhere, King Barack, How To Disappear Completely, Chalk And Cheese, Vanquished From The Kingdom, Obama’s Young Philanthropists, Childhood Influences: Bill & Hillary Version, Exploring Immortality, Obama Administration, Child Of Vision, The Enforcer, The Race Without A Toe, Feeling Ugly Inside, Grandmas Pilgrimage, The Right To Lose, Not A Bright Child, Lost Weekend: 8 Year Version, Earning Knowledge and more…… See Timeline for Synopsis of Events)
-			</p>
+				</p>
 				<p class="h-l">
 					H.L. Should we get right to it?
 				</p>
