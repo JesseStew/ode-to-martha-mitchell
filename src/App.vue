@@ -37,6 +37,9 @@ export default {
     font-size: 1.2em;
     font-weight: bold;
 }
+.italic {
+    font-style: italic;
+}
 .h-l {
     font-weight: bold;
 }
