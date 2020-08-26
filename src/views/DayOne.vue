@@ -2,7 +2,7 @@
 	<v-container>
 		<v-row>
 			<v-col cols="12">
-				<h1 style="font-size: 3em">
+				<h1 class="interview-title">
 					Day 1 - Tennesee
 				</h1>
 			</v-col>

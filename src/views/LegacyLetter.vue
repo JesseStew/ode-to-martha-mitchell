@@ -1,4 +1,5 @@
 <template>
+<!-- here, make this look like email -->
 	<v-container fluid>
       <v-row no-gutters>
         <v-col cols="12">

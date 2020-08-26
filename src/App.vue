@@ -46,6 +46,9 @@ export default {
 .douglas {
     font-weight: bold;
 }
+.interview-title {
+    font-size: 3em;
+}
 @font-face {
     font-family: "Adequate-ExtraLight";
     src: url("./assets/fonts/Adequate-ExtraLight.ttf");
