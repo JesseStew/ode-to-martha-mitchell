@@ -72,9 +72,9 @@
 				</v-row>
 
 				<v-row v-if="pages[model].title === 'Home'" justify="start">
-					<v-btn block @click="tabMethod(3)" dark :color="currentColor">
+					<v-btn block @click="tabMethod(2)" dark :color="currentColor">
 						Interview
-						<!-- here, Going to Day1 confirm -->
+						<!-- here, Going to Intro confirm -->
 					</v-btn>
 				</v-row>
 				<v-row v-if="pages[model].title === 'Home'" justify="end">
