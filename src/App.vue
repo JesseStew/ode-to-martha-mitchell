@@ -33,6 +33,10 @@ export default {
 .small-text {
 	font-size: .8em;
 }
+.emphasis {
+    font-size: 1.2em;
+    font-weight: bold;
+}
 .h-l {
     font-weight: bold;
 }
