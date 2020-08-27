@@ -7,7 +7,7 @@
 				</h1>
 			</v-col>
 			<v-col>
-					<p class="small-text" style="margin-top: -30px">
+				<p class="small-text" style="margin-top: -30px">
 					(The Art Of Being Overshadowed, The Captain Of Coal, Pandemonium: Absolute Pandemonium, Budapest Not Bucharest, Down In Tennessee, Something Fishy, This Big Hush, Number 24, Toronto Tragedy, A Change In Tone, Severe Shyness, Gogol’s Overcoat, Alien Knowledge, Dead Souls, More Freaks In A Circus, There’s Always The Next Book, The Meadows, 400 Million Broken Hearts, A Missouri Compromise, The Last Day, Taney County, Stale Goat Food, Not Your Average Psycho, Promoting The Guilty, Catching A Killer, How The End Always Is, Shadow On The Sun, A Stiff Hand, Lost Wages, A Sick Fuck, Up Pops The Devil, Call The Police, One Great Big Festering Neon Distraction, Delayed Departure, Green Felt Jungle, Pig Meal, Welcome To The Human Race, Balboa Island, Impossible Coincidences, Shaky Town, Satan’s Signature, Manhunter, A Kind-Hearted Canadian, Splitting Nines, Horrors Of The Holocaust, That Fateful Sunday, When Escape Is No Escape, Deboning The Juggernaut, Ghosts Of Glitter Gulch, Six The Hard Way, Descent Into The Filth, A Big Day For Justice, Empty Refrigerator, Trout-Focused Journalism, California Dreaming, Shark vs. Killer Whale, Souvenir Sickness, Coaching The Future, The King Of Oklahoma, Quiet Flows The Danube, Flying Into Immortality, Murmurs of Madness, …… See Timeline for Synopsis of Events)
 				</p>
 				<p class="h-l">
