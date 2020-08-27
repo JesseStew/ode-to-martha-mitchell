@@ -1910,7 +1910,9 @@
 				</p>
 				<p class="h-l">
 					H.L. We will stop him!
-					In some ways I see what the killer is doing now. I see what Soros is doing. He is envious; he feels that he could have been a great intellectual if not for the war. This is his excuse. This is his delusion. Silly man; he doesn’t seem to realize that the way to find anything of intellectual value doesn’t come from building up your own defenses, but instead arrives from stripping them down.
+				</p>
+				<p>
+					<span class="douglas">Douglas:</span> In some ways I see what the killer is doing now. I see what Soros is doing. He is envious; he feels that he could have been a great intellectual if not for the war. This is his excuse. This is his delusion. Silly man; he doesn’t seem to realize that the way to find anything of intellectual value doesn’t come from building up your own defenses, but instead arrives from stripping them down.
 					So he wants me to watch and witness the feeling of powerlessness that he experienced as an adolescent, to watch those around me being killed the way he experienced it, yet be unable to do anything about it.
 					He wants to give me enough evidence to know it is him, but at the same time he will only give me enough so that no one believes me. He will make the events so farfetched that certainly no one can fathom their likelihood. But here the killer, here Soros underestimates me and he also underestimates our readers.
 					As ultimately our advantage over him is his own festering disease, his bleak outlook on humanity of which we do not share. He sees me, he sees our readers, the way he sees the world. But while we have our moments, we are not as sour as him. Certainly while we all feel bad in some way for what he experienced, as we should, our compassion has its limits. As there are others who realized those horrific events and did not feel the need to line their pockets; instead they dove deep into their faith, into their family and their community.
