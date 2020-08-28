@@ -1,10 +1,10 @@
 <template>
 	<div>
-		<v-carousel
+		<v-window
 			v-model="model"
 			hide-delimiters
 		>
-			<v-carousel-item
+			<v-window-item
 				v-for="(page,i) in pages"
 				:key="i"
 				:src="page.src"
@@ -14,8 +14,20 @@
 				align="center"
 				justify="center"
 			>
+				<v-img :src="page.src" :lazy-src="page.lazySrc">
+					<template v-slot:placeholder>
+						<v-row
+							class="fill-height ma-0"
+							align="center"
+							justify="center"
+						>
+							<v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
+						</v-row>
+					</template>
+				</v-img>
 				<div
 					style="
+						position: absolute;
 						margin-top: 30%;
 						margin-left: 35%;
 					">
@@ -28,8 +40,8 @@
 					">
 					{{page.text}}
 					</span>
-					<!-- <br /> -->
-					<!-- <span
+					<!-- <br />
+					<span
 					style="
 						font-family: Lamplighter Script Regular;
 						font-size: 2em;
@@ -42,8 +54,8 @@
 				</div>
 
 			</v-row>
-			</v-carousel-item>
-		</v-carousel>
+			</v-window-item>
+		</v-window>
 		<v-tabs
 			sticky
 			:background-color="currentColor"
@@ -189,6 +201,7 @@ export default {
 		pages: [
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/home_final.jpg?alt=media&token=1e3e6040-05df-4ece-a5ae-4d2456b9b680',
+				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/home_final_lazy.jpg?alt=media&token=c839d1da-5868-43b0-93b4-5757cef56c54",
 				name: 'Home',
 				path: '/',
 				title: 'Home',
