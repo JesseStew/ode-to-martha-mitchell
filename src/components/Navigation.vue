@@ -7,41 +7,61 @@
 			<v-carousel-item
 				v-for="(page,i) in pages"
 				:key="i"
-				:src="page.src"
+
 			>
-			<v-row
+			<!-- <v-sheet
+				v-if="$vuetify.breakpoint.md"
 				class="fill-height"
 				align="center"
 				justify="center"
+				style="
+					background-color: rgba(0, 0, 0, 0.0);
+				"
+			> -->
+			<v-sheet
+				class="fill-height"
+				align="center"
+				justify="center"
+				style="
+					background-color: rgba(0, 0, 0, 0.0);
+				"
 			>
-				<div
-					style="
-						margin-top: 30%;
-						margin-left: 35%;
-					">
+				<v-row>
+					<img
+						:src="page.src"
+						style="width:105vw;height:auto;"
+					>
 					<span
-					style="
-						font-family: Lamplighter Script Regular;
-						font-size: 5.5em;
-						color: #fbfe2e;
-						text-shadow: 0 0 5px #ff3503;
-					">
-					{{page.text}}
+						style="
+							position: absolute;
+							margin-top: 30%;
+							margin-left: 35%;
+						">
+						<span
+						style="
+							font-family: Lamplighter Script Regular;
+							font-size: 5.5em;
+							color: #fbfe2e;
+							text-shadow: 0 0 5px #ff3503;
+						">
+						{{ windowWidth }} <br />
+						{{page.text}}
+						</span>
+						<!-- <br /> -->
+						<!-- <span
+						style="
+							font-family: Lamplighter Script Regular;
+							font-size: 2em;
+							color: #fbfe2e;
+							margin-left: 150px;
+							text-shadow: 0 0 5px #ff3503;
+						">
+						{{page.subtitle}}
+						</span> -->
 					</span>
-					<!-- <br /> -->
-					<!-- <span
-					style="
-						font-family: Lamplighter Script Regular;
-						font-size: 2em;
-						color: #fbfe2e;
-						margin-left: 150px;
-						text-shadow: 0 0 5px #ff3503;
-					">
-					{{page.subtitle}}
-					</span> -->
-				</div>
+				</v-row>
+			</v-sheet>
 
-			</v-row>
 			</v-carousel-item>
 		</v-carousel>
 		<v-tabs
@@ -126,6 +146,9 @@ export default {
 		},
 		currentColor() {
 			return this.pages[this.model].color
+		},
+		windowWidth() {
+			return window.innerWidth
 		}
 	},
 	methods: {
@@ -188,7 +211,7 @@ export default {
 		blue: '#14143a',
 		pages: [
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/home_final.jpg?alt=media&token=1e3e6040-05df-4ece-a5ae-4d2456b9b680',
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/home_final_2.png?alt=media&token=3631e62e-ae69-4ff2-a1d7-c0d02328bba4',
 				name: 'Home',
 				path: '/',
 				title: 'Home',
