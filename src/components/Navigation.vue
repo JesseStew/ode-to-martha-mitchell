@@ -234,6 +234,7 @@ export default {
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/legacy_letter_final.jpg?alt=media&token=312794d3-1b43-4318-a5a3-c78032c8347e',
+				lazySrc: "",
 				name: 'LegacyLetter',
 				path: '/legacy-letter',
 				title: 'Legacy Letter',
@@ -242,6 +243,7 @@ export default {
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/intro_final.jpg?alt=media&token=1150a81a-b310-4d15-896a-f1e3b044fa58',
+				lazySrc: "",
 				name: 'Intro',
 				path: '/intro',
 				title: 'Intro',
@@ -250,6 +252,7 @@ export default {
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day1_final.jpg?alt=media&token=83309fb8-5b5e-4c06-baf3-24ba21d86058',
+				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day1_final_lazy.jpg?alt=media&token=51875c17-e455-433d-9db2-6a27542549ca",
 				name: 'DayOne',
 				path: '/day-one',
 				title: 'Day One',
@@ -258,6 +261,7 @@ export default {
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day2_final.jpg?alt=media&token=dd87c64a-fc3f-4132-846f-81b729efe155',
+				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day2_final_lazy.jpg?alt=media&token=4f38b818-5339-445e-aea1-128dcc4a0817",
 				name: 'DayTwo',
 				path: '/day-two',
 				title: 'Day Two',
@@ -266,6 +270,7 @@ export default {
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day3_final.jpg?alt=media&token=d03bcbe4-9127-4310-ae3f-77ec9f2e27b0',
+				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day3_final_lazy.jpg?alt=media&token=767cd3f9-9b40-4e4f-8fd5-d970005bc5ca",
 				name: 'DayThree',
 				path: '/day-three',
 				title: 'Day Three',
@@ -274,6 +279,7 @@ export default {
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day4_final.jpg?alt=media&token=4ed64693-955e-452d-aff9-ffe2fead816a',
+				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day4_final_lazy.jpg?alt=media&token=604dbe96-a7a8-45f6-b707-6943b624b33c",
 				name: 'DayFour',
 				path: '/day-four',
 				title: 'Day Four',
@@ -282,6 +288,7 @@ export default {
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day5_final.jpg?alt=media&token=f76bc224-5467-480d-8410-52fd062b0c13',
+				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day5_final_lazy.jpg?alt=media&token=fff364df-95be-4593-9f15-1fad4bbb7d7f",
 				name: 'DayFive',
 				path: '/day-five',
 				title: 'Day Five',
@@ -290,6 +297,7 @@ export default {
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day6_upsidedown_final.jpg?alt=media&token=bfa6858f-68ed-452e-b2fc-687c32e5e29c',
+				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day6_upsidedown_final.jpg?alt=media&token=bfa6858f-68ed-452e-b2fc-687c32e5e29c",
 				name: 'DaySix',
 				path: '/day-six',
 				title: 'Day Six',
@@ -298,6 +306,7 @@ export default {
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/timeline_final.jpg?alt=media&token=15538309-fe3b-47a3-a5b3-da5d415f7dde',
+				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/timeline_final_lazy.jpg?alt=media&token=73658143-3972-4025-9a5c-25abd5ca7a9e",
 				name: 'TimeLine',
 				path: '/time-line',
 				title: 'Time Line',
@@ -306,6 +315,7 @@ export default {
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/help_lines_final.jpg?alt=media&token=8be75e81-2f68-49cb-8acb-14a2c17797d0',
+				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/help_lines_final_lazy.jpg?alt=media&token=b6ccdf6d-6cab-46c0-84a8-a027afacf643",
 				name: 'HelpLines',
 				path: '/help-lines',
 				title: 'Help Lines',
@@ -314,6 +324,7 @@ export default {
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/contact_final.jpg?alt=media&token=ada557f6-f20b-462b-827b-793e81f237f1',
+				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/contact_final_lazy.jpg?alt=media&token=6a95a381-d2b5-4a65-80f8-dc38e0a71ba9",
 				name: 'Contact',
 				path: '/contact',
 				title: 'Contact',
