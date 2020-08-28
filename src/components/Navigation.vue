@@ -14,7 +14,7 @@
 				align="center"
 				justify="center"
 			>
-				<v-img :src="page.src" :lazy-src="page.lazySrc">
+				<v-img min-height="500" :src="page.src" :lazy-src="page.lazySrc">
 					<template v-slot:placeholder>
 						<v-row
 							class="fill-height ma-0"
@@ -25,6 +25,17 @@
 						</v-row>
 					</template>
 				</v-img>
+				<div
+					style="
+						position: absolute;
+						top: 50%;
+						left: 3%;
+						opacity: .7;
+					">
+					<v-btn @click="itrModel(model - 1)" :color="currentColor" fab small dark>
+						<v-icon>mdi-chevron-left</v-icon>
+					</v-btn>
+				</div>
 				<div
 					style="
 						position: absolute;
@@ -51,6 +62,17 @@
 					">
 					{{page.subtitle}}
 					</span> -->
+				</div>
+				<div
+					style="
+						position: absolute;
+						top: 50%;
+						right: 3%;
+						opacity: .7;
+					">
+					<v-btn @click="itrModel(model + 1)" :color="currentColor" fab small dark>
+						<v-icon>mdi-chevron-right</v-icon>
+					</v-btn>
 				</div>
 
 			</v-row>
