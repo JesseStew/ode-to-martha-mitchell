@@ -2,15 +2,18 @@
 	<v-container fluid>
       <v-row no-gutters>
         <v-col cols="12">
-          <h1 class="pb-5 px-5">
-						Introduction
+          <h1 class="pb-5 px-5 interview-title">
+						Introduction to The Interview
 					</h1>
-					<h2 class="pb-5 px-5" style="font-size: 1.2em; margin-top: -20px">
+					<!-- <h2 class="pb-5 px-5" style="font-size: 1.2em; margin-top: -20px">
 						To the Interview
-					</h2>
+					</h2> -->
         </v-col>
-				<v-col class="text-center">
-					<p class="px-15">
+				<v-col class="main-text text-center">
+					<p style="
+							color: #14143a;
+						"
+						class="px-15">
 						<span class="italic">
 							This is no time for ease and comfort.
 							It is the time to dare and endure. <br />
@@ -20,9 +23,9 @@
 						</span>
 					</p>
 				</v-col>
-				<v-col cols="12">
+				<v-col class="main-text" cols="12">
 					<p class="px-5 emphasis">
-						Introduction to the Interview
+						Introduction:
 					</p>
 					<p class="px-5">
 						Welcome. What you are about to begin is an unusual application of a relatively young literary genre: The Interview; part modern historical analysis, part casual conversation, and part deep psychological analysis of the key players of a cover-up, concealment and conspiracy that rivals no other realized in our lifetime. This is truly a unique utilization of the interview process. With that said it is also still an interview, limited by the medium itself to short rapid fire answers, and stingily edited responses.
@@ -45,6 +48,12 @@
 					<p class="px-5">
 						I have poured everything that is inside of me into the initial narrative; which then transformed into the interview that was then modified into the work presented here. With that said; I wish you safe travels as you embark on this very long, often emotional, and hopefully rewarding, journey.
 					</p>
+				</v-col>
+				<v-col cols="4"></v-col>
+				<v-col cols="8" class="text-center home-title">
+					<a href="/day-one">
+						Begin The Interview: Day 1 - Tennessee
+					</a>
 				</v-col>
 			</v-row>
 		<!-- Add links to the six days of interview at bottom -->

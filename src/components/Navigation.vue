@@ -124,7 +124,11 @@
 						The Martha Mitchell effect is a term utilized in psychiatry in relation to a patient being misdiagnosed as being delusional, when in fact the content of their misinterpreted delusions are an actual representation of events experienced by them. The origin of this term references events that occurred to Martha Mitchell in 1972, when she claimed that White House officials were engaging in illegal activities. Mitchell also claimed she was drugged, beaten and forced under guard to remain in hotel room in California to prevent her from further contacting the press about Watergate break-in and ensuing scandal. Aides of President Nixon informed the media that she was ‘resting’ in a psychiatric hospital; the intent of this statement was to discount the validity of her credibility and therefore observations. A substantial proportion of Martha Mitchells’ claims were later validated.
           </p>
 				</v-col>
-				<v-col cols="12" class="text-center small-text">
+				<v-col cols="12" class="text-center small-text"
+					style="
+						font-size: 1.5em;
+					"
+				>
 					<a class="pa-2" @click="tabMethod(3)">
 						Day 1 - Tennesee
 					</a>
