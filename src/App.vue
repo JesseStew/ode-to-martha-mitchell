@@ -44,6 +44,10 @@ export default {
 	font-size: .7em;
     font-weight: bold;
 }
+.martha-mitchell {
+	font-size: .9em;
+    font-weight: bold;
+}
 .emphasis {
     font-size: 1.2em;
     font-weight: bold;
@@ -60,6 +64,10 @@ export default {
 .interview-title {
     margin-top: -41px;
     font-size: 3.5em;
+}
+.home-title {
+    font-size: 2em;
+    color: #14143a;
 }
 @font-face {
     font-family: "Adequate-ExtraLight";

@@ -2,7 +2,7 @@
   <div>
     <v-container fluid>
       <v-row no-gutters>
-        <v-col cols="12">
+        <v-col class="text-center home-title" cols="12">
           <h1 class="pb-5 px-5">
             An Ode Martha Mitchell*
           </h1>
@@ -10,7 +10,7 @@
             Headwaters to COVID-19, Impeachment and Murder
           </h2>
         </v-col>
-        <v-col cols="12">
+        <v-col class="main-text" cols="12">
           <p class="px-5">
             What are you are about to experience is the disentanglement of one the largest scandals and cover-ups the world has ever known. It is, in fact, so large that all others substantially pale in comparison.
           </p>
