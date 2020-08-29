@@ -1,5 +1,5 @@
 <template>
-	<v-container>
+	<v-container fluid>
 		<v-row>
 			<v-col cols="12">
 				<h1 class="interview-title">
@@ -7,9 +7,11 @@
 				</h1>
 			</v-col>
 			<v-col>
-				<p class="small-text" style="margin-top: -30px">
+				<p class="word-salad">
 					(Ride My Seesaw, Dopamine, Mastering The Tightrope, Magic Beans, Jeremiah Johnson, Checking Out, Pandemic Coincidence, Lying To Myself, Martha Mitchell, Satan’s Daughter, The Candyman, Pope Francis, Chinese Spy, A Dangerous Proposal, Alien, Tropical Island, Negative Symptoms, Theorem 101, It All Starts With A Lie, Becoming Picasso, Desperately Seeking Deception, Same Old Song And Dance, How To Steal An Election, In A New York Minute, Dancing With Mr. D, Teflon Don 2.0, Gotcha, Non-Sanitized Version, Watergate, First Fear Not Relieved, Boy Blue, Can You See The Real Me, A Sissy Slap, The Kick Inside, Born Into Conspiracy, No Rats To Speak Of, Civilization Stuck In Its Past, Highwire, World Leaders, Do It Again, Radiating More Heat Than Light, Corona Virus, Neural Reprogramming, Piggly Wiggly Ballot Box, Fucked My Way Do   wn To The Bottom, Beaten By A Dead Horse, Double-Dealing Reductionist, Chasing The Dragon, Misinterpretation Of Our Misinterpretation, Sundown For Sundance, Chewing Through The Wires, Pregnancy Of The Pause, Had Enough, Bill Was Here, Our Terrorist Nursery, No Alarms And No Surprises Please, Hillary’s Global Tantrum, Central Park, K.C. Thunderstorms, Flee To Italy, The Fire Down Below, Invincible, Don’t Pull A Pablo On Me, Getting Political Now, Auschwitz, Disability Daydreams, An Old Man Is A Nasty Thing, Schizophrenia Model, Spoiled Bureaucrats, And More …… See Timeline for Chronology of Events)
 				</p>
+			</v-col>
+			<v-col cols="12" class="main-text text-border">
 				<p class="h-l">
 					H.L. Any ideas on where you would like to begin?
 				</p>

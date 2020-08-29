@@ -14,7 +14,7 @@
 				align="center"
 				justify="center"
 			>
-				<v-img contain min-height="500" max-height="850" :src="page.src" :lazy-src="page.lazySrc">
+				<v-img contain :min-height="page.minHeight" max-height="850" :src="page.src" :lazy-src="page.lazySrc">
 					<template v-slot:placeholder>
 						<v-row
 							class="fill-height ma-0"
@@ -237,7 +237,8 @@ export default {
 				text: 'An Ode to Martha Mitchell',
 				subtitle: 'Headwaters to COVID-19, Impeachment and Murder',
 				index: 0,
-				color: '#14143a'
+				color: '#14143a',
+				minHeight: 732,
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/legacy_letter_final.jpg?alt=media&token=312794d3-1b43-4318-a5a3-c78032c8347e',
@@ -246,7 +247,8 @@ export default {
 				path: '/legacy-letter',
 				title: 'Legacy Letter',
 				index: 1,
-				color: '#845a1f'
+				color: '#845a1f',
+				minHeight: 373,
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/intro_final.jpg?alt=media&token=1150a81a-b310-4d15-896a-f1e3b044fa58',
@@ -255,7 +257,8 @@ export default {
 				path: '/intro',
 				title: 'Intro',
 				index: 2,
-				color: '#14143a'
+				color: '#14143a',
+				minHeight: 595,
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day1_final.jpg?alt=media&token=83309fb8-5b5e-4c06-baf3-24ba21d86058',
@@ -264,7 +267,8 @@ export default {
 				path: '/day-one',
 				title: 'Day One',
 				index: 3,
-				color: '#845a1f'
+				color: '#845a1f',
+				minHeight: 732,
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day2_final.jpg?alt=media&token=dd87c64a-fc3f-4132-846f-81b729efe155',
@@ -273,7 +277,8 @@ export default {
 				path: '/day-two',
 				title: 'Day Two',
 				index: 4,
-				color: '#14143a'
+				color: '#14143a',
+				minHeight: 596,
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day3_final.jpg?alt=media&token=d03bcbe4-9127-4310-ae3f-77ec9f2e27b0',
@@ -282,7 +287,8 @@ export default {
 				path: '/day-three',
 				title: 'Day Three',
 				index: 5,
-				color: '#14143a'
+				color: '#14143a',
+				minHeight: 595,
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day4_final.jpg?alt=media&token=4ed64693-955e-452d-aff9-ffe2fead816a',
@@ -291,7 +297,8 @@ export default {
 				path: '/day-four',
 				title: 'Day Four',
 				index: 6,
-				color: '#845a1f'
+				color: '#845a1f',
+				minHeight: 670,
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day5_final.jpg?alt=media&token=f76bc224-5467-480d-8410-52fd062b0c13',
@@ -300,7 +307,8 @@ export default {
 				path: '/day-five',
 				title: 'Day Five',
 				index: 7,
-				color: '#14143a'
+				color: '#14143a',
+				minHeight: 495,
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day6_upsidedown_final.jpg?alt=media&token=bfa6858f-68ed-452e-b2fc-687c32e5e29c',
@@ -309,7 +317,8 @@ export default {
 				path: '/day-six',
 				title: 'Day Six',
 				index: 8,
-				color: '#845a1f'
+				color: '#845a1f',
+				minHeight: 530,
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/timeline_final.jpg?alt=media&token=15538309-fe3b-47a3-a5b3-da5d415f7dde',
@@ -318,7 +327,8 @@ export default {
 				path: '/time-line',
 				title: 'Time Line',
 				index: 9,
-				color: '#845a1f'
+				color: '#845a1f',
+				minHeight: 595,
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/help_lines_final.jpg?alt=media&token=8be75e81-2f68-49cb-8acb-14a2c17797d0',
@@ -327,7 +337,8 @@ export default {
 				path: '/help-lines',
 				title: 'Help Lines',
 				index: 10,
-				color: '#14143a'
+				color: '#14143a',
+				minHeight: 705,
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/contact_final.jpg?alt=media&token=ada557f6-f20b-462b-827b-793e81f237f1',
@@ -336,7 +347,8 @@ export default {
 				path: '/contact',
 				title: 'Contact',
 				index: 11,
-				color: '#14143a'
+				color: '#14143a',
+				minHeight: 595,
 			},
 		],
 	}),

@@ -43,6 +43,7 @@ export default {
 .word-salad {
 	font-size: 1em;
     font-weight: 900;
+    margin-top: -30px;
 }
 .small-text {
 	font-size: .7em;

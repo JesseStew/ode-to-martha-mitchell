@@ -1,5 +1,5 @@
 <template>
-	<v-container>
+	<v-container fluid>
 		<v-row>
 			<v-col cols="12">
 				<h1 class="interview-title">
@@ -7,11 +7,11 @@
 				</h1>
 			</v-col>
 			<v-col>
-				<p class="small-text" style="margin-top: -30px">
+				<p class="word-salad">
 					(Hawaii 5-O, Mr. Pessimist, The Psychological Community, Papayas, Welcome To The Club Kid, Obama Starts To Falter, Golden Spike, Eric Holder, Terrifying Israel, At Sixes And Sevens, Missouri Settlers, Royals Flush, Wintertime in Hollywood, Rockstars To The Rescue, Pin The Tail On The Donkey, Alternate Universe, Zombie Flicks, The Great Carlos Ghosn, North Shore, Zooropa, St. Louis Sorrow, Quotes, Leaving You Nothing, Poles Apart, A Painful Departure, American in Decay; the Old, Old Story, The Grapes Of Ambition, Europe Is Dying, Mother Jones, Tinseltown In The Rain, Exporting Nonsense, As The Crow Flies, Blakisms, It’s Debatable, Obama: Cutting The Eruv, Show Me, The Apprentice, Mistral Wind, The Casting Library, Arab Snub, Thrown In Your Lap, Stop Dragging My Heart Around, Election 2016, In A New York Minute, Hillary Leaking, Rip Van Winkle, No Nukes, Getting Screwed Over, Every Picture Tells A Story, Hillary Melts, Appalachian Folks, Donner Party, Wheel of Torture, Academic Groupies, Your Cheating Heart, Obama: Winning the War On Dougs, Snuffing Out The Theorem, Inferring Yeats, Mr. Invisible and more…… See Timeline for Synopsis of Events)
 				</p>
-				<p class="h-l">
-				</p>
+			</v-col>
+			<v-col cols="12" class="main-text text-border">
 				<p class="h-l">
 					H.L. I was listening to the tape last night and going over the notes and a quote came to mind, I thought it was appropriate:
 					Everyone thinks of changing the world, but no one thinks of changing himself. Leo Tolstoy.
