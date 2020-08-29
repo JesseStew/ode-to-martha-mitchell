@@ -40,6 +40,10 @@ export default {
     border-right: 5.1px solid grey;
     /* border-bottom: 5.1px solid grey; */
 }
+.word-salad {
+	font-size: 1em;
+    font-weight: 900;
+}
 .small-text {
 	font-size: .7em;
     font-weight: bold;
