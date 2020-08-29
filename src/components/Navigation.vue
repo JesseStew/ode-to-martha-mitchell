@@ -14,7 +14,7 @@
 				align="center"
 				justify="center"
 			>
-				<v-img min-height="500" :src="page.src" :lazy-src="page.lazySrc">
+				<v-img contain min-height="500" max-height="850" :src="page.src" :lazy-src="page.lazySrc">
 					<template v-slot:placeholder>
 						<v-row
 							class="fill-height ma-0"

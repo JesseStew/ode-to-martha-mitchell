@@ -33,6 +33,12 @@ export default {
 .main-text {
     font-size: 1.2em;
     margin-top: 4px;
+    padding: 30px;
+}
+.text-border {
+    border-left: 5.1px solid grey;
+    border-right: 5.1px solid grey;
+    /* border-bottom: 5.1px solid grey; */
 }
 .small-text {
 	font-size: .7em;
