@@ -69,6 +69,11 @@ export default {
     font-size: 2em;
     color: #14143a;
 }
+.home-text {
+    font-size: 1.2em;
+    /* font-family: 'Trebuchet MS'; */
+    /* font-weight: bold; */
+}
 @font-face {
     font-family: "Adequate-ExtraLight";
     src: url("./assets/fonts/Adequate-ExtraLight.ttf");

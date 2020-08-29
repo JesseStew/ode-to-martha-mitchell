@@ -14,7 +14,11 @@
 							color: #14143a;
 						"
 						class="px-15">
-						<span class="italic">
+						<span
+							style="
+								font-weight: light;
+							"
+							class="italic">
 							This is no time for ease and comfort.
 							It is the time to dare and endure. <br />
 						</span>
