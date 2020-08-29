@@ -30,8 +30,13 @@ export default {
 </script>
 
 <style>
+.main-text {
+    font-size: 1.2em;
+    margin-top: 4px;
+}
 .small-text {
-	font-size: .8em;
+	font-size: .7em;
+    font-weight: bold;
 }
 .emphasis {
     font-size: 1.2em;
@@ -47,7 +52,8 @@ export default {
     font-weight: bold;
 }
 .interview-title {
-    font-size: 3em;
+    margin-top: -41px;
+    font-size: 3.5em;
 }
 @font-face {
     font-family: "Adequate-ExtraLight";
