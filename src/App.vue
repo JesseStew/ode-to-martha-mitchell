@@ -66,7 +66,7 @@ export default {
     font-weight: bold;
 }
 .interview-title {
-    margin-top: -41px;
+    margin-top: -35px;
     font-size: 3.5em;
 }
 .home-title {
