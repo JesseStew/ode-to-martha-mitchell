@@ -12,9 +12,6 @@
 			</v-col>
 			<v-col>
 				<p>
-					*2005 to 2020: Timeline Of A Scandal
-				</p>
-				<p>
 					(*To Be Further Expanded)
 				</p>
 				<p>
