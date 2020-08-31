@@ -188,6 +188,7 @@ export default {
 		if (this.currentRoute === 'legacy-letter') {
 			this.model = 1
 			this.color = this.brown
+			// here,
 		} else if (this.currentRoute === 'intro') {
 			this.model = 2
 		} else if (this.currentRoute === 'day-one') {
