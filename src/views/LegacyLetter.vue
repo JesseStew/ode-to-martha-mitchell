@@ -4,7 +4,7 @@
       <v-row no-gutters>
         <v-col cols="12">
           <h1 class="interview-title pb-5 px-5">
-						Legacy Letter - (Actual Copy)
+						The Legacy Letter - (Actual Copy)
 					</h1>
         </v-col>
 				<v-col cols="12">
