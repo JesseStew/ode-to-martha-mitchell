@@ -44,6 +44,7 @@ export default {
 	font-size: 1em;
     font-weight: 900;
     margin-top: -30px;
+    color: #202408;
 }
 .small-text {
 	font-size: .7em;
@@ -61,14 +62,21 @@ export default {
     font-style: italic;
 }
 .h-l {
-    font-weight: bold;
+    font-weight: 900;
+    color: black;
 }
 .douglas {
-    font-weight: bold;
+    font-weight: 900;
+    color: black;
+    /* text-transform: uppercase; */
+    /* font-family: "Helvetica65Medium_22443"; */
 }
 .interview-title {
     margin-top: -35px;
     font-size: 3.5em;
+}
+.interview-color {
+    color: #222222;
 }
 .home-title {
     font-size: 2em;
@@ -78,6 +86,10 @@ export default {
     font-size: 1.2em;
     /* font-family: 'Trebuchet MS'; */
     /* font-weight: bold; */
+}
+@font-face {
+    font-family: "Helvetica65Medium_22443";
+    src: url("./assets/fonts/Helvetica65Medium_22443.ttf");
 }
 @font-face {
     font-family: "Adequate-ExtraLight";
