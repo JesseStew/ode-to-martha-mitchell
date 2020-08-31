@@ -54,8 +54,9 @@ export default {
     font-weight: bold;
 }
 .emphasis {
-    font-size: 1.2em;
-    font-weight: bold;
+    font-size: 1.1em;
+	font-weight: 900;
+	color: black;
 }
 .italic {
     font-style: italic;
@@ -63,6 +64,11 @@ export default {
 .h-l {
     font-weight: 900;
     color: black;
+}
+.subtitle {
+	font-size: 1.2em;
+	font-weight: 900;
+	color: black;
 }
 .douglas {
     font-weight: 900;

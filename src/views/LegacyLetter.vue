@@ -3,11 +3,12 @@
 	<v-container fluid>
       <v-row no-gutters>
         <v-col cols="12">
-          <h1 class="interview-title pb-5 px-5">
+          <h1 class="band-color-green interview-title pb-5 px-5"
+						>
 						The Legacy Letter - (Actual Copy)
 					</h1>
         </v-col>
-				<v-col cols="12">
+				<v-col class="interview-color" cols="12">
 					<p class="px-5">
 						On this page you will be able to view a copy of an actual Legacy Letter sent to a potential donor or potential investor. While this copy was sent from Tennessee in 2014, others were sent from Missouri between 2015 and 2017. In total, approximately 10,100 copies of The Legacy Letter were sent out altogether; this from winter of 2014 to spring of 2017. While the most typical format is included below; a short introduction tailed by a longer attachment or pdf, other times the complete letter was sent as a continuous email. In some instances, a shorter and more personal follow up correspondence was also sent months or even years later.
 					</p>
@@ -21,7 +22,8 @@
 						<span
 							style="
 								font-family: 'Roboto';
-								font-weight: bold;
+								font-weight: 900;
+								color: black;
 							"
 						>D Mitchell Arone</span>
 						<span
@@ -68,11 +70,7 @@
 					</p>
 				</v-col>
 				<v-col class="mt-15 pdf" cols="12">
-					<p
-						style="
-							font-size: 1.2em;
-						"
-						class="bold px-5">
+					<p class="emphasis px-5">
 						Letter of Request
 					</p>
 					<p class="px-5">
@@ -181,8 +179,9 @@
 <style>
 .email-title {
 	font-family: sans-serif;
-	font-weight: bold;
-	font-size: 1.2em;
+	font-size: 1.3em;
+	font-weight: 900;
+	color: black;
 }
 .email-body {
 	font-family: 'Times New Roman', Times, serif;

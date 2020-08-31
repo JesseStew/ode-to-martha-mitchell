@@ -1,7 +1,7 @@
 <template>
 	<v-container>
 		<v-row>
-			<v-col cols="12">
+			<v-col class="band-color-green" cols="12">
 				<h1 class="interview-title">
 					TIMELINE OF EVENTS
 					<!-- here, ? -->
@@ -10,7 +10,7 @@
 					*2005 to 2020: Timeline Of A Scandal
 				</h2>
 			</v-col>
-			<v-col>
+			<v-col class="interview-color">
 				<p>
 					(*To Be Further Expanded)
 				</p>
@@ -244,6 +244,8 @@ export default {
 
 <style scoped>
 .dates {
-	font-weight: bold;
+	font-size: 1.1em;
+	font-weight: 900;
+	color: black;
 }
 </style>
