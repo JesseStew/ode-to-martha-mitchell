@@ -44,7 +44,6 @@ export default {
 	font-size: 1em;
     font-weight: 900;
     margin-top: -30px;
-    color: #202408;
 }
 .small-text {
 	font-size: .7em;
@@ -77,6 +76,12 @@ export default {
 }
 .interview-color {
     color: #222222;
+}
+.band-color-blue {
+    color: #14143a;
+}
+.band-color-green {
+    color: #202408;
 }
 .home-title {
     font-size: 2em;

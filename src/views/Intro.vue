@@ -9,14 +9,15 @@
 						To the Interview
 					</h2> -->
         </v-col>
-				<v-col class="main-text text-center">
+				<v-col class="mb-5 main-text text-center">
 					<p style="
-							color: #14143a;
+							font-size: .9em;
 						"
 						class="px-15">
 						<span
 							style="
 								font-weight: light;
+								font-size: .9em;
 							"
 							class="italic">
 							This is no time for ease and comfort.

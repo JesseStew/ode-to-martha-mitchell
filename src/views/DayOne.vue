@@ -2,12 +2,12 @@
 	<v-container fluid>
 		<v-row>
 			<v-col cols="12">
-				<h1 class="interview-title">
+				<h1 class="band-color-green interview-title">
 					Day 1 - Tennesee
 				</h1>
 			</v-col>
 			<v-col cols="12">
-				<p class="word-salad">
+				<p class="band-color-green word-salad">
 					(The Human Zoo, Pajama Liar, Worst Boss Ever, Feed The Hole, Bear Traps, Invisible Hand of High Crimes, Waving At The Enemy, Carouselambra, Choke Berries, Free Money To Africa, That Old Ford, Brother Can You Spare A Dime, Developing Detection Tools, Nosey Neighbors, Sniffing Out Surveillance, Ricardo &amp; Smith Inc, Love Story, The Legacy Letter, Harassment Of Potential Donors, Rocky Top, Introducing The Spy King, Fitting In, Bird Bath, The Hills Have Eyes, Sin City, Tree Falling On My Life, The New Scarlet Letter A, Bear Country Jamboree, Moving To Tennessee, Splitting Cords, Into The Woods, Mickey Mouse, Welcome To The Filth, You’re Not In College Anymore, Dream Cabin, Insect Drone, Losing The War, Prehistoric Paradise, Forties Funk, Financial Breakdown, Minority Report, Talk Of The Town, Winter, Nobody Runs Here, Prototypes In Paradise, A Dangerous Deception, Nicotina, I Thought You Were Special, Red Velvet, Rattling My Cage, Take The Long Way Home, Terrifying Trees, Peddling Produce, You Look Familiar, Speaking With Billionaires, Deer In The Headlights, Sunset People, Grandma Says, An Unusual Alliance, Camouflage, Leaving The Volunteer State, Careless Whispers and More… See Timeline for Chronology of Events)
 				</p>
 			</v-col>
