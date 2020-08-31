@@ -2,11 +2,15 @@
   <div>
     <v-container fluid>
       <v-row no-gutters>
-        <v-col class="text-center home-title" cols="12">
+        <v-col
+          style="
+            margin-top: -30px;
+          "
+         class="text-center home-title" cols="12">
           <h1 class="pb-5 px-5">
             An Ode Martha Mitchell*
           </h1>
-          <h2 class="pb-5 px-5" style="font-size: 1.2em; margin-top: -20px">
+          <h2 class="pb-5 px-5" style="font-size: .9em; margin-top: -20px">
             Headwaters to COVID-19, Impeachment and Murder
           </h2>
         </v-col>

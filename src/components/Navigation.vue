@@ -16,7 +16,7 @@
 				align="center"
 				justify="center"
 			>
-				<v-img contain max-height="400" min-height="250" :src="page.src" :lazy-src="page.lazySrc">
+				<v-img contain max-height="700" min-height="250" :src="page.src" :lazy-src="page.lazySrc">
 					<template v-slot:placeholder>
 						<v-row
 							class="fill-height ma-0"
@@ -157,7 +157,7 @@
 
 <script>
 // colors:
-// 	brown: #845a1f, #946523
+// 	brown: #202408, #946523
 // 	blue: #14143a
 export default {
 	computed: {
@@ -228,7 +228,7 @@ export default {
 		drawer: false,
 		model: 0,
 		color: '#14143a',
-		brown: '#845a1f',
+		brown: '#202408',
 		blue: '#14143a',
 		pages: [
 			{
@@ -251,7 +251,7 @@ export default {
 				path: '/legacy-letter',
 				title: 'Legacy Letter',
 				index: 1,
-				color: '#845a1f',
+				color: '#202408',
 				class: 'brown-background',
 				minHeight: 373,
 			},
@@ -273,7 +273,7 @@ export default {
 				path: '/day-one',
 				title: 'Day One',
 				index: 3,
-				color: '#845a1f',
+				color: '#202408',
 				class: 'brown-background',
 				minHeight: 732,
 			},
@@ -306,7 +306,7 @@ export default {
 				path: '/day-four',
 				title: 'Day Four',
 				index: 6,
-				color: '#845a1f',
+				color: '#202408',
 				class: 'brown-background',
 				minHeight: 670,
 			},
@@ -328,7 +328,7 @@ export default {
 				path: '/day-six',
 				title: 'Day Six',
 				index: 8,
-				color: '#845a1f',
+				color: '#202408',
 				class: 'brown-background',
 				minHeight: 530,
 			},
@@ -339,7 +339,7 @@ export default {
 				path: '/time-line',
 				title: 'Time Line',
 				index: 9,
-				color: '#845a1f',
+				color: '#202408',
 				class: 'brown-background',
 				minHeight: 595,
 			},
@@ -375,6 +375,6 @@ export default {
 	background-color: #0a0b1f;
 }
 .brown-background {
-	background-color: #32200f;
+	background-color: #0a0c02;
 }
 </style>

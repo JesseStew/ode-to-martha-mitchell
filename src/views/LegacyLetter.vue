@@ -3,22 +3,45 @@
 	<v-container fluid>
       <v-row no-gutters>
         <v-col cols="12">
-          <h1 class="pb-5 px-5">
-						Legacy Letter
+          <h1 class="interview-title pb-5 px-5">
+						Legacy Letter - Actual Copy
 					</h1>
-					<h2 class="pb-5 px-5" style="font-size: 1.2em; margin-top: -20px">
-						Actual Copy
-					</h2>
         </v-col>
 				<v-col cols="12">
 					<p class="px-5">
 						On this page you will be able to view a copy of an actual Legacy Letter sent to a potential donor or potential investor. While this copy was sent from Tennessee in 2014, others were sent from Missouri between 2015 and 2017. In total, approximately 10,100 copies of The Legacy Letter were sent out altogether; this from winter of 2014 to spring of 2017. While the most typical format is included below; a short introduction tailed by a longer attachment or pdf, other times the complete letter was sent as a continuous email. In some instances, a shorter and more personal follow up correspondence was also sent months or even years later.
 					</p>
 					<p class="px-5">
-						From: D Mitchell Arone <br />
-						Date: Fri, Aug 22, 2014 at 5:03 PM<br />
-						Subject: Attn: Kirk Kerkorian / Forward Requested / The Theorem: A Complete Answer to Human Behavior To:
+						Obviously, in regards to the interview, <span class="italic">The Legacy Letter</span> was never intended to be included with the original presentation. This will become obvious to the reader right away as they undertake the interview and realize the description of <span class="italic">The Legacy Letter</span> contents. However, because there are no spatial limitations on this web presentation, we have included an actual copy for a more accurate reference.
 					</p>
+					<p class="email-title px-5 mt-15">
+						Attn: Kirk Kerkorian / Forward Requested / The Theorem: A Complete Answer to Human Behavior
+					</p>
+					<p class="px-5">
+						<span
+							style="
+								font-family: 'Roboto';
+								font-weight: bold;
+							"
+						>D Mitchell Arone</span>
+						<span
+							style="
+								font-family: 'Roboto';
+								font-size: .9em;
+							"
+						> &lt;dmitchellarone@gmail.com&gt;</span>
+						<br />
+						<span
+							style="
+								font-family: 'Roboto';
+								font-size: .9em;
+							"
+						>
+							to xxx@xxx.xxx
+						</span>
+					</p>
+				</v-col>
+				<v-col class="email-body">
 					<p class="px-5">
 						Dear Mr. Kirk Kerkorian
 					</p>
@@ -43,7 +66,13 @@
 						Mailing Address: XXX XX XXXX, Gatlinburg, TN. 37738-1468 USA<br />
 						Home / Office Address: XXX XXX XXX XXX, Gatlinburg, TN. 37738 USA
 					</p>
-					<p class="px-5">
+				</v-col>
+				<v-col class="mt-15 pdf" cols="12">
+					<p
+						style="
+							font-size: 1.2em;
+						"
+						class="bold px-5">
 						Letter of Request
 					</p>
 					<p class="px-5">
@@ -134,10 +163,9 @@
 						There will be a day, and it is coming, when this discovery will be taught from elementary school to and through college levels. A new generation will reach potentials only imagined decades ago and they will live in a world vacant of many of the disorders we see as permanent today. Best of all--this will all be made possible by you. And it will be your name that rolls off the tongue of billions as you set the standards for this new genre of visionary philanthropy!
 					</p>
 					<p class="px-5">
-						Proudly and with Respect, Douglas M Arone Gatlinburg, TN, USA
-					</p>
-					<p class="px-5">
-						For donations please go to http://www.thetheorem.com . If you have any questions please feel free to contact me. If you would prefer to send the money another method, I will gladly provide my personal bank account information to you. Thank you, Douglas
+						Proudly and with Respect,<br />
+						Douglas M Arone<br />
+						Gatlinburg, TN, USA
 					</p>
         </v-col>
       </v-row>
@@ -150,6 +178,23 @@
 	}
 </script>
 
-<style scoped>
-
+<style>
+.email-title {
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+.email-body {
+	font-family: 'Times New Roman', Times, serif;
+	font-style: italic;
+}
+.pdf {
+	font-family: 'Times New Roman', Times, serif;
+}
+.bold {
+	font-weight: bold;
+}
+.italic {
+	font-style: italic;
+}
 </style>
