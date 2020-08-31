@@ -3,18 +3,20 @@
 		<v-window
 			v-model="model"
 			hide-delimiters
+			dark
 		>
 			<v-window-item
 				v-for="(page,i) in pages"
 				:key="i"
 				:src="page.src"
+				:class="page.class"
 			>
 			<v-row
 				class="fill-height"
 				align="center"
 				justify="center"
 			>
-				<v-img contain :min-height="500" max-height="850" :src="page.src" :lazy-src="page.lazySrc">
+				<v-img contain max-height="400" min-height="250" :src="page.src" :lazy-src="page.lazySrc">
 					<template v-slot:placeholder>
 						<v-row
 							class="fill-height ma-0"
@@ -239,6 +241,7 @@ export default {
 				subtitle: 'Headwaters to COVID-19, Impeachment and Murder',
 				index: 0,
 				color: '#14143a',
+				class: 'blue-background',
 				minHeight: 732,
 			},
 			{
@@ -249,6 +252,7 @@ export default {
 				title: 'Legacy Letter',
 				index: 1,
 				color: '#845a1f',
+				class: 'brown-background',
 				minHeight: 373,
 			},
 			{
@@ -259,6 +263,7 @@ export default {
 				title: 'Intro',
 				index: 2,
 				color: '#14143a',
+				class: 'blue-background',
 				minHeight: 595,
 			},
 			{
@@ -269,6 +274,7 @@ export default {
 				title: 'Day One',
 				index: 3,
 				color: '#845a1f',
+				class: 'brown-background',
 				minHeight: 732,
 			},
 			{
@@ -279,6 +285,7 @@ export default {
 				title: 'Day Two',
 				index: 4,
 				color: '#14143a',
+				class: 'blue-background',
 				minHeight: 596,
 			},
 			{
@@ -289,6 +296,7 @@ export default {
 				title: 'Day Three',
 				index: 5,
 				color: '#14143a',
+				class: 'blue-background',
 				minHeight: 595,
 			},
 			{
@@ -299,6 +307,7 @@ export default {
 				title: 'Day Four',
 				index: 6,
 				color: '#845a1f',
+				class: 'brown-background',
 				minHeight: 670,
 			},
 			{
@@ -309,6 +318,7 @@ export default {
 				title: 'Day Five',
 				index: 7,
 				color: '#14143a',
+				class: 'blue-background',
 				minHeight: 495,
 			},
 			{
@@ -319,6 +329,7 @@ export default {
 				title: 'Day Six',
 				index: 8,
 				color: '#845a1f',
+				class: 'brown-background',
 				minHeight: 530,
 			},
 			{
@@ -329,6 +340,7 @@ export default {
 				title: 'Time Line',
 				index: 9,
 				color: '#845a1f',
+				class: 'brown-background',
 				minHeight: 595,
 			},
 			{
@@ -339,6 +351,7 @@ export default {
 				title: 'Help Lines',
 				index: 10,
 				color: '#14143a',
+				class: 'blue-background',
 				minHeight: 705,
 			},
 			{
@@ -349,6 +362,7 @@ export default {
 				title: 'Contact',
 				index: 11,
 				color: '#14143a',
+				class: 'blue-background',
 				minHeight: 595,
 			},
 		],
@@ -357,5 +371,10 @@ export default {
 </script>
 
 <style>
-
+.blue-background {
+	background-color: #0a0b1f;
+}
+.brown-background {
+	background-color: #32200f;
+}
 </style>
