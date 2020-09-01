@@ -29,7 +29,7 @@
 					</p>
 				</v-col>
 				<v-col class="main-text" cols="12">
-					<p class="px-5 emphasis">
+					<p class="px-5 emphasis" style="font-size: 1.2em">
 						Introduction:
 					</p>
 					<p class="px-5">

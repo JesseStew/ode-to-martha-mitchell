@@ -14,68 +14,37 @@
             Headwaters to COVID-19, Impeachment and Murder
           </h2>
         </v-col>
-        <v-col class="home-text" cols="12">
+        <v-col
+          style="color: black;"
+         class="home-text" cols="12">
           <p
           style="
-            margin-top: 10px;
-            font-weight: bold;
+            margin-top: 20px;
           " class="px-5">
             What are you are about to experience is the disentanglement of one the largest scandals and cover-ups the world has ever known. It is, in fact, so large that all others substantially pale in comparison.
           </p>
-          <p
-          style="
-            margin-top: -10px;
-            font-weight: bold;
-          " class="px-5">
+          <p class="px-5">
           The cover-up involves three (3) U.S. Presidents, Senators, House Members, Governors, Mayors and hundreds of elected officials. Yet, this is only the beginning, as it encompasses at least 15 leaders of foreign countries, celebrities; actors, musicians, athletes and this again, is only the start.
           </p>
-          <p
-          style="
-            margin-top: -10px;
-            font-weight: bold;
-          " class="px-5">
+          <p class="px-5">
           Ultimately, the focus of this scandal centers on the wealthy elite; the financial ruling class, the men and women behind the scenes who pull the strings and make our world dance in the name of progress. It involves hundreds of billionaires; countless ultra high-net-worth individuals, thousands of CEOs, board members and chairmen who anchor up the companies that keep our world in motion.
           </p>
-          <p
-          style="
-            margin-top: -10px;
-            font-weight: bold;
-          " class="px-5">
+          <p class="px-5">
           It is an event so large and so encompassing that mere conventional investigation tactics will not suffice; parochial probes fail to illuminate what we are really attempting to define, as we will only hit dead end after dead end if we attempt them.
           </p>
-          <p
-          style="
-            margin-top: -10px;
-            font-weight: bold;
-          " class="px-5">
+          <p class="px-5">
           It is a scandal so massive, and of such breadth, yet so deeply hidden below the surface of our current reality that the only way to come to a conclusion, to truly understand the scope of what this is really about, is to cut a few slices out of the cake and examine those slices so thoroughly that it will border on an obsessional devotion to detail. Yes, we have to dive to those depths within the microcosm to understand the macrocosm of this mess that currently defines our world.
           </p>
-          <p
-          style="
-            margin-top: -10px;
-            font-weight: bold;
-          " class="px-5">
+          <p class="px-5">
           It will be an uneven journey as well, as there will be times throughout this relentless trek when you will be sure what you are reading is irrelevant – but they are mere breaks in this six section symphony to allow your senses to catch up, to allow for the trauma to take hold, the one we will experience together, the one I will re-experience with you.
           </p>
-          <p
-          style="
-            margin-top: -10px;
-            font-weight: bold;
-          " class="px-5">
+          <p class="px-5">
           My name is Douglas Arone and I will be your guide; playing dual roles as victim and vindicator with such exhausted enthusiasms that you will wonder why I even continue. You will often wonder why I do not just quit and die. The reason that I continue of course is because of you, because of us. I feel as hard as it is for all of us to feel this way; somehow it is worth it, the ninety percent of subtle misery for the ten percent of obvious euphoric pleasure. Yes, I have continued for you, so I ask over the next few hours or days, that you do the same for me.
           </p>
-          <p
-          style="
-            margin-top: -10px;
-            font-weight: bold;
-          " class="px-5">
+          <p class="px-5">
           The source of the scandal has its origins in 2014, with a letter I composed and sent to the thousands of the most powerful and wealthy individuals in the world; the letter was entitled The Legacy Letter. The purpose of this letter was to obtain funding for my 2006 book entitled, The Theorem: A Complete Answer to Human Behavior, which itself was based on a discovery made all the way back in 1994.
           </p>
-          <p
-          style="
-            margin-top: -10px;
-            font-weight: bold;
-          " class="px-5">
+          <p class="px-5">
           While this interview is yours to read in any manner you desire, I would highly recommend that you start with me at the beginning, the cornerstone of the cover-up, with The Legacy Letter, linked below.
           </p>
         </v-col>

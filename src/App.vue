@@ -95,8 +95,9 @@ export default {
 }
 .home-text {
     font-size: 1.2em;
-    /* font-family: 'Trebuchet MS'; */
-    /* font-weight: bold; */
+
+    font-family: 'Volkhov-Regular';
+    /* font-weight: 500; */
 }
 @font-face {
     font-family: "Helvetica65Medium_22443";
