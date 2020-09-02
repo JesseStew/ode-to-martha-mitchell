@@ -898,13 +898,6 @@
 					<span class="douglas">Douglas:</span> Tomorrow, we will pick this up in the morning.
 				</p>
 			</v-col>
-			<v-col cols="7"></v-col>
-			<v-col cols="5" class="text-center">
-				<v-btn @click="nextPage" width="150px" tile x-large color="#845a1f" icon>
-					Go to Day 2
-					<v-icon>mdi-chevron-right</v-icon>
-				</v-btn>
-			</v-col>
 		</v-row>
 	</v-container>
 </template>

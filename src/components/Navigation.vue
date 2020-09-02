@@ -96,16 +96,31 @@
 				<v-col cols="12">
 					<slot></slot>
 				</v-col>
-				<v-row v-if="pages[model].title !== 'Home'" justify="start">
-					<v-btn @click="itrModel(model - 1)" class="mx-5" fab dark :color="currentColor">
-						<v-icon dark>mdi-minus</v-icon>
+				<v-col cols="12" md="4"></v-col>
+				<v-col cols="12" md="8" :class="dayLinkClasses">
+					<!-- here, not sure about this -->
+					<a style="font-size: 1.2em; text-decoration: underline; font-weight: bold;" class="text-center" v-if="model === 2" @click="tabMethod(pages[model].index + 1)" color="#287ace">
+						{{pages[model].dayLink}}
+					</a>
+					<v-btn v-if="model < 8 && model > 2" block @click="tabMethod(pages[model].index + 1)" tile x-large :color="pages[model].color" icon>
+						{{pages[model].dayLink}}
+						<v-icon>mdi-chevron-right</v-icon>
 					</v-btn>
-				</v-row>
-				<v-row v-if="pages[model].title !== 'Home'" justify="end">
-					<v-btn @click="itrModel(model + 1)" class="mx-5" fab dark :color="currentColor">
-						<v-icon dark>mdi-plus</v-icon>
-					</v-btn>
-				</v-row>
+				</v-col>
+				<v-col cols="6">
+					<v-row v-if="pages[model].title !== 'Home'" justify="start">
+						<v-btn @click="itrModel(model - 1)" class="mx-5" fab dark :color="currentColor">
+							<v-icon dark>mdi-minus</v-icon>
+						</v-btn>
+					</v-row>
+				</v-col>
+				<v-col cols="6">
+					<v-row v-if="pages[model].title !== 'Home'" justify="end">
+						<v-btn @click="itrModel(model + 1)" class="mx-5" fab dark :color="currentColor">
+							<v-icon dark>mdi-plus</v-icon>
+						</v-btn>
+					</v-row>
+				</v-col>
 
 				<v-row v-if="pages[model].title === 'Home'" justify="start">
 					<v-btn block @click="tabMethod(2)" x-large dark :color="currentColor">
@@ -126,30 +141,44 @@
 						The Martha Mitchell effect is a term utilized in psychiatry in relation to a patient being misdiagnosed as being delusional, when in fact the content of their misinterpreted delusions are an actual representation of events experienced by them. The origin of this term references events that occurred to Martha Mitchell in 1972, when she claimed that White House officials were engaging in illegal activities. Mitchell also claimed she was drugged, beaten and forced under guard to remain in hotel room in California to prevent her from further contacting the press about Watergate break-in and ensuing scandal. Aides of President Nixon informed the media that she was ‘resting’ in a psychiatric hospital; the intent of this statement was to discount the validity of her credibility and therefore observations. A substantial proportion of Martha Mitchells’ claims were later validated.
           </p>
 				</v-col>
-				<v-col cols="12" class="text-center small-text"
+				<v-row :color="pages[model].color" cols="12" class="text-center small-text"
 					style="
 						font-size: 1.5em;
 					"
 				>
-					<a class="pa-2" @click="tabMethod(3)">
-						Day 1 - Tennesee
-					</a>
-					<a class="pa-2" @click="tabMethod(4)">
-						Day 2 - Washington D.C.
-					</a>
-					<a class="pa-2" @click="tabMethod(5)">
-						Day 3 - Missouri
-					</a>
-					<a class="pa-2" @click="tabMethod(6)">
-						Day 4 - South Pacific
-					</a>
-					<a class="pa-2" @click="tabMethod(7)">
-						Day 5 - Rome, Italy
-					</a>
-					<a class="pa-2" @click="tabMethod(8)">
-						Day 6 - Los Angeles
-					</a>
-				</v-col>
+					<v-col cols="4" md="3" :color="pages[model].color" @click="tabMethod(3)">
+						<v-btn block @click="tabMethod(3)" tile small :color="pages[model].color" icon>
+							Day 1 - Tennesee
+						</v-btn>
+					</v-col>
+					<v-col cols="4" md="3" :color="pages[model].color" @click="tabMethod(4)">
+						<v-btn block @click="tabMethod(4)" tile small :color="pages[model].color" icon>
+							Day 2 - Washington D.C.
+						</v-btn>
+					</v-col>
+					<v-col cols="4" md="3" :color="pages[model].color" @click="tabMethod(5)">
+						<v-btn block @click="tabMethod(5)" tile small :color="pages[model].color" icon>
+							Day 3 - Missouri
+						</v-btn>
+					</v-col>
+					<v-col cols="4" md="3" :color="pages[model].color" @click="tabMethod(6)">
+						<v-btn block @click="tabMethod(6)" tile small :color="pages[model].color" icon>
+							Day 4 - South Pacific
+						</v-btn>
+					</v-col>
+					<v-col v-if="$vuetify.breakpoint.md" md="3"></v-col>
+					<v-col cols="4" md="3" :color="pages[model].color" @click="tabMethod(7)">
+						<v-btn block @click="tabMethod(7)" tile small :color="pages[model].color" icon>
+							Day 5 - Rome, Italy
+						</v-btn>
+					</v-col>
+					<v-col cols="4" md="3" :color="pages[model].color" @click="tabMethod(8)">
+						<v-btn block @click="tabMethod(8)" tile small :color="pages[model].color" icon>
+							Day 6 - Los Angeles
+						</v-btn>
+					</v-col>
+					<v-col v-if="$vuetify.breakpoint.md" md="3"></v-col>
+				</v-row>
 			</v-row>
 		</v-container>
 	</div>
@@ -169,6 +198,13 @@ export default {
 		},
 		currentColor() {
 			return this.pages[this.model].color
+		},
+		dayLinkClasses() {
+			if (this.$vuetify.breakpoint.md) {
+				return 'text-center day-link-md'
+			} else {
+				return 'text-center day-link-sm'
+			}
 		}
 	},
 	methods: {
@@ -265,6 +301,7 @@ export default {
 				color: '#14143a',
 				class: 'blue-background',
 				minHeight: 595,
+				dayLink: 'Begin The Interview: Day 1 - Tennesee',
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day1_final.jpg?alt=media&token=31505349-7d43-4621-8efc-3e216c49b12d',
@@ -276,6 +313,7 @@ export default {
 				color: '#202408',
 				class: 'brown-background',
 				minHeight: 732,
+				dayLink: 'Continue to Day 2 - Washington D.C.',
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day2_final.jpg?alt=media&token=8807a0c8-ad11-4b0f-a297-802279914849',
@@ -287,6 +325,7 @@ export default {
 				color: '#14143a',
 				class: 'blue-background',
 				minHeight: 596,
+				dayLink: 'Continue to Day 3 - Missouri',
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day3_final.jpg?alt=media&token=c484bbf2-b4e0-4ac2-97df-d32987879e13',
@@ -298,6 +337,7 @@ export default {
 				color: '#14143a',
 				class: 'blue-background',
 				minHeight: 595,
+				dayLink: 'Continue to Day 4 - The South Pacific',
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day4_final.jpg?alt=media&token=4ac6110c-faf9-4f3e-8e5d-230dd2e4c9e7',
@@ -309,6 +349,7 @@ export default {
 				color: '#202408',
 				class: 'brown-background',
 				minHeight: 670,
+				dayLink: 'Continue to Day 5 - Rome, Italy - Vincit Qui Patitur',
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day5_final.jpg?alt=media&token=31058251-7d0d-49a3-81ed-5831e5051c2f',
@@ -320,6 +361,7 @@ export default {
 				color: '#14143a',
 				class: 'blue-background',
 				minHeight: 495,
+				dayLink: 'Continue to Day 6 - Los Angeles',
 			},
 			{
 				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Day6_upsidedown_final.jpg?alt=media&token=cfe5fe59-6add-40b4-8848-666dac41c909',
@@ -376,5 +418,17 @@ export default {
 }
 .brown-background {
 	background-color: #0a0c02;
+}
+.day-link {
+
+}
+.intro-link {
+
+}
+.day-link-md {
+	font-size: 2em;
+}
+.day-link-sm {
+	font-size: 1.2em;
 }
 </style>

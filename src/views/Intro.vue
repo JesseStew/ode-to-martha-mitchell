@@ -54,14 +54,7 @@
 						I have poured everything that is inside of me into the initial narrative; which then transformed into the interview that was then modified into the work presented here. With that said; I wish you safe travels as you embark on this very long, often emotional, and hopefully rewarding, journey.
 					</p>
 				</v-col>
-				<v-col cols="4"></v-col>
-				<v-col cols="8" class="text-center home-title">
-					<a href="/day-one">
-						Begin The Interview: Day 1 - Tennessee
-					</a>
-				</v-col>
 			</v-row>
-		<!-- Add links to the six days of interview at bottom -->
 	</v-container>
 </template>
 
