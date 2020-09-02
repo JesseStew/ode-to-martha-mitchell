@@ -99,9 +99,15 @@
 				<v-col cols="12" md="4"></v-col>
 				<v-col cols="12" md="8" :class="dayLinkClasses">
 					<!-- here, not sure about this -->
-					<a style="font-size: 1.2em; text-decoration: underline; font-weight: bold;" class="text-center" v-if="model === 2" @click="tabMethod(pages[model].index + 1)" color="#287ace">
+					<!-- <a style="font-size: 1.2em; text-decoration: underline; font-weight: bold;" class="text-center" v-if="model === 2" @click="tabMethod(pages[model].index + 1)" color="#287ace">
 						{{pages[model].dayLink}}
-					</a>
+					</a> -->
+					<v-btn v-if="model === 2" block @click="tabMethod(pages[model].index + 1)" tile x-large color="#287ace" icon
+						style="font-size: .9em;"
+					>
+						{{pages[model].dayLink}}
+						<v-icon>mdi-chevron-right</v-icon>
+					</v-btn>
 					<v-btn v-if="model < 8 && model > 2" block @click="tabMethod(pages[model].index + 1)" tile x-large :color="pages[model].color" icon>
 						{{pages[model].dayLink}}
 						<v-icon>mdi-chevron-right</v-icon>
