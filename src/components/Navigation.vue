@@ -16,7 +16,7 @@
 				align="center"
 				justify="center"
 			>
-				<v-img contain max-height="700" min-height="250" :src="page.src" :lazy-src="page.lazySrc">
+				<v-img ref="carousel-image" contain :min-height="pictureMinHeight" :max-height="pictureMaxHeight" :src="page.src" :lazy-src="page.lazySrc">
 					<template v-slot:placeholder>
 						<v-row
 							class="fill-height ma-0"
@@ -38,32 +38,35 @@
 						<v-icon>mdi-chevron-left</v-icon>
 					</v-btn>
 				</div>
-				<div
-					style="
-						position: absolute;
-						margin-top: 30%;
-						margin-left: 35%;
-					">
-					<span
-					style="
-						font-family: Lamplighter Script Regular;
-						font-size: 5.5em;
-						color: #fbfe2e;
-						text-shadow: 0 0 5px #ff3503;
-					">
-					{{page.text}}
+				<div :class="homeTitlePosition">
+					<span v-if="$vuetify.breakpoint.xsOnly" class="home-title-text-xs">
+						{{page.text}}
+						<br />
 					</span>
-					<!-- <br />
-					<span
-					style="
-						font-family: Lamplighter Script Regular;
-						font-size: 2em;
-						color: #fbfe2e;
-						margin-left: 150px;
-						text-shadow: 0 0 5px #ff3503;
-					">
-					{{page.subtitle}}
-					</span> -->
+					<span v-if="$vuetify.breakpoint.smOnly" class="home-title-text-sm">
+						{{page.text}}
+						<br />
+					</span>
+					<span v-if="$vuetify.breakpoint.mdOnly" class="home-title-text-md">
+						{{page.text}}
+						<br />
+					</span>
+					<span v-if="$vuetify.breakpoint.lgAndUp" class="home-title-text-lg">
+						{{page.text}}
+						<br />
+					</span>
+					<span v-if="$vuetify.breakpoint.xsOnly" class="home-subtitle-text-xs">
+						{{page.text}}
+					</span>
+					<span v-if="$vuetify.breakpoint.smOnly" class="home-subtitle-text-sm">
+						{{page.text}}
+					</span>
+					<span v-if="$vuetify.breakpoint.mdOnly" class="home-subtitle-text-md">
+						{{page.text}}
+					</span>
+					<span v-if="$vuetify.breakpoint.lgAndUp" class="home-subtitle-text-lg">
+						{{page.text}}
+					</span>
 				</div>
 				<div
 					style="
@@ -211,6 +214,27 @@ export default {
 			} else {
 				return 'text-center day-link-sm'
 			}
+		},
+		pictureMaxHeight() {
+			return this.windowHeight - 200
+		},
+		pictureMinHeight() {
+			if (this.$vuetify.breakpoint.md) {
+				return this.windowHeight/3
+			} else {
+				return this.windowHeight/5
+			}
+		},
+		homeTitlePosition() {
+			if(this.$vuetify.breakpoint.xs) {
+				return 'home-title-position-xs'
+			} else if (this.$vuetify.breakpoint.sm) {
+				return 'home-title-position-sm'
+			} else if (this.$vuetify.breakpoint.md) {
+				return 'home-title-position'
+			} else {
+				return 'home-title-position-lg'
+			}
 		}
 	},
 	methods: {
@@ -225,8 +249,19 @@ export default {
 			} else {
 				this.model = modelItr
 			}
-		}
+		},
+		onResize() {
+      this.windowHeight = window.innerHeight
+    }
 	},
+	mounted() {
+		this.$nextTick(() => {
+			window.addEventListener('resize', this.onResize)
+		})
+	},
+	beforeDestroy() {
+    window.removeEventListener('resize', this.onResize);
+  },
 	created: function(){
 		// this.$router.push({ path: this.currentRoute })
 		if (this.currentRoute === 'legacy-letter') {
@@ -267,6 +302,7 @@ export default {
 		},
 	},
 	data: () => ({
+		windowHeight: window.innerHeight,
 		drawer: false,
 		model: 0,
 		color: '#14143a',
@@ -425,16 +461,78 @@ export default {
 .brown-background {
 	background-color: #0a0c02;
 }
-.day-link {
-
-}
-.intro-link {
-
-}
 .day-link-md {
 	font-size: 2em;
 }
 .day-link-sm {
 	font-size: 1.2em;
+}
+.home-title-position-xs {
+	position: absolute;
+	margin-top: 20vh;
+	margin-left: 35vw;
+}
+.home-title-position-sm {
+	position: absolute;
+	margin-top: 25vh;
+	margin-left: 35vw;
+}
+.home-title-position {
+	position: absolute;
+	margin-top: 30vh;
+	margin-left: 35vw;
+}
+.home-title-position-lg {
+	position: absolute;
+	margin-top: 40vh;
+	margin-left: 35vw;
+}
+.home-title-text-xs {
+	font-family: Lamplighter Script Regular;
+	font-size: 2.5em;
+	color: #fbfe2e;
+	text-shadow: 0 0 5px #ff3503;
+}
+.home-title-text-sm {
+	font-family: Lamplighter Script Regular;
+	font-size: 3.5em;
+	color: #fbfe2e;
+	text-shadow: 0 0 5px #ff3503;
+}
+.home-title-text-md {
+	font-family: Lamplighter Script Regular;
+	font-size: 5.5em;
+	color: #fbfe2e;
+	text-shadow: 0 0 5px #ff3503;
+}
+.home-title-text-lg {
+	font-family: Lamplighter Script Regular;
+	font-size: 7.5em;
+	color: #fbfe2e;
+	text-shadow: 0 0 5px #ff3503;
+}
+.home-subtitle-text-xs {
+	font-family: Lamplighter Script Regular;
+	font-size: 1.5em;
+	color: #fbfe2e;
+	text-shadow: 0 0 5px #ff3503;
+}
+.home-subtitle-text-sm {
+	font-family: Lamplighter Script Regular;
+	font-size: 2em;
+	color: #fbfe2e;
+	text-shadow: 0 0 5px #ff3503;
+}
+.home-subtitle-text-md {
+	font-family: Lamplighter Script Regular;
+	font-size: 2.5em;
+	color: #fbfe2e;
+	text-shadow: 0 0 5px #ff3503;
+}
+.home-subtitle-text-lg {
+	font-family: Lamplighter Script Regular;
+	font-size: 4.5em;
+	color: #fbfe2e;
+	text-shadow: 0 0 5px #ff3503;
 }
 </style>
