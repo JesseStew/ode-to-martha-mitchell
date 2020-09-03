@@ -208,9 +208,10 @@
 						<br />
 						<br />
 						In many ways it was as though I had been living in a cave, mentally speaking. I wasn’t just out of touch with the wealthy class; I was out of touch with everyone!
+						<br />
+						<br />
+						The reasons I chose billionaires? Well, in a convoluted way I guess it makes sense.
 				</p>
-
-				The reasons I chose billionaires? Well, in a convoluted way I guess it makes sense.
 				<p class="h-l">
 						H.L. What do you mean by that exactly?
 				</p>
@@ -542,7 +543,7 @@
 						H.L. But this wasn’t college.
 				</p>
 				<p>
-						<span class="douglas">Douglas:</span>No. This wasn’t college, it was for keeps. You know there are two things I have learned about billionaires, and that is this: First, they know right away if you like them or not, and most definitely I liked them, this was obvious. So I passed the first test.
+						<span class="douglas">Douglas:</span> No. This wasn’t college, it was for keeps. You know there are two things I have learned about billionaires, and that is this: First, they know right away if you like them or not, and most definitely I liked them, this was obvious. So I passed the first test.
 						<br />
 						<br />
 						The second is that they instinctively know if you are ready for the money or not. They just know it.
@@ -726,8 +727,8 @@
 				</p>
 				<p>
 						<span class="douglas">Douglas:</span> I really think so. I became somewhat obsessed with finding the names behind the visitors who were coming to my website. Those around me didn’t know what to make of it, as I was now extremely focused on this.
-				</p>
-				<p class="h-l">
+						<br />
+						<br />
 						Here, for once in so many years, I had the first evidence that what I was doing was working. Truthfully, it had been over eight years since I had anything positive in my life. Eight years!
 				</p>
 				<p class="h-l">
@@ -993,8 +994,10 @@
 				</p>
 				<p>
 						<span class="douglas">Douglas:</span> No, they didn’t because again they knew everyone, and everyone’s behavior, including the bears. So they figured that the only reason the traps would show up is if we called and complained; which of course we would never do, as we loved the bears. But to the people in the neighborhood, it had to be us. Now that changed later.
+						<br />
+						<br />
+						And again, the whole trap ordeal was so very sad for the bears.
 				</p>
-				And again, the whole trap ordeal was so very sad for the bears.
 				<p class="h-l">
 						H.L. The bears couldn’t understand what they did wrong?
 				</p>
