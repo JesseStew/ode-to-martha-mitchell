@@ -12,7 +12,11 @@ Douglas paragraph replace with:
 (	<p>
 		$0
 	</p>)
- -->
+
+End of Line not followed by </p>:
+((?!>)(\r?$)(?!
+	</p>))
+-->
  <template>
 	<p class="h-l">
 
