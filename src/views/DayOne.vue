@@ -8,7 +8,7 @@
 			</v-col>
 			<v-col cols="12">
 				<p class="band-color-green word-salad">
-					(The Human Zoo, Pajama Liar, Worst Boss Ever, Feed The Hole, Bear Traps, Invisible Hand of High Crimes, Waving At The Enemy, Carouselambra, Choke Berries, Free Money To Africa, That Old Ford, Brother Can You Spare A Dime, Developing Detection Tools, Nosey Neighbors, Sniffing Out Surveillance, Ricardo &amp; Smith Inc, Love Story, The Legacy Letter, Harassment Of Potential Donors, Rocky Top, Introducing The Spy King, Fitting In, Bird Bath, The Hills Have Eyes, Sin City, Tree Falling On My Life, The New Scarlet Letter A, Bear Country Jamboree, Moving To Tennessee, Splitting Cords, Into The Woods, Mickey Mouse, Welcome To The Filth, You’re Not In College Anymore, Dream Cabin, Insect Drone, Losing The War, Prehistoric Paradise, Forties Funk, Financial Breakdown, Minority Report, Talk Of The Town, Winter, Nobody Runs Here, Prototypes In Paradise, A Dangerous Deception, Nicotina, I Thought You Were Special, Red Velvet, Rattling My Cage, Take The Long Way Home, Terrifying Trees, Peddling Produce, You Look Familiar, Speaking With Billionaires, Deer In The Headlights, Sunset People, Grandma Says, An Unusual Alliance, Camouflage, Leaving The Volunteer State, Careless Whispers, Welcome Home GOATS, Can't Tell Me Nothing, and More… See Timeline for Chronology of Events)
+					(The Human Zoo, Pajama Liar, Worst Boss Ever, Feed The Hole, Bear Traps, Invisible Hand of High Crimes, Waving At The Enemy, Carouselambra, Choke Berries, Free Money To Africa, That Old Ford, Brother Can You Spare A Dime, Developing Detection Tools, Nosey Neighbors, Sniffing Out Surveillance, Ricardo &amp; Smith Inc, Love Story, <span class="italic">The Legacy Letter</span>, Harassment Of Potential Donors, Rocky Top, Introducing The Spy King, Fitting In, Bird Bath, The Hills Have Eyes, Sin City, Tree Falling On My Life, The New Scarlet Letter A, Bear Country Jamboree, Moving To Tennessee, Splitting Cords, Into The Woods, Mickey Mouse, Welcome To The Filth, You’re Not In College Anymore, Dream Cabin, Insect Drone, Losing The War, Prehistoric Paradise, Forties Funk, Financial Breakdown, Minority Report, Talk Of The Town, Winter, Nobody Runs Here, Prototypes In Paradise, A Dangerous Deception, Nicotina, I Thought You Were Special, Red Velvet, Rattling My Cage, Take The Long Way Home, Terrifying Trees, Peddling Produce, You Look Familiar, Speaking With Billionaires, Deer In The Headlights, Sunset People, Grandma Says, An Unusual Alliance, Camouflage, Leaving The Volunteer State, Careless Whispers, Welcome Home GOATS, Can't Tell Me Nothing, and More… See Timeline for Chronology of Events)
 				</p>
 			</v-col>
 			<v-col cols="12" class="interview-color main-text text-border">
@@ -109,7 +109,13 @@
 					H.L. You didn’t want any celebrities to get hurt? I think they are grown-up people and can make that decision for themselves.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Do you know how many times I have heard that? H.L. No. <span class="douglas">Douglas:</span> Well, too many times. I have heard that from so many people over the years, and some very strong people as well, but it always ends up the same. With them telling me, “I didn’t know it was going to be like this!” This discovery just has a certain type of energy to it, one that plows through so many people and so many lives. You will learn just how accurate this statement is over the next week, or however long this takes us.
+					<span class="douglas">Douglas:</span> Do you know how many times I have heard that?
+				</p>
+				<p class="h-l">
+					H.L. No.
+				</p>
+				<p>
+					<span class="douglas">Douglas:</span> Well, too many times. I have heard that from so many people over the years, and some very strong people as well, but it always ends up the same. With them telling me, “I didn’t know it was going to be like this!” This discovery just has a certain type of energy to it, one that plows through so many people and so many lives. You will learn just how accurate this statement is over the next week, or however long this takes us.
 				</p>
 				<p class="h-l">
 					H.L. So you didn’t think the artistic temperament was the right choice? Is this an attempt to be noble?
@@ -175,7 +181,7 @@
 					H.L. So your father had passed away, you said this was a few years previous to 2014. Do you think you were looking for a father figure, or a replacement?
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> You know looking back that makes sense. But at the time I didn’t see it. I am sure that most psychologists would agree with your assessment. Perhaps that is true, because I know I had a great amount of confidence when I drafted The Legacy Letter. Actually think you are onto something there, because sometimes when I would read it, while I was sending it, I would say to myself, “How gutsy, the things you say; these are great men and you’re writing to them as though they’re your younger brother. Who the hell do you think you are?”
+					<span class="douglas">Douglas:</span> You know looking back that makes sense. But at the time I didn’t see it. I am sure that most psychologists would agree with your assessment. Perhaps that is true, because I know I had a great amount of confidence when I drafted <span class="italic">The Legacy Letter</span>. Actually think you are onto something there, because sometimes when I would read it, while I was sending it, I would say to myself, “How gutsy, the things you say; these are great men and you’re writing to them as though they’re your younger brother. Who the hell do you think you are?”
 				</p>
 				<p class="h-l">
 					H.L. You could do that because your father was your employee, well that is interesting.
@@ -184,10 +190,10 @@
 					<span class="douglas">Douglas:</span> I think so.
 				</p>
 				<p class="h-l">
-					H.L. Do you think all of these experiences helped you when drafting The Legacy Letter?
+					H.L. Do you think all of these experiences helped you when drafting <span class="italic">The Legacy Letter</span>?
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> I would say so, yes. Because when I first drafted The Legacy Letter, I knew I was onto something special. It’s hard to explain, but you just get that feeling that radiates inside and you realize: This is what it is all about! That was how I felt right away. I truly believed in the words that I was writing, and had earned them. That is important. You have to earn the words, or people will see right through you, no matter what types of words they are.
+					<span class="douglas">Douglas:</span> I would say so, yes. Because when I first drafted <span class="italic">The Legacy Letter</span>, I knew I was onto something special. It’s hard to explain, but you just get that feeling that radiates inside and you realize: This is what it is all about! That was how I felt right away. I truly believed in the words that I was writing, and had earned them. That is important. You have to earn the words, or people will see right through you, no matter what types of words they are.
 				</p>
 				<p class="h-l">
 					H.L. The letter is impressive certainly. Explain to those who might not know, what was in it?
@@ -205,7 +211,7 @@
 					H.L. The government used this confidentiality against you; against them?
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Sure they did. I was the common denominator in all their prosecutions. I could clearly see the pattern. They would come to my website; have a large number of reads of The Legacy Letter, or make phone calls to me and then it would happen. But we are getting way ahead of ourselves. Can I tell you about the cabin, because it is impossible to explain the events without the cabin?
+					<span class="douglas">Douglas:</span> Sure they did. I was the common denominator in all their prosecutions. I could clearly see the pattern. They would come to my website; have a large number of reads of <span class="italic">The Legacy Letter</span>, or make phone calls to me and then it would happen. But we are getting way ahead of ourselves. Can I tell you about the cabin, because it is impossible to explain the events without the cabin?
 				</p>
 				<p class="h-l">
 					H.L. Yes, you seem very proud of the cabin. You can tell about that.
@@ -259,13 +265,28 @@
 					H.L. The cabin? You wanted to describe the cabin.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Yes, the cabin shouldn’t have even been called a cabin; it was like a palace. It truly was in one of the most beautiful settings I have ever seen in my life. The cabin was backed into the National Forest, and surrounded by a massive canopy of trees. There were ferns, bugs and vines that looked as though they were lifted right out of the prehistoric era; it was paradise. The canopy of trees also covered the top of the cabin, so no sunlight came in nor light got out. This kept it cool in the summer, and actually warm in the winter.
+					<span class="douglas">Douglas:</span> Yes, the cabin shouldn’t have even been called a cabin; it was like a palace. It truly was in one of the most beautiful settings I have ever seen in my life.
+					<br />
+					<br />
+					The cabin was backed into the National Forest, and surrounded by a massive canopy of trees. There were ferns, bugs and vines that looked as though they were lifted right out of the prehistoric era; it was paradise.
+					<br />
+					<br />
+					The canopy of trees also covered the top of the cabin, so no sunlight came in nor light got out. This kept it cool in the summer, and actually warm in the winter.
 				</p>
 				<p class="h-l">
 					H.L. Like a hideout?
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Yes, but the cabin was so very plush, and we were hiding from no one. There were two hot tubs; one inside and one outside. We only used the inside hot tub though, because the outside tub belonged to the bears, so we couldn’t use that one. In the main hallway was a red velvet pool table that was surrounded by massive glass windows. In fact, the entire wall was a wall of windows that overlooked the forest down the hill. So you were actually looking at a forested mural of tree branches; a living breathing mural. The walls of the cabin were all natural logs with clear shellac; the logs were handpicked and cut by the original owner back in the 1940’s. This is the story at least, as it was conveyed to us. You could tell immediately though that a lot of love went into the building of this place. The only drawback was that there was just one bedroom. Again, it was a cabin, but it was large and had plenty of room. It just wasn’t functional or practical.
+					<span class="douglas">Douglas:</span> Yes, but the cabin was so very plush, and we were hiding from no one.
+					<br />
+					<br />
+					There were two hot tubs; one inside and one outside. We only used the inside hot tub though, because the outside tub belonged to the bears, so we couldn’t use that one.
+					<br />
+					<br />
+					In the main hallway was a red velvet pool table that was surrounded by massive glass windows. In fact, the entire wall was a wall of windows that overlooked the forest down the hill. So you were actually looking at a forested mural of tree branches; a living breathing mural.
+					<br />
+					<br />
+					The walls of the cabin were all natural logs with clear shellac; the logs were handpicked and cut by the original owner back in the 1940’s. This is the story at least, as it was conveyed to us. You could tell immediately though that a lot of love went into the building of this place. The only drawback was that there was just one bedroom. Again, it was a cabin, but it was large and had plenty of room. It just wasn’t functional or practical.
 				</p>
 				<p class="h-l">
 					H.L. The bears?
@@ -291,7 +312,7 @@
 				<p>
 					<span class="douglas">Douglas:</span> More like we knew the rule, the single rule: The place belonged to the bears; we were just visitors. The only reason I bring up the bears at all here, is that they will play an important role later. You see, while we had no fear of the bears, those who would later undertake the physical surveillance of the cabin; the NSA, FBI or whatever governmental agency or subcontractor was responsible, were definitely weary of the bears and this would change the dynamic of the scenario. But now I am jumping ahead.
 				</p>
-				<p>
+				<p class="h-l">
 					H. L. Getting back to the letter
 				</p>
 				<p>
@@ -304,10 +325,10 @@
 					<span class="douglas">Douglas:</span> Well, it’s probably silly or stupid, but what they did to the bears wasn’t right. It still bothers me to this day.
 				</p>
 				<p class="h-l">
-					H.L. I see. Since you will be talking about it later, let’s just move onto The Legacy Letter.
+					H.L. I see. Since you will be talking about it later, let’s just move onto <span class="italic">The Legacy Letter</span>.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Sure, you’re right. So I started sending the letter out at the beginning of February, 2014. At first it was very silent. I mean, really silent. It took a while to learn how to get the emails through the various bots that would kick them into spam. Now, I was hand customizing each copy of The Legacy Letter into email form. So that took even longer. I know that there are programs that will do it for you, but I felt that these potential investors would know if I hadn’t taken the time and personal care to customize each one. After all, these were some of the richest men in the world. I really wanted to send the letters hard copy in the mail, but it was just too expensive. So I did what I could.
+					<span class="douglas">Douglas:</span> Sure, you’re right. So I started sending the letter out at the beginning of February, 2014. At first it was very silent. I mean, really silent. It took a while to learn how to get the emails through the various bots that would kick them into spam. Now, I was hand customizing each copy of <span class="italic">The Legacy Letter</span> into email form. So that took even longer. I know that there are programs that will do it for you, but I felt that these potential investors would know if I hadn’t taken the time and personal care to customize each one. After all, these were some of the richest men in the world. I really wanted to send the letters hard copy in the mail, but it was just too expensive. So I did what I could.
 				</p>
 				<p class="h-l">
 					H.L. Quality over quantity.
@@ -343,19 +364,19 @@
 					H.L. I can see that.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> After awhile, I was finally able to get into a rhythm in sending out The Legacy Letter. I would send the letters out, and put tracking on the emails to see if they were reading them. At this early stage, seeing evidence that they were reading the letter was all the motivation I had to keep me going. Since there were only so many business hours during the day in the U.S., after hours I would send them to the wealthy elite in countries that were open during those hours.
+					<span class="douglas">Douglas:</span> After awhile, I was finally able to get into a rhythm in sending out <span class="italic">The Legacy Letter</span>. I would send the letters out, and put tracking on the emails to see if they were reading them. At this early stage, seeing evidence that they were reading the letter was all the motivation I had to keep me going. Since there were only so many business hours during the day in the U.S., after hours I would send them to the wealthy elite in countries that were open during those hours.
 				</p>
 				<p class="h-l">
 					H.L. So you would view the number of times the potential investors would read the email and this kept you going?
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Yes exactly. In the evening I sent the letter out primarily to Asia and Oceania; mostly India and Australia. In many ways, it was as though I was addicted to seeing how many times the email had been read; it was kind of pathetic really. In the early morning or very late at night, I would also send The Legacy Letter out to Europe, as these were the hours of their normal day to day operations.
+					<span class="douglas">Douglas:</span> Yes exactly. In the evening I sent the letter out primarily to Asia and Oceania; mostly India and Australia. In many ways, it was as though I was addicted to seeing how many times the email had been read; it was kind of pathetic really. In the early morning or very late at night, I would also send <span class="italic">The Legacy Letter</span> out to Europe, as these were the hours of their normal day to day operations.
 				</p>
 				<p class="h-l">
 					H.L. Then the phone calls started?
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Yes, well it took awhile. But yes, they started. The first thing to understand about the phone calls is that I was never prepared for them. I just never thought anyone would call me, nor did any part of the letter encourage it. True, I put my phone number on The Legacy Letter, but that was for identification purposes. I wanted them to know it was me. I figured, the more information I could provide for them to authenticate my identity, the more likely they would be to invest or donate. I just never expected them to call me. So not being prepared really was a problem.
+					<span class="douglas">Douglas:</span> Yes, well it took awhile. But yes, they started. The first thing to understand about the phone calls is that I was never prepared for them. I just never thought anyone would call me, nor did any part of the letter encourage it. True, I put my phone number on <span class="italic">The Legacy Letter</span>, but that was for identification purposes. I wanted them to know it was me. I figured, the more information I could provide for them to authenticate my identity, the more likely they would be to invest or donate. I just never expected them to call me. So not being prepared really was a problem.
 				</p>
 				<p class="h-l">
 					H.L. You said you didn’t do well on the phone calls, when the billionaires began calling you?
@@ -379,7 +400,7 @@
 					H.L. But this wasn’t college.
 				</p>
 				<p>
-					Douglas No. This wasn’t college, it was for keeps. You know there are two things I have learned about billionaires, and that is this: First, they know right away if you like them or not, and most definitely I liked them, this was obvious. So I passed the first test. The second is that they instinctively know if you are ready for the money or not. They just know it.
+					<span class="douglas">Douglas:</span> No. This wasn’t college, it was for keeps. You know there are two things I have learned about billionaires, and that is this: First, they know right away if you like them or not, and most definitely I liked them, this was obvious. So I passed the first test. The second is that they instinctively know if you are ready for the money or not. They just know it.
 				</p>
 				<p class="h-l">
 					H.L. Don’t you think they are ever fooled, I imagine they sometimes invest or loan money to people who aren’t ready for it.
@@ -403,7 +424,7 @@
 					H.L. Tell me about that.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> By now I had sent out many copies of The Legacy Letter, perhaps even a thousand. While I told you about the phone calls, after a while everything became really silent, like it dropped off a cliff.
+					<span class="douglas">Douglas:</span> By now I had sent out many copies of <span class="italic">The Legacy Letter</span>, perhaps even a thousand. While I told you about the phone calls, after a while everything became really silent, like it dropped off a cliff.
 				</p>
 				<p class="h-l">
 					H.L. When was this?
@@ -415,7 +436,7 @@
 					H.L. Is this when you believe the government suppression efforts were beginning?
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Yes, but of course I know that now, but at the time I really had no idea. No, instead I blamed myself completely. I figured that word had gone around that I wasn’t ready for the money, or that this entire project was a flop or whatever. So by early summer, maybe even late spring of 2014, I had already sent out almost a thousand copies of The Legacy Letter, and I had only enough money to send out maybe 50 follow-up letters and potential donor packages in the mail. Therefore, it was necessary to find out who was interested. Now looking back, I should have focused exclusively on those who I had talked to on the phone, but I did not. I wanted fresh leads, I guess somehow reasoning that this time I wouldn’t screw things up when I talked to them.
+					<span class="douglas">Douglas:</span> Yes, but of course I know that now, but at the time I really had no idea. No, instead I blamed myself completely. I figured that word had gone around that I wasn’t ready for the money, or that this entire project was a flop or whatever. So by early summer, maybe even late spring of 2014, I had already sent out almost a thousand copies of <span class="italic">The Legacy Letter</span>, and I had only enough money to send out maybe 50 follow-up letters and potential donor packages in the mail. Therefore, it was necessary to find out who was interested. Now looking back, I should have focused exclusively on those who I had talked to on the phone, but I did not. I wanted fresh leads, I guess somehow reasoning that this time I wouldn’t screw things up when I talked to them.
 				</p>
 				<p class="h-l">
 					H.L. That seems rational.
@@ -481,7 +502,7 @@
 					H.L. But you said that you had a coder with web developing skills that lived with you at the time.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Yes, but again that was just coincidental and that person was never directly involved in my detection efforts. However, I will say that this person being there gave me confidence, and I would learn things just by having conversations with them. But no, they were never directly involved. You see, the thing is, I had other advantages as well. For example, I had not done any marketing of The Theorem for years. Therefore, my website had essentially no traffic whatsoever. So, I was almost starting with a blank slate. I doubt that by that time barely over 1000 people had read The Theorem. And if you spread out a 1000 people over many years, this isn’t much web traffic. Then, when I started marketing The Theorem with The Legacy Letter, I only sent them to people who had high visibility on the web. So they would float to the top of my visibility list. This, in contrast to someone who had little written about them; those people you could never find with this method.
+					<span class="douglas">Douglas:</span> Yes, but again that was just coincidental and that person was never directly involved in my detection efforts. However, I will say that this person being there gave me confidence, and I would learn things just by having conversations with them. But no, they were never directly involved. You see, the thing is, I had other advantages as well. For example, I had not done any marketing of The Theorem for years. Therefore, my website had essentially no traffic whatsoever. So, I was almost starting with a blank slate. I doubt that by that time barely over 1000 people had read The Theorem. And if you spread out a 1000 people over many years, this isn’t much web traffic. Then, when I started marketing The Theorem with <span class="italic">The Legacy Letter</span>, I only sent them to people who had high visibility on the web. So they would float to the top of my visibility list. This, in contrast to someone who had little written about them; those people you could never find with this method.
 				</p>
 				<p class="h-l">
 					H.L. This is when you found out that the government was prosecuting people who were interested in the letter, in your book?
@@ -508,7 +529,7 @@
 					<span class="douglas">Douglas:</span> It is. But now I had hope. And hope was something I very much needed. You know, man can endure a lot. He can survive minutes without air, days without water and weeks without food, but a second without hope is hell on earth.
 				</p>
 				<p class="h-l">
-					H.L. Well said. So you knew then, you saw evidence that The Legacy Letter was successful?
+					H.L. Well said. So you knew then, you saw evidence that <span class="italic">The Legacy Letter</span> was successful?
 				</p>
 				<p>
 					<span class="douglas">Douglas:</span> Yes, I knew right away. It was a huge hit. I was very proud. Here, I could track the traffic of the letter and the word of mouth that followed it. Really, it was such an eye opener. While I believed that the letter was special when I had written it, here I saw the proof. It would typically work like this: I would send it to a billionaire; he would then forward or talk about it with a few of his friends, either other billionaires or those with very high net worth themselves. Now if it was in a foreign country it was different. You see many of these foreign billionaires are close friends to the ruling party; the government, The King, or The Prime Minister. So then the ruling party would find out about it and from there, it went down to the celebrities in the country and then back to the billionaires. I was amazed. This was really making waves!
@@ -553,7 +574,7 @@
 					H.L. That makes more sense.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> It is just much more believable to realize that somebody else has accomplished what was once considered impossible if you have done it yourself. I think that is how the billionaires experienced it, and that was a significant part of the content of The Legacy Letter.
+					<span class="douglas">Douglas:</span> It is just much more believable to realize that somebody else has accomplished what was once considered impossible if you have done it yourself. I think that is how the billionaires experienced it, and that was a significant part of the content of <span class="italic">The Legacy Letter</span>.
 				</p>
 				<p class="h-l">
 					H.L. So you felt your book had finally found its market?
@@ -589,13 +610,13 @@
 					H.L. Problems like what?
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Like who to exclude and who not to exclude. It seemed like the wealthy friends of the billionaires were more interested in the book or coming to The Theorem Website more often than the actual people I sent the letter to. It was as though they did not want to be excluded, and they were waiting for their copy of The Legacy Letter. After all, these are very powerful men, and this is a big discovery. And these guys work very hard to make sure they will never be excluded. So I didn’t want to bruise any egos. I quickly realized that I could make powerful enemies on accident, if I didn’t get them their copy of the letter.
+					<span class="douglas">Douglas:</span> Like who to exclude and who not to exclude. It seemed like the wealthy friends of the billionaires were more interested in the book or coming to The Theorem Website more often than the actual people I sent the letter to. It was as though they did not want to be excluded, and they were waiting for their copy of <span class="italic">The Legacy Letter</span>. After all, these are very powerful men, and this is a big discovery. And these guys work very hard to make sure they will never be excluded. So I didn’t want to bruise any egos. I quickly realized that I could make powerful enemies on accident, if I didn’t get them their copy of the letter.
 				</p>
 				<p class="h-l">
 					H.L. That’s a good point. I never thought of that. I suppose it comes with the territory.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Yeah, it was a problem I hadn’t anticipated either; I essentially was trapped by my own success, the convincing clarity of The Legacy Letter. Yet I was not successful at all in achieving my original goal. So of course I kept emailing. I was originally only going to send out 100 copies and be done in 3 months. I ended up sending out 10,000 copies and it took almost 3 years! So word got out. The book became popular, but another problem was that I was not receiving any money from the book and I didn’t have any copies just sitting around in boxes or anything. I am just not that way.
+					<span class="douglas">Douglas:</span> Yeah, it was a problem I hadn’t anticipated either; I essentially was trapped by my own success, the convincing clarity of <span class="italic">The Legacy Letter</span>. Yet I was not successful at all in achieving my original goal. So of course I kept emailing. I was originally only going to send out 100 copies and be done in 3 months. I ended up sending out 10,000 copies and it took almost 3 years! So word got out. The book became popular, but another problem was that I was not receiving any money from the book and I didn’t have any copies just sitting around in boxes or anything. I am just not that way.
 				</p>
 				<p class="h-l">
 					H.L. No, you were living like a gypsy, always moving. It would have been hard to have a box of books with you.
@@ -619,7 +640,7 @@
 					H.L. That’s so true. Explain.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Well, one morning it all hit me. But before that, I was starting to see patterns. I was starting to piece together the fact that those who showed the most interest in The Legacy Letter and The Theorem seemed to be getting into a lot of trouble with the government. I would even say out loud, “Boy do these guys live some type of risky lifestyle. They are real high rollers!”
+					<span class="douglas">Douglas:</span> Well, one morning it all hit me. But before that, I was starting to see patterns. I was starting to piece together the fact that those who showed the most interest in <span class="italic">The Legacy Letter</span> and The Theorem seemed to be getting into a lot of trouble with the government. I would even say out loud, “Boy do these guys live some type of risky lifestyle. They are real high rollers!”
 				</p>
 				<p class="h-l">
 					H.L. Sure, you didn’t want to make a direct connection back to you, but still you noticed a pattern.
@@ -775,7 +796,7 @@
 					H.L. Yes, I remember, it was a great movie as I said.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> So I bring that up because this is what it was like in my situation. Someone would come to my website, heavily, and then three weeks to a month later, they would ‘commit a crime’ or at least be charged with one; typically a securities violation, tax issues or even more serious offenses. No matter, the end result was that the reputation they had worked so hard to cultivate would be ruined. I could not believe it. But it was definitely happening, over and over again. At first, like seeing the mouse run across the floor, I lived in total denial. I would just lie to myself because I did not want to be responsible. But I really liked these potential investors and donors I sent The Legacy Letter to; I even considered some of them my friends. I was devastated! It is just so painful. To think and realize what they have done to me, to these people. I can’t believe I let it happen.
+					<span class="douglas">Douglas:</span> So I bring that up because this is what it was like in my situation. Someone would come to my website, heavily, and then three weeks to a month later, they would ‘commit a crime’ or at least be charged with one; typically a securities violation, tax issues or even more serious offenses. No matter, the end result was that the reputation they had worked so hard to cultivate would be ruined. I could not believe it. But it was definitely happening, over and over again. At first, like seeing the mouse run across the floor, I lived in total denial. I would just lie to myself because I did not want to be responsible. But I really liked these potential investors and donors I sent <span class="italic">The Legacy Letter</span> to; I even considered some of them my friends. I was devastated! It is just so painful. To think and realize what they have done to me, to these people. I can’t believe I let it happen.
 				</p>
 				<p class="h-l">
 					H.L. That’s okay take your time, no rush.
@@ -847,7 +868,7 @@
 					H.L. Sure. This would be anyone’s reaction.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Still it kept happening, especially in regards to Africa. So to test the hypotheses, and to further refine the accuracy of the detection tool and technique I had developed, I put my hunch to the test. I really don’t know why I did it, I had nothing to gain, and it wasn’t really like me. I found a country in Africa that I really wanted to visit one day, and had interest in. Then after sending the wealthiest individuals a copy of The Legacy Letter, I would essentially create a false narrative.
+					<span class="douglas">Douglas:</span> Still it kept happening, especially in regards to Africa. So to test the hypotheses, and to further refine the accuracy of the detection tool and technique I had developed, I put my hunch to the test. I really don’t know why I did it, I had nothing to gain, and it wasn’t really like me. I found a country in Africa that I really wanted to visit one day, and had interest in. Then after sending the wealthiest individuals a copy of <span class="italic">The Legacy Letter</span>, I would essentially create a false narrative.
 				</p>
 				<p class="h-l">
 					H.L. I don’t understand, what do you mean with a false narrative?
