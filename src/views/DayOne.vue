@@ -687,8 +687,8 @@
 				</p>
 				<p>
 						<span class="douglas">Douglas:</span> Yes, but again that was just coincidental and that person was never directly involved in my detection efforts.
-				</p>
-				<p class="h-l">
+						<br />
+						<br />
 						However, I will say that this person being there gave me confidence, and I would learn things just by having conversations with them. But no, they were never directly involved.
 						<br />
 						<br />
@@ -841,7 +841,6 @@
 				</p>
 				<p class="h-l">
 						H.L. Okay, just trying to process this all. You go up to the Tennessee Mountains, you decide to write wealthy individuals for assistance; the letter is a big success, but you don’t know it yet.
-						<br />
 						<br />
 						Then the billionaires call you on the phone, you do poorly with this, and therefore do not get the money. Then you develop a method to detect who is coming to your website and realize the letter is a success after all.
 				</p>
@@ -1024,8 +1023,8 @@
 				</p>
 				<p>
 						<span class="douglas">Douglas:</span> I am serious. You can’t make this stuff up.
-				</p>
-				<p class="h-l">
+						<br />
+						<br />
 						Here’s what happened: Next to us, and below was an old rental cabin that no one ever used; and I mean never. Well one day, someone with a new pickup pulled up to that cabin in the morning.
 						<br />
 						<br />
