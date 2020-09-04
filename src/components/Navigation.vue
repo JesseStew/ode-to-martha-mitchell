@@ -280,7 +280,7 @@ export default {
 		blue: '#14143a',
 		pages: [
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/home_final.jpg?alt=media&token=57982954-1dcf-448d-a55d-f247acf60c21',
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/home_final.jpg?alt=media&token=f5d8e3b8-5f99-437d-9136-08b398eea475',
 				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/home_final_lazy.jpg?alt=media&token=103815fa-2c3d-4a18-9c50-b35589962a5d",
 				name: 'Home',
 				path: '/',
