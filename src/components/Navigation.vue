@@ -293,8 +293,8 @@ export default {
 				minHeight: 732,
 			},
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/legacy_letter_final_cropped.jpg?alt=media&token=3933143d-058b-4c62-8811-97da7ecf2d78',
-				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/legacy_letter_final_lazy_cropped.jpg?alt=media&token=52170604-d3f3-483c-97bc-f23002ebfc86",
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/legacy_letter_final_cropped.jpg?alt=media&token=d80a5f70-f086-4b62-90b0-754b4bdbf318',
+				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/legacy_letter_final_lazy_cropped.jpg?alt=media&token=f2bf5619-6468-4822-b52c-b93b6c1605e6",
 				name: 'LegacyLetter',
 				path: '/legacy-letter',
 				title: 'Legacy Letter',
