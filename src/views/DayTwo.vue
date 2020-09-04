@@ -553,8 +553,7 @@
 				<br />
 				<br />
 				And this is going to go on for years. I will soon be out of Tennessee, free of the mess and stress. But for Barack Obama the nightmare is just beginning. Everyone will have their hand out; he is giving out the best Halloween candy in the neighborhood. American greenbacks are very valuable!
-				<br />
-				<br />
+				<p class="h-l">
 				H.L. Yes, but there’s more to it isn’t there? It’s almost hoarding, as America is keeping this discovery to itself.
 				<br />
 				<br />
