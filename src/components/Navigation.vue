@@ -145,7 +145,7 @@
 							Day 4 - South Pacific
 						</v-btn>
 					</v-col>
-					<v-col v-if="$vuetify.breakpoint.md" md="3"></v-col>
+					<v-col v-if="$vuetify.breakpoint.mdAndUp" md="3"></v-col>
 					<v-col cols="4" md="3" :color="pages[model].color" @click="tabMethod(7)">
 						<v-btn block @click="tabMethod(7)" tile small :color="pages[model].color" icon>
 							Day 5 - Rome, Italy
@@ -156,7 +156,7 @@
 							Day 6 - Los Angeles
 						</v-btn>
 					</v-col>
-					<v-col v-if="$vuetify.breakpoint.md" md="3"></v-col>
+					<v-col v-if="$vuetify.breakpoint.mdAndUp" md="3"></v-col>
 				</v-row>
 			</v-row>
 		</v-container>
