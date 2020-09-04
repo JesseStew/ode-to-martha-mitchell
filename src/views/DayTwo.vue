@@ -356,7 +356,7 @@
 					H.L. Fascinating. And you are about the same age as well. He is only a couple of years older.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Sure, and we are about to embark on a battle; both opponents convinced they are right, and this battle is going to cost the American taxpayers trillions of dollars. It’s going to consume an entire 6 years of American History; and in many ways, it will steal six years of world history. It is going to derail the focus of an entire first term of a Presidency in that of Donald Trump. It’s going to cost countless men and women their careers; their marriages, their livelihoods, and even their reputations. The list goes on and on.
+					<span class="douglas">Douglas:</span> Sure, and we are about to embark on a battle; both opponents convinced they are right, and this battle is going to cost the American taxpayers hundreds of billions of dollars. It’s going to consume an entire 6 years of American History; and in many ways, it will steal six years of world history. It is going to derail the focus of an entire first term of a Presidency in that of Donald Trump. It’s going to cost countless men and women their careers; their marriages, their livelihoods, and even their reputations. The list goes on and on.
 				<br />
 				<br />
 				But it all comes down to a philosophy of action and accomplishment. I saw the world one way, and it netted me the largest discovery, perhaps the largest intellectual discovery in the history of mankind; the very origins that define us all.
@@ -374,7 +374,7 @@
 				He will win, but the price will be astronomically high. It will almost cost him his life in 2017, and it will almost cost me mine in 2019; this struggle. Others will not be so lucky.
 				<br />
 				<br />
-				It is a massive undertaking, and unless you are a billionaire, or are some connected wealthy or political elite you would not have had a clue that the battle was even raging. You would scratch your head like billions of others, like the bank teller and say, “I know something is going on, but I don’t what it is.”
+				It is a massive undertaking, and unless you are a billionaire, or are some connected wealthy or political elite you would not have had a clue that the battle was even raging. You would scratch your head like millions of others, like the bank teller and say, “I know something is going on, but I don’t what it is.”
 				</p>
 				<p class="h-l">
 					H.L. Yes, but everyone could feel it, everyone knew something was going on. The only difference is that we are going to define it, to reveal it.
@@ -642,7 +642,7 @@
 					<span class="douglas">Douglas:</span> Yes, it’s not going to get any easier, from here on in. These three are in way over their head. They were extremely overmatched.
 				</p>
 				<p class="h-l">
-					H.L. That is so true. From your description, I can almost visualize and old Three Stooges movie, but now the cast is different. Bill, Hillary and Barack clumsily stumbling around this vast lawn of the mansion of one of these ‘old money’ families, trying to interrupt an outdoor summer party by snatching the checkbooks out of the hands of the donors.
+					H.L. That is so true. From your description, I can almost visualize an old Three Stooges movie, but now the cast is different. Bill, Hillary and Barack clumsily stumbling around this vast lawn of the mansion of one of these ‘old money’ families, trying to interrupt an outdoor summer party by snatching the checkbooks out of the hands of the donors.
 				</p>
 				<p>
 					<span class="douglas">Douglas:</span> And you said I was harsh.
@@ -1078,7 +1078,7 @@
 					H.L. Yes.
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> Now with that said. There is a large difference between me and the Clintons. I have spent the last 25 years of my life working my fingers to the bone to get better. They in contrast have spent the last 25 years indulging and feasting on the souls of others, while ignoring the very pain that defines them. If I have any advantage, it is this.
+				<span class="douglas">Douglas:</span> Now with that said, there is a large difference between me and the Clintons. I have spent the last 25 years of my life working my fingers to the bone to get better. They in contrast have spent the last 25 years indulging and feasting on the souls of others, while ignoring the very pain that defines them. If I have any advantage, it is this.
 				<br />
 				<br />
 				The energy I have now is my own, earned by me. I take no hostages. I keep no prisoners. That is my greatest personal accomplishment, If not my only one. But it was not always that way. I was not always that way.
@@ -1137,7 +1137,7 @@
 					H.L. I caught it; I figured you would explain it later.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> It is just that yesterday when I said I waited 10 years to write the final draft of The Theorem, as I was submerged in doubts. Well most of that is true. And for all practical purposes I did wait. But in 1995, I did send out a completed manuscript called: A Theorem of Natural Conspiracy.
+					<span class="douglas">Douglas:</span> It is just that yesterday when I said I waited 10 years to write the final draft of The Theorem, as I was submerged in doubts. Well most of that is true. And for all practical purposes I did wait. But in 1995, I did send out a completed manuscript called: <span class="italic">A Theorem of Natural Conspiracy</span>.
 				</p>
 				<p class="h-l">
 					H.L. Sounds like a detective novel.
@@ -1529,8 +1529,6 @@
 				</p>
 				<p>
 				<span class="douglas">Douglas:</span> Very good point. The goal is to find the ones who are vulnerable, for they are easier to trick. This is getting harder than it used to be.
-				<br />
-				<br />
 				</p>
 				<p class="h-l">
 				H.L. What do you mean by that?
@@ -1705,6 +1703,8 @@
 					<span class="douglas">Douglas:</span> Exactly, as tacky as that sounds; unfortunately, you hit it right on the target.
 				<br />
 				<br />
+				</p>
+				<p class="h-l">
 				H.L. I think you are obviously correct on this point. But the Democratic Party is still singing that same old tune.
 				<br />
 				<br />
