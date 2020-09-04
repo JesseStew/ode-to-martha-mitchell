@@ -183,8 +183,8 @@
 				</p>
 				<p>
 					<span class="douglas">Douglas:</span> So true, I bet he would like to have that speech back.
-				<br />
-				<br />
+				</p>
+				<p class="h-l">
 				H.L. I am sure you’re right.
 				<br />
 				<br />
