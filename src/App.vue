@@ -30,6 +30,10 @@ export default {
 </script>
 
 <style>
+.break {
+    display: block;
+    height: 5px;
+}
 .main-text {
     font-size: 1.2em;
     margin-top: 4px;

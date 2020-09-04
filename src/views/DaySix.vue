@@ -53,8 +53,7 @@ H.L. Yes, and while I have been fishing every evening, I did have the entire day
 </p>
 <p>
 <span class="douglas">Douglas:</span> It is, and as you know, I have slept very little over the last two nights and have been working on the summary, which I will not give you until later.
-<br />
-<br />
+<span class="break"></span>
 You will understand the reason for this soon enough.
 </p>
 <p class="h-l">
@@ -91,8 +90,7 @@ H.L. Yes, you have made that clear. But to drop them off a cliff like that?
 </p>
 <p>
 <span class="douglas">Douglas:</span> That really sounds sinister, especially the second time. They will have already fallen off the cliff by then.
-<br />
-<br />
+<span class="break"></span>
 I just know you worked really hard on these questions, and I did as well on the answers; so I just don’t want them to be overshadowed and quickly forgotten.
 </p>
 <p class="h-l">
@@ -109,11 +107,9 @@ H.L. Are you ready?
 </p>
 <p class="h-l">
 H.L. This is unusual, but I will start.
-<br />
-<br />
+<span class="break"></span>
 Okay.
-<br />
-<br />
+<span class="break"></span>
 Now, I wanted to know what you had planned for your life next. You said something about a book. Do you plan on keeping your writing studio here in the Ozarks?
 </p>
 <p>
@@ -139,8 +135,7 @@ H.L. What is it about?
 </p>
 <p class="h-l">
 H.L. That’s good. I agree The Theorem elevates the female gender; it can be difficult for a man to accept. I will be interested to see how you pull that one off, though I think I have an idea.
-<br />
-<br />
+<span class="break"></span>
 And about The Theorem? Any hopes for that in the future?
 </p>
 <p>
@@ -166,17 +161,14 @@ H.L. I understand. I will look forward to the online version of The Theorem as w
 </p>
 <p class="h-l">
 H.L. Since this is an interview, although instead it has become more of a lesson in recent American History, I should also inquire of some more personal aspects of your life.
-<br />
-<br />
+<span class="break"></span>
 Do you have a particular agenda or interest as an author or on a personal level you wish to forward?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure, I do.
-<br />
-<br />
+<span class="break"></span>
 I have three actually, though since spending too much time on all of them would be exhaustive, I will focus on the first.
-<br />
-<br />
+<span class="break"></span>
 My primary focus, and this is foreshadowing my next book, is improving the empathy and overall understanding between major religions in the world.
 </p>
 <p class="h-l">
@@ -184,8 +176,7 @@ H.L. Sounds like a big project.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, and no. Certainly it is an important one. My primary interest is relations between Muslims, Christians and those of the Jewish Faith. But certainly I will not exempt Buddhism or Taoism and many other religions from the invite.
-<br />
-<br />
+<span class="break"></span>
 You know it is so critical to realize that The Theorem belongs to everyone, of every faith. These are the answers to who we are, to what motivates our every action. It is the reason we talk; we reproduce, the purpose of our sleep, and the origin of our dreams. It is the behaviors in the aggregate, and disorders of those behaviors in the specific. Again, this is a once in a civilization, once in a species discovery.
 </p>
 <p class="h-l">
@@ -193,17 +184,13 @@ H.L. I agree.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Therefore it is important to illustrate that the work does not belong to one country, one ethnicity or one religion. It just never will. No one can hold the patent or the trademark to all our behaviors, as this copyright belongs to each one of us.
-<br />
-<br />
+<span class="break"></span>
 It belongs to the small café owner of the Muslim faith in Cairo; and to the Jewish doctor in Tel Aviv. It belongs to the Christian cowboy in Wyoming, the Buddhist politician in Thailand, the Hindu hotelier in Goa and the Daoist teacher in Guangzhou. It belongs to all of us.
-<br />
-<br />
+<span class="break"></span>
 While I am a Christian now, I was not at the time of the Theorem’s discovery back in 1994. Looking back, I believe that is important; in fact I will say I believe it was mandatory because I can never attribute this work to one specific religion, one specific people. It has to be that way.
-<br />
-<br />
+<span class="break"></span>
 Sure, I am American, born in Las Vegas, Nevada; but that is nothing more than a curiosity. It is a title among people who do not really need titles. Ultimately, I am a citizen of the world; of our new world where boundaries are nothing more than an IP address, or a stamp in your passport. It just has to be this way.
-<br />
-<br />
+<span class="break"></span>
 So yes, this is what I want to focus on illustrating.
 </p>
 <p class="h-l">
@@ -217,11 +204,9 @@ H.L. As witnessed here.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, I think we have covered that from about every angle.
-<br />
-<br />
+<span class="break"></span>
 The third and final focus is a selfish motive; I believe writers and authors are terribly underpaid and very much exploited. This is especially true by the online retailers of books. This must stop.
-<br />
-<br />
+<span class="break"></span>
 While it is likely too late for me, I want a future generation of writers to be well compensated for their efforts. It is critical we see the quality of the human intellect advance, and financial incentive is certainly a logical way to foster that growth.
 </p>
 <p class="h-l">
@@ -235,14 +220,11 @@ H.L. I don’t quite understand.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well the whole scenario is quite surreal.
-<br />
-<br />
+<span class="break"></span>
 There I am stumbling around the world, the uninformed messenger; I fall into this cabin in rural Tennessee and just so happen to write the world’s wealthiest people and gain their interest.
-<br />
-<br />
+<span class="break"></span>
 The government in response begins this massive cover-up and concealment operation. The ramifications then bleed into another presidential administration.
-<br />
-<br />
+<span class="break"></span>
 Some acid-washed version of Forrest Gump; it’s just all so bizarre.
 </p>
 <p class="h-l">
@@ -268,20 +250,17 @@ H.L. What do you mean by that exactly?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Like one cold Tennessee morning, mixed with hickory ashes in the fireplace were the embers of discontent, some foreign force inside that just had enough of me. It wanted out.
-<br />
-<br />
+<span class="break"></span>
 The discovery had outgrown its host. So unknowingly but obediently, I compose The Legacy Letter. Unknowingly but obediently, I seek out the most powerful individuals in the world. So The Theorem is looking for a new home, all the while I think it is about me.
 </p>
 <p class="h-l">
 H.L. I see. Implying The Theorem and the originating discovery has its own mind, is its own independent entity? Kind of like the movie Alien, it is tired of you so it rips out of your chest and goes to look for someone else to host it.
-<br />
-<br />
+<span class="break"></span>
 I never thought of that; but in a way, it is the story you just told, the one we just experienced here.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes exactly like that; a much better analogy than the first. With that said who can then blame me for running to the shelter of Christ or the safe harbor of The Church when events like those occur?
-<br />
-<br />
+<span class="break"></span>
 I got scared. I am only a man like all others. It took awhile, many years, but finally I got scared.
 </p>
 <p class="h-l">
@@ -301,8 +280,7 @@ H.L. At least you will have a good seat.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, well I hope the parade starts soon. Because you know many of these wealthy individuals are getting up there in age, some of them have been with me for six years now and would really like to see The Theorem accepted and celebrated before they pass.
-<br />
-<br />
+<span class="break"></span>
 This is a big deal to a lot of people, and they want to be a part of it. They want to see this happen in their lifetime. So I hope the parade starts soon.
 </p>
 <p class="h-l">
@@ -316,8 +294,7 @@ H.L. Other thoughts?
 </p>
 <p>
 <span class="douglas">Douglas:</span> I am going to take a deep breath and tell you.
-<br />
-<br />
+<span class="break"></span>
 	Yes, I feel better.
 </p>
 <p class="h-l">
@@ -325,8 +302,7 @@ H.L. Yes, over the last week you were often pale and occasionally I noticed you 
 </p>
 <p>
 <span class="douglas">Douglas:</span> What a journey it has been. I think when you leave I am going to go outside and scream it. What a journey!  I feel better; I can’t believe today is the last day, finally we are almost finished.
-<br />
-<br />
+<span class="break"></span>
 This is such a personal victory regardless of the outcome. I know it will sound like an exaggeration, but I just realized that I have not been breathing properly for an entire year or maybe longer; this was welled up inside of me.
 </p>
 <p class="h-l">
@@ -340,14 +316,11 @@ H.L. At the same time what?
 </p>
 <p>
 <span class="douglas">Douglas:</span> This leaves a mark on you. I was up much of the night thinking about it. It is such a lie, all the cheering and the victory laps; really I will never be the same after this. It was just so much for so long. It will define the rest of my life. It was a lifetime of events and pain in just six years.
-<br />
-<br />
+<span class="break"></span>
 Reliving it now, while helpful, makes me realize just how intense it all was. No one escapes from something like this unaffected; while it is a necessary lie you tell yourself all in order to get through it, still it’s a lie nonetheless. A part of me died during these events. While I can say it was a bad part, a good part to get rid of, in the end I have my doubts. They took something I can never get back. I see that now.
-<br />
-<br />
+<span class="break"></span>
 	H.L. Having something so much out of your control define you is not something you ever really saw coming, I imagine.
-<br />
-<br />
+<span class="break"></span>
 <span class="douglas">Douglas:</span> No it wasn’t. You are right on that.
 </p>
 <p class="h-l">
@@ -361,8 +334,7 @@ H.L. So I won the contest after all?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Everyone wants to change the world, but no one thinks of changing himself. They are powerful words, from a great writer.
-<br />
-<br />
+<span class="break"></span>
 Yes you won; you beat me at my own game. There are no other writers in the world like the Russian Greats. As Dostoevsky said, we all came out of Gogol’s Overcoat.
 </p>
 <p class="h-l">
@@ -385,18 +357,15 @@ H.L Obviously.
 </p>
 <p class="h-l">
 H.L. I see. I think.
-<br />
-<br />
+<span class="break"></span>
 Well since you spoke of a quote I mentioned, I will return the favor and throw yours back at you. Being a self described, ‘Freak in the circus, who takes off his costume and rewinds his mind.’
 In the end you are not planning on deserting us, I hope?
 </p>
 <p>
 <span class="douglas">Douglas:</span> No, never. What you see is what you get. I have spent 25 years, now almost 26 years on this uneven trek to help humanity; I have no plans on deserting anyone now.
-<br />
-<br />
+<span class="break"></span>
 I am not suddenly going to take up another vocation, or tell you I have some other great calling. I am a writer and theorist, and this is what I will continue to do. I am a writer and wherever I am at this will never change. I may sail to Byzantium, but my direct focus will always be on humanity, on men and women and on women and men. That will never end.
-<br />
-<br />
+<span class="break"></span>
 People may have to be a little patient with me as sometimes my writing production is slower than it is for others, but I will get there. And everyone else will too.
 </p>
 <p class="h-l">
@@ -410,8 +379,7 @@ H.L. Yes, really.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I don’t understand, you have five pages of questions there, and that is all you are going to ask me. I don’t get it.
-<br />
-<br />
+<span class="break"></span>
 What’s going on?
 </p>
 <p class="h-l">
@@ -419,8 +387,7 @@ H.L. Well, I don’t know how long your section is going to be, and I don’t wa
 </p>
 <p>
 <span class="douglas">Douglas:</span> Oh I see.
-<br />
-<br />
+<span class="break"></span>
 You know what this is really about. I should tell the reader’s but I won’t. I don’t want to jeopardize your professional credibility.
 </p>
 <p class="h-l">
@@ -428,14 +395,11 @@ H.L. I have no idea what you are talking about.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Are you sure about that?
-<br />
-<br />
+<span class="break"></span>
 Fine I will tell them then, even though I am sure you will not be brave enough to leave this in.
-<br />
-<br />
+<span class="break"></span>
 Okay, I live less than 10 feet from a private fishing dock and a series of boat slips. My tiny dumpy writing studio/apartment is literally right on the water. Now, for the entire morning, with every fisherman or family that walks by with fishing poles in hand; well, the expression on your face is priceless. You look like a sulking dog. I really wish I had a camera to capture that image.
-<br />
-<br />
+<span class="break"></span>
 I know you want to be fishing. So that is fine, the reader can learn more about my future plans another time.
 </p>
 <p class="h-l">
@@ -476,8 +440,7 @@ H.L. How can I do that when I am not really sure exactly where you are going to 
 </p>
 <p class="h-l">
 H.L. I have an idea of which direction you are heading. You said it would be bad, and the rest of this has had some brutal content in there, so I am imagining the worst. Are you alright? You seem a little spaced out.
-<br />
-<br />
+<span class="break"></span>
 Of course we can leave it; we have plenty if you don’t want to go through with this.
 </p>
 <p>
@@ -506,11 +469,9 @@ H.L. Sure, but death is a normal part of our existence. You can’t just ignore 
 </p>
 <p>
 <span class="douglas">Douglas:</span> No, you can’t. Not any longer at least.
-<br />
-<br />
+<span class="break"></span>
 While I have not mentioned death extensively it was always there, lingering around The Theorem all the way back to the beginning. First it was my grandfather in 1995; grandmother in 2000 and finally, almost ten years ago, my father. It was always there. While those are a few of my personal experiences with death, there were always other deaths as well; those less directly connected to me but still very close to the work, The Theorem: A Complete Answer to Human Behavior and its originating discovery.
-<br />
-<br />
+<span class="break"></span>
 When I sent out The Legacy Letter in 2014, I became more aware of man’s mortality. In some cases, I would send out The Legacy Letter to someone who appeared from my perception to be alive and well; only to be informed later that this person had indeed perished. This was embarrassing, as it made me feel amateurish or uncaring, as if I hadn’t read carefully enough their biography. I would quickly apologize for my insensitivity.
 </p>
 <p class="h-l">
@@ -518,11 +479,9 @@ H.L. I imagine that was embarrassing.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes definitely it was. But at the same time, as I said earlier, many of my potential donors were already up there in age to begin with, so it should have been expected; their advanced age and the years of responsibility related to earning and preserving that large amount of a fortune had taken its toll on their physical body. So again, I should not have been surprised.
-<br />
-<br />
+<span class="break"></span>
 Each death however, regardless of the circumstances, I took very personal. I had never attached this quality to death before. I am typically less likely than the average person to be affected by the death of an individual I do not know very well; this was my summation at least.
-<br />
-<br />
+<span class="break"></span>
 With The Legacy Letter however it was different. Because when I chose that person, when I found them, it was by utilizing all the unspoken perceptions and sensory guidance I had in me to seek them out; I was studying and researching a person very alive and vibrant, but when I would send it out to them, they were gone. They had vacated this plane for another.
 </p>
 <p class="h-l">
@@ -530,14 +489,11 @@ H.L. That makes sense, it would affect you.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, it did, very much so; this was because I was inviting them into my life, into my reality, into my discovery. Then, like a thief, death came and took them away from me and away from my words. Therefore I started to dislike death, this intangible vapor that seemed to hover around the heads of many of my potential donors.
-<br />
-<br />
+<span class="break"></span>
 It was personal; death had set out to embarrass me, and like my affluent clientele, I did not like to be embarrassed. Therefore I did not like death. You see I was presenting heavy words, deep concepts and life changing themes. But what is more life changing than death? Nothing! Absolutely Nothing! So death was a competitor as well, and one I could never prevail over.
-<br />
-<br />
+<span class="break"></span>
 More than that, I found myself overreacting to the deaths of my potential donors. Suddenly I was that girl we all knew in school, the one who was so distraught and moved over the death of someone she barely knew about, and certainly had never met.
-<br />
-<br />
+<span class="break"></span>
 Death was something that was becoming adversarial to me personally.
 </p>
 <p class="h-l">
@@ -551,8 +507,7 @@ H.L. Yes, having a large amount of money and responsibility can lead to a shorte
 </p>
 <p>
 <span class="douglas">Douglas:</span> It can, though some of these individuals obituaries would prove you wrong, as others had a very long and prosperous life.
-<br />
-<br />
+<span class="break"></span>
 I explained a few days ago about how the detection tool I created gave me some limited insight into people’s behavior on the other end of my website. I focused on the celebrities; I said that some were visiting, the female celebrities, because they were pregnant. And then there were others that were older, often sick. Do you remember that?
 </p>
 <p class="h-l">
@@ -566,8 +521,7 @@ H.L. Well that is both logical and illogical. While it might be logical to have 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Is it really illogical? I wonder. I really do. This was how I felt, the face of death was letting me know on a personal level it was time to change some things around. It was time to grow up, to quit being so flaky and indulging in my own pain. Death essentially made a man out of me, where everything else had failed; where the artistic temperament had allowed me to endure longer than usual in immaturity, I had finally found a reason for urgency. Expediency was my new motto. I had a new enemy, and needed new tools to combat it.
-<br />
-<br />
+<span class="break"></span>
 But death had many weapons in his arsenal; time was a big one, he could use time against me and against my people. Time was on his side, not on mine. I felt I was racing against him, racing against death. He was a serious foe, as I realized that youth and potentially investing in The Theorem were typically contradictory.
 </p>
 <p class="h-l">
@@ -575,8 +529,7 @@ H.L. We all race against death.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes but it was more than that, in this case at least. That is what I was trying to say. I felt that some of my potential investors, the ones most interested were gravitating somewhere around that cusp. It was a cusp between obtaining all the worldly knowledge one can acquire, before passing onto another realm.
-<br />
-<br />
+<span class="break"></span>
 It was as though, they were almost full. And The Theorem was in danger of filling them, answering the very questions that were keeping them hanging onto this world before they went to the next. That is what I am trying to express.
 </p>
 <p class="h-l">
@@ -614,15 +567,12 @@ H.L. Really?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes! Yes. This is not something I would make up.
-<br />
-<br />
+<span class="break"></span>
 At first, I said I was tired. Maybe it was just delayed stress, maybe that or an overactive imagination; maybe, maybe, maybe…
 But then I went back and slowly reviewed all the events of our Missouri home which occurred during the spring of 2016. From this safe vantage point, I meticulously pulled up each night.
-<br />
-<br />
+<span class="break"></span>
 I looked deeper, then deeper still into the hours before dawn. I would explore and review the events, each twist of the doorknob, each stalking and shadowy figure that walked past our windows. I quickly realized there was a contrast, a direct contrast between the precision of the executed presence of the governmental subcontractor and that of another.
-<br />
-<br />
+<span class="break"></span>
 This other shadow had deeper intentions, he pulled you into his intent where you could feel his sickness festering, manageably, but manifesting nonetheless.
 </p>
 <p class="h-l">
@@ -678,11 +628,9 @@ H.L. So they are wealthy? They are someone you sent The Legacy Letter to? A bill
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, they are someone who received a copy of The Legacy Letter. But I will not disclose whether they are a billionaire or not; at least not yet. But they have plenty of money, I can tell you that. Remember I sent The Legacy Letter out to many wealthy or successful individuals whose net worth wasn’t even close to a billion dollars.
-<br />
-<br />
+<span class="break"></span>
 This killer also only goes after the rich, as most of his victims are wealthy; many were even billionaires. He doesn’t seem to have any interest in killing the poor.
-<br />
-<br />
+<span class="break"></span>
 He is an elitist serial killer, if such a thing exists? He may be the one of the first of this type in history. Certainly he will end up one of the most infamous ones.
 </p>
 <p class="h-l">
@@ -690,11 +638,9 @@ H.L. When did you find out about him? When did you realize that you may have bee
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well, I was never fully sure, at least not until recently.
-<br />
-<br />
+<span class="break"></span>
 There are some unique qualities to our serial killer however. First, he is not necessarily impulsive. He is not a vision-oriented serial killer or hedonistic or even interested in power and control from the act itself. Among the classic categories; being a mission-oriented serial killer would best describe him, though that is not even a perfect fit.
-<br />
-<br />
+<span class="break"></span>
 Also, what differentiates him from other serial killers is that these are contract serial killings. In other words he does not actually participate in the physical act of killing. Therefore he will likely require photographs of the crime scene taken by the individual or individuals who actually executed the act. He also will follow the events closely in the media to reenact the thrill of the event.
 </p>
 <p class="h-l">
@@ -708,11 +654,9 @@ H.L. I see. Yes, sounds like a pattern or serial killer to me, those are classic
 </p>
 <p>
 <span class="douglas">Douglas:</span> He is, and his pattern is accelerating.
-<br />
-<br />
+<span class="break"></span>
 You know I would really like to have more time on this. I hate to rush it, for as you will soon realize these events are very close, one is less than 4 months old.  However as I stated, his trajectory is increasing in frequency, and he will likely strike again soon; if he hasn’t already. So again, time as it always is with death, is our enemy.
-<br />
-<br />
+<span class="break"></span>
 We need to expose him as soon as possible, or else witness the consequences.
 </p>
 <p class="h-l">
@@ -726,8 +670,7 @@ H.L. I don’t quite understand. So we are going to look at another death, thoug
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, out of respect to our victim we need to backtrack a bit. We need to cover his death.
-<br />
-<br />
+<span class="break"></span>
 Again, I wasn’t even going to bring him up at all, but I feel it would not be right to ignore the suspicious and tragic events around his demise. I can justify including him because we are covering the serial murders.
 </p>
 <p class="h-l">
@@ -735,8 +678,7 @@ H.L. I understand. So this individual meant a lot to you? It could be murder, no
 </p>
 <p>
 <span class="douglas">Douglas:</span> To answer your first question, yes he meant a great deal to me, absolutely.
-<br />
-<br />
+<span class="break"></span>
 As far as your second question goes, it could have been murder of course. This was actually my first reaction or suspicion in regards to his death; though over time, the facts have not supported my initial assumption. Still, his death was very suspicious.
 </p>
 <p class="h-l">
@@ -747,8 +689,7 @@ H.L. We have been through so much over these six days, now a serial killer at th
 </p>
 <p class="h-l">
 H.L. No, no, of course not; keep going.
-<br />
-<br />
+<span class="break"></span>
 Okay, so who is it. Or who was it?
 </p>
 <p>
@@ -765,11 +706,9 @@ H.L. Was he violating them?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Not from what I can tell, not from what many others could tell as well.
-<br />
-<br />
+<span class="break"></span>
 He was conducting business the same way and along the same standards as everyone else in that field; the energy sector. He was targeted. I saw the warning signs before it even happened. I sat there and watched helpless as I had done for the previous two years, with many other individuals. I watched the same pattern unfold for him. I realized increased web traffic from him reaching a crescendo not long before his indictment.
-<br />
-<br />
+<span class="break"></span>
 What made his case different however was his death. I felt they had gone too far, I just didn’t think the administration was capable of pushing a man over the limit like that.
 </p>
 <p class="h-l">
@@ -783,11 +722,9 @@ H.L. What do you mean?
 </p>
 <p>
 <span class="douglas">Douglas:</span> His life was a storybook adventure seekers tale. He had the book smarts, a background in accounting and at the same time he had the heart of a wildcatter. I was very impressed with Aubrey McClendon and he knew it. I watched videos on him, I called him on a couple of occasions, and I may have even sent him a Christmas card in December of 2015, just a few months before he died.
-<br />
-<br />
+<span class="break"></span>
 You know earlier when you asked me why we moved to the Midwest and to Missouri; I didn’t give you the full answer for concerns of expanding beyond the immediate topic. But the energy sector was definitely a consideration in regards to that move.
-<br />
-<br />
+<span class="break"></span>
 As I said my initial focus was always Wall Street. But right after that was the energy sector, followed in third by the pharmaceutical industry.
 </p>
 <p class="h-l">
@@ -862,8 +799,7 @@ H.L. You think he connected the dots?
 </p>
 <p>
 <span class="douglas">Douglas:</span> I really do. Remember this is March 2016. As I said, by then almost everyone knew they were using The Theorem and The Legacy Letter to target my potential donors. It is possible Aubrey McClendon did his homework on the issue and was going to expose the administration for their corruption.
-<br />
-<br />
+<span class="break"></span>
 Now even if his case was flimsy, even speculative, this could have started the ball rolling. In other words, other potential investors who were targeted could start coming forward connecting the dots together.
 </p>
 <p class="h-l">
@@ -901,8 +837,7 @@ H.L. It is.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I should also add that it may not be either of those factors that led to his death. As I began to research this, other names mysteriously started popping up on my detection tool. They were names within the industry. And these names came on my search and even on my feed fast and heavy, very heavy. And they didn’t belong there. In other words someone was watching me research Aubrey McClendon, and they seemed to be getting nervous.
-<br />
-<br />
+<span class="break"></span>
 Perhaps, as much of a maverick as Aubrey McClendon was, he may have been prepared to expose others. Though to me that shoe doesn’t fit his personality. Or others feared that he might expose them, and did away with him.
 </p>
 <p class="h-l">
@@ -910,8 +845,7 @@ H.L. That actually seems the most logical to me.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Maybe.
-<br />
-<br />
+<span class="break"></span>
 Maybe not.
 </p>
 <p class="h-l">
@@ -937,8 +871,7 @@ H.L. Yes, you said it was because of the election. I feel that was before we los
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, well murder or even suspicious deaths have a tendency to do that.
-<br />
-<br />
+<span class="break"></span>
 Anyways, I was only originally planning on taking a short break. I was going to return to sending out copies from April to at least June in 2016.
 </p>
 <p class="h-l">
@@ -973,14 +906,12 @@ H.L. The next one?  This next one will be the first murder you connect to the se
 </p>
 <p class="h-l">
 H.L. Of course I have. It was a big case. In fact when you talked about deaths, even before you brought up murders, I was going to inquire about that couple.
-<br />
-<br />
+<span class="break"></span>
 So they received The Legacy Letter?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course; Barry Sherman did. In fact he was one of the first we sent it out to. I say we, because for the first couple of weeks my girlfriend at the time helped me. It was her idea of sending it out to the owners of pharmaceutical companies. I was in disagreement with that idea, as I didn’t think it would be a fit. Obviously I was wrong.
-<br />
-<br />
+<span class="break"></span>
 Then later, in February of 2017, ten months before the deaths of The Shermans, I sent a Legacy Letter to Dr. Jeremy Desai. Dr. Desai was the CEO of Apotex, the pharmaceutical company Barry Sherman owned at the time of his death. But this is just the beginning. Because according to my detection tool, Barry Sherman visited my site the month before him and his wife were murdered. And someone from his company, Apotex, also visited The Theorem Website in November. In fact Barry Sherman was one of my top visitors from pharmaceutical companies in Canada during early November of 2017.
 </p>
 <p class="h-l">
@@ -988,11 +919,9 @@ H.L. So do you think he was going to invest, or donate?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Obviously I have no idea. I wish I knew. But I will say this; Barry Sherman was planning on giving a substantial portion of his money away near the time of his murder. So who knows?
-<br />
-<br />
+<span class="break"></span>
 Now in the next two cases, along with the last we just spoke of, these individuals all received a copy of the letter very early on. Now this is important for a couple of reasons.
-<br />
-<br />
+<span class="break"></span>
 The first is that it takes a long time to realize the impact not only of The Legacy Letter but also The Theorem itself. Barry Sherman may have put The Theorem: A Complete Answer to Human Behavior on his reading list, and that could have taken a year to get to. Then he would have to realize the effectiveness of the model in action, to watch it unfold in front of him. Then, there are the philosophical implications of a discovery of this magnitude occurring for one to even witness. The list goes on and on, but ultimately it takes time to wrap your head around the concept of The Theorem, no matter how talented and bright you are. And Barry Sherman was certainly very talented and bright.
 </p>
 <p class="h-l">
@@ -1000,8 +929,7 @@ H.L. Sure.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Then of course if he was interested, he would have to plan on allocating his investment or his funding into his schedule. As often these wealthy individuals plan a couple of years in advance as to who will receive the money they plan on giving.
-<br />
-<br />
+<span class="break"></span>
 Of course I didn’t realize any of this in the beginning. I am telling you this because I learned it the hard way. Just because I was ready to receive the money, did not mean they were ready to give it at that moment. Obviously in the beginning I was very naive to the process and I did not understand this.
 </p>
 <p class="h-l">
@@ -1027,8 +955,7 @@ H.L. Posed?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Absolutely. This is a very personal murder as you will see, but I will continue with the reaction.
-<br />
-<br />
+<span class="break"></span>
 Initially the police called it a murder/ suicide. But it was obvious to the grown Sherman children that such a verdict was not consistent with their parents’ state of mind, or even the facts of the crime scene. Therefore they hired a team of private investigators and the children’s suspicious were confirmed; it was indeed murder.
 </p>
 <p class="h-l">
@@ -1060,20 +987,16 @@ H.L. And you feel The Theorem was involved?
 </p>
 <p>
 <span class="douglas">Douglas:</span> I very much do. Again, this is a very unique murder. Our killer is a highly organized and extremely successful man. And like so many men who are successful, he has a great amount of pain inside; certainly he has more pain than anyone we have met over these six days. So he is looking to act economically, these murders likely served two purposes.
-<br />
-<br />
+<span class="break"></span>
 The first was the purpose he could sell to others on the inside, though very few likely know about this, but those that are still alive to tell about it at least. This purpose would have to suppress The Theorem. To the outside, it was to send a message to potential investors or donors of The Theorem that this can happen to you.
-<br />
-<br />
+<span class="break"></span>
 The second purpose is of course more personal. He can rid himself of the haunting memory and demons of his childhood by symbolically slaying his parents; both dad and mom. Of course the relief is only temporary and he is going to begin to relish his perceived omnipotence of playing God to these innocents.
-<br />
-<br />
+<span class="break"></span>
 He has found a format in targeting The Theorem he likes. He can justify the murderous thoughts he has by filtering them through the necessity for political means or unrelated emotional needs. This way he doesn’t have to accept that he has a need to kill, he doesn’t have to drink that medicine straight; he can mix the medicine with some sweet elixir before he digests his actions into his subconscious. Suppression of The Theorem is that sweet elixir.
 </p>
 <p class="h-l">
 H.L. Convincing. There is so much truth in something that you mentioned earlier. If we have not learned anything else in these six days, it is how the wealthy, the highly successful succeed.
-<br />
-<br />
+<span class="break"></span>
 While we all have pain inside of us, often debilitating amounts, these characters are different. They parallel the release of their pain with successful accomplishments. They only go into a deal if it checks all the boxes. This way, as you say, they can conserve energy.
 </p>
 <p>
@@ -1108,17 +1031,13 @@ H.L. I don’t quite know what to say to that.
 </p>
 <p>
 <span class="douglas">Douglas:</span> There is nothing you can say.
-<br />
-<br />
+<span class="break"></span>
 I will say this however. Of all the murders or ‘accidents’ that I researched, I realized the most reciprocal web traffic on this one.
-<br />
-<br />
+<span class="break"></span>
 In other words, when I looked into news stories related to The Sherman Murders, I received a tremendous amount of web traffic back from those individuals surrounding the events. It is important to remember, I never search masked; I am always identifiable.
-<br />
-<br />
+<span class="break"></span>
 Now there could be a logical explanation for this reciprocal web traffic. As it is an active murder investigation and likely the authorities are monitoring any searches related to the events, hoping the killer will somehow show his face, or relive his glory digitally.
-<br />
-<br />
+<span class="break"></span>
 On other hand it could be that the Sherman’s were indeed considering investing in The Theorem, but that fact by itself, without this interview and the narrative we are disclosing, would not justify a clue considered worth pursuing by them at this point.
 </p>
 <p class="h-l">
@@ -1168,8 +1087,7 @@ H.L. Sounds like he was the ideal candidate.
 </p>
 <p>
 <span class="douglas">Douglas:</span> He really was. Also his coal operations were in Illinois and his headquarters of his Company; Foresight Energy was located in St. Louis, Missouri. So our move to Missouri could have been seen as a move closer to his operational hub. Christopher Cline was a risk taker, and The Legacy Letter was tailored especially to someone with his personality in mind.
-<br />
-<br />
+<span class="break"></span>
 To make all of this even more painful, Chris Cline was one of my favorites. While I like most all of the billionaires, some more than others, Chris Clines story was one that I returned to over and over again. Maybe it was because we were living in Tennessee, maybe it a number of things, but his life certainly never stopped inspiring me. This is why it is too painful to go into too much detail in regards to his life and his multitude of accomplishments.
 </p>
 <p class="h-l">
@@ -1183,8 +1101,7 @@ H.L. What does that mean?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well our serial killer has a definitive audience in mind he is trying to impress.  He is putting on a show for someone, and that person is not me. He is showing this person, his small audience of one that he can handle his problem; a major problem of his audience is The Legacy Letter and The Theorem.
-<br />
-<br />
+<span class="break"></span>
 At the same time he needs this murder. This is a practice run for his magnum opus, which we will go into later. This is hard to talk about, it is really sick. This killer is really not well. And truthfully I feel I am getting unstable talking about him.
 </p>
 <p class="h-l">
@@ -1216,11 +1133,9 @@ H.L. You would think that if the pilot knew he was going to be flying the boss, 
 </p>
 <p>
 <span class="douglas">Douglas:</span> I absolutely agree with you. Like with any company, special care goes into preparation for when the owner is onboard, it is just common sense.
-<br />
-<br />
+<span class="break"></span>
 You know, your chances of dying in a helicopter crash are very minimal; it is safer than driving. However accidents happen all the time, and billionaires and the ultra wealthy will be riding in helicopters substantially more than the average person.
-<br />
-<br />
+<span class="break"></span>
 But at the same time there were two pilots on board, so you would think you could rule out medical emergency by the pilot as a reason for the crash.
 </p>
 <p class="h-l">
@@ -1240,8 +1155,7 @@ H.L. It is bad already. I can’t imagine it getting any worse.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well first, I would like to apologize to all of the families. While it should go without saying, I will say it anyways.
-<br />
-<br />
+<span class="break"></span>
 If I ever thought that death, these deaths and others would originate from The Legacy Letter, I would never have composed it nor would I have ever sent it out. On that Tennessee morning I would have started on something altogether different if I realized that this much pain could ever derive from something I believed to be so good and so pure. I am deeply sorry for your loss.  This apology extends to all the families who lost loved ones, including the families of our next victims.
 </p>
 <p class="h-l">
@@ -1249,32 +1163,25 @@ H.L. That was very nice. I am sure they realize that you had no idea any of this
 </p>
 <p>
 <span class="douglas">Douglas:</span> Maybe they do. Maybe they don’t. The mourning process can be a very confusing and uneven endeavor though.
-<br />
-<br />
+<span class="break"></span>
 Okay there is no sense putting off the inevitable. Here in this final incident; in this final accident, this final murder, the killer will pull out all the stops. He has graduated to master status. For what he will accomplish next will elevate him into the ranks among the great serial killers of all times. This is his masterwork, his signature collection; this is his magnum opus, his immortality.
-<br />
-<br />
+<span class="break"></span>
 Here, his audience is not just Douglas Arone, a former president or even The Pope. Instead his intended audience is the world. Perhaps I have been kept alive long enough to tell his story, though I doubt I will tell it the way he wishes. But, I will tell it nonetheless.
-<br />
-<br />
+<span class="break"></span>
 To understand the killer’s motivations we must return to events we covered yesterday.
-<br />
-<br />
+<span class="break"></span>
 We must return to the events of the twenty-third day of January 2020. Yesterday, you asked me if I thought the significance of the importation of the Corona Virus on January 23rd was for my eyes or for the eyes of Pope Francis.
 </p>
 <p class="h-l">
 H.L. Yes, I remember. You said they were obviously for the eyes of The Pope.
-<br />
-<br />
+<span class="break"></span>
 This was so that every time he opened up the letter he had to look at the envelope and the date on that envelope would match the established or reported date the Corona Virus (Covid 19) hit Italy.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, that is correct. But there is another more logical reason it was for The Popes eyes, this date.
-<br />
-<br />
+<span class="break"></span>
 After all, why am I going to be interested in the news on the 23rd of January? My letter cannot defy space and time and land on The Popes desk that very day I sent it. If it was an email it could, but this one was not. No, as we have seen the letter I sent, this second correspondence was typed out. It was written in letterform and sent the old fashioned way, by the U.S. Mail. It had to be picked up from Southern Missouri and flown or shipped across the Atlantic to Italy; then to the Vatican. So what would be the shortest amount of time it would take that letter to get there?
-<br />
-<br />
+<span class="break"></span>
 How quickly would you think?
 </p>
 <p class="h-l">
@@ -1282,8 +1189,7 @@ H.L. Oh I imagine if you sent the letter express, global express via an internat
 </p>
 <p>
 <span class="douglas">Douglas:</span> Very good. I checked on the internet and it says two to three days.
-<br />
-<br />
+<span class="break"></span>
 Of course I only sent the letter first class so it would have taken at least a week. But you see I paid cash. And while the killer can break into my online correspondence and possibly even into the computer system of the mail box store, where I converted the file onto paper and letter format and sent it out from, he is in the dark in regards to the method I sent it. Does that make sense?
 </p>
 <p class="h-l">
@@ -1297,11 +1203,9 @@ H.L. It makes sense. No need.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Plus an international letter is expensive. It might have been mistaken by The Pope as me being obsessional. This was my thinking at the time.
-<br />
-<br />
+<span class="break"></span>
 But again, the killer cannot be sure. He cannot take any chances. He is going to orchestrate an event, a major event and he wants to make sure my eyes are on it, as well. In this case, while I am not his primary audience, I am at least in the audience with a front row seat and he wants to make sure I view his handiwork up close.
-<br />
-<br />
+<span class="break"></span>
 So if he waits for seven days to stage this next homicide, and I sent the letter express and it arrives at The Vatican in three days, he is out of luck. All his planning will be for not.  He will not get maximum effect, maximum impact. Does that make sense?
 </p>
 <p class="h-l">
@@ -1309,8 +1213,7 @@ H.L. Sure.
 </p>
 <p>
 <span class="douglas">Douglas:</span> So what I am trying to say is that the killer cannot wait. He has to assume that I sent it to Rome via express mail, and therefore on the third day; on January 26, I will expect to see The Popes reaction, perhaps a tweet, perhaps something grander in response to the correspondence that I sent out to The Vatican.
-<br />
-<br />
+<span class="break"></span>
 	So it is on January 26, when the killer assumes my eyes will be fixed to the screen of the news service or even on the television. And it is on that day, January 26th of 2020, when the killer will strike again.
 </p>
 <p class="h-l">
@@ -1327,8 +1230,7 @@ H.L. That can’t be true.
 </p>
 <p class="h-l">
 H.L. Ok. I will. In fact I have to admit in some ways I saw this coming when you talked about the helicopter crash with the Clines.
-<br />
-<br />
+<span class="break"></span>
 In the same breath, thinking it could be possible and actually hearing it come from someone’s mouth is something altogether different. I am devastated. Any wounds that were starting to heal in relation to his death have now been ripped right open!
 </p>
 <p>
@@ -1345,8 +1247,7 @@ H.L. This is so horrible; do you know what you are saying?
 </p>
 <p>
 <span class="douglas">Douglas:</span> I do, my friend I do. Just take a minute.
-<br />
-<br />
+<span class="break"></span>
 <br />
 (One Hour Later)
 </p>
@@ -1373,8 +1274,7 @@ H.L. Also of importance on the Cline murder, I think at least, and you agree, is
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well yes; at the very least, the killer wants his audience to know he is an American. Remember, his first murder was in Canada, and now the Bahamas.
-<br />
-<br />
+<span class="break"></span>
 Perhaps he has done such a good job that no one knows his country of origin. He wants credit for his work. He simultaneously wants to be recognized and also remain in disguise; his mind is splintered.
 </p>
 <p class="h-l">
@@ -1382,14 +1282,11 @@ H.L. You will have to take over with Kobe. I can’t do it!
 </p>
 <p>
 <span class="douglas">Douglas:</span> I will.
-<br />
-<br />
+<span class="break"></span>
 So here is what the killer knows about Kobe Bryant’s and my life that neither one of us paid much attention too. Here are the things, the uncanny parallels that the killer harvests out of our life, to proudly display in front of the individual he primarily is trying to impress.
-<br />
-<br />
+<span class="break"></span>
 First, our killer knows that my family has its origin in Southern Italy; Calabria. He also knows that Kobe Bryant lived as a child in Italy, in Calabria.
-<br />
-<br />
+<span class="break"></span>
 Second; he knows that of all the NBA players, of all the 10,000 Legacy Letters sent out I only sent out one to a basketball player, and that was to Kobe Bryant. Now here I need to clarify, because some of the CEOs or members of boards of directors had previously been in professional sports in their youth. But as far as a basketball player, as a superstar, as an entity of himself, there was only Kobe.
 </p>
 <p class="h-l">
@@ -1415,8 +1312,7 @@ H.L. That can’t be. It is in Newport Beach.
 </p>
 <p>
 <span class="douglas">Douglas:</span> It is true. When I was in college, I attended Orange Coast College in Costa Mesa, during my first year after high school. It was also my first year living away from home. I lived on Balboa Island just down Jamboree Street from this Church.
-<br />
-<br />
+<span class="break"></span>
 On our college job board at O.C.C. was a position for head coach of their flag football team for young kids. I applied and was offered the job, of course I accepted. I had to quit that job before too long because I needed to work full time, and it conflicted with school and my other job. But I really enjoyed it when I was there. You see there is a Catholic School connected to the Church.
 </p>
 <p class="h-l">
@@ -1424,11 +1320,9 @@ H.L. That is certainly hard to fathom, this ‘coincidence’.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes it is. In fact, it is just too uncanny to even be a coincidence. I had even forgotten about the job, this was 1983. Obviously Kobe would have no real way of knowing this either or any interest for that matter, but our killer did.
-<br />
-<br />
+<span class="break"></span>
 	Also, of importance here is that the following week, the week after Kobe’s death, a Catholic Bishop from Orange County, which includes Newport Beach and Kobe’s Church, was going to be at the Vatican and meeting with The Pope on unrelated though scheduled matters.
-<br />
-<br />
+<span class="break"></span>
 Therefore it is the killer’s intention that the Bishop delivers the news to The Pope; deliver the sorrow and sadness from Southern California directly to the doorstep of The Holy See.
 </p>
 <p class="h-l">
@@ -1442,14 +1336,11 @@ H.L. I agree, we have exceeded chance and coincidence here. But why go through a
 </p>
 <p>
 <span class="douglas">Douglas:</span> That is a very good question. I can answer the first part now and then maybe the second part of it will reveal itself as we work through this.
-<br />
-<br />
+<span class="break"></span>
 You see, the killer has an apprentice. There is another, younger man who has often been connected with this man’s name. And while this younger man has killed, or had killings done for him in the past, he was sloppy about it. So our serial killer is training him; teaching him, and yes, showing off in regards to the exact precision that a murder has to be undertaken.
-<br />
-<br />
+<span class="break"></span>
 	Our killer is also applying his signature. Just like the previous helicopter crash there is a father and daughter on board. In both cases they were the daughter of the intended victim.
-<br />
-<br />
+<span class="break"></span>
 Also as you have seen with The Corona Virus, this action is directly intended to be felt within the Catholic Church. This third crime, in many ways is indirectly a hate crime against The Catholic Church.
 </p>
 <p class="h-l">
@@ -1457,8 +1348,7 @@ H.L. But all this showing off, all these clues and parallels, it makes it easier
 </p>
 <p>
 <span class="douglas">Douglas:</span> This is a serial killer, in his case a large part of him is crying out for help.
-<br />
-<br />
+<span class="break"></span>
 He wants to get caught, or at the very least be suspected. In the past, as we have seen he has painstakingly executed murders and no one even suspected him. In this case he is reaching out, likely to me, to put the puzzle together and to show the world his masterpiece of murder.
 </p>
 <p class="h-l">
@@ -1466,8 +1356,7 @@ H.L. Say what you want about me, just as long as you say something.
 </p>
 <p>
 <span class="douglas">Douglas:</span> That is exactly it. You see we are dealing with a financial giant, a meticulous mind that plans everything down to the last detail. This is no slouch, far from it. He begins where other serial killers have left off. This is what happens when a great financial mind enters the arena of serial killers. As I said, in some cases it worked against him. He was too good at it. So in this case he makes so many parallels so many coincidences that are not coincidences that someone, myself, is compelled to call him out on it.
-<br />
-<br />
+<span class="break"></span>
 This is no Ted Bundy who wants to be a lawyer. This is no John Wayne Gacy who ran a part time construction business. No, this man is already successful, wildly so. There is nothing he wants that he does not get. However he witnessed something during his formative years so horrific that it has permanently warped him and pushed him over the edge.
 </p>
 <p class="h-l">
@@ -1487,17 +1376,13 @@ H.L. It’s okay just let it out. Everyone cries.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I’m falling apart. I can’t do this, not right now.
-<br />
-<br />
+<span class="break"></span>
 (Extended Break)
-<br />
-<br />
+<span class="break"></span>
 <span class="douglas">Douglas:</span> Sure, and that is another good question. Especially as you know I am not the biggest of basketball fans. I am now, as you would imagine, out of respect to this man, I will be the rest of my life.
-<br />
-<br />
+<span class="break"></span>
 I think there were a variety of reasons. You know the day I heard about Kobe bypassing college and going directly into the NBA, I was sitting in the parking lot in Newport Beach waiting on a friend who was in the grocery store. I remember hearing about Kobe on the radio, on a sports station, which I never really listen to. But for some reason that day I just turned it on randomly. I remember being really interested in Kobe’s story and telling myself, I should not be interested, as I was not a big basketball fan. But I was interested. Kobe’s energy was that powerful, even then.
-<br />
-<br />
+<span class="break"></span>
 Well at the time I was living in Las Vegas; so visiting a friend in Newport Beach, I took all experience of beach life in. I remember asking myself why I ever left Southern California and especially Newport Beach. So I think whenever I heard Kobe’s name it brought back that memory of Newport Beach and that was a positive memory.
 </p>
 <p class="h-l">
@@ -1505,8 +1390,7 @@ H.L. Newport Beach is very nice. It is ironic that he ended up living there, or 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Very much so, unexplainable in a way. At that time he was still a high school star in Philadelphia.
-<br />
-<br />
+<span class="break"></span>
 Also, as anyone who has lived in Holland or Europe knows that Nutella is very big over there. It is as big or close to as big as peanut butter is here in the U.S.
 </p>
 <p class="h-l">
@@ -1520,8 +1404,7 @@ H.L. Yes he is.
 </p>
 <p>
 <span class="douglas">Douglas:</span> But mostly I think I loved Kobe why so many of us did. We watched him grow up; make mistakes, admit to those mistakes, succeed at his profession and then mature, coming full circle. He was how many of us wanted to see ourselves, fallible, yet successful.
-<br />
-<br />
+<span class="break"></span>
 I am going to need a minute.
 </p>
 <p class="h-l">
@@ -1535,11 +1418,9 @@ H.L. Obviously there will be more questions on him, we will just limp through th
 </p>
 <p>
 <span class="douglas">Douglas:</span> This is so hard. To feel this go through your system; I can’t explain it, somehow it stops and stalls and plugs up everything, cutting all the way down. It is like swallowing glass or swords and having to digest them. It is so painful.
-<br />
-<br />
+<span class="break"></span>
 To have to elevate our killer this way, all the while wanting with everything in me, every barbaric bone, to rip him apart piece by piece; feeding the remainder to the pigs.
-<br />
-<br />
+<span class="break"></span>
 I know that is just what he wants me to feel, so I can’t let him win. But it hurts like hell. It really hurts. It’s just so fresh, maybe this was a mistake.
 </p>
 <p class="h-l">
@@ -1553,8 +1434,7 @@ H.L. Alright; sounds like a plan. Do you believe that Kobe was interested in inv
 </p>
 <p>
 <span class="douglas">Douglas:</span> No, I saw no evidence of that at all. That’s another tragedy as well, at least some of it. I really never could tell at least if Kobe was interested. I certainly didn’t follow up and never called him or anything. That was reserved for businessmen.
-<br />
-<br />
+<span class="break"></span>
 You know, I don’t have to tell you how famous he was, and is. He was all over the place. My prediction or detection tool just didn’t work on people like that, people who were in the media every minute of their career. And truthfully I never had any deep feeling inside of me that he was interested at all. I never even thought he would be a fit. Again, I avoided celebrities and he was a big one.
 </p>
 <p class="h-l">
@@ -1562,20 +1442,17 @@ H.L. Well, why did you send him a copy of The Legacy Letter then?
 </p>
 <p>
 <span class="douglas">Douglas:</span> I don’t know. I really don’t. I guess it was just my way of saying hello. It was my way of saying, I notice you. I notice your greatness. I just loved him like we all did, and I wasn’t even a basketball fan. It’s just so ridiculous; all of it.
-<br />
-<br />
+<span class="break"></span>
 Oh, I wish I had never sent it!
 </p>
 <p class="h-l">
 H.L. I didn’t mean it like that; not at all.
-<br />
-<br />
+<span class="break"></span>
 I just thought maybe it had something to do with why he was targeted.
 </p>
 <p>
 <span class="douglas">Douglas:</span> You know, I could be wrong, maybe he was interested. There were many times when I misread the cues on people. That tool wasn’t perfect, not at all. With celebrities there was always distortion and bias in my detection tool; their fame and exposure made it hard to know one way or the other.
-<br />
-<br />
+<span class="break"></span>
 I mean, certainly he must have been surprised as a player to receive it. The Legacy Letter wasn’t a letter players received. It was a letter for the owners of sports teams. Many of them were billionaires, and this was their letter. So he must have felt already more special than he already knew he was, when he received it. He may have asked other players about it; in fact, I have some evidence on my detection tool that he told others about it. But I can’t say for sure. I can’t say anything for sure right now!
 </p>
 <p class="h-l">
@@ -1595,11 +1472,9 @@ H.L. Do you think it was racially motivated? Do you think he was targeted becaus
 </p>
 <p>
 <span class="douglas">Douglas:</span> Absolutely not. In fact the killer is white, and as you have seen, he targets white people. He actually prefers killing white people.
-<br />
-<br />
+<span class="break"></span>
 No it was just those similarities and interweaves between his life and mine, this is what sealed his fate. It was a freak occurrence; one in a million.
-<br />
-<br />
+<span class="break"></span>
 And obviously, I am so very sorry.
 </p>
 <p class="h-l">
@@ -1613,8 +1488,7 @@ H.L. What about the investigation? Do you think their final conclusion will be f
 </p>
 <p>
 <span class="douglas">Douglas:</span> I would have no idea on that. I have no idea how far along they are, or what the status is.
-<br />
-<br />
+<span class="break"></span>
 But you have to realize that even if they found something suspicious in the beginning…
 </p>
 <p class="h-l">
@@ -1622,8 +1496,7 @@ H.L. Sure, they are not just going to release it. In some ways that would be irr
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, very irresponsible. It could cause panic, tip off their leads or suspects that they are looking for them. People may be afraid to fly; basketball players could be reluctant to board planes. The list goes on and on. It just wouldn’t be wise.
-<br />
-<br />
+<span class="break"></span>
 And again, our killer is very experienced at this. It took a lot of nerve to go into Southern California and pull this stunt. So it was well planned, and with experience and planning, well this only makes the job more difficult for the investigators.
 </p>
 <p class="h-l">
@@ -1649,8 +1522,7 @@ H.L. But what?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well, the second part of the question. Will he receive justice?
-<br />
-<br />
+<span class="break"></span>
 Yes, he will receive justice.
 </p>
 <p class="h-l">
@@ -1667,8 +1539,7 @@ H.L. So who is it? Who is this killer, the serial killer we have been following 
 </p>
 <p class="h-l">
 H.L. Go ahead.
-<br />
-<br />
+<span class="break"></span>
 
 </p>
 <p>
@@ -1685,14 +1556,11 @@ H.L. Almost?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, almost, it’s the best I can do. At the same time I am vehemently against releasing this name. It is opposed to everything that defines me. It is perhaps the most irresponsible thing I have ever done; some half-ass court, trail and verdict on a public platform as this.
-<br />
-<br />
+<span class="break"></span>
 Still I am not going to disappoint the readers, as we have come this far. And this is a part of the interview now, so I can’t really turn back.
-<br />
-<br />
+<span class="break"></span>
 Also, I also know that this guy is slippery, and this is the only way, by releasing his name, he will see justice in any form.
-<br />
-<br />
+<span class="break"></span>
 Plus, I really just don’t care anymore. This is what happens when you a back a man into a corner and take everything from him.
 </p>
 <p class="h-l">
@@ -1700,8 +1568,7 @@ H.L. No, I absolutely understand your reservations. But before you release his n
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, of that I am a hundred percent sure.
-<br />
-<br />
+<span class="break"></span>
 Think about it. Think about it for a minute what I am saying. Think about all the work we have done here. Think about my life. I have made one of the largest intellectual discoveries in the history of civilization; period. Do you think I am going to risk it all to speculate on a helicopter crash?
 </p>
 <p class="h-l">
@@ -1715,14 +1582,11 @@ H.L. That is very true.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I obviously have grave reservations in regards to even mentioning an event like this, tragic as it is, within a work such as we are accomplishing here.
-<br />
-<br />
+<span class="break"></span>
 An event that will likely be subject to sensationalism due to the notoriety and love bestowed on this cultural icon; the love bestowed on Kobe.
-<br />
-<br />
+<span class="break"></span>
 This, as you would imagine is everything that I want to avoid; yet it is more than that. It is diabolically opposed to my personality and to everything I believe in as an artist. I can’t stand self promotion. I am uncomfortable in marketing and as I have disclosed, am a very shy and private person. Still, this is a man and a child; ultimately it is many men, women and children, who have become prey to this killer, and they all deserve justice. So while on one hand, in my selfish moments I do not want this work to be overshadowed; on the other hand, I want to do the right thing.
-<br />
-<br />
+<span class="break"></span>
 Doing this all the time knowing I will likely face criticism and be accused of the very thing I am against.
 </p>
 <p class="h-l">
@@ -1754,8 +1618,7 @@ H.L. You are.
 </p>
 <p>
 <span class="douglas">Douglas:</span> It would be sinister to hold this back, it would be sick. So I suppose in some ways, it was never an option to leave this out. To think about myself above others, about people who were murdered.
-<br />
-<br />
+<span class="break"></span>
 This was my silence in all the moments over the previous five days. I was just so excited in what we were doing, I lied to myself that I wouldn’t include this. But in the end…
 </p>
 <p class="h-l">
@@ -1781,8 +1644,7 @@ H.L. True.
 </p>
 <p>
 <span class="douglas">Douglas:</span> What is going to help is to take a look and find out why a grown man, an elderly grown man can push the button that executes a young girl and her father and all the innocence that represents.
-<br />
-<br />
+<span class="break"></span>
 Remember people do not become monsters on their own. And it is very rare when a killer has only organic issues with no outside influence; completely Nature and not lack of nurture. No, as you will see this killer experienced some horrors that will dwarf the nightmares experienced by all the others we examined combined.
 </p>
 <p class="h-l">
@@ -1832,11 +1694,9 @@ H.L. Sure, you only want to remember the good. What’s going on?
 </p>
 <p>
 <span class="douglas">Douglas:</span> No, you’re right. We only want to remember the good. Certainly you only want to present the good, especially after they are gone. It seems disrespectful any other way.
-<br />
-<br />
+<span class="break"></span>
 But my father also had problems. In fact he had a big one and he never really got over it. He was a compulsive gambler. This is of course why we moved away from Las Vegas to Southern California when I was just four years-old. While I do not remember it personally, the stories around my family were rampant about his addiction; no groceries in the refrigerator, cashed paychecks that never made it past Fremont Street and my grandfather hunting my father down in the casinos to summon him home and dry my mother’s tears. This was our life, this was our hell.
-<br />
-<br />
+<span class="break"></span>
 So when I was going to move from Southern California, Newport Beach in fact, to Las Vegas for my second year of college, my father tried to talk me out of it. At the time I didn’t understand why. But years later it made sense.
 </p>
 <p class="h-l">
@@ -1850,17 +1710,13 @@ H.L. I agree.
 </p>
 <p>
 <span class="douglas">Douglas:</span> At least in Las Vegas I had family and connections. My grandparents had been there since the 1950s and my grandfather, before he retired, was a moderately powerful man. So I went.
-<br />
-<br />
+<span class="break"></span>
 Over the years and through five more years of college and many more of writing, I worked and made a large amount of money in the hospitality industry: in the casinos and the bars, likely I made much more than others that I worked around. But that gambling bug would always try and bite me. Ultimately however, I figured out a way to defeat it.
-<br />
-<br />
+<span class="break"></span>
 Every year, I would pick one day; typically in the spring, and on that day I would take my entire paycheck, cash it at the casinos and gamble it all away. It was as a sort of homage to my origins. When I won, as I often did, I would stay until I lost it all. I would leave my bank cards at home, and only play with what my check was. Sometimes it took a couple of days to lose it all, but I always would. It was out of my system, or at least subdued.
-<br />
-<br />
+<span class="break"></span>
 Then I would go home, and wait until a year past to repeat the process. Once year I even took someone with me, though I never did that again. It was a mistake to have them see me that way, almost frothing at the mouth. I was embarrassed of that part of me. I was embarrassed of that part of my father. But it was in my genes, twisting inside of me.
-<br />
-<br />
+<span class="break"></span>
 Over the years I watched many of my friends win big money, I would indulge in their excitement with them; knowing that soon they would be in bad shape. I knew that winning was really losing. So I never gambled.
 </p>
 <p class="h-l">
@@ -1874,20 +1730,15 @@ H.L. That is unusual.
 </p>
 <p>
 <span class="douglas">Douglas:</span> While I don’t gamble with money, I gamble with my future and that is even more tragic in some ways. What I am really saying is that what I am going to disclose next, may be that one day of the year when I lose it all. So I need to go this alone, as I don’t want to gamble with your future.
-<br />
-<br />
+<span class="break"></span>
 Throughout the entire interview I have explained what will seem like impossible events to your readers, but to me they are actually very conservative estimations of what I experienced. Being from that gaming backdrop I realize the obvious value of being careful and conservative. So while I may have only one book out in 25 years, it does not mean that I was not writing during that time, not at all. But I am extremely cautious about what I release. Anything under 95 percent chance of being correct, I throw out. I don’t like gambles and I don’t like to lose, but this one I just may. Even if I do win; in this case, winning may be actually losing.
-<br />
-<br />
+<span class="break"></span>
 You see earlier I said that this is one of the most irresponsible things that I have ever done. I want to correct that now. This indeed is the most irresponsible thing that I have ever done, for this is a man’s life and his reputation. And as sick as the man may be, I don’t take it lightly to release his name. Because as you said, once it is out there, released, it is out there, and can never really be taken back.
-<br />
-<br />
+<span class="break"></span>
 Here I am only 75 percent or 80 percent positive. While inside me I may be close to 100 percent, I could be wrong as well. These events are just too close. As you will see he was certainly in the wrong place in the wrong time. He certainly has the motives, as twisted as those are, and he certainly has the resources. Indeed I should be able to build a compelling case.
-<br />
-<br />
+<span class="break"></span>
 I will tell you that Kobe Bryant’s death 100 percent is not an accident; I can sleep easy on that tragic fact the rest of my life. It is nearly mathematically impossible for it to be anything other than murder, for reasons I have stated and more. I can also tell you the Shermans deaths are 100 percent murder and now we all know that, even the police have verified that. But I cannot tell you 100 percent that this man is the one responsible.
-<br />
-<br />
+<span class="break"></span>
 I am not a detective, an investigator or even an amateur sleuth. This was not my interest; this is certainly not my passion. Indeed I am way over my head. By chance I ended up here, somewhere I don’t want to be. While I know a great deal, more than any man should ever know about human behavior; the behavior of criminals is something that should be better left to the authorities. So no matter how convincing my argument is for his guilt, remember as with everyone he is innocent until proven guilty. And this should be true not just in the court of law, but also in the court of public opinion.
 </p>
 <p class="h-l">
@@ -1907,8 +1758,7 @@ H.L. So take a breath and let it out.
 </p>
 <p>
 <span class="douglas">Douglas:</span> This man received a Legacy Letter like so many others; he is a billionaire and he is very elderly. I sent him a copy of The Legacy Letter in August of 2014, and I never saw any evidence that he even received the letter. He was essentially a ghost. Then the month before the murders of Christopher Cline, he suddenly appeared out of nowhere on my search, on my tool and on my feed. I said okay, this is just coincidence. But he was at the wrong place at the wrong time.
-<br />
-<br />
+<span class="break"></span>
 Next when I began to piece events together with Kobe Bryant’s death. He popped up radiating guilt like no one I have ever seen before. Suddenly he was there again, my newly devoted customer. This made no sense, he made no sense. But I caught him and he knew it.
 </p>
 <p class="h-l">
@@ -1916,14 +1766,11 @@ H.L. Strike two
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes definitely. In many ways his was like a face that pops up out of nowhere in the middle of a dream and you want to say to the face: “What are you doing here, you’re not supposed to be here?” It was illogical; it was unexplainable and it was certainly unexpected.
-<br />
-<br />
+<span class="break"></span>
 He was somewhere he shouldn’t have been, as there was no previous link to him and Kobe Bryant and myself. This man, had not been on my site since 2019 before the other murder, and there was no other reason for him to be there now.
-<br />
-<br />
+<span class="break"></span>
 I have explained what it takes to ferret some of these men out of their hole, in his case he was down deep in there, and it was only me researching the accident or murder of Kobe Bryant that did it. Men like this are extremely disciplined. Even if something affects them deeply, they suppress it. They do not flinch. When you have that amount of money you are a master at not flinching. In this case, he flinched.
-<br />
-<br />
+<span class="break"></span>
 Also, here is where some of our work from earlier should yield some small reward. Again, when you do something long enough you get a sixth sense; it developed in relation to just about every single person that visited to my website. And this isn’t 2014, when I barely know what I am doing with the detection tool or 2015 or 2016, when I am getting better at my craft and exposing the origins of Spygate. It is not even 2018 when I am testing my technique and tool in ways unimaginable for accuracy and precision. No, this is 2020 and I am a master at interpreting this data.
 </p>
 <p class="h-l">
@@ -1931,8 +1778,7 @@ H.L. I see that. You have shown me unbelievable things with that tool.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, I am proud of it, as there is a purpose for it now.
-<br />
-<br />
+<span class="break"></span>
 So when this man, our killer popped up, he was thick with guilt. He was caught. I knew it and he knew it. He was somewhere where he shouldn’t have been, now twice in a row. Let’s just say this; while there is a 25 percent chance I am incorrect, in my mind there is a 1 in 1825 percent chance that I am wrong. Those are odds I will have to live with.
 </p>
 <p class="h-l">
@@ -1946,14 +1792,11 @@ H.L. Actually, while I shouldn’t be, I am a little shocked.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Shocked is a good word. I was stunned, as well.
-<br />
-<br />
+<span class="break"></span>
 	An anarchist? Okay. I guess I could see that.
-<br />
-<br />
+<span class="break"></span>
 A Liberal Elite? Yes, I have heard the rumors. I get it.
-<br />
-<br />
+<span class="break"></span>
 But a serial killer? Not in a hundred years. I would have bet heavily against that one. But yes it is him, it is George Soros and he is guilty; he is caught. He is behind the death of The Shermans, the Clines and Kobe Bryant and his daughter. He is our serial killer. And we are going to explore how he transformed from a world class businessman into a seedy serial killer.
 </p>
 <p class="h-l">
@@ -1967,8 +1810,7 @@ H.L. You are sure.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well we have been over that, but inside of me, I am almost positive; he has been hiding in plain sight. Of course, once I began to look into his childhood, and read between the lines, it was all there. Then it was obvious. But I just never would have gone there with him to begin with. I just would have never suspected.
-<br />
-<br />
+<span class="break"></span>
 Of course it is embarrassing as well. Let’s put it this way, I would have never made it as a profiler in the FBI because I caught him by complete accident. He wasn’t even in the direction I had envisioned. I was fully caught off guard.
 </p>
 <p class="h-l">
@@ -1976,8 +1818,7 @@ H.L. As if this interview can get any stranger.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Really, I agree. Here I am enamored with billionaires, almost worshipping them, and one is murdering my readers. You cannot make this stuff up, as I said.
-<br />
-<br />
+<span class="break"></span>
 And while I am embarrassed by my lack of perceptive skills, and complete inability to profile him initially; at the same, as you imagine I am extremely proud of my little detection tool I created. It solved the mystery.
 </p>
 <p class="h-l">
@@ -1985,8 +1826,7 @@ H.L. Who would have thought?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, all those hours when I figured I was just feeding the bottomless pit of my lack of self-esteem, I was actually guided by fate; practicing to catch this guy, completely unconscious of my true intentions.
-<br />
-<br />
+<span class="break"></span>
 You start out doing one thing, you think you are driving and know where you are going. You don’t have a clue. You’re not driving life at all, it is driving you. What a strange journey it has been.
 </p>
 <p class="h-l">
@@ -2012,8 +1852,7 @@ H.L. I see.
 </p>
 <p>
 <span class="douglas">Douglas:</span> In overview, this is just another casualty of World War II. In our quest to keep man alive longer, sometimes we forget that Nature has her own idea for our allocated lifespan; as this relic has does nothing but cause misery to those around him for many years.
-<br />
-<br />
+<span class="break"></span>
 While it will be sad to see the real heroes and survivors of WW2 perish, the extinction of these fossilized dinosaurs like Soros who act out their pain instead of swallowing; well, it will be welcomed.
 </p>
 <p class="h-l">
@@ -2021,17 +1860,13 @@ H.L. Perhaps some of the readers are not acquainted with who George Soros is?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, of course.
-<br />
-<br />
+<span class="break"></span>
 Every man deserves a biography and he will get his here.
-<br />
-<br />
+<span class="break"></span>
 George Soros is a true old-timer. He is 89 years-old and was born in Budapest, back when it was a monarchy; The Kingdom of Hungary. He was just an adolescent when the Germans occupied Budapest, and as we shall see he witnessed many horrors of Nazi regime during their occupation of his birthplace.
-<br />
-<br />
+<span class="break"></span>
 	After the war he drifted, as many young men do. He decided to study philosophy in London. Eventually after a stint as a railway porter; a waiter and as a clerk at a souvenir shop, he started working in the financial services industry. Ultimately, after learning to trade currencies he set up a hedge fund; he became wealthy, very wealthy at this undertaking. In 2017 he was listed as the 29th richest person in the world and the 19th richest in the United States, with an estimated net worth of 25 billion dollars. He has been convicted for insider trading in France, and is disliked by the leadership of many European countries; where he is seen as an opportunist and manipulator of both politics and currencies.
-<br />
-<br />
+<span class="break"></span>
 Of course that is the sanitized version. But behind the wiki there is much more as we will soon learn. On a personal level I really never felt any animosity towards him as I said, in fact quite the opposite. I knew he had studied philosophy and since my father was a philosopher, I would have viewed him in an elevated light. Of course, if I had any interest in international politics and had accomplished any detailed reading on him, I imagine that light would have dimmed quite quickly.
 </p>
 <p class="h-l">
@@ -2039,11 +1874,9 @@ H.L. The last of the bad guys, the really bad ones at least?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Let’s hope so. Let’s really hope so.
-<br />
-<br />
+<span class="break"></span>
 Of   course it wasn’t always like that though, he wasn’t always this way.
-<br />
-<br />
+<span class="break"></span>
 Like Bill Clinton and Barack Obama, George Soros also suffered an impossible childhood. In his case however it wasn’t so much of what happened to him, as what didn’t happen.
 </p>
 <p class="h-l">
@@ -2051,11 +1884,9 @@ H.L. What do you mean by that: What didn’t happen?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well, his father, Tivadar Soros, was not only anti-Semitic but was also a well known retailer of forged documents during the war. Often he would charge those that were wealthy, up to twenty times the going rate for forged documents, profiting nicely off the transaction. His father even wrote a book about it afterwards; of course changing a few key facts to rewrite himself as some type of humorous hero. Though this wasn’t how George Soros remembered him at all, nor the Jewish inhabitants of Hungary or the Germans for that matter.
-<br />
-<br />
+<span class="break"></span>
 No, his father was an opportunist who profited off of others misery and even laughed and joked about it. But I can guarantee you that to the 400,000 Hungarian Jews that were sent to Auschwitz or to the half a million Hungarian Jewish Citizens that died in The Holocaust, they would not find Tivadar Soros’s sense of humor funny at all.
-<br />
-<br />
+<span class="break"></span>
 The only two Holocaust survivors I ever met did not think anything about the experience was comical.
 </p>
 <p class="h-l">
@@ -2069,8 +1900,7 @@ H.L. I imagine.
 </p>
 <p>
 <span class="douglas">Douglas:</span> The adult George Soros at least went through the motions of trying to get better, as we talked about earlier; many do. He was in therapy for years trying to deal with his father issues; his simultaneous love and hate for the man. But like I said a good portion of the psychological community doesn’t have a clue as to who they are, and another good percentage hasn’t even lived enough of life to counsel anything of value.
-<br />
-<br />
+<span class="break"></span>
 For example, how is a freshly minted psychotherapist, bright and shiny out of college going to deal with Soros? How are they going to deal with the fact that even when the Russians had rescued the Jewish Faithful in Hungary, still George’s father makes his son help a German soldier safely escape from their residence. Not until after Tivadar offered him cigarettes and compassion. Meanwhile young George is crying his eyes out, because he knows what the German soldier represents; he has seen the horrors of ghetto. He realizes his father has been playing God by deciding who goes to the concentration camps and who does not; who will live and who will die, all under the close supervision of the Germans and the Hungarian turncoats aligned with the Nazi regime.
 </p>
 <p class="h-l">
@@ -2096,11 +1926,9 @@ H.L. Exactly, he did it with currency trading in England and shorting the stock 
 </p>
 <p>
 <span class="douglas">Douglas:</span> But the problem is that those in Hungary remember him, they remember what his father did and they can see right through George Soros and want no part of him. It is the same with the vast majority of the Jewish Community; they also see right through his crisis profiteering ways. This reminds them of times when their relatives were sold out to the camps, all so people likes Tivadar Soros could save his skin and the skin of his family, lining his pockets nicely in the  process.
-<br />
-<br />
+<span class="break"></span>
 But you see Americans are not that smart. So we are easily fooled. Most of us do not have a clue as to the horrors that went on in the war. Most of us do not even travel internationally and we do it is in a safe bubble; a business meeting, honeymoon or once in a lifetime trip we take when we are too elderly to initiate any real change when we get home. I have been to Hungary, both the rural countryside and to the cities that comprise Budapest, this feeling, these words I speak; they hit you right away, like a sledgehammer when you enter the country and the cities. World War II devastated that region, and at least when I was there in 1990s the feeling was still fertile; the aura of betrayal was still radiating from the faces and on the facades of the buildings of that terrible war and purge of the Jewish Faithful.
-<br />
-<br />
+<span class="break"></span>
 There is just some history you can’t learn from the books, some you need to see, and feel and smell to understand through your secondary senses what happened once there. You need to walk onto the banks of the Danube and feel the horror as the Arrow Cross; the Hungarian regime, tied Jewish couples together and then shot  only one dead to save bullets before throwing them both still tied into the river and laughing while the dead partner’s weight sunk the still living one to their death. This isn’t fantasy, it isn’t make-believe, but it is a nightmare and it really happened. Again, there are just some things you can’t experience from books. It is so important to be there.
 </p>
 <p class="h-l">
@@ -2108,14 +1936,11 @@ H.L. Soros sees Americans as stupid, easy to deceive. It is great place to hideo
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course he does, and in a way he is right. We are stuck in our own guilt in regards to the war, as we knew what was going on with the concentration camps long before what is recorded in the history books; we had intelligence all over the place in Eastern Europe. So Soros effectively hides around the fringes of the Jewish Community, and the Democratic Elites; he sings the song of a survivor, though he is never really at home anywhere. No one accepts him fully, because he comes from shame, from humiliation and not pride. This was his inheritance.
-<br />
-<br />
+<span class="break"></span>
 He goes and tries to recreate anarchy in distant places as it brings him closer to his father. There he can witness real men and women suffering and struggling; all the while he is locked in his past, trying to repeat it, and old vinyl record stuck in some forgotten groove. He is a wealthy, wounded, casualty of war.
-<br />
-<br />
+<span class="break"></span>
 Finally he realizes America is ripe for the taking. He has an experienced eye, is an experienced anarchist, and knows the signs to look for; a country that has become lazy and complacent, and is dominated and indoctrinated by the liberal media. A country where anger of child toward parent can be exploited and cashed in; thus pointing their angst at the very institutions they should be embracing. He has seen it all before. Like all parasites he can detect the compromised tree where he will flourish; in this case, a Democratic Party stale and still recycling policies from the past.
-<br />
-<br />
+<span class="break"></span>
 We digest the conspiracy theories that are spoon fed to us in the cheap seats; all the while the real criminals go unpunished. This is America today, this was his new target.
 </p>
 <p class="h-l">
@@ -2141,14 +1966,11 @@ H.L. So he clings to Bill Clinton, because the others are too sophisticated and 
 </p>
 <p>
 <span class="douglas">Douglas:</span> That is right, Soros sees Bill Clinton as a dumb hillbilly who will buy into his demented agenda. While Clinton is not ignorant, his pain and quenchless needs have certainly diminished his intelligence, so as you say, Soros finds a way in. He plays the role of abusive stepfather to Clinton; while Bill Clinton was focused on his female issues, his unmet male dominated needs crept in and blindsided him, slapped him straight across the face.
-<br />
-<br />
+<span class="break"></span>
 Still even Bill Clinton has had enough of Soros; now, in fear of being ideologically homeless, Soros must pull Clinton in deeper.
-<br />
-<br />
+<span class="break"></span>
 HL. This is what he is doing by these events; these staged homicides that only are thinly veiled as accidents.
-<br />
-<br />
+<span class="break"></span>
 <span class="douglas">Douglas:</span> Exactly
 </p>
 <p class="h-l">
@@ -2156,11 +1978,9 @@ H.L. What a legacy to leave to your children.
 </p>
 <p>
 <span class="douglas">Douglas:</span> That’s a good point. It really is.
-<br />
-<br />
+<span class="break"></span>
 You know we have seen billionaires that plan on leaving their children little or nothing, giving all their money away to others before they go; real pieces of work.
-<br />
-<br />
+<span class="break"></span>
 But not Soros, he will leave plenty behind. He will leave perhaps one of the most infamous names in recent history; the man who killed children, who killed Kobe Bryant, who killed Chris Cline, The Shermans and many others. This is what his kids will inherent. While they may get his money, they will need it to offset the decades of shame that will be bestowed upon their lineage.
 </p>
 <p class="h-l">
@@ -2180,11 +2000,9 @@ H.L. So in the murder of the Sherman’s, George has the bodies placed in a posi
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well that is good. You are jumping ahead, and without notes of any value. But yes.
-<br />
-<br />
+<span class="break"></span>
 What I am trying to express about how can you kill a child? I would imagine the only way, or one of the only ways you could in the sickest of minds accomplish that if you have seen a child killed in front of you when you were a child yourself.
-<br />
-<br />
+<span class="break"></span>
 With that murder, or the many others he witnessed either directly or experienced indirectly, his innocence was stolen from him. The human mind, our conscious and unconscious mind is only capable of so much.
 </p>
 <p class="h-l">
@@ -2210,11 +2028,9 @@ H.L. Unless they were his opponents.
 </p>
 <p>
 <span class="douglas">Douglas:</span> So true, you didn’t want to play against him. What a great player he was! Thank you for that.
-<br />
-<br />
+<span class="break"></span>
 	No, Kobe Bryant made money from displaying athletic excellence and from entertaining sports fans the world over.
-<br />
-<br />
+<span class="break"></span>
 It is the same with Chris Cline, as he made money by providing jobs to people. He made money by accomplishing something useful for society by mining energy out of the earth. But Soros has only made his money from the disruption of the well being of others, a nasty old calamity peddler. So his daughter will never look at him the same way that Clines’ daughter looked at her father, or Bryant’s daughter looked at Kobe.
 </p>
 <p class="h-l">
@@ -2222,11 +2038,9 @@ H.L. That is probably it. The motive fits.
 </p>
 <p>
 <span class="douglas">Douglas:</span> But the motive may not even be as deep as that. This could be a message to Obama and Clinton, who both have daughters. George Soros is telling them they must conform and continue to indulge his sickness or they will perish together with their most valued possessions.
-<br />
-<br />
+<span class="break"></span>
 For those around him, around Soros, there is no escape now.
-<br />
-<br />
+<span class="break"></span>
 Soros is sick and desperate; it is hard to fathom what bizarre signals his tangled limbic system is pushing up to the surface, comingling with his conscious observations and spinning into unpredictably tragic motivations and actions.
 </p>
 <p class="h-l">
@@ -2252,17 +2066,13 @@ H.L. Yes, that makes sense.
 </p>
 <p>
 <span class="douglas">Douglas:</span> It was the initial explosion. It was personal and had to do with Barry Sherman’s Jewish Beliefs, and contrasting actions. While Barry Sherman was raised within the Jewish Faith, he on a personal level was an atheist. He simply saw too much of his father in Barry Sherman. He saw in Mrs. Sherman his symbolic mother and punished her for going along with her husband, for saying nothing, and for not listening to young George and his budding morality. Therefore Soros will have them both killed, the executed punishment for their ultimate betrayal of him.
-<br />
-<br />
+<span class="break"></span>
 George Soros then holds himself up as some sort of morality policeman. Perhaps that was the role he loosely assumed within his family. The role he assumed during his childhood, in the tragedy of those impossible conditions. He feels he is obligated to purge then the world of those with imperfections; in Barry Sherman he sees an exploitation of the Jewish Faith, barely noticeable if even existent to others, but exaggerated in his eyes. In Chris Cline perhaps it was the divorce, in Kobe perhaps the infidelity.
-<br />
-<br />
+<span class="break"></span>
 We are all human and we all error, but perhaps he who made the most egregious error is Soros’s father. Tivadar Soros naively assumed that escape was indeed escape, but everyone is different, every child is unique. And the fragile morality and faith that held young George together as a child was splintered into pieces by his father’s actions.
-<br />
-<br />
+<span class="break"></span>
 I once read that science is based on the majority, not the exceptions. I couldn’t agree more with that assessment. This however is certainly one of those exceptions. Throughout this entire interview we have dealt with patterns, childhood influences under horrific conditions. But even the best of models does not hold up under a situation such as this. As fortunately there is no real precedent to The Holocaust to draw from; mass genocide and its aftermath. Who knows the horrors of what the young George Soros realized in Budapest during the war? It is possible that he is not even sure. But others witnessed dead bodies decaying in the streets of the Jewish Ghetto, frequent gunfire, rampant typhus, impossibly crowded conditions and humiliations on such a scale that they defy reality; this blanketed under the ominous and imminent threat of deportation and death. All of this begging the question: What is there to give to a child when everything is taken from you? The real and sad answer is; nothing.
-<br />
-<br />
+<span class="break"></span>
 In a child’s mind there are often heroes and villains, to the grown George Soros the heroes were those who died for something, the Jewish Faithful; the villains were those who survived for nothing, his parents. He wanted; no, he needed to expunge that memory, the survival at all cost ethos. He didn’t murder Barry Sherman for who he was, he murdered Barry Sherman for who he wasn’t; the representation of whom his father wasn’t. Somehow in the tattered mind of Soros, Barry Sherman connected all those dots; the symbol of what he did not want to become, but he himself was in the end. While we want to neatly tuck The Holocaust away in history, in the complexion of George Soros reared its ugly head and reminded us that we must never forget!
 </p>
 <p class="h-l">
@@ -2270,8 +2080,7 @@ H.L. Very powerful; the shoe then fits perfectly.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Then, very possibly, the Shermans were going to give to The Theorem in order to further the advancement of society. It just didn’t seem right to Soros, his symbolic father choosing someone else over him. He was accomplishing two goals with one act, all in the name of conservation of energy; all in the name of the contemptuous memory of his parents.
-<br />
-<br />
+<span class="break"></span>
 I doubt Soros could understand what he has done, what is at stake. While comprehension of The Theorem is beyond the mental capacity of very few, as we have seen that even a child can understand it; George Soros may be an exception. His pain has made him so nimble-minded that all he can do is to repeat the same old themes his father presented; round and round circulating in his head. He tries to make sense of them, but they make no sense. He vomits his pain onto the pages of book after book, but the words and concepts are always detoured though his impossible origins and paradoxical compassions for the man he first heard speak them. This is not an intellectual; he is trained circus performer, tired and fatigued, delivering the same old tricks to an ever dwindling audience.
 </p>
 <p class="h-l">
@@ -2279,14 +2088,11 @@ H.L. Very well said; it is all coming together now for me at least. So after the
 </p>
 <p>
 <span class="douglas">Douglas:</span> That is it, you summed it up perfectly. Why do something if you are never going to get credit for it? Sure, it fills a psychological need, but with this guy, with Soros, there has to be some other prize at the end as well.
-<br />
-<br />
+<span class="break"></span>
 You know, you spend your entire life trying to forgive. You are told and taught with the principles of your faith, of your community and from your parents that forgiveness is divine. But that doesn’t sit right with many; what Hitler did was beyond irrational, it bordered on demonic. So the pain, it still consumes your body. It still pulls you down in to the water; a vast weight you can never escape. So in the case of Soros, to nullify that pain is impossible as this humiliation never goes away.
-<br />
-<br />
+<span class="break"></span>
 In this interview we have seen examples of children who grow up to avenge their father; search for their father in the faces of others, and ultimately try to forget the father that forgot about them. But in Soros’s case this mimicry of his dad is exceptionally dangerous. His father, through the decision of whom to provide forged documents for and who not to played God to the Jewish Faithful in Hungary. He could decide who would live and who would die. Now George Soros has a taste for that omnipotence.
-<br />
-<br />
+<span class="break"></span>
 He has battled inside of himself for years to not be the like the man he despised, occasionally winning, but mostly failing in defeat. However time and decay takes their toll on everyone, and now he has to pay his due. Killing in the name of politics is just killing to him now. It is a convenient excuse. Today he picks The Theorem; tomorrow it will be something else. One thing for sure, he will not stop until we stop him.
 </p>
 <p class="h-l">
@@ -2294,20 +2100,15 @@ H.L. We will stop him!
 </p>
 <p>
 <span class="douglas">Douglas:</span>In some ways I see what the killer is doing now. I see what Soros is doing. He is envious; he feels that he could have been a great intellectual if not for the war. This is his excuse. This is his delusion. Silly man; he doesn’t seem to realize that the way to find anything of intellectual value doesn’t come from building up your own defenses, but instead arrives from stripping them down.
-<br />
-<br />
+<span class="break"></span>
 So he wants me to watch and witness the feeling of powerlessness that he experienced as an adolescent, to watch those around me being killed the way he experienced it, yet be unable to do anything about it.
-<br />
-<br />
+<span class="break"></span>
 He wants to give me enough evidence to know it is him, but at the same time he will only give me enough so that no one believes me. He will make the events so farfetched that certainly no one can fathom their likelihood. But here the killer, here Soros underestimates me and he also underestimates our readers.
-<br />
-<br />
+<span class="break"></span>
 As ultimately our advantage over him is his own festering disease, his bleak outlook on humanity of which we do not share. He sees me, he sees our readers, the way he sees the world. But while we have our moments, we are not as sour as him. Certainly while we all feel bad in some way for what he experienced, as we should, our compassion has its limits. As there are others who realized those horrific events and did not feel the need to line their pockets; instead they dove deep into their faith, into their family and their community.
-<br />
-<br />
+<span class="break"></span>
 They killed yes, but not people. They slowly murdered the shame and horror they experienced during The Holocaust by replacing it with life, with a belief in humanity that was reborn slowly with every passing day; renewed in the face of every newborn smiling infant and the promise of each consecutive sunrise. Soros, like so many killers thinks the problem is with society, but instead it is within himself.
-<br />
-<br />
+<span class="break"></span>
 Good riddance pal; you got it all wrong, so very wrong. Good riddance. Enjoy your eternal stay in hell!
 </p>
 <p class="h-l">
@@ -2315,8 +2116,7 @@ H.L. They’re overmatched. You caught them. You got them all!
 </p>
 <p>
 <span class="douglas">Douglas:</span> I will go after them. That is one thing for sure. It’s bad luck for them to me as an opponent. You have seen how asleep I was for years, but I am awake now. Damn it, I am awake now! I am wide awake.
-<br />
-<br />
+<span class="break"></span>
 <span class="douglas">END…</span>
 </p>
 			</v-col>

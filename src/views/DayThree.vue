@@ -14,8 +14,7 @@
 			<v-col cols="12" class="main-text text-border">
 				<p class="h-l">
 H.L. I was listening to the tape last night and going over the notes and a quote came to mind, I thought it was appropriate:
-<br />
-<br />
+<span class="break"></span>
 Everyone thinks of changing the world, but no one thinks of changing himself. Leo Tolstoy.
 </p>
 <p>
@@ -26,11 +25,9 @@ H.L. Correction then: Lev Tolstoy.
 </p>
 <p>
 <span class="douglas">Douglas:</span> You really want to do this, start out the morning by laying quotes on me? I have spent my life in the greatest books of world literature. You’re very brave.
-<br />
-<br />
+<span class="break"></span>
 How about:
-<br />
-<br />
+<span class="break"></span>
 The monster of a land, this mightiest of nations, this spawn of the future, turns out to be the macrocosm of microcosm me. John Steinbeck.
 </p>
 <p class="h-l">
@@ -47,14 +44,12 @@ H.L. That’s a great book, where he takes his poodle with him on an exodus arou
 </p>
 <p class="h-l">
 H.L. All right, last one:
-<br />
-<br />
+<span class="break"></span>
 When I let go of what I am, I become what I might be: Lao Tzu
 </p>
 <p>
 <span class="douglas">Douglas:</span> That’s good, appropriate and very West Coast. But it’s over circulated; any high school student can look that one up.
-<br />
-<br />
+<span class="break"></span>
 I will take you out into deep water and drown you now!
 </p>
 <p class="h-l">
@@ -62,11 +57,9 @@ H.L. Oh really, let’s see.
 </p>
 <p>
 <span class="douglas">Douglas:</span>
-<br />
-<br />
+<span class="break"></span>
 Tried hard to find a wise man, but all I could find was a fool. There’s history books full of lies and a PhD for a soul.
-<br />
-<br />
+<span class="break"></span>
 And all of these heroes we struggle to find are really just freaks in a circus, they take off their costumes and rewind their minds, but in the end they desert us.
 </p>
 <p class="h-l">
@@ -80,8 +73,7 @@ H.L. I know of the artist, he is good. But that is cheating; I thought we were f
 </p>
 <p>
 <span class="douglas">Douglas:</span> Hey, who plays fair? Maybe I have learned a thing or two from the wealthy, or more accurately, from the government.
-<br />
-<br />
+<span class="break"></span>
 But Franks has his masters in literature, so it’s only half cheating. Plus, in my interpretation at least, there is an analogy to Yeats in there; The Circus Animals Desertion.
 </p>
 <p class="h-l">
@@ -89,8 +81,7 @@ H.L. I noticed that… I think. A great poem?
 </p>
 <p>
 <span class="douglas">Douglas:</span> One of Yeats best. ‘The foul rag and bone shop of the heart’. Now that line is appropriate to this interview.
-<br />
-<br />
+<span class="break"></span>
 Are we going to stop this phallic measuring contest? We need to get to work.
 </p>
 <p class="h-l">
@@ -98,8 +89,7 @@ H.L. Yes, but I can’t get those lines out of my head. ‘Tried hard to find a 
 </p>
 <p>
 <span class="douglas">Douglas:</span> They are very powerful.
-<br />
-<br />
+<span class="break"></span>
 I have actually lived those lines or experienced those; I have earned them.
 </p>
 <p class="h-l">
@@ -131,8 +121,7 @@ H.L. Sounds like he did ‘desert’ you. Can you be a little more specific?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure, like I said it still bothers me. Well, I had already made the discovery when I went to his institute in late 2000. I didn’t tell anyone there about The Theorem at the time. But his focus was on early childhood issues; he developed a technique that could rip the pain right out of you. It is very effective, but I would only recommend it for extreme cases.
-<br />
-<br />
+<span class="break"></span>
 Anyways, right before The Theorem was to be published, my publisher asked me to seek endorsements. This was in 2005. So I sent this psychologist an email, and in return he requested a copy. I sent him a copy. I was nervous, in a way he was my mentor.
 </p>
 <p class="h-l">
@@ -140,8 +129,7 @@ H.L. Sure.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I was very generous in my words to him; I said history would remember him kindly and so forth. I really believed, and still do, in his therapeutic approach.
-<br />
-<br />
+<span class="break"></span>
 So I didn’t hear anything. He told me later he never endorses anything.
 </p>
 <p class="h-l">
@@ -149,8 +137,7 @@ H.L. Strange; well then why did he agree to accept a copy if he had no plans to 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well that was my question. But I just let it go.
-<br />
-<br />
+<span class="break"></span>
 Then a few years later, like I said, he came out with a book on the womb. It was a very predictable approach; all outdated parochial thinking. The book was a flop, but still I was hurt.
 </p>
 <p class="h-l">
@@ -188,11 +175,9 @@ H.L. Actually I am glad you brought this all up, after all this is an interview 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Thank you. Yes, it is. It is essential to clarify to the readers that this book is not about abortion. It has nothing to do with abortion. There is not a single word about abortion in there. So if the reader is coming to look for that they will be disappointed.
-<br />
-<br />
+<span class="break"></span>
 This is raw and refined psychological theory; a neurodevelopmental model that defines the origins of our behaviors and disorders.
-<br />
-<br />
+<span class="break"></span>
 Thanks for that. Thank you for reminding me to mention it.
 </p>
 <p class="h-l">
@@ -224,17 +209,14 @@ H.L Makes sense.
 </p>
 <p>
 <span class="douglas">Douglas:</span> The second meeting was different. I could tell something was wrong.
-<br />
-<br />
+<span class="break"></span>
 He’s pacing back and forth to the copy machine. Finally, after awhile he sits down and throws these stapled papers at me; onto my lap. It was a photocopied review of my book by some crackpot psychologist, who has since removed it, that he found on the internet. It wasn’t a flattering review either.
-<br />
-<br />
+<span class="break"></span>
 I was shocked, as this had nothing to do with the purpose of our session. Then he wanted me to read it to him. I just threw it back at him and walked out. Later he called and apologized and said he was trying to gauge my response. But when I wasn’t buying his story, he finally admitted that he had written a book and was frustrated that he couldn’t get it published.
 </p>
 <p class="h-l">
 H.L. Well at least you got him to be honest with himself, probably the first time in his life.
-<br />
-<br />
+<span class="break"></span>
 That is a really bizarre encounter though. Did it stop you from going to therapy?
 </p>
 <p>
@@ -269,11 +251,9 @@ H.L. Go ahead.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well, I think this is significant. My feelings have changed towards them over the years. Looking back, I really see them as victims of the liberal or Democratic Elite as well. If anyone said anything positive about The Theorem to one of their colleagues, they very likely would have been immediately dismissed.
-<br />
-<br />
+<span class="break"></span>
 Now I do not have any proof of this in the psychological community, but in the field of neuroscience, I was told by a victim about their experience.
-<br />
-<br />
+<span class="break"></span>
 Actually more than one professor, but the second incident was through a third party.
 </p>
 <p class="h-l">
@@ -341,8 +321,7 @@ H.L. So you had hopes they would embrace it.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, after all The Theorem is the golden spike; connecting neural science to psychology, but for a myriad of reasons, those plans were derailed. At the very least they were sidetracked temporarily.
-<br />
-<br />
+<span class="break"></span>
 I felt they could say to the neural science community, with The Theorem; you can have all the expensive tools in the world, but ultimately the answers, your answers came from one man in a room with a pen and a pad. If it wasn’t for this, you’d still be playing nothing more than an expensive game of ‘pin the tail on the donkey’. That’s the true value of a psychological theory in application to neural science.
 </p>
 <p class="h-l">
@@ -368,11 +347,9 @@ H.L. Like you said, the pain makes you run off topic.
 </p>
 <p>
 <span class="douglas">Douglas:</span> It really does. The entire ordeal is so painful. It’s more than that even, as dealing with a narrative, an interview where you are such a victim. The natural counter reaction for me at least, is to want to insert some self-importance in there so as not to feel so small; so stepped on.
-<br />
-<br />
+<span class="break"></span>
 At the heart of all of this is the belief by others that one man’s work is not important and therefore should be nullified.
-<br />
-<br />
+<span class="break"></span>
 Oh, you can attach all the elegant labels to it; censorship, suppression and so forth. Still at the belly, it comes down to the individual. All victims of censorship share at their core a fundamental flaw in communication, a basic weakness in character or a particular vulnerability ripe for exploitation. You can’t escape it; I can’t escape it. So no matter how I decorate this, and try to conceal that reality from the reader, it will float to the surface.
 </p>
 <p class="h-l">
@@ -386,8 +363,7 @@ H.L. Back to the events; by January 2015 you had left Tennessee and you went to 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, I went to work for six months and saved money. After those six months, I met back up with my friends in Central Missouri.
-<br />
-<br />
+<span class="break"></span>
 But things were definitely picking up steam in (Washington) DC after I left. In fact it really had started before I left.
 </p>
 <p class="h-l">
@@ -401,11 +377,9 @@ H.L. You mean Barack and Eric?
 </p>
 <p>
 <span class="douglas">Douglas:</span> It was a big deal for President Obama to have Eric Holder leaving the post of Attorney General, resigning at the end of September, 2014. Holder wanted no part of suppressing a book or The Legacy Letter or the mushrooming storm he could see coming. This wasn’t going to be his legacy, no way.
-<br />
-<br />
+<span class="break"></span>
 Holder felt if they were caught, perhaps President Obama may get off with a severe slap on the wrist, but Holder knew he would end up the fall guy. He had worked too hard, and too many people believed in him, including many African-Americans. While it is hard and sad to believe that it took this long; Eric Holder was the first African-American Attorney General of The United States.
-<br />
-<br />
+<span class="break"></span>
 Truthfully, I did a double take when I read it. But it is true. He was our first. So this only added higher expectations, and there was no way he was going to let everyone down.
 </p>
 <p class="h-l">
@@ -413,8 +387,7 @@ H.L. They were friends as well.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, you are right and perhaps that is more significant than anything else.
-<br />
-<br />
+<span class="break"></span>
 Harry Truman once described The White House as a ‘prison’. It is a lonely place for a president and was about to get much more so for Barack Obama. He had just lost a good friend, someone he could distract himself from the ominous implications of his actions with, by descending into trivial small talk; the way all friends do.
 </p>
 <p class="h-l">
@@ -422,8 +395,7 @@ H.L. That’s a good point.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Not only that. He could see through Holders’ eyes and actions how severe and dire the situation was. Eric Holder was a brave man and he was heading for the hills.
-<br />
-<br />
+<span class="break"></span>
 Obama had to wonder, should he do the same? I am sure he wished he could resign; he wished he was just attorney general and could go home to his private practice. But he was the president, and the job he once only dreamed of was quickly turning into a nightmare that had no sign of ending.
 </p>
 <p class="h-l">
@@ -431,11 +403,9 @@ H.L. He was really stuck, wasn’t he?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Absolutely, and there are just normal and typical psychological reactions to a defection. It doesn’t matter what kind. It may be a neighbor you don’t talk to anymore, a girlfriend or boyfriend. Maybe your kids move away. All of these things affect you. But someone who has been in your administration, day in and day out for close to six years; it’s a big loss.
-<br />
-<br />
+<span class="break"></span>
 But to Barack Obama this is even more intense, as he has major issues with desertion. Remember he was sent away from by his mother when they lived in Indonesia. He was sent to Hawaii to live with his grandparents.
-<br />
-<br />
+<span class="break"></span>
 To enviously watch Eric Holder leave, to see him go. Could Obama ever get over this cover-up? Would it ever go away, or would it dig at him forever? These would be questions he would have to be asking himself at this point, though from now on there was no one there to reply to him.
 </p>
 <p class="h-l">
@@ -443,8 +413,7 @@ H.L. Yes, I can agree that his childhood experience would magnify the loss.
 </p>
 <p>
 <span class="douglas">Douglas:</span> He was a very isolated president to begin with. He was going to have to go all in now. The cover-up in response to The Legacy Letter and The Theorem was mushrooming into an even bigger mess. To be in something that big and that vast as the cover-up was becoming; well, you can’t tell up from down. You are going to make mistakes. You have no one to tell you, “Hey don’t do that!”
-<br />
-<br />
+<span class="break"></span>
 And by the time he is going undertake surveillance on Trump Tower, he will have slid into such a precarious mental state, and much of this is due to the isolation he was about to realize.
 </p>
 <p class="h-l">
@@ -452,11 +421,9 @@ H.L. Sure that makes sense, and to continue with the Harry Truman theme, didn’
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yeah, I believe so.  There is just no one Barack Obama can really trust at this point, or very few at least. He doesn’t want to reach out to someone new and put this burden on them. He’s not one to do that. He will just bottle it up inside of him; later, it will leak onto those around him to near disastrous effects.
-<br />
-<br />
+<span class="break"></span>
 Not to bring up another quote, but this tired one seems appropriate. Hemmingway in The Sun Also Rises:
-<br />
-<br />
+<span class="break"></span>
 	How did you go bankrupt? Two ways. Gradually and then suddenly.
 </p>
 <p class="h-l">
@@ -464,8 +431,7 @@ H.L. That one I have heard before.
 </p>
 <p>
 <span class="douglas">Douglas:</span> He had been ‘gradually’ sliding into despair for over six years. He didn’t want to do Hillary or Bill Clinton’s dirty work anymore. So this defection would be a ‘suddenly’ moment. It all was hitting him. The Clintons had pulled him in deep; there was no new realization for Barack Obama in regards to this. But now he was in deep and alone, and this magnified his comprehension of what the price for their association he would pay.
-<br />
-<br />
+<span class="break"></span>
 Worse yet he is about to get Loretta Lynch.
 </p>
 <p class="h-l">
@@ -473,8 +439,7 @@ H.L. Not a good choice?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well, I believe he thought it was. After all Eric Holder didn’t know anything about Tennessee Appalachian People. Barack Obama didn’t know anything about Tennessee Appalachian People. This was a different world I was living in down there. They are amazing people really, they are so warm-hearted.
-<br />
-<br />
+<span class="break"></span>
 But many have their own dialects and customs, and Washington D.C and the political elite may have well been a million miles away. So Obama sought out someone who was from the Appalachian region, Greensboro N.C. Maybe she could help enhance his understanding of what I was up to in this strange world he knew nothing about.
 </p>
 <p class="h-l">
@@ -494,14 +459,11 @@ H.L. But you moved.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I moved, but as his final warning to Wall Street he would undertake a cold and heartless act in the spring of 2015.
-<br />
-<br />
+<span class="break"></span>
 You see many of my potential investors and potential donors were from the East Coast. The men and women on Wall Street were really my initial focus group. And no matter how big you expand; your initial focus, those who you started with always have a special place in your heart.
-<br />
-<br />
+<span class="break"></span>
 I loved New Yorkers anyways, while it is not my favorite city in the world, they are most definitely some of my favorite people anywhere. This goes back twenty years or more.  So it was obvious; and anyone watching me would see that this region is where I put my emphasis on. Of course Barack Obama knew this, as he had been watching since almost the beginning.
-<br />
-<br />
+<span class="break"></span>
 Now many of these men were of the Jewish Faith. So because of this, do you know what the president was going to do?
 </p>
 <p class="h-l">
@@ -509,8 +471,7 @@ H.L. Punish Israel.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course, the president is going to terrify Israel actually; by putting together some weak, half–wit deal with Iran to prevent them from constructing a nuclear bomb. But it was really just appeasement to Iran, the net result of the deal infuriated Israel as you may remember.
-<br />
-<br />
+<span class="break"></span>
 And as you know many of those with the Jewish Faith living in America maintain very close ties to Israel. Not to mention that I had written to many wealthy Israeli Nationals, and realized a substantial amount of interest from them.
 </p>
 <p class="h-l">
@@ -518,8 +479,7 @@ H.L. That is cold-hearted.
 </p>
 <p>
 <span class="douglas">Douglas:</span> It was, and not very smart either. But he wasn’t receiving any respect from the Arab Leaders either. I had written to many Muslims as well, and many powerful men in the Middle East.
-<br />
-<br />
+<span class="break"></span>
 But again, the president was blocking all my attempts at receiving funding. So when he held a summit at Camp David in May of 2015, he invited the leaders of six Arab Nations; all part of the Gulf Cooperation Council, only two of the six leaders showed up. The other four snubbed the president, and this rarely has happened in the long storied history of American International Politics. In fact it may have been the first time.
 </p>
 <p class="h-l">
@@ -533,17 +493,13 @@ H.L. So by 2016 he will be secretly sending 400 million dollars to Iran.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Very true, he is starting to crack which brings me another observation.
-<br />
-<br />
+<span class="break"></span>
 From this point on, when I was monitoring my computer, it was not uncommon to see hits on my website from the Camp David area on the weekends when he was there.
-<br />
-<br />
+<span class="break"></span>
 So even when President Obama is supposed to be resting, he is still focused on this cover-up and suppression. A s you would imagine, this will all be important later.
-<br />
-<br />
+<span class="break"></span>
 Barack Obama is a Harvard educated lawyer who lectures on U.S. Constitutional Law. It will take a tremendous amount of pressure, fatigue, and stress for him to go against everything he knows to be moral and also logical by allowing a FISA warrant anywhere close to a potential presidential candidates residence.
-<br />
-<br />
+<span class="break"></span>
 We have a long way to go yet, but he’s starting to show signs already.
 </p>
 <p class="h-l">
@@ -557,8 +513,7 @@ H.L. So why did you settle in Missouri; the where and when?
 </p>
 <p>
 <span class="douglas">Douglas:</span> It wasn’t planned; there was really no reason. I was working near there at the time. The house was not remarkable. We moved in to the place in summer of 2015 and would be there for a total of 2.5 years.
-<br />
-<br />
+<span class="break"></span>
 In a way though it had to do with logistics and the potential investors; I felt if we stayed on the East Coast, I would alienate the big money on the West Coast. And vice a versa, so the Midwest was somewhat neutral.
 </p>
 <p class="h-l">
@@ -566,8 +521,7 @@ H.L. So you still expected to get the money, to find an investor?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Absolutely, demand was high; interest in the letter was higher.
-<br />
-<br />
+<span class="break"></span>
 Looking back I don’t know if Missouri was the right pick though. We chose a small town named Concordia, Missouri. It was 50 miles east of Kansas City. The people were very nice, but the town itself was not scenic, just Central Missouri farmlands. The only thing remarkable is that we lived in the shadow of a large church. But again, the people were friendly.
 </p>
 <p class="h-l">
@@ -593,8 +547,7 @@ H.L. That is a large volume, so you didn’t slow down at all really?
 </p>
 <p>
 <span class="douglas">Douglas:</span> No, not really, as it’s easier said than done to slow down. I became very proficient at sending them out as well, and that was part of the reason for the increase in numbers.
-<br />
-<br />
+<span class="break"></span>
 When I looked at who was coming to The Theorem website I was quite amazed! The interest was really going strong. The problem was that I had already sent a copy to so many billionaires, and so many CEO’s in America. So I decided to start sending it out to members of the board of directors of companies.
 </p>
 <p class="h-l">
@@ -632,8 +585,7 @@ H.L. You talk about women and men, but mostly you talk about businessmen. So I a
 </p>
 <p>
 <span class="douglas">Douglas:</span> Now that is an appropriate question. No, I didn’t send it to many women, maybe 300 in total (3%). Here’s why, The Legacy Letter was written specifically for men; dealing with issues in regards to his quest for immortality, in contrast to women obtaining that naturally.
-<br />
-<br />
+<span class="break"></span>
 This was frustrating; it was very frustrating to me. Because I would see a woman CEO and say to myself, “She is perfect, she will invest or donate.” But all I had was this male oriented letter. So it was like sending a woman a pair of men’s socks as a gift. It really made no sense.
 </p>
 <p class="h-l">
@@ -647,8 +599,7 @@ H.L. You mean thank you for the nice socks?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Exactly. That’s so true.
-<br />
-<br />
+<span class="break"></span>
 Obviously I had planned on writing a letter specifically designed for women. I even started on it, but by that time the prosecutions were getting so heavy, I really did not want to get females wrapped up in that mess; figuring they had enough to deal with in the workplace already.
 </p>
 <p class="h-l">
@@ -656,11 +607,9 @@ H.L. Thanks, this clarifies a lot. Okay continue with the web traffic.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well one of the things I did with my idle time was really fine tuning my comprehension of how to determine who was coming to The Theorem’s website.
-<br />
-<br />
+<span class="break"></span>
 You know when I was in Tennessee, I was busy with the task of survival and this method of detection was new to me, so I had not fully mastered it. However, it had now been close to a year and a half and I was really isolating my focus on my methodology of detection. Like I said, it is more of an art form than a skill. By now I had a much better command of my art.
-<br />
-<br />
+<span class="break"></span>
 What I noticed was very disturbing as well. As it wasn’t just business people who were being punished, and it wasn’t just people who were interested in investing, but now Obama was going after Hollywood.
 </p>
 <p class="h-l">
@@ -668,8 +617,7 @@ H.L. Did you send them to actors and directors?
 </p>
 <p>
 <span class="douglas">Douglas:</span> No not really. Okay, in all, by the time I was finished I sent out 10,000 Legacy Letters; of those, less one half of one percent went to celebrities. I use that term very loosely too. Maybe 10 were sent to musicians, 10 to actors, 5 to sports figures etc. I would run across their name and 9 out of 10 times, not send it; but once in a great while, I would.
-<br />
-<br />
+<span class="break"></span>
 Now the musicians are interesting, they are worth talking about, because what happened there was truly unique. But no, the very few Hollywood types I sent the emails to were not the ones that showed up on The Theorem website. They were other celebrities. And there was no connection to the initial ones I sent it to. At least that is what I could interpret.
 </p>
 <p class="h-l">
@@ -683,11 +631,9 @@ H.L. That’s wild; did you ever send them a Legacy Letter in 2014 or 2015?
 </p>
 <p>
 <span class="douglas">Douglas:</span> No. Truthfully I didn’t even think about it. I suppose I should have, but again celebrities were not my focus, more of an afterthought.
-<br />
-<br />
+<span class="break"></span>
 Also, The Theorem may have done quite well in Hollywood when it was in the bookstores back in 2007.
-<br />
-<br />
+<span class="break"></span>
 While I do not know this to be true, or have exact sales figures, I have to assume there was some demand there because it was stocked in brick and mortar bookstores in the Hollywood area. This was in contrast to other cities where The Theorem was not stocked on the shelves of the same bookstore chains’ store.
 </p>
 <p class="h-l">
@@ -695,8 +641,7 @@ H.L. Sure.
 </p>
 <p>
 <span class="douglas">Douglas:</span> If you add that to the word of mouth from the billionaires and financially elite; then, as you would imagine, eventually the word spread.
-<br />
-<br />
+<span class="break"></span>
 Also, some of the CEO’s of movie production companies received a copy of The Legacy Letter years earlier. But my focus on them was the fact that they were corporate CEO’s, and no connection or interest in regards to Hollywood.
 </p>
 <p class="h-l">
@@ -704,8 +649,7 @@ H.L. Sure, still they were CEO’s. Still they were businessmen.
 </p>
 <p>
 <span class="douglas">Douglas:</span>  Yes.
-<br />
-<br />
+<span class="break"></span>
 It also became interesting when the new Theorem website was up and running. From then on I would see two groups of celebrities. The first were the actresses that were pregnant. This made sense, The Theorem is a book you must read when you are going to have a baby!
 </p>
 <p class="h-l">
@@ -725,8 +669,7 @@ H.L. You’re kidding me?
 </p>
 <p>
 <span class="douglas">Douglas:</span> No, I am not. And like the billionaires, and the businessmen they likely had no clue as to why they were being targeted.
-<br />
-<br />
+<span class="break"></span>
 At first, as is typical for me, I was in complete denial. I said that’s impossible. I already have the fate of highly accomplished businessmen on my conscience; I am not going to take on the burden of Hollywood. But over time it became obvious they were being targeted. They were losing roles in movies, they were being slammed on social media and the men; well, many of them were being accused of just about anything under the sun. Again, it happened hundreds of times. Worse yet, this just stopped a few months ago. So it long exceeded Obama’s term. The liberal loyalists are ruining Hollywood, they really are.
 </p>
 <p class="h-l">
@@ -734,8 +677,7 @@ H.L. That is really something. It’s too bad because they work so hard for thei
 </p>
 <p>
 <span class="douglas">Douglas:</span> That is so true, I have definitely a new respect for the work they do.
-<br />
-<br />
+<span class="break"></span>
 The thing is though there were some who knew about this racket, and knew how to game the system. You see I always try and find the positive even in this tragedy.
 </p>
 <p class="h-l">
@@ -743,11 +685,9 @@ H.L. What do you mean by that?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well, it was like a club. If you were on the inside, and you came to The Theorem site too often they would just as likely be rewarded with a big role, or a big interview.
-<br />
-<br />
+<span class="break"></span>
 I am telling you, fact is stranger than fiction.
-<br />
-<br />
+<span class="break"></span>
 So essentially some of these highly alert ‘A’ list actors knew exactly how to play it; in other words they would go to the website at a low time in their career, and keep returning, and then magically their career would take off again. So they knew they were being watched and they played this dangerous game of chicken with the Liberal Elite and won! They had no real interest in the book, I could tell. They just knew how to tweak the system in their favor.
 </p>
 <p class="h-l">
@@ -755,8 +695,7 @@ H.L. How many did this?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well maybe only between fifteen or twenty celebrities, but, hey it was something to cheer about. There are smart risk takers in every field.
-<br />
-<br />
+<span class="break"></span>
 The thing is there was a time when The Theorem website for Hollywood was like a wheel of fortune. They could take a spin, and see where it landed. If they were too big to fail, they won. If they weren’t, they lost. All of this from a book that was out of print, I’m telling you true, this is exactly what happened.
 </p>
 <p class="h-l">
@@ -776,8 +715,7 @@ H.L. Yeah, no thanks. Sounds impossible; I couldn’t even get past the dieting.
 </p>
 <p>
 <span class="douglas">Douglas:</span> That’s funny.
-<br />
-<br />
+<span class="break"></span>
 While this was an interesting revelation, it was very scary to me as well. Because for once I was starting to realize just how big this cover-up was, this intentional destruction of lives. Before that I just thought it focused on businessmen and Wall Street. I had no idea that they would go after actors or actresses. It just didn’t seem possible. I’m telling you Obama was the Spy King, this transcended political ideology.
 </p>
 <p class="h-l">
@@ -788,17 +726,14 @@ H.L. I know at one time he was spying on 35 world leaders.
 </p>
 <p class="h-l">
 H.L. You said the musicians; you sent a few to them. How did that go?
-<br />
-<br />
+<span class="break"></span>
 I see you’re smiling, so I can guess the answer.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, I am. Here’s the story. Finally something positive!
-<br />
-<br />
+<span class="break"></span>
 So occasionally over the years as I was emailing, I would hear a song or a lyric and then think I should send that person a copy of The Legacy Letter. But for some reason I was shy. So finally one week, sometime in or around 2015, I made up my mind to get up the courage to do it. Their email addresses were not easy to find, but I sent the letter to maybe ten or even fifteen famous musicians.
-<br />
-<br />
+<span class="break"></span>
 At first I heard nothing, saw no interest on the website or anything. I thought that it was a dud. Then about a year later it started, and it’s like they woke or rose up, and it has not stopped since.
 </p>
 <p class="h-l">
@@ -806,8 +741,7 @@ H.L. Why do you think it took almost a year, were they that busy?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well a bunch of reasons. I think I have it figured out as I have given this a lot of thought, as a year is a long lapse.
-<br />
-<br />
+<span class="break"></span>
 I figured maybe at first they were not that impressed with my writing, as these artists are responsible for some of the best prose in recent history; a good portion of it is poetry to music. I cannot write like that, though I wish I could.
 </p>
 <p class="h-l">
@@ -815,8 +749,7 @@ H.L. That’s a good point, a tough crowd.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well they were at first, but of course the content was definitely there, and like you said they were busy. But here’s what I really think happened.
-<br />
-<br />
+<span class="break"></span>
 I think they started piecing everything together. I think they started to see the big picture. They could see that The Theorem was being suppressed and censored.
 </p>
 <p class="h-l">
@@ -848,17 +781,14 @@ H.L. That’s true, from a business standpoint. They would just ride it out.
 </p>
 <p>
 <span class="douglas">Douglas:</span> One more thing. I think when all of this is said and done years down the road; when all of this mess is finally uncovered, when insiders begin to testify, you are going to notice something.
-<br />
-<br />
+<span class="break"></span>
 I think the action of these musicians, this intense word of mouth, was in many ways the threshold, the straw that broke the camels’ back. While the Obama administration could certainly target Hollywood as there was a geographical core there, a set location; the music business was so far spread out like I mentioned earlier.
-<br />
-<br />
+<span class="break"></span>
 So essentially I believe this was the tipping point, the time when the president just through his hands up in the air, not yet in defeat, but in an overwhelming realization that in the long term he wasn’t going to win.
 </p>
 <p class="h-l">
 H.L. No, that is good. I can see there is more here.
-<br />
-<br />
+<span class="break"></span>
 It’s not uncommon for artists to see the value or the trends before they trickle down to the group population in general; perhaps that what he was seeing: A single loss of a battle that had foreshadowed the ultimate defeat in a war.
 </p>
 <p>
@@ -869,8 +799,7 @@ H.L. That’s really inspiring. It truly is.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Okay I know we have a long ways to go, we are not even at the true headwaters of Spygate, but I need to include a last bit of electronic detection.
-<br />
-<br />
+<span class="break"></span>
 I hate to change the tone as well. It is a sad and somber event, and then we can get on with the rest.
 </p>
 <p class="h-l">
@@ -896,8 +825,7 @@ H.L. You were living in Missouri at the time?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, in a way, but in a different part and alone. In the beginning I was, but this event continued for about a year. Throughout that time I was also living in California and the Northern Ozarks as well.
-<br />
-<br />
+<span class="break"></span>
 So I don’t how familiar you are with computers, but I’m guessing anyone can figure this one out. As you are likely aware when you open up your home page on a computer or to your search engine you have shortcuts; These are the sites that you visit more often and clicking on that link it takes you directly into the site. I foolishly still use Google, so that is the search engine I am speaking of here.
 </p>
 <p class="h-l">
@@ -911,8 +839,7 @@ H.L. Yes, you covered that.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Okay, so this particular website I didn’t really use for that purpose. It was a list of executives from around the world; board of directors; CEO’s, etc.
-<br />
-<br />
+<span class="break"></span>
 I would utilize this list on the site primarily to find names and not to determine the frequency of who was coming to my site.
 </p>
 <p class="h-l">
@@ -938,11 +865,9 @@ H.L. I see, yes. That is interesting I have never seen that, but I will look.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, well I don’t know if other sites do this, but this one did.
-<br />
-<br />
+<span class="break"></span>
 Sometimes this bot or increased size of font on the name matched what I was seeing in my results with other names it listed, usually it was somewhat close, and so it was partially reliable.
-<br />
-<br />
+<span class="break"></span>
 Now somehow one of these executives’ names, Carlos Ghosn, now former CEO of Renault, became a shortcut. So now instead of entering the website through the home page, I was entering the website through the shortcut with his name on it.
 </p>
 <p class="h-l">
@@ -950,11 +875,9 @@ H.L. Therefore his name kept enlarging.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, you got it. His name kept enlarging. Again, I have no idea how he became a favorite or a shortcut, likely I hit a button on accident one time and just left it there. No matter. So yes his name, Carlos Ghosn, the font size of his name would increase each time I opened it.
-<br />
-<br />
+<span class="break"></span>
 It is important to disclose here that all my primary techniques of detections led me to believe that this executive, Carlos Ghosn, was not particularly interested.
-<br />
-<br />
+<span class="break"></span>
 In other words, while I had sent him an email, a Legacy Letter, I saw no evidence that I should follow up with him, or that I should be expecting a call from him anytime soon.
 </p>
 <p class="h-l">
@@ -962,8 +885,7 @@ H.L. Sure, you said you sent out thousands of Legacy Letters by the end.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, and actually I was done sending out Legacy Letters, and had been for awhile. So I can tell you almost exactly, by that time I had sent out 10,100 emails.
-<br />
-<br />
+<span class="break"></span>
 Now remember it’s after the election, President Trump has long moved into the White House. So I feel much safer in some ways, but I am also aware that there are Obama loyalists lurking around the administrative branches.
 </p>
 <p class="h-l">
@@ -983,11 +905,9 @@ H.L. I see. You were gun-shy. Your potential investors had been targeted, and yo
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, but I told myself, I was being paranoid.
-<br />
-<br />
+<span class="break"></span>
 I said that would be impossible. Still, I knew I had to change that shortcut. I just felt in my stomach I needed to change it.
-<br />
-<br />
+<span class="break"></span>
 Every time I would click on that link, the shortcut, his name; then, I would subtly fret for this man’s future. I was over reactive to the stimulus; an entire stress response, subtle but potent, would overtake me. Indeed I was beat up, beat down and exhausted from the hell they had put me and my potential investors and donors through. Work itself was becoming stressful. To look at the computer was creating mild anxiety, though I could quickly disarm it; still it was there.
 </p>
 <p class="h-l">
@@ -995,11 +915,9 @@ H.L. I can relate to that.
 </p>
 <p>
 <span class="douglas">Douglas:</span> But I didn’t change it. I would just enter the Site through Carlos Ghosn’s name. So here is what happened. Now remember there are close to a 1000 names on this list of executives and maybe more; this is important, it’s not a short list.
-<br />
-<br />
+<span class="break"></span>
 So while I knew I should delete that shortcut, I failed to do so. I wasn’t being lazy. It was too painful to accept that I might be that toxic. It was too painful to accept that this was not over. It was too painful to accept that the ushering in of the new administration was not like some magic wand that would erase the nightmare.
-<br />
-<br />
+<span class="break"></span>
 My bedrock, my very foundation demanded that the trauma I experienced was all over. But it wasn’t. Not all.
 </p>
 <p class="h-l">
@@ -1013,8 +931,7 @@ H.L. So let me get this straight. You are essentially saying that because you di
 </p>
 <p>
 <span class="douglas">Douglas:</span> See! See how easy it is? Exactly what I used to tell myself, but no it is true. And I can all but prove it to you as well. Because after the charges were brought on him, I did something.
-<br />
-<br />
+<span class="break"></span>
 I went online anonymously, but not completely masked; this so that those who were behind the sham prosecution knew it was me.
 </p>
 <p class="h-l">
@@ -1028,24 +945,19 @@ H.L. That is amazing in a sad way. Basically you were one step ahead of them but
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, as far as I know they were using the size of that font of that website to determine who was innocent and who was guilty; to me at that point it was amateurish and child’s play. But ultimately a man suffered for my failure to delete that shortcut.
-<br />
-<br />
+<span class="break"></span>
 D.L. So you are sure that if you would have deleted that shortcut he would not be prosecuted today?
 <p>
 <span class="douglas">Douglas:</span> Yes, absolutely. Unless, by one of a thousand chances Carlos Ghosn was particularly interested in investing (the amount of names on that site), but again I saw no evidence of this; and as you can tell my methods of detection were far advanced to the Liberal Elite hackers and coders at that time.
-<br />
-<br />
+<span class="break"></span>
 D.L. So where do you think that those hackers were?
 <p>
 <span class="douglas">Douglas:</span> Who knows, this I couldn’t tell you.
-<br />
-<br />
+<span class="break"></span>
 Look, I could give at least twenty names of almost this exact event or similar events happening. Probably I could give you more. But ultimately one of those would be wrong, or there would be some validity to the charges. Does that make the other 19 okay?
-<br />
-<br />
+<span class="break"></span>
 No, it doesn’t!
-<br />
-<br />
+<span class="break"></span>
 The only reason I mentioned this one, here now, is that it well exceeded Obama’s reign and that the cover-up and bogus charges are still continuing; this in the wake of the Obama administration, his loyalists. I was very upset.
 </p>
 <p class="h-l">
@@ -1053,8 +965,7 @@ H.L. I could see why you’d be upset.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Upset is really not strong enough. I wept for days, maybe weeks and months. I went from hating myself to hating the Liberal Elite and it never ended, it was a circle I could not escape from. And probably the tears I cried, and there were many, were not just for him but likely for all the potential investors that had been falsely prosecuted or harassed.
-<br />
-<br />
+<span class="break"></span>
 The only thing that rescued me from that circle of self-loathing was the determination that whatever the personal cost, whatever the embarrassment and disbelief I would encounter, I would tell this story. I would get the truth out. And that is the day I starting working on this, on my notes for the narrative that has now evolved into this interview. It was well over a few years ago, likely longer.
 </p>
 <p class="h-l">
@@ -1062,29 +973,23 @@ H.L. Well I am glad you decided to share it. Every man has his limits, you had r
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, I had. I have. And with these people; the French and the Japanese and any American co-conspirators who brought these false charges against this good man, who is quickly transforming into a great man, you better run! Because you will be prosecuted in the World Court; with everything that is in me, I will see to that.
-<br />
-<br />
+<span class="break"></span>
 Sorry, I had to get that out.
 </p>
 <p class="h-l">
 H.L. It’s okay, take a few minutes. We have time.
-<br />
-<br />
+<span class="break"></span>
 That’s just wrong. I’m sorry. I agree, these people need to be prosecuted.
-<br />
-<br />
+<span class="break"></span>
 So you’re saying that this was not an American operation, but an international operation?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes. You see they were limping now, these leftist elitist. They were like a tired old, injured lion who could not hunt for itself. So it would go down to the village and prey on the inhabitants.
-<br />
-<br />
+<span class="break"></span>
 They were out of the loop; they did not have the same access to surveillance they once did, they could only see things obstructed, obscured. Therefore they began to misinterpret the data. It all, in a horrible way, made sense.
-<br />
-<br />
+<span class="break"></span>
 Or else they misinterpreted the size of that font, as me somehow communicating with Ghosn, somehow he was planning on secretly investing in the Theorem; the whole incident is so ridiculous. I don’t even want to stoop to the low level of intellect these half-ass coders were applying for interpretation.
-<br />
-<br />
+<span class="break"></span>
 The Obama administration, with as much scrutiny as it received internationally, was able to export this archaic liberal ideology to a few countries. Shockingly, Obama found someone weaker than himself in the French leader, and sold him that repackaged, passé liberal agenda.
 </p>
 <p class="h-l">
@@ -1134,8 +1039,7 @@ H.L. Well you will feel better when you are done. I can see the changes on you a
 </p>
 <p>
 <span class="douglas">Douglas:</span> Maybe. Maybe I will feel better, I don’t feel any changes.
-<br />
-<br />
+<span class="break"></span>
 No matter, another reason this example is important is that it illustrates how this cover-up by that time had long exceeded the U.S. borders. I could name other conspirators, at least 20 more, but if I got one wrong, this would be tragic. So I will err in the name of caution.
 </p>
 <p class="h-l">
@@ -1179,8 +1083,7 @@ H.L. Yes. Just take a minute.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I will. It’s just all so upsetting. It’s just all so foul.
-<br />
-<br />
+<span class="break"></span>
 
 </p>
 <p class="h-l">
@@ -1200,8 +1103,7 @@ H.L. I can see that.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course I liked Donald Trump, he was a billionaire. I had spent close to two years writing and studying these people at that time. But you have to realize that my family is filled with a bunch of Democrats. I grew up in a sleepy seaside coastal California town inhabited by hippies and dropouts. So it wasn’t that easy to switch sides.
-<br />
-<br />
+<span class="break"></span>
 I was a liberal as you can be. And I mean that.
 </p>
 <p class="h-l">
@@ -1221,11 +1123,9 @@ H.L. This must make it all the more disturbing to realize what they have done to
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course it does, it is heartbreaking. But at the time I was still in denial.
-<br />
-<br />
+<span class="break"></span>
 Look, no one wants to see themselves that small. So I took solace in the fact that the events were so unbelievable that I could hide from them. I wrapped myself in the blanket of the belief that what was happening to me could not be happening; this was the blanket that kept me insulated from reality.
-<br />
-<br />
+<span class="break"></span>
 While I could intake the experience, the events and the observations on a conscious level, my subconscious was out to protect me from assimilating that reality. So I lived in denial.
 </p>
 <p class="h-l">
@@ -1269,8 +1169,7 @@ H.L. You think Bill Clinton reels her in by cheating?
 </p>
 <p>
 <span class="douglas">Douglas:</span> I think he picks his moments. He is so ineffective with her now, his attempts, so blunted that he really has to work at it in order to destroy her and bring her down. He just has no plans of ever releasing his prisoner, his hostage; his Hillary.
-<br />
-<br />
+<span class="break"></span>
 It’s hard for him to accomplish this for a multitude of reasons. One, she is numb to it. The second is more biologically based and more permanent. In The Theorem you realize that after menopause, the reproduction model exempts the female in many ways for obvious reasons. Therefore like the male, she will be more interested in the company of females, emotionally speaking.
 </p>
 <p class="h-l">
@@ -1302,8 +1201,7 @@ H.L. It will; I agree. Still, I want to hear all about it.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well, it’s that subconscious quest for immortality. Why gamble with immortality, your legacy, when you can go relax and enjoy your grandchild; knowing he or she may grow up to be president one day. And it all started with her. Or maybe it will be her great-granddaughter someday she will be the president, the list goes on. It’s just more of a guarantee. It’s more certain those generations will go on forever.
-<br />
-<br />
+<span class="break"></span>
 She can look at that child and see it all evolved from within her; the immortality birthing machine, her womb. It’s a powerful emotion and realization men do not experience. We have been over this.
 </p>
 <p class="h-l">
@@ -1347,11 +1245,9 @@ H.L. Sounds like a scene from a movie.
 </p>
 <p>
 <span class="douglas">Douglas:</span> It really does, but it was real. The trailer was very small. There was only one bedroom. They saved for years and finally were able to build an extension of five feet onto their trailer. This extension was a big deal for them.
-<br />
-<br />
+<span class="break"></span>
 I bring this up because they had four children. Now all of these four children were much better off financially than they were. Two of them owned businesses; one of these businesses was very large. Their other two children were both very successful and financially solvent as well.  Two of the children were WW2 Veterans, and my great-grandfather served in WW1.
-<br />
-<br />
+<span class="break"></span>
 So anyways, as poor as they were; whenever they would talk about their children and about the sacrifices they made for them, the little trailer would light up with love. Suddenly, as a kid, I felt I was in a mansion.
 </p>
 <p class="h-l">
@@ -1377,8 +1273,7 @@ H.L. Like the Clintons?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well I think they are good parents, but the unmet needs part, yes. In fact it is everything behind the events that happened. It’s all consuming.
-<br />
-<br />
+<span class="break"></span>
 Just look at the movie trends five or ten years ago, though it’s probably been longer than that now. They were all symbolic of people felt about what was happening in their life.
 </p>
 <p class="h-l">
@@ -1389,8 +1284,7 @@ H.L. I don’t understand.
 </p>
 <p class="h-l">
 H.L. That’s good.
-<br />
-<br />
+<span class="break"></span>
 How about zombie movies? The parents never go away. You think they are done fulfilling their needs, but they rise from the dead and still want to devour your time.
 </p>
 <p>
@@ -1401,8 +1295,7 @@ H.L. No it’s not. How about space movies they want to get far away from these 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Those are for another reason, you can reread The Theorem to learn that.
-<br />
-<br />
+<span class="break"></span>
 But you’re right; you can blame people for fantasizing about getting out of here, to escape from those who hold you down. Anyways we could go on and on. The point is; it’s everywhere.
 </p>
 <p class="h-l">
@@ -1419,8 +1312,7 @@ H.L. What do you mean?
 </p>
 <p class="h-l">
 H.L. I have seen that, so? What does that have to do with anything? It tells you about The Donner Party and how they survived on the pass on the way to California, and how they were snowed in and so on.
-<br />
-<br />
+<span class="break"></span>
 And of course they were forced to resort to cannibalism to survive.
 </p>
 <p>
@@ -1428,11 +1320,9 @@ And of course they were forced to resort to cannibalism to survive.
 </p>
 <p class="h-l">
 H.L. I see what you are saying, it is a morbid monument. That’s very perceptive.
-<br />
-<br />
+<span class="break"></span>
 Actually that makes perfect sense.
-<br />
-<br />
+<span class="break"></span>
 It also tells the Native Americans that if you are naïve enough to help the white people you may get chopped up and become dinner yourself.
 </p>
 <p>
@@ -1443,14 +1333,11 @@ H.L. I was just thinking when you said that. Remember Grapes of Wrath?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Very good. Another fine example right there, many read it in high school; the baby dies in the end and the hungry grown man crowds the vacant breast. That was the San Joaquin Valley; that was California. Sure.
-<br />
-<br />
+<span class="break"></span>
 Steinbeck was trying to tell everyone something, California was sick. He even said something was evil in the Salinas Valley, the place where he grew up. He witnessed it first hand, likely in his own home.
-<br />
-<br />
+<span class="break"></span>
 In peoples desperation to prosper in the Golden State nothing is sacred, especially infancy and childhood. America in decay, the old, old story; told with a new more potent twist on the westward journey!
-<br />
-<br />
+<span class="break"></span>
 	Of course it’s not just California anymore. It’s everywhere.
 </p>
 <p class="h-l">
@@ -1458,11 +1345,9 @@ H.L. I see it. Someone needs to step up and sacrifice for the next generation.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, but they don’t. I remember maybe 20 years ago I first saw the sticker on the back of an RV, ‘We are spending our children’s inheritance.’
-<br />
-<br />
+<span class="break"></span>
 Now you see those stickers are faded but the intent still remains. I thought to myself, yeah but you will drive up to your kid’s house, hog up their driveway and annoy them with your visits; all the time rubbing your wealth and indifference toward their well-being in their face.
-<br />
-<br />
+<span class="break"></span>
 They harvest the energy of youth, never leaving a fallow field.
 </p>
 <p class="h-l">
@@ -1470,8 +1355,7 @@ H.L. That’s so true; you can’t imagine the kids will like that.
 </p>
 <p>
 <span class="douglas">Douglas:</span> It is the generation of cashing out your life insurance policy so you can spend it before you go. It’s about cashing in the equity of your home and taking that dream vacation, while your kids can barely afford rent. It is mortgaging the children’s future to fulfill parents unmet needs.
-<br />
-<br />
+<span class="break"></span>
 Children used to do better than their parents, now not so much. It’s not the economy as there is plenty of money out there to be made, plenty. It’s living off the energy of children; the purgation of youth.
 </p>
 <p class="h-l">
@@ -1479,8 +1363,7 @@ H.L. That’s right, young people used to have children, now all they can do is 
 </p>
 <p>
 <span class="douglas">Douglas:</span> So true, they are being sucked dry and they don’t even realize it. You know America is a great country, probably one of the greatest in the world. It’s my birthplace, so I believe we are the best.
-<br />
-<br />
+<span class="break"></span>
 However it’s no accident how we became so big so quickly.
 </p>
 <p class="h-l">
@@ -1524,8 +1407,7 @@ H.L. And there is only room for one group, so the young people get pushed aside.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Exactly. It’s like the young people think if they go along with it, keep sacrificing for the older generation then they will be left something for their good intentions. But they won’t be left a thing. They won’t be left a dime. After all, the older generation feel they are entitled to everything; this selfish class.
-<br />
-<br />
+<span class="break"></span>
 While that is hard to accept, tough to swallow, it is true.
 </p>
 <p class="h-l">
@@ -1533,11 +1415,9 @@ H.L. Good point. They wouldn’t get a dime. There will be some very disappointe
 </p>
 <p>
 <span class="douglas">Douglas:</span> You know one thing I learned about many of the ultra wealthy, and I have obviously unintentionally spent a large amount of time studying them, is that they are smart.
-<br />
-<br />
+<span class="break"></span>
 They make sure the next generation gets their money when they leave. This is most of them, I would say 97 percent. These 97 percent of the wealthy are some of the most gracious, giving people in the world.
-<br />
-<br />
+<span class="break"></span>
 But then there is the 3 percent.
 </p>
 <p class="h-l">
@@ -1557,8 +1437,7 @@ H.L. I agree it’s the kid’s money they had to put up with you.
 </p>
 <p>
 <span class="douglas">Douglas:</span> That’s it. The truth is in many cases, even most cases, if you are worth 30 or 40 billion dollars, you are screwed up 30 or 40 more billion times than the average individual. It’s a sad reality and people don’t want to see that, but it’s true. Publicly we don’t see that.
-<br />
-<br />
+<span class="break"></span>
 I am not putting down billionaires, not at all. They serve a huge purpose in society. They are the symbol and the motivation for the guy who is working for minimum wage and has high ambitions. They are the dream he is seeking to obtain. Without billionaires everyone would be much poorer, trust me on that. But fair is fair, if these children had to endure you; pay up.
 </p>
 <p class="h-l">
@@ -1566,8 +1445,7 @@ H.L. That’s really so good.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I mean I hope to have some money someday. While I am far from perfect, everything I do ultimately is for my children; if I didn’t believe that I would jump off a bridge. I just couldn’t live with myself. And when I go, if there is any money it will go to those who endured me in my hard times and not flattered me in the good ones. That’s only right.
-<br />
-<br />
+<span class="break"></span>
 Charity is great, not knocking it, but the way some of these people treat their kids; the ones who will actually need the charity is their future decedents. That’ not wise.
 </p>
 <p class="h-l">
@@ -1575,8 +1453,7 @@ H.L. I agree; it’s never been harder to be a kid. I don’t care what anyone s
 </p>
 <p>
 <span class="douglas">Douglas:</span> I think you are right, and like thieves in the night they are even now stealing young people’s sexuality. While the old guys roll their eyes; for young people today in America and the Western World, many are confused about their own sexual identity.
-<br />
-<br />
+<span class="break"></span>
 Like you said, mom has traded in the pink for a business suit and she is not coming home anytime soon. Men want women more, women want women more. It’s a mess.
 </p>
 <p class="h-l">
@@ -1596,8 +1473,7 @@ H.L. No, I meant how did we get here; to this topic?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Oh, I don’t know, but we can circle back, we can use this.
-<br />
-<br />
+<span class="break"></span>
 You know in the 1960s and 1970’s the Democratic Party was really built on rebellion. It was a rebellion against the status quo, against the Eisenhower era that preceded it.
 </p>
 <p class="h-l">
@@ -1605,8 +1481,7 @@ H.L. Sure.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Here’s the problem with the party today however, and it’s a major issue.
-<br />
-<br />
+<span class="break"></span>
 It’s that there is no one for these kids to rebel against, as their parents are still rebelling as well. So for many it’s like there is no Eisenhower era family to go home to; moms and dads are still finding out who they are. The parents are even hogging up the rebellion scheme.
 </p>
 <p class="h-l">
@@ -1614,8 +1489,7 @@ H.L. That’s laughable and sad, but it makes complete sense to me.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well it’s not funny certainly for the Democratic Party because they are in trouble. Now when a political party falls out of favor with their demographic group they tend to become desperate and start to force the issue. They start to force what once came naturally, which is the will of the people. This is the only way to compete with the decline in demographics or sociology that would otherwise support their platform.
-<br />
-<br />
+<span class="break"></span>
 For example in the early 1970’s the Republican Party was guilty of this. Hence we saw Watergate. The platform and the Republican Party were going one way, the social and cultural movement the other. But the Republican Party was still locked in the past. They failed to adapt, and the consequences were disastrous.
 </p>
 <p class="h-l">
@@ -1623,8 +1497,7 @@ H.L. I never saw it like that, but it is very insightful.
 </p>
 <p>
 <span class="douglas">Douglas:</span> So you can directly parallel the Republican Party of the 1970s with the Democratic Party today. So we see what they are doing with The Theorem, they want to suppress a large discovery that they fear will further chisel away at their dated platform.
-<br />
-<br />
+<span class="break"></span>
 They want to control the media and the message, which let’s be honest they have done a good job at doing. But when all of that fails, the corruption will be ratcheted up to a level that will even make what you are going to see here, look mild.
 </p>
 <p class="h-l">
@@ -1650,14 +1523,11 @@ H.L. Hey I like that: Respect or Dissect! I think you found a great contrast. It
 </p>
 <p>
 <span class="douglas">Douglas:</span> Okay, great, glad I am entertaining you.
-<br />
-<br />
+<span class="break"></span>
 The problem is, those building blocks of the socialist platform are an illustration of the subconscious of the electorate. Everyone is well aware that a high quality college education is way too expensive, it’s astronomical; so free college sounds good to kids.
-<br />
-<br />
+<span class="break"></span>
 Beneath that however lays deep frustrations of not wanting their parents to foot the bill for that education. Children are selfless giving entities, at least at birth. Part of that never leaves them; they want to make their parents happy. They don’t want to see them struggle.
-<br />
-<br />
+<span class="break"></span>
 Also as we have seen, some of the parents are just selfish and don’t want to struggle for their children. So they are asking their government for what they cannot ask, or are afraid to ask their family for.
 </p>
 <p class="h-l">
@@ -1671,8 +1541,7 @@ H.L. Would it be better if they just dealt with the problems at home, their pare
 </p>
 <p>
 <span class="douglas">Douglas:</span> That is true, but not easier. Definitely it would be better for them and the country in the long run.
-<br />
-<br />
+<span class="break"></span>
 But that is really hard to do when you are young. It’s very painful and takes years, and then you realize you can’t fix your family. It’s a mess; better to wait until at least until your late twenties to start digging into that dirt, at least really deep into it.
 </p>
 <p class="h-l">
@@ -1680,14 +1549,11 @@ H.L. Then you have someone like Bernie Sanders and the others who are harnessing
 </p>
 <p>
 <span class="douglas">Douglas:</span> That is exactly what they are doing. It’s very effective, but the road leads to a dead end street.
-<br />
-<br />
+<span class="break"></span>
 One of the reasons colleges are so expensive is because they are quasi-socialist in nature: professors get big money, they often work little, spending much of their time publishing; every week it’s a birthday party in the office. Summers off, government money; the list goes on and on, it’s Fantasyland.
-<br />
-<br />
+<span class="break"></span>
 That’s great for the employees, but the student’s pay for the party in the end. Now imagine everything being as expensive as college, and you start to get the idea of the nightmare socialism would be. It’s a bad bet having the government take the place of your family like you said; you are setting yourself up for a letdown.
-<br />
-<br />
+<span class="break"></span>
 No, the bus that took us in here was capitalism and that needs to be the bus that takes us out. So right now the bus is temporarily broken down, we will get it repaired and be on our way.
 </p>
 <p class="h-l">
@@ -1695,17 +1561,13 @@ H.L. Speaking of capitalism, do think Donald Trump found enough of the people we
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well I never thought of it exactly like that, but I think that’s correct. Add that to the debate and I think you got your answer; his recipe for success.
-<br />
-<br />
+<span class="break"></span>
 Even his slogan, to “Make America Great Again”, was such a wonderful contrast from what we all experienced for eight years.
-<br />
-<br />
+<span class="break"></span>
 He did, you’re right. He went out to places where people still understood what it means to sacrifice for your children, to build up a business to leave to your kids, to mortgage your house for their college. Donald Trump worked very hard as well, many rallies in smaller places and big cities. I think ultimately he won because he reached people in places most of us drive by and never take a second look at. No one was more surprised than the Democrats, as they were shocked that he found these people; the real America on the back roads and down the streets of a dream that was once so vibrant across this land.
-<br />
-<br />
+<span class="break"></span>
 In addition, they could not compete with his charisma and ambition. No way.
-<br />
-<br />
+<span class="break"></span>
 Also people are not dumb, they can see through things. You know every picture tells a story. When you looked at Donald Trump up there with his family, it was more about what you didn’t see.
 </p>
 <p class="h-l">
@@ -1719,8 +1581,7 @@ H.L. Yes, I can see that. It’s the little things; the things most don’t regi
 </p>
 <p>
 <span class="douglas">Douglas:</span> That’s a good summation of it, yes. Of course, for me and for many, I also saw something else in the picture. This is what I meant by what you didn’t see.
-<br />
-<br />
+<span class="break"></span>
 Looking at his family, sure it’s not perfect but whose really is nowadays? What I noticed was his lack of net worth.
 </p>
 <p class="h-l">
@@ -1728,8 +1589,7 @@ H.L. He’s a billionaire, what are you talking about?
 </p>
 <p>
 <span class="douglas">Douglas:</span> I knew you would react to that one. Yes, he is a billionaire, but he is only worth a few billion, and we all could easily see how talented he is. So you compare that to some other billionaires who have less charisma and more money.
-<br />
-<br />
+<span class="break"></span>
 In my mind at least, I say to myself, well there is an inequity here. Okay why is that? Then you saw the answer when he rolled out his children. There is a sacrifice of time and energy for everything you do.
 </p>
 <p class="h-l">
@@ -1737,8 +1597,7 @@ H.L. So correct me if I am wrong, but you’re saying he could have had more mon
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, I wouldn’t say it like that though. I could see that he had sacrificed the time and energy and focus on his children, which was time many men would have spent accumulating wealth for wealth sake.
-<br />
-<br />
+<span class="break"></span>
 You know children, especially grown children, can be an unpredictable variable. So when you need them, even if you’re wealthy but you didn’t treat them properly, they can easily rebel. They may not show up for the curtain call.
 </p>
 <p class="h-l">
@@ -1758,8 +1617,7 @@ H.L. But Hillary Clinton did well in the debates.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, she did. I believe she won all three of them. At least that was the scorecard I was keeping.
-<br />
-<br />
+<span class="break"></span>
 I know Donald Trump said he won a couple of them, but I didn’t see it. I think he performed better than expected. She is just such a polished orator, and she really was prepared. She was incredible and few could have really beaten her.
 </p>
 <p class="h-l">
@@ -1791,11 +1649,9 @@ H.L. What dynamic is that?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well it wasn’t so much about the sexual abuse allegations. I believe that everyone condemns that. Sure there was that factor, but this has been played out in the media for so long, I think by then everyone had already made up their mind about that situation.
-<br />
-<br />
+<span class="break"></span>
 It was something else. It was something so brilliant and risky and subtle, I think it went unnoticed to most on a conscious level, but set off alarms on a subconscious level. It was this, and again the message was primarily to women.
-<br />
-<br />
+<span class="break"></span>
 It had to do with Hillary Clinton herself and her competency to be president, to wake up in the middle of the night and get that horrible call; the call no president wants ever to get, to have to make a quick decision on how to handle any crisis.
 </p>
 <p class="h-l">
@@ -1803,11 +1659,9 @@ H.L. I’m lost.
 </p>
 <p>
 <span class="douglas">Douglas:</span> The message was that Hillary Clinton can get by with just about everything. Her charisma, her charm and her willingness to work hard exempts her from much of the scrutiny others receive, we all know that. Fair or unfair, it’s the way it has been. But the presence of those four women spoke volumes. It said Hillary, we as women will not allow an exemption for you when it comes to the human heart, human emotions. This is one step you cannot skip.
-<br />
-<br />
+<span class="break"></span>
 You know many of us have been used; we talked about this earlier. And many of us have had our heart broken, it’s one of the most painful lessons in life, and it usually hits us when we are most ill-equipped to deal with it; when we are young.
-<br />
-<br />
+<span class="break"></span>
 Now we all know what ultimately must happen when we get our heart broken. We all know the steps that typically occur right?
 </p>
 <p class="h-l">
@@ -1827,11 +1681,9 @@ H.L. It is very painful.
 </p>
 <p>
 <span class="douglas">Douglas:</span> It is, but it defines who we are. It’s the little war we all fight. Some win, some lose, some never have to fight it. But most of us do.
-<br />
-<br />
+<span class="break"></span>
 Another obvious reason is that by enabling that person, the cheating or using partner, we are blocking their development. We are retarding their advancement. We essentially are doing them no favors, as we are exempting them from the pains in life. Pains that by the way is very healthy for our immune system to experience. Though it doesn’t feel like it at the time.
-<br />
-<br />
+<span class="break"></span>
 Now you can ignore all of this, all of what we know; and there are women and men out there who do this all the time. There are women who let men cheat and keep taking him back for 30 years. We see it everywhere. There are men that allow the same with their wives and girlfriends. That is fine, it’s a free world and you can do what you want. Sometimes these victims are poor and sometimes they are wealthy; they run from secretaries, to doctors to politicians; they are everywhere. You can accomplish much in your life without giving in to feel those pains, to heal. It’s your business. You can be anything in the world, but you can’t be The President of the United States.
 </p>
 <p class="h-l">
@@ -1845,8 +1697,7 @@ H.L. Yet she says it was the hardest decision in her life to stay with Bill Clin
 </p>
 <p>
 <span class="douglas">Douglas:</span> Exactly, she still doesn’t get it. She is still clueless or defiant in what she needs to do. She is violating the laws of Nature. She is skipping steps you cannot skip.
-<br />
-<br />
+<span class="break"></span>
 At the same time, it was a risky move by Trump’s Team to bring those women there.
 </p>
 <p class="h-l">
@@ -1854,17 +1705,13 @@ H.L. You just explained why it wasn’t. I don’t get it.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Alright, let’s just say, in an alternate universe Hillary Clinton had some really good political advisors. They see the women marching in; Bill Clintons victims, and they know they are screwed. They are intuitive advisors and they know in their heart exactly what I just told you. They also know this is the end for Clinton if she doesn’t take preemptive action. So they hatch a plan and they whisper it in Hillary’s ear. Hillary smiles and here we go:
-<br />
-<br />
+<span class="break"></span>
 Now when Donald Trump marches the women in Hillary just smiles, because she is certain she is going to be the next president. She takes one last look over at Bill; boy is he clueless about what is going to happen to him tonight. It will be the last time she will ever look at him again.
-<br />
-<br />
+<span class="break"></span>
 So when they start the debate, about halfway through, she turns to Trump and says, “Donald, when I saw you bring those four women in I was upset. I was not upset with you, but at myself. We have been friends for a while, and I thank you for the gesture. I am so tired of that cheating son-of -a-bitch husband. I have been abused for so many years now; it’s no secret, you all know it.
-<br />
-<br />
+<span class="break"></span>
 So, here’s what I am going to do. Tomorrow morning, I am going to march down to my lawyer’s office and let him know, I want out! He may be the ex-president, but Bill Clinton is also going to be my ex-husband. I am divorcing you, Bill get out of here! Watch out Washington, because your next president is going to be a single lady!”
-<br />
-<br />
+<span class="break"></span>
 Now you wouldn’t hear the rest of what she said, because the crowd is by this time in a frenzy, all hell has broken lose in the debate hall. Americans take a sigh of relief, knowing we don’t have to subconsciously fret for her safety every day.
 </p>
 <p class="h-l">
@@ -1872,11 +1719,9 @@ H.L. That’s so true. The place would have gone wild. To add to the drama, she 
 </p>
 <p>
 <span class="douglas">Douglas:</span> I like that; you have missed your calling. You should be a political advisor.
-<br />
-<br />
+<span class="break"></span>
 But you see what I am saying?  You know President Trump had been friends with the Clintons for years. When he talks about the Clinton’s relationship, it is with a sense of foreboding. I forget how he said it exactly, but it was something like he had seen bad marriages but he had never seen anything like that. Of course when he says that he is filling in the narrative, the missing pieces we don’t know. Because what we know already is bad.
-<br />
-<br />
+<span class="break"></span>
 No matter as that was the end of her candidacy in my opinion, and I think in many others. She just wasn’t there. You can be qualified, even over qualified, for the presidency in every way, but you have to be ready on an emotional level.
 </p>
 <p class="h-l">
@@ -1884,11 +1729,9 @@ H.L. I don’t think Bill Clinton helped either?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Neither did Barack Obama really. His attacks were almost taunting towards Donald Trump. They seemed bitter, and personal. It was not something that I expected to see. Obama had always stayed above the fray for the most part and played the class act card.
-<br />
-<br />
+<span class="break"></span>
 But the number one rule to being a class act is to never talk about, or infer that you are a class act. Unfortunately towards Election Day, Obama broke that rule; suddenly Obama was the good kid in the front of the class whining about the bad kid in the back of class, and the class sided with the kid in the back: Donald Trump.
-<br />
-<br />
+<span class="break"></span>
 You know while Barack Obama was very loved by many Americans, so was Donald Trump. The truth is that most of us knew about Donald Trump way before we knew about Barack Obama. He never should have challenged that reality. Americans ultimately are sentimental in nature.
 </p>
 <p class="h-l">
@@ -1902,11 +1745,9 @@ H.L. Interesting
 </p>
 <p>
 <span class="douglas">Douglas:</span> Barack Obama had a unique ability to put on a public face, especially during the day. Then at night, he likely had a sinister side, the need to control variables he had no business controlling; the lives of others. I think he kept that very well hidden. It likely went all the way back to his childhood. Maybe at night was when his grandparents would converse about him, and he could almost hear them. He would have had a need to listen to them; were they deciding his fate? This very well could have been the origins of his obsession with surveillance.
-<br />
-<br />
+<span class="break"></span>
 It could even go back further. I mean here he is living with his mother in Indonesia and then at night his parents talk. His stepfather complains about Barack to his mother at night. “I can’t deal with this kid” or whatever. Then all of a sudden he is sent away. That is just devastating on a kid, to be sent away from his mother. To be cast out like that, no one ever recovers from that.
-<br />
-<br />
+<span class="break"></span>
 I know the media spins it as him getting a better education in Hawaii, but there is more to the story you can bet. The media doesn’t know what that kind of trauma this is to a child, they just don’t. It is a type of rejection unfathomable.
 </p>
 <p class="h-l">
@@ -1914,8 +1755,7 @@ H.L. Yes, there is always more the story. Probably Obama can’t process everyth
 </p>
 <p>
 <span class="douglas">Douglas:</span> Likely everything is decided for the young Barack Obama at night. So there at his grandparents, he wants to listen as well. Who can blame a kid for that?
-<br />
-<br />
+<span class="break"></span>
 He is essentially bounced around by a bunch of academic groupies. Now he is in Seattle, now he is Indonesia, now Hawaii. Then he is cast out and left in Hawaii, while his mother runs off and has another child with his stepfather. His biological father pops into the picture and then out. His early childhood is pounded by bigger waves than the North Shore could ever generate. The theme of it all is lack of control. The theme is education means more than feelings. The theme is education means more than you. It is big stuff to deal with at any age.
 </p>
 <p class="h-l">
@@ -1935,11 +1775,9 @@ H.L. I am really seeing another side to them, a mild respect.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Certainly they deserve that respect; so few with that amount of pain succeed to such heights.
-<br />
-<br />
+<span class="break"></span>
 Likely Barack Obama is not even aware of his initial true intentions to have become president. During the Bush Administration he probably saw something on television or on the internet in regards to surveillance and subconsciously something clicked deep inside of him. Where others would have been annoyed at the intrusion, the concept of having your life examined, Obama saw the other side to it. He realized the potential for empowerment, the ability to never be in the dark again. Then, unaware of his actions he unconsciously set his sights on The White House.
-<br />
-<br />
+<span class="break"></span>
 You know much that we see from the outside as chance or luck is anything but those things. It’s just ambition. Chance and luck make better newspapers stories however, this way we don’t have to view the ugliness of ambition in the successful, and in ourselves.
 </p>
 <p class="h-l">
@@ -1953,8 +1791,7 @@ H.L. It’s okay, this has answered the questions for me in regards to his motiv
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure. The Theorem was a continuation of Hillary Clinton’s corruption and he had to contain it, because the Clintons had the goods on him. He had to know what I was doing at every moment; I held the key to his destruction. That’s how he saw it, then ultimately he fated it to happen. It’s tragic.
-<br />
-<br />
+<span class="break"></span>
 The thing is that none of what I am saying, especially about Obama should come as a surprise. He is ultimately, I believe, an honest man at heart. I know that is confusing, but I really believe he is not very good at lying, or even at committing a crime as we will see later.
 </p>
 <p class="h-l">
@@ -1962,11 +1799,9 @@ H.L. Yes, but he didn’t do anything. He didn’t accomplish anything of value 
 </p>
 <p>
 <span class="douglas">Douglas:</span> I disagree. You have to understand that all the criticism Barack Obama received in regards to not accomplishing anything during his presidency is unfounded.
-<br />
-<br />
+<span class="break"></span>
 It is absolutely as false of a statement as you can make; in reality, he accomplished something that is so large, so impossible and mind-boggling that its obscurity is testament to his success.
-<br />
-<br />
+<span class="break"></span>
 The problem is that to the average American, to all but a few of the political elite, his accomplishments are masked, hidden from view and tucked safely within the transient digital archives of power.
 </p>
 <p class="h-l">
@@ -1980,8 +1815,7 @@ H.L. I know that part is true.
 </p>
 <p>
 <span class="douglas">Douglas:</span> You have to understand, he didn’t have time to create a unique personalized creative agenda. Crisis began the day he stepped into The White House, and remained there throughout, until the day he left. The Theorem was already in the bookstores, it was out almost two years before he entered office. He inherited a political war; a central tenet of his party’s platform, his party’s future was at stake. At least this is how it was conveyed to him by the Clintons. It wasn’t his choice, as he was deeply indebted to the Democratic Party, as they had elevated him to the heights of power.
-<br />
-<br />
+<span class="break"></span>
 Now he does this, this entire operation for the loyalty of the party; this is all he will receive. If he gets caught, and as of 2014 this is a very real fear, then he is going to be remembered as a great villain of history; an oppressive censor to the likes perhaps the world has never seen.
 </p>
 <p class="h-l">
@@ -1989,11 +1823,9 @@ H.L. Agreed.
 </p>
 <p>
 <span class="douglas">Douglas:</span> His opponent? I was certainly a worthy one. I am not some distant diluted relative of the man who has made the largest discovery in human psychology. No not at all, I was that man; the one who out of 100 plus billion people who have inhabited this planet who somehow, in some way decoded the very keys to the mysteries of our behavior that have puzzled our entire species since its inception.
-<br />
-<br />
+<span class="break"></span>
 Certainly no one expects to oppose someone who made a very powerful, world changing discovery when they enter The White House. It’s not in the manual; there are no instructions on how to do it.
-<br />
-<br />
+<span class="break"></span>
 No, what people, what everyone fails to realize is the fact that this man, Barack Obama fought a nearly impossible opponent, impossible odds and came out victorious. He is a champion, by every definition of the term. As much as I hate to do so, I must bow to that.
 </p>
 <p class="h-l">
@@ -2019,8 +1851,7 @@ H.L. Also, the billions of dollars in various forms of aid, money and incentives
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure, but this is only the beginning. This is just a small part, because many people are defiant by nature. Some you may have to throw in jail, some careers you may have to destroy. In fact, many careers you will have to destroy.
-<br />
-<br />
+<span class="break"></span>
 But it is such a large world, such a massive connected world.
 </p>
 <p class="h-l">
@@ -2028,8 +1859,7 @@ H.L. And you are all over the place.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I am all over the place. And he had to watch me at every single second. Not one place could I go without being shadowed, reported on and briefed about.
-<br />
-<br />
+<span class="break"></span>
 Do you know how vulnerable he must have felt as a man in doing that? Could you imagine, just for a minute how that affects you on a personal level? All for an agenda you inherited, one you most certainly did not want.
 </p>
 <p class="h-l">
@@ -2037,20 +1867,15 @@ H.L. Yes, I could only imagine. It was stifling for him.
 </p>
 <p>
 <span class="douglas">Douglas:</span> So yes, I can tell you about surveillance, all over the world. I can tell you about men, like I have never seen before, soldiers in his employ; soldiers in shape, his elite secret force, fit and muscular to such a degree that in twists the human brain into a pretzel; and this from a man, this man, who has spent his life in gyms all over the world.
-<br />
-<br />
+<span class="break"></span>
 These men of his who don’t even look like men, but instead machines as they are so perfect in every way imaginable, not an ounce of body fat separating the striated, layered muscle; human killing machines, weapons sent to rescue me in Central America or prevent me from being rescued. Only Barack Obama knows which is correct.
-<br />
-<br />
+<span class="break"></span>
 I could tell you about incidents, and psychological tactics that are so groundbreaking that they defy belief. But the problem is, where do I start and where do I stop? I could write 80,000 words on 8 years or more of surveillance alone.
-<br />
-<br />
+<span class="break"></span>
 What I am saying, is this is our unwritten history. He went to war with an idea, which is never a good option. He modified the tools he had to accomplish that war, and he brought the best of what America had to offer to the table; the best surveillance, the best soldiers, the best mind-fucking techniques. And ultimately he came out victorious, battle after battle he defeated me.
-<br />
-<br />
+<span class="break"></span>
 Of course, I wasn’t fighting anyone; maybe myself. And finally when I began an offensive in 2014, then things changed. Suddenly I was not asleep anymore, so the battle heated up in intensity.
-<br />
-<br />
+<span class="break"></span>
 Look, I am not condoning it, but I don’t want anyone not to receive credit for what they accomplished. Otherwise I will be just as bad as them.
 </p>
 <p class="h-l">
@@ -2070,11 +1895,9 @@ H.L. Absolutely not. Sounds miserable. The first four years of your term you are
 </p>
 <p>
 <span class="douglas">Douglas:</span> I agree. I can’t imagine. What a waste of time; really, what a sad agenda. But he completed it. He was victorious.
-<br />
-<br />
+<span class="break"></span>
 What I am saying is that interest in The Theorem, in the discovery, is similar to a massive volcano. It just keeps building up pressure and when it finally erupts only then will you realize how impossible it was to keep it suppressed. Only then will you realize what in a sick, sinister and methodical way he accomplished all I am illustrating here.
-<br />
-<br />
+<span class="break"></span>
 In its sheer force and effectiveness, in its gargantuan size, this operation was a victory, a supreme victory for the forces of suppression. You have to understand those words or none of this will make sense.
 </p>
 <p class="h-l">
@@ -2088,11 +1911,9 @@ H.L. That’s funny, it is so true. A 12 year-old kid could figure it out.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, you have to be completely toxic, completely out of touch with yourself not to see it is correct.
-<br />
-<br />
+<span class="break"></span>
 At the same time, it has complexities laced within it that can fascinate the greatest minds in psychology, in neural science; complexities that still fascinate me 25 years later! I have seen the looks on the faces of the readers when they comprehend the answers and essentially begin to conquer their own origins. It is a beautiful sight.
-<br />
-<br />
+<span class="break"></span>
 This is what he was fighting. This is the discovery and the idea he was forced to go to war with. He had to somehow find a way, to get the world to stop believing in what they initially realized to be true instinctively. Ultimately however, this was an impossible goal. Ultimately, he could not fool everyone into fooling themselves. This is where his problems multiplied.
 </p>
 <p class="h-l">
@@ -2103,8 +1924,7 @@ H.L. All of this because Hillary didn’t deal with her mother issues.
 </p>
 <p class="h-l">
 H.L. That’s true; you couldn’t be in the same room as Hillary Clinton without committing a Class B Felony.
-<br />
-<br />
+<span class="break"></span>
 He would use any excuse to get away from The White House, to get away from her in the beginning; traveling anywhere, internationally or just to the next state.
 </p>
 <p>
@@ -2115,8 +1935,7 @@ H.L. Painful, how?
 </p>
 <p>
 <span class="douglas">Douglas:</span> He is forced to protect me, and he has. He is forced to watch me, and he did. He is forced to know every single search I accomplish, and that’s exactly what happened.
-<br />
-<br />
+<span class="break"></span>
 The thing is that in all of those internet searches, those hundreds of thousands of searches I never looked him up once. Do you see where this is going?
 </p>
 <p class="h-l">
@@ -2148,8 +1967,7 @@ H.L. Sure, it’s the way of the world.
 </p>
 <p>
 <span class="douglas">Douglas:</span> He was just invisible to me; this is another thing that reminded him of his relationship or lack thereof with his father.
-<br />
-<br />
+<span class="break"></span>
 So, what do you think is going to begin to unfold when I start looking up billionaires, and businessmen; becoming fascinated with their lives?
 </p>
 <p class="h-l">
@@ -2157,8 +1975,7 @@ H.L. Anger, jealousy and resentment.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure, and you don’t even need to have father issues to feel rejected by that.
-<br />
-<br />
+<span class="break"></span>
 I know if I was forced to watch some dupe for eight years, study his every move, his every search on the internet. He never looks me up, but now he is suddenly fascinated by the lives of some other men. I would feel invisible, especially if their accomplishments from a societal viewpoint were less than mine.
 </p>
 <p class="h-l">
@@ -2169,8 +1986,7 @@ H.L. Sure, after all he is The President of The United States, one of the highes
 </p>
 <p class="h-l">
 H.L. Yes he did, when he started the prosecutions of these guys. He got it then.
-<br />
-<br />
+<span class="break"></span>
 But he did have father issues. So it made it worse right?
 </p>
 <p>
@@ -2193,8 +2009,7 @@ H.L. I don’t get it. What is different?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well now that he is not focused on me, I am free to actually think about him, and his actions. He is actually a very interesting man. I am not stifled by his intent as I used to be.
-<br />
-<br />
+<span class="break"></span>
 It is not his job anymore. If he checks on me now it is likely just out of habit. Like an old retired guy, driving past the company he used to work for. Just to remember, to bring it all back down into his subconscious, then up again and find a permanent home for it within his memory.
 </p>
 <p class="h-l">
@@ -2202,8 +2017,7 @@ H.L. Some good memories, some bad.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, habit.
-<br />
-<br />
+<span class="break"></span>
 I don’t know if this is making any sense to you really, it is quite complex.
 </p>
 <p class="h-l">
@@ -2226,8 +2040,7 @@ H.L. That is so true. He just kept chasing the rabbit around the track.
 </p>
 <p class="h-l">
 H.L. It was complete. He essentially snuffed you out; Bill Clinton snuffing out the female spirit because of his issues with his mother; Barack Obama stifling you because he had issues with his father. The list goes on and on.
-<br />
-<br />
+<span class="break"></span>
 I think I will become a psychologist and move to D.C. I will be rich!
 </p>
 <p>

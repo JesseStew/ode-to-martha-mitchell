@@ -29,8 +29,7 @@ H.L. You couldn’t have. Even though you were writing about something different
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, about the misinterpretation the fetus experiences due to its underdeveloped memory.
-<br />
-<br />
+<span class="break"></span>
 Yet, it has turned into something different altogether.
 </p>
 <p class="h-l">
@@ -50,17 +49,14 @@ Yet, it has turned into something different altogether.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I think about my father. I think how he so wished to write something that would be remembered. But he was really so naïve; because the ultimate result of that type of impact, in its highest form, is destruction.
-<br />
-<br />
+<span class="break"></span>
 I can’t turn on the television. Because when I do then I see people locked in their homes, having no idea why they are there. I tell myself, “No, it can’t be. It can’t be because of that letter you sent.” Yet the facts are dictating a different reality, one I refuse to accept.
-<br />
-<br />
+<span class="break"></span>
 So I lie to myself and say you don’t have to do anything. Go back to sleep, workout, go running or jogging, but whatever you do make sure you do not sit down and write, because when you do people get hurt; not just hundreds like before, not thousands but now millions and even billions of people.
 </p>
 <p class="h-l">
 	H.L. You know <span class="douglas">Douglas:</span> Pablo Picasso would get up every morning and sit around whining about how he was a failure to his mistress, to his girlfriends or whomever. He would vent about how no one saw the value in his art, how he was a lousy painter. He would undertake this until the early afternoon; hours of this trite, self-absorbed garbage he would shovel at them.
-<br />
-<br />
+<span class="break"></span>
 Then all of a sudden he would jump up, head straight to his studio and create some of the greatest works the modern art world has ever known.
 </p>
 <p>
@@ -68,18 +64,15 @@ Then all of a sudden he would jump up, head straight to his studio and create so
 </p>
 <p class="h-l">
 	H.L. I am stating that you are starting to feel heavy; very heavy. It has been a long five days for both of us. Don’t pull a Pablo on me. That’s what I am saying:
-<br />
-<br />
+<span class="break"></span>
 Capeesh?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Capeesh.
-<br />
-<br />
+<span class="break"></span>
 You’re right. It sounds pretentious and heavy; okay, strike that statement!
 I am grateful for this gift or talent, whatever the consequences.
-<br />
-<br />
+<span class="break"></span>
 Thank you for pointing that out. But you will see tomorrow. You will feel the same way after tomorrow, this I assure you.
 </p>
 <p class="h-l">
@@ -87,11 +80,9 @@ Thank you for pointing that out. But you will see tomorrow. You will feel the sa
 </p>
 <p>
 <span class="douglas">Douglas:</span> I agree. Yet every time I try and right a wrong, I just keep screwing it up. Finally I got to the point where doing nothing was the only alternative; what choice is that for someone to make?
-<br />
-<br />
+<span class="break"></span>
 I just have to accept that it was very irresponsible I suppose. I just have to accept that I should have thought it out better. I should not have written from my heart in a moment of a spiritual or phantasmagorical state. I should have waited more than a day or two to send that email.
-<br />
-<br />
+<span class="break"></span>
 Because you don’t play around with people who will stop at nothing to see your works continue to be suppressed.
 </p>
 <p class="h-l">
@@ -105,11 +96,9 @@ Because you don’t play around with people who will stop at nothing to see your
 </p>
 <p>
 <span class="douglas">Douglas:</span> I did. And I would not even disclose that much about whom it was I wrote the email to. I gave him my word that I would not talk anything about the email I sent him. And breaking your word to The Pope has to be close to the top of the list of things I would never do as a Catholic.
-<br />
-<br />
+<span class="break"></span>
 At the same time, when you start talking about bringing down the world economy, all bets are off. It’s a whole new ball game; though it is not a game at all. This is scary stuff.
-<br />
-<br />
+<span class="break"></span>
 I sent it to him on that date, December 2nd, 2019, but I am sure he did not receive it until the next day, or maybe a couple of days after. He would not have read it until December 3rd or December 4th at the earliest.
 </p>
 <p class="h-l">
@@ -117,8 +106,7 @@ I sent it to him on that date, December 2nd, 2019, but I am sure he did not rece
 </p>
 <p>
 <span class="douglas">Douglas:</span>  I hope he will; yes, perhaps under the circumstances he will. That is what he does, he forgives.
-<br />
-<br />
+<span class="break"></span>
 But what about the others, as I also feel I am violating a central aspect of character here? When I give my word to someone, I mean it. But people are taking advantage of this character trait I am striving to obtain. The Democratic Elite are like rodents scurrying in the shadows, feasting on my perceived value of confidentiality.
 </p>
 <p class="h-l">
@@ -126,8 +114,7 @@ But what about the others, as I also feel I am violating a central aspect of cha
 </p>
 <p>
 <span class="douglas">Douglas:</span> So no, I didn’t think out the email very carefully when I sent it out, I suppose. Again, I devalued my importance.
-<br />
-<br />
+<span class="break"></span>
 This is easy to do in my life, as the facts reinforce that.
 </p>
 <p class="h-l">
@@ -135,8 +122,7 @@ This is easy to do in my life, as the facts reinforce that.
 </p>
 <p>
 <span class="douglas">Douglas:</span> My pathetic surroundings. I was receiving unemployment at the time. My car is very old; I live alone in a studio. I pay 600 dollars a month, and that is probably too much for what this place is worth.
-<br />
-<br />
+<span class="break"></span>
 Yet two days later I see a liberal dinosaur; an actor way past his relevancy, who received a copy of The Legacy Letter, and he is speaking with the very same man that I sent the email to: Pope Francis.
 </p>
 <p class="h-l">
@@ -144,12 +130,10 @@ Yet two days later I see a liberal dinosaur; an actor way past his relevancy, wh
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, Robert Redford.
-<br />
-<br />
+<span class="break"></span>
 And the sickest part of it, is all I say to myself is, “Well that‘s good, at least I knew the email went through.”
 What kind of reality is that? I am so numb, so desensitized that it’s no big deal.
-<br />
-<br />
+<span class="break"></span>
 	What type of reality is that? Tell Me!
 </p>
 <p class="h-l">
@@ -157,8 +141,7 @@ What kind of reality is that? I am so numb, so desensitized that it’s no big d
 </p>
 <p>
 <span class="douglas">Douglas:</span> I agree. It is a big deal. But that is my reality at this point. My mind and perceptions fluctuate between these extreme poles of humility and grandiosity.
-<br />
-<br />
+<span class="break"></span>
 Yet the dialogue is not internal as in the case of bipolar depression, it is external based on events which I created or am at least a part of.
 </p>
 <p class="h-l">
@@ -166,8 +149,7 @@ Yet the dialogue is not internal as in the case of bipolar depression, it is ext
 </p>
 <p>
 <span class="douglas">Douglas:</span> Would you? Really, can you honestly sit there and tell me, if you were in this situation; if you had spent 25 years seeing and reading almost every example imaginable of delusions of grandeur, of magical thinking and all the bullshit that goes along with it; could you be strong enough to accept that this is not your fate?
-<br />
-<br />
+<span class="break"></span>
 Can anyone? It just reeks to me of schizophrenia, it fills up the room.
 </p>
 <p class="h-l">
@@ -182,8 +164,7 @@ Can anyone? It just reeks to me of schizophrenia, it fills up the room.
 <p>
 <span class="douglas">Douglas:</span> But then in contrast…
 	H.L. Then in contrast there are the facts, the narrative unfolding in front of you.
-<br />
-<br />
+<span class="break"></span>
 <span class="douglas">Douglas:</span> Yes.
 </p>
 <p class="h-l">
@@ -191,8 +172,7 @@ Can anyone? It just reeks to me of schizophrenia, it fills up the room.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Okay? I see.
-<br />
-<br />
+<span class="break"></span>
 Thank you, I needed that.
 </p>
 <p class="h-l">
@@ -203,8 +183,7 @@ Thank you, I needed that.
 </p>
 <p class="h-l">
 	H.L. I see no real evidence of magical thinking in your narrative or in your words. I am not a psychiatrist, but I have seen many who are ill, and I don’t see any real danger signs in your words.
-<br />
-<br />
+<span class="break"></span>
 If anything, your response would be rational, though callous. You were glad on a personal level that this individual, The Pope, received your email. You are disappointed in yourself for being so jaded to this current scenario. At least this was your interpretation of the events.
 </p>
 <p>
@@ -212,17 +191,14 @@ If anything, your response would be rational, though callous. You were glad on a
 </p>
 <p class="h-l">
 	H.L. That is why you are getting it out, sharing it with me, and the world. Sounds like you will feel better when this is out.
-<br />
-<br />
+<span class="break"></span>
 I don’t know if I would agree with you that we as mammals are not capable of carrying the world’s problems around, just look at the president; he does it every day.
-<br />
-<br />
+<span class="break"></span>
 I will say this; I don’t think we are capable of carrying it around forever by ourselves. I think you need sometimes to let it out. I think you need to vent it to others for feedback. Carrying that around inside of you, now that’s not healthy.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, well I guess I agree with that.
-<br />
-<br />
+<span class="break"></span>
 I see what you are saying. If the president can do it, I should be able to. We are capable of it, though it takes a big toll on you.
 </p>
 <p class="h-l">
@@ -230,8 +206,7 @@ I see what you are saying. If the president can do it, I should be able to. We a
 </p>
 <p>
 <span class="douglas">Douglas:</span> Okay.
-<br />
-<br />
+<span class="break"></span>
 Well, I was busy writing; I was very busy and very isolated. I was working on two things; the narrative and summary of events that you read, which ultimately led to this interview. I was also working on preparing The Theorem for the online version, but there was a problem with that.
 </p>
 <p class="h-l">
@@ -272,17 +247,14 @@ Well, I was busy writing; I was very busy and very isolated. I was working on tw
 </p>
 <p class="h-l">
 	H.L. Let me clean this up for the reader. So on one hand you are unraveling this massive conspiracy, one that would make anyone question their reality, their sanity.
-<br />
-<br />
+<span class="break"></span>
 Then you put that work down and pick up on The Theorem’s schizophrenia model to deal with people who are actually experiencing delusions. I don’t think you could have scripted it any more unwisely.
-<br />
-<br />
+<span class="break"></span>
 You were either being tested or testing yourself. Either way it was a very bad idea, very dangerous.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes it was. It really was one of the stupidest things I have ever done. But you’re not realizing the big modifier of all of this was the isolation.
-<br />
-<br />
+<span class="break"></span>
 I was truly alone, so I feared going off the deep end.
 </p>
 <p class="h-l">
@@ -290,8 +262,7 @@ I was truly alone, so I feared going off the deep end.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I guess so.
-<br />
-<br />
+<span class="break"></span>
 You know honestly, and I will swear to you, until you said that right now I never made the connection. But obviously it makes sense when you say it. I do know my spirit was sick.
 </p>
 <p class="h-l">
@@ -308,11 +279,9 @@ You know honestly, and I will swear to you, until you said that right now I neve
 </p>
 <p class="h-l">
 	H.L. Unequivocally yes. By spending all that time submerged in the research I am going to see things in myself growing in importance that were otherwise subdued. In our other discussions, you have taught me that.
-<br />
-<br />
+<span class="break"></span>
 The research is going to attach to me. Now I do not have OCD, but for a few weeks I am going to be so involved with the research; with case studies of people with similar traits to me. I will be immersed in OCD, and so affected by it. So yes, in my mind, I will have it.
-<br />
-<br />
+<span class="break"></span>
 But schizophrenia, that is another animal altogether, it’s nothing to mess around with especially in contrast to this series of conspiratorial events which would make anyone question their sanity.
 </p>
 <p>
@@ -329,11 +298,9 @@ But schizophrenia, that is another animal altogether, it’s nothing to mess aro
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well, even in my naiveté, I could see the problems. It just worked out that way.
-<br />
-<br />
+<span class="break"></span>
 I wanted to get The Theorem online first, so that when this interview, which was going to be a narrative, came out I would have a product to sell.
-<br />
-<br />
+<span class="break"></span>
 At the same time, I promised some very important people that I would have this finished; the narrative would be out and online by March. And now look we are past the middle of April and nothing.
 </p>
 <p class="h-l">
@@ -341,17 +308,13 @@ At the same time, I promised some very important people that I would have this f
 </p>
 <p>
 <span class="douglas">Douglas:</span> No you don’t understand these people, the billionaires and the ultra wealthy.
-<br />
-<br />
+<span class="break"></span>
 You just don’t.
-<br />
-<br />
+<span class="break"></span>
 They have never liked the fact of me giving anything away for free. It bothers them. It bothers them deeply. They see it almost as disrespect to money; it makes them uncomfortable when someone is driven by other things, intangibles.
-<br />
-<br />
+<span class="break"></span>
 It is not that they want me to be greedy, not at all. But they like motivations that are easy to grasp. They are busy, and they therefore like quiet projects, so they can stay busy. This has been one of my biggest problems in communicating with them. This has been a problem since the very beginning. The Theorem is noisy, it takes commitment. And therefore by default, I am noisy. So I was trying to cut down on the noise level I was creating. I was trying to stop generating more heat than light.
-<br />
-<br />
+<span class="break"></span>
 I was trying to get both done, at the same time, to make everyone happy.
 </p>
 <p class="h-l">
@@ -368,8 +331,7 @@ I was trying to get both done, at the same time, to make everyone happy.
 </p>
 <p class="h-l">
 	H.L. Sure, it usually suffers. I see.
-<br />
-<br />
+<span class="break"></span>
 So you said you had enough of America, this is why you wrote the email letter to The Pope; it sounds though like you had enough of yourself.
 </p>
 <p>
@@ -377,8 +339,7 @@ So you said you had enough of America, this is why you wrote the email letter to
 </p>
 <p class="h-l">
 	H.L. Not to pile it on you. But earlier when you said you do things that aren’t too bright, I figured you were just trying to be humble, display humility to offset some of the grand events we are speaking of here.
-<br />
-<br />
+<span class="break"></span>
 But this is different, and very dangerous. It just wasn’t thinking, at all.
 </p>
 <p>
@@ -404,8 +365,7 @@ But this is different, and very dangerous. It just wasn’t thinking, at all.
 </p>
 <p class="h-l">
 	H.L. Sounds as if you had nothing to jump into and gain that contrast, a barometer for your sanity in a way. We are just not built to withstand that.
-<br />
-<br />
+<span class="break"></span>
 Add that to the loneliness and isolation like you said.
 </p>
 <p>
@@ -413,8 +373,7 @@ Add that to the loneliness and isolation like you said.
 </p>
 <p class="h-l">
 	H.L. I have to ask, how bad did it get?
-<br />
-<br />
+<span class="break"></span>
 Did you consider harming yourself?
 </p>
 <p>
@@ -422,8 +381,7 @@ Did you consider harming yourself?
 </p>
 <p class="h-l">
 	H.L. I understand, about wanting to keep some small part of you concealed.
-<br />
-<br />
+<span class="break"></span>
 But the entire incident; straddling the line of insanity, well that was not very smart.
 </p>
 <p>
@@ -440,11 +398,9 @@ But the entire incident; straddling the line of insanity, well that was not very
 </p>
 <p>
 <span class="douglas">Douglas:</span> You know when I made the discovery 25 years ago; a small part of me wished that it was a delusion. I really did. I thought to myself, I have got the perfect spiel for mental health disability.
-<br />
-<br />
+<span class="break"></span>
 I’m not ashamed to admit it. Again, I was young, life was hard. The young man in society carries the heaviest weight; he puts the muscle into the equation. It is as you say, the way of the world.
-<br />
-<br />
+<span class="break"></span>
 So I would secretly hope that one day someone would come for me, and say, “You must stop, this is impossible, you are insane.” But no one ever came.
 </p>
 <p class="h-l">
@@ -452,8 +408,7 @@ So I would secretly hope that one day someone would come for me, and say, “You
 </p>
 <p>
 <span class="douglas">Douglas:</span> Right? I would just visualize myself living on some tropical beach in a low budget country waiting for my monthly pittance. All the while, I would be crafting up some great novel incorporating The Theorem model.
-<br />
-<br />
+<span class="break"></span>
 All this damage, destruction and all these lives would have been spared, all this cover-up would not exist. It would have been paradise.
 </p>
 <p class="h-l">
@@ -485,11 +440,9 @@ All this damage, destruction and all these lives would have been spared, all thi
 </p>
 <p>
 <span class="douglas">Douglas:</span> What I am saying, or trying to say is this:
-<br />
-<br />
+<span class="break"></span>
 Many people have had more exciting lives than I have had, I know because I have met them. Many are more accomplished; this is obvious, as anyone can see that. Many are more productive in their output in writing; only one book in 25 years is testament to this observation.
-<br />
-<br />
+<span class="break"></span>
 But no one has walked that line, the tightwire between sanity and non-sanity or non-reality, like I have. Nor has anyone had the experience with balancing on the high-wire of sanity vs. non sanity in quite the same way. It has to be a subtheme of my life.
 </p>
 <p class="h-l">
@@ -512,8 +465,7 @@ But no one has walked that line, the tightwire between sanity and non-sanity or 
 </p>
 <p class="h-l">
 	H.L. But we see in the first case this wasn’t a delusion; with The Theorem, so in the second case, in these events you hope the success of overcoming the first impossible scenario will give credibility to the second.
-<br />
-<br />
+<span class="break"></span>
 Am I correct on this?
 </p>
 <p>
@@ -542,8 +494,7 @@ Am I correct on this?
 </p>
 <p>
 <span class="douglas">Douglas:</span> So true. I wouldn’t toss anything out. For some people, for many people there are things in life that can’t be explained. But I had experience with the unexplainable when I made the discovery that would become The Theorem.
-<br />
-<br />
+<span class="break"></span>
 So I used the events in Washington D.C. as the validation of the bizarre events that I was experiencing under their suppression, in the same way I once used the neural science research to validate my observations on the human condition; the discovery of the Theorem model. I was an experienced mind-tripper so to speak; it paid off nice dividends the first time, so I was willing, although reluctant, to go back a second time.
 </p>
 <p class="h-l">
@@ -557,8 +508,7 @@ So I used the events in Washington D.C. as the validation of the bizarre events 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, now you are using your grey matter. It does sound nice, dreamy in fact.
-<br />
-<br />
+<span class="break"></span>
 Still you are right, from that perspective, what I did was risky; balancing reality and non-reality, but more like just extreme.
 </p>
 <p class="h-l">
@@ -572,8 +522,7 @@ Still you are right, from that perspective, what I did was risky; balancing real
 </p>
 <p>
 <span class="douglas">Douglas:</span> But there was something else. Something I should also explain in regards to my actions. There are physically addictive properties to the discovery process itself, of this I am convinced. I do not think it is much different from when a gambler wins a large amount of money. They chase; the perfect hand, the perfect night. It is typically their ruin.
-<br />
-<br />
+<span class="break"></span>
 So I think there was that element of it involved. It was such a large discovery and so many years ago. I see now as we are reviewing this, it was likely my attempt to recapture that time in my life; to get those positive neurochemicals flowing again. And for a minute I had it, I was back there in that thunderstorm in Las Vegas, though this time I was driving on a freeway in Kansas City figuring out the negative symptom aspects of the schizophrenia model.
 </p>
 <p class="h-l">
@@ -605,8 +554,7 @@ So I think there was that element of it involved. It was such a large discovery 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure I was. So I didn’t expect a great deal of interest in my proposal. Like I said it was somewhat a spiritual urge that came to me in the middle of a dream.
-<br />
-<br />
+<span class="break"></span>
 But I waited two days, to make sure and not do anything impulsive; then I sent the email. Again, I had very few expectations in regards to its reception.
 </p>
 <p class="h-l">
@@ -626,8 +574,7 @@ But I waited two days, to make sure and not do anything impulsive; then I sent t
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, absolutely. And truthfully, I thought maybe they would leave President Trump alone as well if I left.
-<br />
-<br />
+<span class="break"></span>
 So I was shocked when just a little over 48 hours later Robert Redford is there right up in The Popes face, looking as though he been up all night on a plane.
 </p>
 <p class="h-l">
@@ -641,17 +588,14 @@ So I was shocked when just a little over 48 hours later Robert Redford is there 
 </p>
 <p>
 <span class="douglas">Douglas:</span> But again I was so beat down, so poor. I am living around people and neighbors who have no clue I even am a writer, and the ones that do, I haven’t explained anything about The Theorem to them; I just change the subject when they ask about my writing, and enjoy my anonymity.
-<br />
-<br />
+<span class="break"></span>
 I didn’t have a girlfriend to fluff up my perceptions of The Theorem, to remind me how important I wanted to believe I was; how important we all want to believe we are. I didn’t even have a pet, a dog or a rat to talk to at the time.
-<br />
-<br />
+<span class="break"></span>
 So I was surprised by the fuss; Robert Redford is very old and that flight could not have been easy, unless of course he was in Europe already. But still.
 </p>
 <p class="h-l">
 	H.L. He better hope he was in Europe, as to where we are going with this.
-<br />
-<br />
+<span class="break"></span>
 ‘You were in the wrong place at the wrong time Buddy!’
 </p>
 <p>
@@ -662,8 +606,7 @@ So I was surprised by the fuss; Robert Redford is very old and that flight could
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course, and probably the next day as well. My guess is it took an entire day, at the very least, for his staff to sort through the thousands of emails he receives. So I would imagine, based on these events, he receives my email Wednesday morning, December 4th.
-<br />
-<br />
+<span class="break"></span>
 Obviously I didn’t put any tracking on it. I could never bring myself to doing that with The Pope. But my guess is, perhaps he would have read it by Wednesday.
 </p>
 <p class="h-l">
@@ -701,8 +644,7 @@ Obviously I didn’t put any tracking on it. I could never bring myself to doing
 </p>
 <p>
 <span class="douglas">Douglas:</span> Something like that. You see I have nothing against Robert Redford at that moment, right? The virus isn’t out yet, so I just see him as fulfilling his obligation to the Clintons and to Obama. I have watched hundreds of these zealots over the years fulfilling their obligation to that tired old political party.
-<br />
-<br />
+<span class="break"></span>
 Remember earlier, a few days ago, the section on Obama targeting the celebrities and actors? I said they had to spin The Theorems’ Wheel of Fortune. So Robert Redford was one name that was too big to fail; too big to punish.
 </p>
 <p class="h-l">
@@ -728,8 +670,7 @@ Remember earlier, a few days ago, the section on Obama targeting the celebrities
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yeah, really; no, I don’t think so.
-<br />
-<br />
+<span class="break"></span>
 It is all going to come out, every nasty little secret.
 </p>
 <p class="h-l">
@@ -749,8 +690,7 @@ It is all going to come out, every nasty little secret.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, this is what I saw on my end at least. It actually backfired on the Democratic Elite, this scare tactic. Because then, according to my detection tool, The Church and likely even The Pope become more interested.
-<br />
-<br />
+<span class="break"></span>
 	I mean how audacious can you be? Pope Francis represents over 1.2 billion Catholics. And just because you have a filmmaker and a ragtag bunch of political ‘has beens’ you are going to try and dictate Church Policy. He was having none of it!
 </p>
 <p class="h-l">
@@ -770,8 +710,7 @@ It is all going to come out, every nasty little secret.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, the same feeling I have had over the years when The Theorem is involved in something. I feel it deep inside of me. Like a mother to a child; the same way with Hillary Clinton’s email scandal, I knew The Theorem was wrapped up in that. The same way I felt with the events I will describe tomorrow. I could feel it deep inside of me, an intuitive sense. I know it may seem illogical to others, but The Theorem is really my baby and I can feel when it is involved with something that is not good for it.
-<br />
-<br />
+<span class="break"></span>
 I know we didn’t cover all of that, her email scandal, as it was just too lengthy to add. But it was the same feeling.
 </p>
 <p class="h-l">
@@ -785,23 +724,19 @@ I know we didn’t cover all of that, her email scandal, as it was just too leng
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course, just because she was trained by that organization, does not mean necessarily she was employed by China at that time; or even living in China then, or even Chinese for that matter. The Chinese Government has vast resources all over Asia; it is not a simple yes or no. It is all very convoluted. China is just so massive, with arms of influence all over Asia.
-<br />
-<br />
+<span class="break"></span>
 Again, I truly hope I am wrong in regards to any involvement by China. I want to think I am wrong, concerning direct involvement at least.
 </p>
 <p class="h-l">
 	H.L. Me too, I hope you are. Then you sent another letter, this time in the mail.
-<br />
-<br />
+<span class="break"></span>
 One quick question or clarification; as of January 1st of 2020 had you ever sent a religious leader or any other world leader an email or letter, this since you finished up with sending The Legacy Letter out in early 2017?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Never, not a single letter or email to anyone. The only letters in the mail I sent were postcards to family and friends when traveling, and letters to Holland for my children or to their mother. That was it.
-<br />
-<br />
+<span class="break"></span>
 Now in January, I did send a letter to someone else, on the same day I sent the second correspondence to The Pope, but I promised not to disclose who that went to, and I will stick to it. But this other person is a world leader as well.
-<br />
-<br />
+<span class="break"></span>
 But as a rule, this is just not something I ever do; the entire episode was very unusual for me.  As I said, I had never done anything like that before.
 </p>
 <p class="h-l">
@@ -809,8 +744,7 @@ But as a rule, this is just not something I ever do; the entire episode was very
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes. The content was similar to the first, perhaps a bit expanded. I wanted him to know I was still interested and was very much looking forward to being over there, closer to him. As obviously my affection for him was growing after what he had been through since early December.
-<br />
-<br />
+<span class="break"></span>
 I told him this would be the last letter I would send, so as not to bother him. I said if I did not hear from him I would assume then The Church was not interested in my proposal, and that was that; wishing him the best of health and so forth.
 </p>
 <p class="h-l">
@@ -818,8 +752,7 @@ I told him this would be the last letter I would send, so as not to bother him. 
 </p>
 <p>
 Did you know they had shut down Wuhan, China that same day?
-<br />
-<br />
+<span class="break"></span>
 <span class="douglas">Douglas:</span> No idea. I had no idea what the virus even was at that time, or even if there was one. I certainly would have never guessed it would land in Italy, if that is when it did land, on the 23rd; the same day I sent the letter.
 </p>
 <p class="h-l">
@@ -833,20 +766,16 @@ Did you know they had shut down Wuhan, China that same day?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure it does.
-<br />
-<br />
+<span class="break"></span>
 Look, let me say this.
-<br />
-<br />
+<span class="break"></span>
 With something this serious, this horrific and this devastating on a world scale as the Corona Virus, I want to avoid any reality that The Theorem is involved in cause and effect for these conspirators’ actions.
-<br />
-<br />
+<span class="break"></span>
 So I lie to myself and put my head in the sand. I say well maybe Robert Redford was in Europe already; maybe he had a sudden personal revelation in regards to his spirituality. If Hillary Clinton is not in the picture, if she does not attend his film festival that next month in January, maybe I can live with that.
 </p>
 <p class="h-l">
 	H.L. But there are just so many movie actors, and so many Christian movie actors, so many Catholic movie actors and when you take all those actors and expand the age range to Robert Redford’s age, well then you increase the pool even larger.
-<br />
-<br />
+<span class="break"></span>
 So the chances are not good that it is a coincidence, especially when out of the thousands of actors you only sent a Legacy Letter to 10 of them. It doesn’t look good for Redford. It just doesn’t.
 </p>
 <p>
@@ -857,26 +786,21 @@ So the chances are not good that it is a coincidence, especially when out of the
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, I know that, and as I told you, and I also know it is connected to my email I sent The Pope.
-<br />
-<br />
+<span class="break"></span>
 They were dirty in the cover-up from the beginning. It was very much when I sent the email to The Pope, those with the weakest stomachs or those who had personal spiritual beliefs in relation to Christ; well they jumped ship or could not contain their concerns. The Pope is so very powerful, just by receiving that email he inadvertently exposed some of the conspirators.
-<br />
-<br />
+<span class="break"></span>
 Nancy Pelosi; two days later, on December 5th, went rambling on about her Catholic Faith, saying that she did not hate President Trump because she was raised Catholic. The list just goes on and on. Each time these events from Page and Brin to Pelosi occur I am getting that instinctual feeling and pit in my stomach; mother to a child that my baby, The Theorem is in danger. I am getting that feeling that this is all cause and effect in connection to that email I sent to The Pope.
-<br />
-<br />
+<span class="break"></span>
 As you could imagine it was a very emotional time for me. These people are just so sick, so very sick.
 </p>
 <p class="h-l">
 	H.L. We are talking about a plot to bring down the world. This now has outgrown America, but the primary culprits are from America. How are we going to explain this to the world?
-<br />
-<br />
+<span class="break"></span>
 We are no longer talking about an attempt to conceal a discovery, no matter how big and important that discovery is. We are no longer talking about the destruction of a man, our President Trump, no matter how important or great he is. We are talking about something much larger. We are talking about crimes against humanity! <span class="douglas">Douglas:</span> I am embarrassed to be an American right now, I never in all my life thought I would say that!
 </p>
 <p>
 <span class="douglas">Douglas:</span> Oh great, now you’re crying. What the hell are we going do now? You’re not supposed to cry, you need to be strong and guide me through this. Just take a minute, take five or even 10 minutes. It’s okay.
-<br />
-<br />
+<span class="break"></span>
 You’re never going to make it through tomorrow, I see that now.
 </p>
 <p class="h-l">
@@ -884,8 +808,7 @@ You’re never going to make it through tomorrow, I see that now.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Look we are all going to do our part. We are all doing it. You are here helping me get this out. The president will do his part by bringing these people to justice. We as a country had the power to create this mess; we have the power to fix it.
-<br />
-<br />
+<span class="break"></span>
 	Can I continue with where I was going, I may need to read off my notes directly, as I am upset as well.
 </p>
 <p class="h-l">
@@ -911,14 +834,11 @@ You’re never going to make it through tomorrow, I see that now.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, but you are forgetting a bunch off the list, things I didn’t tell you.
-<br />
-<br />
+<span class="break"></span>
 Detroit also gets destroyed by the virus, my eldest son lives in the area. The first U.S. case is in Washington, my second to eldest son lives and works in both Washington and Oregon. I was just up in Washington visiting him a few months previous to that December.
-<br />
-<br />
+<span class="break"></span>
 Also, I let it be known that I was working on another letter to seek investment exclusively tailored to pharmaceutical companies. Well you can forget that now as they are going to be focused on vaccines.
-<br />
-<br />
+<span class="break"></span>
 Likely the list of ‘coincidences’ goes on and on, but I do not want to dig as I am afraid of what I might find.
 </p>
 <p class="h-l">
@@ -932,14 +852,11 @@ Likely the list of ‘coincidences’ goes on and on, but I do not want to dig a
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure, I do not want any association with people like this; the Liberal or Democratic Elite.
-<br />
-<br />
+<span class="break"></span>
 But I am concerned, very concerned; I just think maybe there are people out there who can help the authorities who are investigating this, and perhaps this disclosure can shed some light on events and timelines.
-<br />
-<br />
+<span class="break"></span>
 I have given the little or even big piece of what I know. And in regards to this virus I am holding nothing back; I have disclosed everything. This is not something I would ever hold back in regards to, as it is fluid and ongoing and impacting many lives.
-<br />
-<br />
+<span class="break"></span>
 But again, I have seen how these people operate, the people I believe who are responsible or at least involved in it. And they are bad news, and I should know as I have watched them up close for years.
 </p>
 <p class="h-l">
@@ -953,8 +870,7 @@ But again, I have seen how these people operate, the people I believe who are re
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, so because of that they would have to have known that I was going to send it on that day. It doesn’t make sense.
-<br />
-<br />
+<span class="break"></span>
 At the same time, this would not have been hard to know for a variety of reasons, as likely I searched and prepared a few nights before in regards to the address of where to send it to in Vatican City. Or perhaps I would have searched for the proper etiquette of formalities when addressing The Pope. I did not mask my search, I search publically almost always. The only thing is that I write on a computer not connected to internet for obvious reasons. Though I think many people take those precautions now.
 </p>
 <p class="h-l">
@@ -962,8 +878,7 @@ At the same time, this would not have been hard to know for a variety of reasons
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, and again it’s much like watching a scary movie with your hands over your eyes. I am afraid to research it anymore, because I am afraid that I may find more even damning evidence against these people. I don’t want to see it.
-<br />
-<br />
+<span class="break"></span>
 I really think at this point, an investigation like this belongs in the hands of professionals, and not further speculated upon. Again, my only purpose is to disclose what I know, and what I feel, and any other concerns related to the events. Now as far as tracing the specifics, I don’t see why I would try and do someone else’s job.
 </p>
 <p class="h-l">
@@ -983,8 +898,7 @@ I really think at this point, an investigation like this belongs in the hands of
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, and they are already are doing that to some extent. But it won’t work, their tactics; because they are just going to show their guilt by doing this.
-<br />
-<br />
+<span class="break"></span>
 All that is important in relation to uncovering the conspirators is that initial reported date. All other dates mean little. So even if they say, well we realize that the Corona Virus was in Italy since December, it makes no difference at this point.
 </p>
 <p class="h-l">
@@ -1013,8 +927,7 @@ All that is important in relation to uncovering the conspirators is that initial
 </p>
 <p class="h-l">
 	H.L. Well certainly Italy has been in political turmoil, and this was especially true just before the outbreak of the Corona Virus. Also the death rate from the Corona Virus in Italy was 10 times higher than for example in neighboring Germany. This has led to speculation that the numbers in Italy were inflated.
-<br />
-<br />
+<span class="break"></span>
 This could be for political motivation, by some members of the government. Sure it makes sense.
 </p>
 <p>
@@ -1043,11 +956,9 @@ This could be for political motivation, by some members of the government. Sure 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure.
-<br />
-<br />
+<span class="break"></span>
 	H.L. What day on your personal computer, the one not connected to the internet, did you begin your Papal Letter?
-<br />
-<br />
+<span class="break"></span>
 <span class="douglas">Douglas:</span> I began that letter two days earlier on January 21st 2019.
 </p>
 <p class="h-l">
@@ -1055,8 +966,7 @@ This could be for political motivation, by some members of the government. Sure 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, like I just told you, I am almost sure of it. I would have to check my search history, but I can’t access that because it has been erased. Not by me, by the way.
-<br />
-<br />
+<span class="break"></span>
 But I know there are forensic measures, a way to find out; it just exceeds my current technical capabilities.
 </p>
 <p class="h-l">
@@ -1079,8 +989,7 @@ But I know there are forensic measures, a way to find out; it just exceeds my cu
 </p>
 <p class="h-l">
 	H.L. I agree. Even the minor ones; the assistants or the acquaintances they all need to come forward.
-<br />
-<br />
+<span class="break"></span>
 	It may not even be up to President Trump, it may end up out of his hands.
 </p>
 <p>
@@ -1103,8 +1012,7 @@ But I know there are forensic measures, a way to find out; it just exceeds my cu
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure while we blame China, we have to be honest in many ways; right?
-<br />
-<br />
+<span class="break"></span>
 	After all I am telling you that the conspirators were American, not just Chinese. This is not a Chinese plot. This is an American plot, likely with the help of certain sects within the Chinese government; just like the sects that generated the plot are rogue members within our government. We may want to blame China, certainly they had their role. But they have just as much right to blame us.
 </p>
 <p class="h-l">
@@ -1118,11 +1026,9 @@ But I know there are forensic measures, a way to find out; it just exceeds my cu
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, it is.
-<br />
-<br />
+<span class="break"></span>
 That is just giving China too much credit. It is overestimating them substantially. Obviously I have no real love for China, but I do not want to see blame diverted to them, while the real culprits, The Liberal Elite go unpunished for their crimes.
-<br />
-<br />
+<span class="break"></span>
 
 They were just never that involved with the entire process, beyond the fact that they were sympathetic to the Liberal Elite in America as they were giving our country away.
 </p>
@@ -1137,8 +1043,7 @@ They were just never that involved with the entire process, beyond the fact that
 </p>
 <p>
 <span class="douglas">Douglas:</span> You are right there, as there is just too much at stake. Now a smaller country with less seasoned leadership might fall for the promises, the propaganda and the convincing verbiage of the Clintons and the Liberal Elite, but not a superpower like China.
-<br />
-<br />
+<span class="break"></span>
 We will get into all of that later today.
 </p>
 <p class="h-l">
@@ -1149,8 +1054,7 @@ We will get into all of that later today.
 </p>
 <p class="h-l">
 	H.L. I see. This is starting to come together.
-<br />
-<br />
+<span class="break"></span>
 So in that case it is possible that the doctors who came out in the beginning in China and attempted to warn the world about the pandemic were not actually trying to warn the world but instead to terrify them, and they were a part of the plot.
 </p>
 <p>
@@ -1173,8 +1077,7 @@ So in that case it is possible that the doctors who came out in the beginning in
 </p>
 <p>
 <span class="douglas">Douglas:</span> Very likely that is what we are doing, yes, even though this was not our intention. Nor is this our specialty, we must remind the readers of that. We could be very wrong on this.
-<br />
-<br />
+<span class="break"></span>
 We will see if our methods are better than those the Chinese utilize however. Our government, our president is on top of this I assure you though.
 </p>
 <p class="h-l">
@@ -1206,8 +1109,7 @@ We will see if our methods are better than those the Chinese utilize however. Ou
 </p>
 <p>
 <span class="douglas">Douglas:</span> The Liberal Elite are like spoiled little children. They did not get their way and they are throwing a tantrum. Only they are not throwing toys out of their playpens or cribs. They are shutting down the world economy, importing viruses, humiliating America and risking our national security.
-<br />
-<br />
+<span class="break"></span>
 You know the world; other world leaders are only going to tolerate us embracing this liberal fringe within our government for so long. Everyone has their limits. That is why it will be important for us to bring the conspirators to swift and public justice. Otherwise we will be viewed as no better than other nation’s who harbor terrorists. It is a sticky situation to say the least. We were once viewed as the country that protected the world from terrorism, but now, within the upper echelons of power around the world, we are viewed as the country that has created the most dangerous terrorists our world has ever known.
 </p>
 <p class="h-l">
@@ -1227,11 +1129,9 @@ You know the world; other world leaders are only going to tolerate us embracing 
 </p>
 <p>
 <span class="douglas">Douglas:</span> There are a few reasons. Some superficial and some deeper; obviously and we will go over this later, they need to unseat President Trump at all costs.
-<br />
-<br />
+<span class="break"></span>
 He is going to find out about this and he is going to prosecute them. I think whatever the initial intentions were for this virus, things got out of hand quickly and now the conspirators are even more terrified for their fate.
-<br />
-<br />
+<span class="break"></span>
 To close the voting booths is an obvious intention, this cannot be overlooked.
 </p>
 <p class="h-l">
@@ -1257,11 +1157,9 @@ To close the voting booths is an obvious intention, this cannot be overlooked.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure. Exactly why Hillary Clinton must never be president; why go through all this work when she would be able to push the nuclear button and destroy the planet with one movement of her finger? She would rather push that button than feel her pain. It’s that bad, and that deep.
-<br />
-<br />
+<span class="break"></span>
 She is spoiled, and pouting and wants to burn it all down.
-<br />
-<br />
+<span class="break"></span>
 Of course it’s not just Hillary Clinton; there are many players in this plot. I just focus on those at the top, but there are others propping that top layer up.
 </p>
 <p class="h-l">
@@ -1275,14 +1173,11 @@ Of course it’s not just Hillary Clinton; there are many players in this plot. 
 </p>
 <p>
 <span class="douglas">Douglas:</span> It is almost as if these Liberal Elite were those kids. Now they want to humiliate a proud nation. They become empowered by seeing others scared or fearful. Watching us humiliate ourselves by putting on homemade masks.
-<br />
-<br />
+<span class="break"></span>
 Suddenly they are not the child mocked in school anymore; this is invigorating to them, watching a great nation fall to its knees. To watch people who have talent levels far beyond their capacity cower to their sinister plot. This is a dark time in American History, make no mistake about it.  We have allowed a few to manipulate the many.
-<br />
-<br />
+<span class="break"></span>
 As I said, the world had always looked to us for leadership, and now we have dropped the ball. Other countries are rising in importance and self-esteem. Countries once thought of as a failed experiment, now are laughing at us, because we let our president be mocked by the media, and let the Corona Virus steal our common sense, pride and dignity; all in the name of fear.
-<br />
-<br />
+<span class="break"></span>
 These Liberal Elite are a cancer to our democracy, I am telling you. It will take us a long time to regain our composure after this humiliation.
 </p>
 <p class="h-l">
@@ -1290,8 +1185,7 @@ These Liberal Elite are a cancer to our democracy, I am telling you. It will tak
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, but we are still victims; we had the wool pulled over our eyes. America perhaps has never been a victim in exactly this way.
-<br />
-<br />
+<span class="break"></span>
 We will catch them, we will try them, we will defeat them; but then we are left with only ourselves to blame. Where do we look then?
 </p>
 <p class="h-l">
@@ -1335,8 +1229,7 @@ We will catch them, we will try them, we will defeat them; but then we are left 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Okay. One exciting aspect of The Theorem, and we touched on this briefly earlier is that we are indeed born into a lie, into a great deception. Because the fetal memory is not fully developed, or optimally functioning, it is essentially blocked. This leads to its misinterpretation of events. Now of course in regards to our development and eventual reproduction for our species this misinterpretation is vital, it is an absolute essential.
-<br />
-<br />
+<span class="break"></span>
 But then we take that into the real world, the world we live in outside of the womb.
 </p>
 <p class="h-l">
@@ -1350,17 +1243,13 @@ But then we take that into the real world, the world we live in outside of the w
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course, you’re right. Sorry I almost forgot.
-<br />
-<br />
+<span class="break"></span>
 Let’s strip most of the neural science out it, and go from there.
-<br />
-<br />
+<span class="break"></span>
 Alright let’s do this.
-<br />
-<br />
+<span class="break"></span>
 So in the womb, day after day and night after night the fetus misinterprets events in reaction to a fear conditioning model it experiences. Don’t worry if that sounds confusing, because I will break it down step by step. At least the pieces that are necessary for this example.
-<br />
-<br />
+<span class="break"></span>
 It is important to note though one disclaimer before we begin; this is a simplification for your readers of a very complex process. It is only a sliver of the basic model included in The Theorem, and I don’t really like pulling pieces out of it like this for a summary or to make a point, as it may backfire; but I will give it a go.
 </p>
 <p class="h-l">
@@ -1368,20 +1257,15 @@ It is important to note though one disclaimer before we begin; this is a simplif
 </p>
 <p>
 <span class="douglas">Douglas:</span> Okay good. Let’s start over.
-<br />
-<br />
+<span class="break"></span>
 To experience development in a conscious or even semiconscious state in the womb for the human fetus is incredibly painful. In fact, there is no way to compare the pain levels the developing human fetus realizes to what it will experience outside the womb, it is essentially therefore axiomatic. It is a hellish environment beyond our comprehension. Indeed it is no accident that we are atop Natures evolutionary pyramid, as it is primarily for this reason: our origins are the most painful of any species.
-<br />
-<br />
+<span class="break"></span>
 And certainly nothing motivates quite like avoidance of pain; and we are, for lack of better words, a very motivated species.
-<br />
-<br />
+<span class="break"></span>
 Now to offset some of these horrific origins and to keep us in the womb and conforming to our developments cycles (We will not cover these cycles here in depth), Nature provides the developing fetus massive amounts of pain-killing neurochemicals. Now there are many available pain-killing neurochemicals for the developing fetus, but for simplification we will name just one: dopamine.
-<br />
-<br />
+<span class="break"></span>
 Many people are familiar with dopamine, this is the neurochemical we realize an increase in when we eat, have sex, take drugs or drink alcohol; as these events increase our dopamine flow to our reward pathways within our brain. This makes us feel better, often much better.
-<br />
-<br />
+<span class="break"></span>
 Indeed while avoidance of pain is a great motivator, it may only be rivaled by the pursuit of pleasure.
 </p>
 <p class="h-l">
@@ -1389,11 +1273,9 @@ Indeed while avoidance of pain is a great motivator, it may only be rivaled by t
 </p>
 <p>
 <span class="douglas">Douglas:</span> Good.
-<br />
-<br />
+<span class="break"></span>
 The problem with the dopamine is that it doesn’t always flow the same way to the fetus when it is in the womb. For example, when the mother is moving around during the day and walking about; busy with her tasks and so forth, the fetus receives a large amount or a net increase of dopamine to its developing brain. This is very pleasurable for the fetus to experience.
-<br />
-<br />
+<span class="break"></span>
 But when the mother sits, lies down or goes to sleep at night or even for a nap then the net dopamine flow decreases in the developing brain of the human fetus; as much of the dopamine was generated by the mothers’ movement. So now to get that dopamine, the fetus has to kick and move about. This is very painful.
 </p>
 <p class="h-l">
@@ -1401,15 +1283,12 @@ But when the mother sits, lies down or goes to sleep at night or even for a nap 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, good, you read The Theorem so you can help me on this.
-<br />
-<br />
+<span class="break"></span>
 But it is much more than just a reduction of dopamine that makes life almost intolerable in this painful cycle of development for the fetus, the second cycle when the mother is resting or sleeping.
-<br />
-<br />
+<span class="break"></span>
 There are bouts when the fetal oxygen supply is cut off, and the fetus is essentially without air for extended periods of time. Of course these bouts when the fetal oxygen supply is cut off occur all throughout the day and the night, but with the reduction of dopamine to increase the pain level however, they are intolerable. This is a horrific experience, one of the most painful imaginable!
 Of course there is a very good reason Nature does this, cuts off the oxygen supply to the fetus; it is a practice session, a dress rehearsal for its own independent breathing when it leaves the womb and enters infancy. Also, during the often long process of labor, the fetus will be without oxygen for periodic lengths of time. Unfortunately the fetus does not see it this way at all, as valuable; it sees these events as the origin, the subfloor of our perception of death itself.
-<br />
-<br />
+<span class="break"></span>
 Now over time, the fetus because its memory is not fully functioning begins to misinterpret these events; it believes that when the mother lies down that she is also without oxygen and is therefore in the process of dying.
 </p>
 <p class="h-l">
@@ -1424,8 +1303,7 @@ Another misinterpretation the fetus makes later during the pregnancy is that by 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Excellent. Now this goes on for months and months in the womb. Finally Nature signals the fetus it is time to leave. The fetus is getting too big, and the net amount of dopamine it is realizing is not enough to keep up with the pain the fetus is experiencing, as it is growing prolifically, in leaps and bounds.
-<br />
-<br />
+<span class="break"></span>
 But there’s only one problem with this;
 </p>
 <p class="h-l">
@@ -1439,8 +1317,7 @@ But there’s only one problem with this;
 </p>
 <p>
 <span class="douglas">Douglas:</span>  Right. So as you would imagine this is a very large and painful decision to leave the mother behind to die, it is traumatizing.
-<br />
-<br />
+<span class="break"></span>
 	At this point, it is helpful to understand that many of the feelings and emotions we realize in our human experience originate from the fact that we experienced our development with our memory not fully functioning. For example intense sadness; feelings of helplessness, extreme euphoria, and even intense frustrations all have their origins here, long before birth. It is also helpful to realize that programmed into all those neurons in our brain that contain those emotions are also programmed the physical pain of our horrific development.
 </p>
 <p class="h-l">
@@ -1448,20 +1325,15 @@ But there’s only one problem with this;
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, you are right that is why they are not just emotionally painful, but physically painful as well. Emotions can hurt like hell.
-<br />
-<br />
+<span class="break"></span>
 So another emotion, perhaps a more complex one, is guilt. And this too has its origins here in the womb, primarily during the final weeks of pregnancy.
-<br />
-<br />
+<span class="break"></span>
 Because to the fetus, with it skewed perception due to its underdeveloped memory, the mother is a life giver, a source of pleasure. The fetus doesn’t attribute the painful periods when its oxygen supply was cut off for extended periods of time to its mother. As you said, the fetus sees the world revolving around it. So what is happening to the fetus must be happening to the mother. In addition she is laying there unable to move; the fetus reasons she therefore must be dying, although she is only sleeping.
-<br />
-<br />
+<span class="break"></span>
 Now in contrast to the painful cycle, which it does not credit to its mother; the pleasurable cycle with the euphoria inducing dopamine flowing freely, the one she is walking around, it does give her credit for. Even with no real long term memory the fetus has some basic common sense; she must be responsible, this must be case, for the fetus knows it is not creating this movement, it is not walking around. No, instead its mother is generating that movement, and the fetus, even with its underdeveloped memory, knows this. So a bond has developed. It is a bond anyone would develop with an entity that only gives and never takes.
-<br />
-<br />
+<span class="break"></span>
 Of course the fetus realizes its mother is not perfect and has limitations, as she too is powerless and is victimized by those nightly bouts with death. She too is victimized by those seconds and minutes without oxygen, the same way the fetus is. This is the fetal misinterpretation of its mother sleeping.
-<br />
-<br />
+<span class="break"></span>
 So yes the decision to leave her alone there is a difficult one. And like you said the fetus believes that if it leaves the mother alone she will be subject to these nightly bouts without oxygen; our initial perception of death. Therefore without the fetus to save her, by its kicking and punching, she will die. This is the fetal perception.
 </p>
 <p class="h-l">
@@ -1469,8 +1341,7 @@ So yes the decision to leave her alone there is a difficult one. And like you sa
 </p>
 <p>
 <span class="douglas">Douglas:</span> So yes, it is a big deal, a large and painful decision to go; to leave her there without oxygen, to leave her there to die.
-<br />
-<br />
+<span class="break"></span>
 Finally however conditions worsen and the fetus must make the leap through the hellish journey; it must undertake the hot painful descent down the birth canal and into infancy. Always assuming it is leaving the mother behind to perish without it being there to save her.
 </p>
 <p class="h-l">
@@ -1478,14 +1349,11 @@ Finally however conditions worsen and the fetus must make the leap through the h
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes true. And this is a very important misinterpretation. In fact one of the most important we will ever experience. Now as time goes on, as the infant slowly grows into its childhood, it tries to make sense of the events it experienced.
-<br />
-<br />
+<span class="break"></span>
 The infant begins to realize that it was essentially deceived or tricked into believing that the mother was dying when it was in the womb. After all the mother was not dying at night, she was just sleeping. The infant can see the proof of this, as its mother wakes up every morning. Also, its mother did not die when it left the womb as it thought. All the infant or child has to do is to look at her, she is alive and changing its diapers, or in the car driving it around. As a fetus however it was made to play the fool by Nature.
-<br />
-<br />
+<span class="break"></span>
 We will use a male as an example here; a young boy, as his actions are typically more exaggerated at this stage.
-<br />
-<br />
+<span class="break"></span>
 So the young boy doesn’t like the fact that Nature did this to him; tricked him into believing all of these things were happening when they were not. At the same time he has to respect Nature, after all, she really fooled him good. She really played a joker on him.
 </p>
 <p class="h-l">
@@ -1493,11 +1361,9 @@ So the young boy doesn’t like the fact that Nature did this to him; tricked hi
 </p>
 <p>
 <span class="douglas">Douglas:</span> Good, though you are jumping ahead a bit. But yes, this is why children lie; they are mimicking what is more powerful than them. After all, this deception, this conspiracy once dominated their life. And to some extent it still is at this young age.
-<br />
-<br />
+<span class="break"></span>
 He was tricked into kicking and punching foolishly trying to save his mother’s life when she was only sleeping. He was tricked into a plethora of emotions and guilt about leaving his mother alone to die, when that was never going to happen. In fact she was only crying out in pain from the process of birth itself, not some final death scream during labor. No, he was tricked alright, and tricked good.
-<br />
-<br />
+<span class="break"></span>
 Now typically the boy will blame Nature for this conspiracy to deceive him and take it out on her representatives; mildly humiliating the household pet, enjoying  seeing animals in cages the way he was once caged in the womb, leaving, bugs, insects in a jar to die, whatever. This is part of his coming to terms with the experience, and a summation of what he just witnessed a few years before.
 </p>
 <p class="h-l">
@@ -1511,11 +1377,9 @@ Now typically the boy will blame Nature for this conspiracy to deceive him and t
 </p>
 <p>
 <span class="douglas">Douglas:</span> But here is the problem. Nature doesn’t want the boy going around hating her for what she did to him; no, not at all. Nature doesn’t want the boy to grow into a man living life with the perceptions that were all based on another time and place; based on life in the womb.
-<br />
-<br />
+<span class="break"></span>
 So Nature enables a developmental window after birth to essentially get rid of a large amount of that memory, or neurons programmed with the memory of those events he experienced in the womb; the memory of that misinterpretation, deception and conspiracy he experienced in utero.
-<br />
-<br />
+<span class="break"></span>
 Now if the conditions are ideal, and the boy has a good environment; for example, a loving and present mother, is safe, secure and can thrive in infancy, then a large amount of the memory will be deleted. Essentially a large number of those neurons with that memory will either be eliminated or at the very least reprogrammed with information that is more relevant to life outside the womb.
 </p>
 <p class="h-l">
@@ -1523,11 +1387,9 @@ Now if the conditions are ideal, and the boy has a good environment; for example
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, you’re right on that, many of those neurons will always remain as this defines who we are.
-<br />
-<br />
+<span class="break"></span>
 But in contrast to an ideal situation, let’s say the boy as an infant had a bad environment; for example, maybe his mother is sick or actually dies, she is not there very often or maybe even neglected or abused him.
-<br />
-<br />
+<span class="break"></span>
 Then, instead of the memory of life in the womb, the neurons being eliminated or reprogrammed, they are actually reinforced.
 </p>
 <p class="h-l">
@@ -1547,8 +1409,7 @@ Then, instead of the memory of life in the womb, the neurons being eliminated or
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, exactly.
-<br />
-<br />
+<span class="break"></span>
 So therefore we as a society are vulnerable or susceptible to people who mimic our early conspiratorial origins, the lies and the misinterpretations. We become vulnerable and actually seek out people who lie to us. We are typically not even consciously aware that we are doing that.
 </p>
 <p class="h-l">
@@ -1562,11 +1423,9 @@ So therefore we as a society are vulnerable or susceptible to people who mimic o
 </p>
 <p>
 <span class="douglas">Douglas:</span> Unfortunately yes, so in many ways we only have ourselves to blame.
-<br />
-<br />
+<span class="break"></span>
 The only way to rid ourselves of conspiracy, cover-ups and concealments in our government is to fix ourselves, our mental health and the demand will drop; then our world, our political landscape, will heal itself.
-<br />
-<br />
+<span class="break"></span>
 When we are emotionally healthy, we will just walk right past and not even notice the politician on the corner peddling their false narrative. While we always have been able to see through their lies, we will not be attracted to those peddling them anymore.
 </p>
 <p class="h-l">
@@ -1586,8 +1445,7 @@ When we are emotionally healthy, we will just walk right past and not even notic
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure, they are not giving us our fix. We were born in conspiracy, so we expect our leaders to deliver that to us, as we are damaged. The most effective politicians today understand this; they see the macro trends, as horrific as those trends are, and they milk everything out of them.
-<br />
-<br />
+<span class="break"></span>
 So you go back 50 years and you look at Watergate. Now there was a world where we may have been damaged and locked in our past, but not nearly to the degree we are today. So even the thought of our government lying to us, covering up something we felt we should know about was unacceptable.
 </p>
 <p class="h-l">
@@ -1595,8 +1453,7 @@ So you go back 50 years and you look at Watergate. Now there was a world where w
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, correct, we have changed that much.
-<br />
-<br />
+<span class="break"></span>
 This is why we only have ourselves to blame for the Clintons and Obama, as we hatched them out of some sick subconscious, nostalgic fantasy to return to our origins; therefore, they go unchecked.
 </p>
 <p class="h-l">
@@ -1628,8 +1485,7 @@ This is why we only have ourselves to blame for the Clintons and Obama, as we ha
 </p>
 <p>
 <span class="douglas">Douglas:</span> Thanks. Twelve years and billions of dollars plus of slush fund endowments and they can’t disprove it; all they can come up with is calling me their idea of a dirty word: reductionist.
-<br />
-<br />
+<span class="break"></span>
 But hey, after twenty five years I can explain the model with at least a little more clarity than the day I started!
 </p>
 <p class="h-l">
@@ -1637,8 +1493,7 @@ But hey, after twenty five years I can explain the model with at least a little 
 </p>
 <p>
 <span class="douglas">Douglas:</span> A sissy slap, so true. You’re funny. You know you’re getting more creative as we go along.
-<br />
-<br />
+<span class="break"></span>
 That cheered me up, thanks.
 </p>
 <p class="h-l">
@@ -1666,14 +1521,11 @@ That cheered me up, thanks.
 <span class="douglas">Douglas:</span> Oh. Okay. So suddenly you’re a Picasso expert?
 <p class="h-l">
 	H.L. No, but you brought him up the other day. I forget how exactly the story goes but you’ll like it; goes something like this:
-<br />
-<br />
+<span class="break"></span>
 Picasso is sitting in a park one day, I think it was Central Park in NYC. He is working on painting a landscape of the park. Meanwhile, a woman walks up and spots him there painting and she realizes it is Pablo Picasso. She is very excited and rushes over to him and almost demands Picasso to sketch a portrait of her.
-<br />
-<br />
+<span class="break"></span>
 While he is bothered, he obliges and quickly sketches her. Then, when he is finished he hands it to her and informs her that it will be 500 dollars for the portrait.
-<br />
-<br />
+<span class="break"></span>
 Now the woman, while happy with the portrait, is upset and questions the high price. She inquires about the 500 dollars and she reminds him, “But Pablo that only took you 15 minutes to finish!”
 He corrects her, “No lady that took me twenty years.”
 </p>
@@ -1709,8 +1561,7 @@ He corrects her, “No lady that took me twenty years.”
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course I am not alone; I am with a girlfriend so being completely lost is getting completely embarrassing. Then all of a sudden, out of nowhere, shows up a garbage man and his old garbage truck. He can see I am lost, and I ask for directions. Well he gives them to me, but within 30 seconds or a minute he can see my fate. He can see that I do not comprehend what he is saying in regards to the landmarks and the streets; they are just blurs I will soon forget. So he looks at my girlfriend, and back at me, and he says; follow me.
-<br />
-<br />
+<span class="break"></span>
 So we are following this old garbage truck for about ten minutes, but then he has to stop every few minutes; each time completely blocking traffic in the process.
 </p>
 <p class="h-l">
@@ -1757,14 +1608,12 @@ So we are following this old garbage truck for about ten minutes, but then he ha
 </p>
 <p class="h-l">
 	H.L. Okay.
-<br />
-<br />
+<span class="break"></span>
 We are going to go into the cover-up now, deeper into the events that would lead to the impeachment proceedings against President Trump?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, exactly. And again, it all stems from the events we talked about yesterday; this suicide ideation or attempt or whatever the exact circumstances were in French Polynesia in regards to Barack Obama.
-<br />
-<br />
+<span class="break"></span>
 In fact, U.S. history between 2017 and 2020 will be dominated by the implications of this near tragedy. Ironically, the motivations for the following events we are going to dive into are likely only understood by a few select individuals. They therefore have been hopelessly misinterpreted by the American public.
 </p>
 <p class="h-l">
@@ -1772,8 +1621,7 @@ In fact, U.S. history between 2017 and 2020 will be dominated by the implication
 </p>
 <p>
 <span class="douglas">Douglas:</span> So obviously when Barack Obama is in the South Pacific, at The Brando, the Clintons are very worried. Of course we would like to think that they are worried about Barack Obama because they love him.
-<br />
-<br />
+<span class="break"></span>
 Unfortunately I don’t know if that was their primary intention.
 </p>
 <p class="h-l">
@@ -1781,8 +1629,7 @@ Unfortunately I don’t know if that was their primary intention.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, even though they don’t deserve it, we will give them the benefit of the doubt for nostalgias stake.
-<br />
-<br />
+<span class="break"></span>
 But another reason, the obvious one of course, is that if anything happens to Barack Obama there is going to be a major investigation and the Clintons are going to be exposed. This is their fear. Now hopefully these people are losing sleep over Barack Obama being down there, so they have to get him back. They have to assure him that no prosecution is going to take place. So they change the narrative.
 </p>
 <p class="h-l">
@@ -1790,8 +1637,7 @@ But another reason, the obvious one of course, is that if anything happens to Ba
 </p>
 <p>
 <span class="douglas">Douglas:</span> They are going to use all of their political clout and all their media connections to further this false narrative that Donald Trump was dealing with the Russians to fix the election.
-<br />
-<br />
+<span class="break"></span>
 Because one thing these Democrats learned in their surveillance of President Trump: Russians live in Trump Tower.
 </p>
 <p class="h-l">
@@ -1799,8 +1645,7 @@ Because one thing these Democrats learned in their surveillance of President Tru
 </p>
 <p>
 <span class="douglas">Douglas:</span> Now to forward such a weak narrative like this it just shows you how much disrespect the Clintons have for the American people’s intelligence.
-<br />
-<br />
+<span class="break"></span>
 Nobody believes this silly plot. Even poor people who have no money can see straight through this. The problem was until now; they did not know why it was happening. This entire scheme was likely thought up by someone who never has had any experience with billionaires and has never learned a thing about the wealthy. In fact, whoever was responsible for this idea should be reprimanded by the Clintons; because it was a bad idea, it is a narrative that just will not float, not even in a sea of salt.
 </p>
 <p class="h-l">
@@ -1808,11 +1653,9 @@ Nobody believes this silly plot. Even poor people who have no money can see stra
 </p>
 <p>
 <span class="douglas">Douglas:</span> Okay. The first thing you learn about billionaires is that they do not typically trust anyone. They can’t, there is just too much money involved. They have seen people do things for money that fortunately you and I will never witness.
-<br />
-<br />
+<span class="break"></span>
 So the idea of a billionaire trusting a foreign leader, forget it. So that fatal flaw in the narrative alone should be enough to toss it out of court.
-<br />
-<br />
+<span class="break"></span>
 But let’s entertain their soccer mom conspiracy theory mentality a little longer.
 </p>
 <p class="h-l">
@@ -1820,11 +1663,9 @@ But let’s entertain their soccer mom conspiracy theory mentality a little long
 </p>
 <p>
 <span class="douglas">Douglas:</span> So even if a billionaire would trust, you are forgetting about the billionaire we are talking about: Donald Trump.
-<br />
-<br />
+<span class="break"></span>
 Now anyone who knows anything about President Trump knows that he has a healthy ego and likes to do things alone. He is in no way going to admit defeat and therefore seek help before the results are even in. That’s not who he is.
-<br />
-<br />
+<span class="break"></span>
 He is too proud of a man for that. And if anyone approached him with that proposal, Donald Trump would have felt disrespected by that person, as they would be seeing him as weak. Right there, Donald Trump would have fired them; thrown them out in the alley before they finished their sentence. Win or lose Donald Trump is going to do it alone. That’s who he is.
 </p>
 <p class="h-l">
@@ -1832,8 +1673,7 @@ He is too proud of a man for that. And if anyone approached him with that propos
 </p>
 <p>
 <span class="douglas">Douglas:</span> Okay, but let’s give these bureaucrats another chance. Since they lie, they assume everyone else is a liar. But that’s just not true. Sure Donald Trump wants to be president, but to lie and cheat and risk his billion dollar empire for it?
-<br />
-<br />
+<span class="break"></span>
 And at this age?
 </p>
 <p class="h-l">
@@ -1847,14 +1687,11 @@ And at this age?
 </p>
 <p>
 <span class="douglas">Douglas:</span> The whole waste of time however was not actually a waste at all. The goal was to keep President Trump off balance at all costs.
-<br />
-<br />
+<span class="break"></span>
 This came from the top of the party. This came from the Clintons.
-<br />
-<br />
+<span class="break"></span>
 They repeated it over and over again. If President Trump ever got a single minute to catch his balance, surely he would investigate Barack Obama again. And Obama is not strong enough to endure it, so he takes his life. Now the Clintons are found to be directly responsible for the demise of the first African-American president.
-<br />
-<br />
+<span class="break"></span>
 They are already disliked by conservatives; imagine if their own party turned on them as well? They would have no place to run, and if something happens to Barack Obama, anything at all; this then is just what will happen. America and especially the African-American community are going to find out the truth.
 </p>
 <p class="h-l">
@@ -1871,14 +1708,12 @@ They are already disliked by conservatives; imagine if their own party turned on
 </p>
 <p class="h-l">
 	H.L. That answers a lot of questions for me, and I think it will for everyone. The amount of vitriol they attacked President Trump with was so intense.
-<br />
-<br />
+<span class="break"></span>
 I think that is why it puzzled so many; it seemed to exceed partisan politics, to perjure themselves like that in an attempt to remove a sitting president? It just made no sense. You could see the look on President Trump’s face, like, what now? They just kept coming after him, they were relentless.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Even with their deception there was energy; saving someone’s life is a powerful energy.
-<br />
-<br />
+<span class="break"></span>
 But again, the Clintons could care less about Barack Obama personally; they were just using his mental health as human shield, as a rallying cry to motivate the faithful: this all to keep the prosecutors from knocking on their door.
 </p>
 <p class="h-l">
@@ -1892,17 +1727,13 @@ But again, the Clintons could care less about Barack Obama personally; they were
 </p>
 <p>
 <span class="douglas">Douglas:</span> Now you do.
-<br />
-<br />
+<span class="break"></span>
 You see if you live long enough; around the rich, around the poor, you realize that there is an invisible rhythm to motivations. If someone is greedy, and executes an action out of greed; well, then there is only so much energy behind it.
-<br />
-<br />
+<span class="break"></span>
 The same can be said for kindness. All of these things have a rhythm and a force we can easily identify on a subconscious level.
-<br />
-<br />
+<span class="break"></span>
 It is the same with partisan politics. Typically, with the ideology behind those politics, there is only so far one can go, before they come to the realization that their opponent is an actual person and should be respected as such. This was not the rhythm and the energy behind the attacks on President Trump.
-<br />
-<br />
+<span class="break"></span>
 The energy behind these attacks was unbalanced; erratic, frantic, continuous and almost always unethical. At first glance many conservatives falsely assumed that the Democrats had lost their mind. It was a somewhat accurate observation, but that was not what was occurring. Instead they were seduced, and brainwashed by this serious dialogue that deceptively stated if we don’t do something, Barack Obama’s life is in danger!
 </p>
 <p class="h-l">
@@ -1928,8 +1759,7 @@ The energy behind these attacks was unbalanced; erratic, frantic, continuous and
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure it was. It still is. Now the consequences of this false narrative are catastrophic of course. They were once catastrophic for President Trump, though he is recovering nicely. They are catastrophic for the future of the Democratic Party, the primary vessel this contagion of deception was transported in.
-<br />
-<br />
+<span class="break"></span>
 Mostly however and more importantly they are catastrophic for America in the aggregate.
 </p>
 <p class="h-l">
@@ -1943,11 +1773,9 @@ Mostly however and more importantly they are catastrophic for America in the agg
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course it did. Before I pieced everything together, I was in the dark like everyone else. I knew there was something going on, and I had many theories as to why it was all happening.
-<br />
-<br />
+<span class="break"></span>
 It was the same thing, in a way that happened with Barack Obama in his first term. I remember becoming physically ill at the amount of racist sentiment that was being thrown at him. You could tell, they were not attacks on him personally there was something behind it. In a way it was like all this racism was suppressed, then when Barack Obama became President, it all just surfaced.
-<br />
-<br />
+<span class="break"></span>
 We often forget, in many ways that man went through hell in his first term and deep into his second. I really never realized how bad it was, but it was there. It was always there, racism was the force behind the criticism.
 </p>
 <p class="h-l">
@@ -1955,11 +1783,9 @@ We often forget, in many ways that man went through hell in his first term and d
 </p>
 <p>
 <span class="douglas">Douglas:</span> Exactly. It made me embarrassed to be an American.
-<br />
-<br />
+<span class="break"></span>
 So I tried to break it down with President Trump. I tried to apply the same underlying motivation, the fact that something below the surface was responsible. At first, I thought it was because he was wealthy, a billionaire. But that did not mesh.
-<br />
-<br />
+<span class="break"></span>
 Then I became convinced that it had to do with his age. I hypothesized that an entire generation of Americans were dumped off at their grandparents to be raised by them. While grandma was nice, and sweet for reasons we have seen; grandpa was grumpy to us. He was bothered by the inconvenience.
 </p>
 <p class="h-l">
@@ -1991,8 +1817,7 @@ Then I became convinced that it had to do with his age. I hypothesized that an e
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well, we are doing it essentially.
-<br />
-<br />
+<span class="break"></span>
 You can attack the bees that are outside of the hive, but instead we are going after the queen bee. We are going to the source of the infection and we are going to debunk their central premise, their mantra to action. Until you can do that, everything else is a waste of time.
 </p>
 <p class="h-l">
@@ -2009,8 +1834,7 @@ You can attack the bees that are outside of the hive, but instead we are going a
 </p>
 <p class="h-l">
 	H.L. Yes, I can see that. It is not good. It’s very elitist. The Clintons are elitist; they do not like the fact that Barack Obama was president. So you have layers upon layers behind their motivations; the first being that Obama is there to serve them. The Clintons are nasty people.
-<br />
-<br />
+<span class="break"></span>
 That’s doesn’t let them off the hook though.
 </p>
 <p>
@@ -2021,8 +1845,7 @@ That’s doesn’t let them off the hook though.
 </p>
 <p>
 <span class="douglas">Douglas:</span> No they won’t. The Clintons and their allies almost cost us our entire country.
-<br />
-<br />
+<span class="break"></span>
 They almost cost us everything. Certainly an entire history, a complete culture is worth more than one man; as many men have died to preserve The United States of America. We must continue, no matter how painful. We must make our dead heroes, our fallen servicemen and servicewomen’s ultimate sacrifice worth something!
 </p>
 <p class="h-l">
@@ -2036,11 +1859,9 @@ They almost cost us everything. Certainly an entire history, a complete culture 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Certainly, I did. Not right away, but after awhile I considered it. There is definitely evidence to support that. Right?
-<br />
-<br />
+<span class="break"></span>
 It was almost out of a movie script, with the hotel and the friends coming to the rescue, even the celebrities’ comment like you say. You could flip everything upside down. Maybe it was all choreographed.
-<br />
-<br />
+<span class="break"></span>
 The problem with that however is that you have to be safe. I am sure in the history of suicides there have been people who literally planned a false suicide drama, with absolutely no intention of ever going through it. Then suddenly at the last minute were like, “Hey, I’m here, I might as well do it. I wouldn’t be here unless I was serious.” Then they do it! Suicide can often be an impulsive act.
 </p>
 <p class="h-l">
@@ -2048,8 +1869,7 @@ The problem with that however is that you have to be safe. I am sure in the hist
 </p>
 <p>
 <span class="douglas">Douglas:</span> And that is a good point, just to go through with the mock preparation and planning of an event like that shows irrationality that most of us suppress, if it even exists within us. So at the minimum it is suicide ideation and has to be taken at face value. A suicide attempt can itself be such an unpredictable act; such a sad, tragic and often final act. It can never be dismissed, never.
-<br />
-<br />
+<span class="break"></span>
 I think he was very serious in his intentions.
 </p>
 <p class="h-l">
@@ -2114,23 +1934,18 @@ I think he was very serious in his intentions.
 </p>
 <p class="h-l">
 	H.L. Don’t self-judge and certainly do not look down. You are doing fine; this is interesting, keep going.
-<br />
-<br />
+<span class="break"></span>
 Just a little corny though. That’s all, just a little.
 </p>
 <p>
 <span class="douglas">Douglas:</span> It was, I agree. Okay, here we go.
-<br />
-<br />
+<span class="break"></span>
 So to initiate this coup against President Trump, as that’s what it really is a coup; they had to call in a lot of favors, like I said. The Clintons and Democratic Elite had to use up all of their tokens. Then, they had to go out and get more tokens.
-<br />
-<br />
+<span class="break"></span>
 Now to go out and get more tokens they had to promise one thing; a must win in 2020. If they don’t win, they will be facing not only President Trump’s ire, but the vengeance of those they falsely promised.
-<br />
-<br />
+<span class="break"></span>
 So while President Trump would likely be brutal to them, he is limited by what he can accomplish, both ethically and by the powers vested in him as president.
-<br />
-<br />
+<span class="break"></span>
 These other countries and individuals have no such burden, and therefore their punishment to these Democratic Elite will not be public nor will be they restrained. These are some bad players.
 </p>
 <p class="h-l">
@@ -2144,8 +1959,7 @@ These other countries and individuals have no such burden, and therefore their p
 </p>
 <p>
 <span class="douglas">Douglas:</span> I wish it was that simple. You see there are other countries involved and there could be secondary reactions from the U.S. in response to their subversive actions.
-<br />
-<br />
+<span class="break"></span>
 So while they are subsidizing or at least secretly supporting these Democratic Elite, they are directly defying the sitting powers of the U.S. Government.
 </p>
 <p class="h-l">
@@ -2153,8 +1967,7 @@ So while they are subsidizing or at least secretly supporting these Democratic E
 </p>
 <p>
 <span class="douglas">Douglas:</span> It is, and it’s deteriorating rapidly. These countries and other subversive financiers are almost too heavily vested now to walk away. It is becoming a must win Democratic Party victory in 2020 for them as well. This is not good. America is an economic and military powerhouse. Nobody wants to be shunned by us.
-<br />
-<br />
+<span class="break"></span>
 The problem is the will of the people are just not with the Democratic Party. We are all tired of their passé politics, their corruption, their over-burdened demands of our liberties, their outdated platform and the list goes on and on.
 </p>
 <p class="h-l">
@@ -2162,8 +1975,7 @@ The problem is the will of the people are just not with the Democratic Party. We
 </p>
 <p>
 <span class="douglas">Douglas:</span> No it doesn’t, and then the liberals have the posed naiveté to act surprised. Donald Trump is a very accomplished individual; they are just no match for him. What did you think was going to happen when you let a billionaire and a celebrity into office? Either of those accomplishments alone is just so rare. He is a one in a million leader. The Democrats have no one to come even close to matching him.
-<br />
-<br />
+<span class="break"></span>
 Hillary and Bill Clinton are years past their date stamp, Barack Obama is scared and in a circular flight. They can’t compete. All they have is nostalgic value and false promises to their subordinates and contemporaries. You know, “Just go along with us, and we will seat you in a position of power”. All they are really saying however is, “Just go along with us and we will seat you in the courtroom next to us.”
 They are going to get caught. You can’t suppress the will of the people forever. History teaches us that.
 </p>
@@ -2172,8 +1984,7 @@ They are going to get caught. You can’t suppress the will of the people foreve
 </p>
 <p>
 <span class="douglas">Douglas:</span> It is. But still these bureaucrats; governors, congressmen and congresswomen are no healthier than the Clintons. They are locked in their own emotional issues and are therefore vulnerable to easy exploitation by the Democratic Party Elites. They are trying to please and impress Hillary Clinton like she is their den mother or their actual mother, like she is watching them.
-<br />
-<br />
+<span class="break"></span>
 Make no mistake about it however, Hillary Clinton is not watching them; she doesn’t even know they exist. She laughs privately at those who support her. She doesn’t believe in herself, so therefore anyone who believes in her must be weaker by default and stupider by design. It’s really how she sees anyone on her team. If you want someone like this to respect you, then the only way is to reject them first. It is a very one-dimensional reality and existence.
 </p>
 <p class="h-l">
@@ -2187,8 +1998,7 @@ Make no mistake about it however, Hillary Clinton is not watching them; she does
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, but here is the thing, these wealthy people are just being lazy; they are fraught with their own personal emotional issues that exhaust them. We have been over the reasons for that. The nostalgia reminds them of when they were younger and stronger. In contrast, anything new reminds them of their inequities. It is a challenge to their reality.
-<br />
-<br />
+<span class="break"></span>
 What they don’t understand is that they would have done well in either administration. It has nothing to do with who is in office, but everything to do with who they are. They are champions. They are superstars. They need to empty their backpack, peel off that old Clinton and Obama wrap and get back in the race; jump in the Trump game and learn how to make money in this environment!
 </p>
 <p class="h-l">
@@ -2196,8 +2006,7 @@ What they don’t understand is that they would have done well in either adminis
 </p>
 <p>
 <span class="douglas">Douglas:</span> You know it always has amazed me how intelligent and extremely wealthy men so often underestimate their own success.
-<br />
-<br />
+<span class="break"></span>
 They are easy to admit that their failings and defeats are their fault. But their successes they attribute to some other variable like luck or good fortune or others. That is so unfair to your soul. If you are going to be man enough to take responsibility for your failures, be man enough to take responsibility for your success!
 </p>
 <p class="h-l">
@@ -2205,8 +2014,7 @@ They are easy to admit that their failings and defeats are their fault. But thei
 </p>
 <p>
 <span class="douglas">Douglas:</span> What?
-<br />
-<br />
+<span class="break"></span>
 Okay. Maybe I have not quite earned that last sentence yet. I must admit it is hard to accept your own success.
 </p>
 <p class="h-l">
@@ -2226,11 +2034,9 @@ Okay. Maybe I have not quite earned that last sentence yet. I must admit it is h
 </p>
 <p>
 <span class="douglas">Douglas:</span> Many of these second-level conspirators were probably honest people at one time, likely very honest. But when they made some of their findings in relation to the corruption of the Obama administration there was just nowhere to turn, nowhere to run. They were immediately surrounded by wolves. The conspiracy was so deep by the time they discovered it, they just closed the door and left.
-<br />
-<br />
+<span class="break"></span>
 There were few heroes for them to turn to on the inside at that time; it was just different characters with different levels of corruption.
-<br />
-<br />
+<span class="break"></span>
 So what could they do? The Obama administration was very good at taking care of their bureaucrats. They even received bonuses. It was ridiculous, though effective. There were, and still are, just so may loyalists at so many levels. Obama was the best boss they ever had; half of them didn’t even know they were doing anything wrong while they were doing it. He was the candyman to them, so it will take years to clean that hornets’ nest out. I do not envy the task President Trump has ahead of him.
 </p>
 <p class="h-l">
@@ -2238,8 +2044,7 @@ So what could they do? The Obama administration was very good at taking care of 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Not to beat a dead horse, but I do want to reemphasize how essential it is for the Democratic Elite to have the Democratic Party regain the White House in 2020, and the Senate in 2020.
-<br />
-<br />
+<span class="break"></span>
 They will literary stop at nothing to return to glory. They will likely focus on corrupting governors and administrators from certain key swing states; getting the dirt on them, so come election day the Democratic Elite can hoard and stuff the ballot box unnoticed, thus gaining the presidency that way. President Trump is going to have a massive fight on his hands come November.
 </p>
 <p class="h-l">
@@ -2253,11 +2058,9 @@ They will literary stop at nothing to return to glory. They will likely focus on
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, of course. They have become lazy in concealing their deceit, but they can’t be underestimated.
-<br />
-<br />
+<span class="break"></span>
 For example when I was in Europe last year, where I was staying, the only American news channel was a liberal news channel. It was CNN. You would think at first view, this is no big deal.
-<br />
-<br />
+<span class="break"></span>
 But much of the rest of the world actually believes that is the way life is in America, the way it is represented by the liberal media. When in fact, this tired rhetoric is what many Americans want to distance ourselves from. It’s just not reality for the typical America or even the non-typical American for that matter. Still it is a problem.
 </p>
 <p class="h-l">
@@ -2271,8 +2074,7 @@ But much of the rest of the world actually believes that is the way life is in A
 </p>
 <p>
 <span class="douglas">Douglas:</span> So this causes confusion for European or other world leaders; they believe that these liberals are more popular here than they are in our country.  Thus believing these silly and extreme cultural or political issues forwarded by a desperate liberal news service in attempt to save them from bankruptcy are actually how we live. The message of the majority is not effectively conveyed internationally.
-<br />
-<br />
+<span class="break"></span>
 What I am saying is that this leads to actual cooperation of other world leaders with the Democratic Elite in our country; all the time they turn a blind eye to the fact that they are in bed with traitorous fringe of our leadership. Now these Democratic Elite have pledged their assistance and made promises they cannot keep to foreign leaders.
 </p>
 <p class="h-l">
@@ -2292,11 +2094,9 @@ What I am saying is that this leads to actual cooperation of other world leaders
 </p>
 <p>
 <span class="douglas">Douglas:</span> That’s right, a perfect analogy.
-<br />
-<br />
+<span class="break"></span>
 From this perspective you could easily view something like the current virus pandemic. Say for example you are the Democratic Elite in America. You know you can’t win the election, no matter what. You are certain when you lose you are going to prison. So you reach out to another nation, say Italy or China for example, and you tell them you have a plan.
-<br />
-<br />
+<span class="break"></span>
 You know they have this virus, and you watched how it devastated their economy regionally. So you encourage the importation of it to America in an attempt to stall President Trump’s economy and decrease his popularity. But a secondary goal and of equal importance is to take this virus for a test run, because your ultimate goal is to shut down the voting booths for the November elections.
 </p>
 <p class="h-l">
@@ -2304,8 +2104,7 @@ You know they have this virus, and you watched how it devastated their economy r
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, because if the real numbers for your party do not look good in October, and they will not, you instigate the mail in ballot plot. This is susceptible to easier manipulation for a myriad of reasons, including lack of voter exit polls.
-<br />
-<br />
+<span class="break"></span>
 So they plan on stealing the election, because they can’t win it legitimately.
 </p>
 <p class="h-l">
@@ -2325,8 +2124,7 @@ So they plan on stealing the election, because they can’t win it legitimately.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Now to take this hypothetical scenario one step further, you could see the problems for the other world leaders.
-<br />
-<br />
+<span class="break"></span>
 Because President’s Trumps approval ratings are not falling as fast as the Democratic Elite promised these foreign leaders they would, this puts pressure on those leaders by their own party and especially by competing parties. They are telling them, “Hey you just jeopardized relations with one of the biggest trading partners in the world for a handful of magic beans that are not sprouting. You have just prostituted years of integrity on a whim!”
 </p>
 <p class="h-l">
@@ -2352,18 +2150,15 @@ Because President’s Trumps approval ratings are not falling as fast as the Dem
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, it makes sense to me. You see many of the current leaders of these countries were close allies to Barack Obama when he was president.
-<br />
-<br />
+<span class="break"></span>
 Now many in these countries are saying, “Hey just like America we are ready for change as well. We want our version of Donald Trump here! We are not buying the fact that this liberal news media is saying he is not popular. We have friends in America who we talk to and they tell us this is not true.”
 So communication is the key.
 </p>
 <p class="h-l">
 	H.L. Based on what you are saying, in a sense, do not be surprised to see change in leadership in many countries, should Donald Trump win the 2020 election.
-<br />
-<br />
+<span class="break"></span>
 	<span class="douglas">Douglas:</span> Some will not even wait that long. They will be smart to make a deal with our president before the election, because after then their power of negotiation will dilute substantially.
-<br />
-<br />
+<span class="break"></span>
 H.L. You think they will turn on the Democratic Elite?
 </p>
 <p>
@@ -2392,11 +2187,9 @@ H.L. You think they will turn on the Democratic Elite?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, good question. I just realized I didn’t clarify that.
-<br />
-<br />
+<span class="break"></span>
 Many of these individuals have known of the cover-up a long time. Like we talked about before, powerful people, elite and the world leaders like to know when something is coming before it happens.
-<br />
-<br />
+<span class="break"></span>
 There are many people waiting on this, for me to release what I know. They know pieces I don’t know. Some know really key pieces. Some assume because so much of it is about The Legacy Letter and The Theorem then maybe someone will tell me something. There are other reasons too. Add that all together and we can all get some clarification of the world right now. The entire scandal has the world on edge and very uncomfortable. It is coming to head and everyone wants resolution.
 </p>
 <p class="h-l">
@@ -2434,8 +2227,7 @@ There are many people waiting on this, for me to release what I know. They know 
 </p>
 <p>
 <span class="douglas">Douglas:</span> We do, you have been telling them all day. So it’s my turn.
-<br />
-<br />
+<span class="break"></span>
 A long time ago, a mentor of mine, a very colorful character, told me something I will never forget. He said, “Douglas" all these people who are against you now, are not really against you at all.”
 </p>
 <p class="h-l">
@@ -2449,17 +2241,14 @@ A long time ago, a mentor of mine, a very colorful character, told me something 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Then out from behind the curtain enter the actors onto the stage. Though they will not look like actors to you. They will look like every enemy you have ever had in your lifetime. Then, all at once, they will take off their masks and take a bow and the audience will applaud.
-<br />
-<br />
+<span class="break"></span>
 You see these enemies are not really enemies at all, they are your allies put in front of you to develop your character; to make you stronger and help you advance to whatever level you need to achieve. They are all just playing a role to help you.
-<br />
-<br />
+<span class="break"></span>
 Anyways, I always thought that story was interesting. So that is how I try and view everyone who is opposed to what I am doing. No, matter, it sounded better when he told it to me.
 </p>
 <p class="h-l">
 	H.L. Of course it did.
-<br />
-<br />
+<span class="break"></span>
 I like it though. It makes sense, an optimistic outlook at least.
 </p>
 <p>
@@ -2470,8 +2259,7 @@ I like it though. It makes sense, an optimistic outlook at least.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure they are waiting as well. You see this is the worst kept secret among the ruling elite, everyone knows the day is coming.
-<br />
-<br />
+<span class="break"></span>
 Typically they will friends look for them; or they will utilize someone else’s computer, their spouses or even their kid’s computer.
 </p>
 <p class="h-l">
@@ -2485,11 +2273,9 @@ Typically they will friends look for them; or they will utilize someone else’s
 </p>
 <p>
 <span class="douglas">Douglas:</span> It is really for two reasons. The first was to give them time to prepare. I am really not out to shock the world. So I don’t want anyone overreacting to it and doing something to harm themselves or others. I would be devastated if that were to occur, and I mean that.
-<br />
-<br />
+<span class="break"></span>
 But the truth must come out; most of it is out of my hands now anyways. But anything I can do to soften the blow, I will.
-<br />
-<br />
+<span class="break"></span>
 The second reason is that I am very much in the dark. This tool I use, this method, is an informal intelligence tool essentially; the ability to detect the names behind my traffic has its limits. I can only see volume, frequency etc. I can only guess intent. And when you are guessing like that it is scary, especially when the people you are guessing about are very powerful. So I have to keep a mental profile on these people. I can watch the adversarial flow the same way I could once watch the positive flow of traffic.
 </p>
 <p class="h-l">
@@ -2497,8 +2283,7 @@ The second reason is that I am very much in the dark. This tool I use, this meth
 </p>
 <p>
 <span class="douglas">Douglas:</span> We all do things for our health. We take walks, eat right. You know the basic things of self preservation. I just keep an eye over my shoulder because what I have been through. So yes, of course I am doing this for self preservation. It is a strange reality; hopefully, it will be over soon, this chapter at least.
-<br />
-<br />
+<span class="break"></span>
 I am not out of the woods yet, to indirectly answer your question.
 </p>
 <p class="h-l">
@@ -2518,11 +2303,9 @@ I am not out of the woods yet, to indirectly answer your question.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I am an optimist thank you. Just like the story I shared.
-<br />
-<br />
+<span class="break"></span>
 I also know that amongst those who are against The Theorem; politically aligned with the Democratic Elite, there are some people who are not really convinced their agenda is worth it.
-<br />
-<br />
+<span class="break"></span>
 Finally, I also have a large volume of positive people who truly want to help. I am always interested in them. They are who I do all of this for. They are some of the most important people to me in the world. To me, they are my VIP’s and always will be. No matter what their net worth is, to me they are billionaires.
 </p>
 <p class="h-l">
@@ -2577,8 +2360,7 @@ Finally, I also have a large volume of positive people who truly want to help. I
 </p>
 <p>
 <span class="douglas">Douglas:</span> No you are right, and that is out of respect for the position. I think when someone is president you need to respect the position and therefore the man who is representing that position.
-<br />
-<br />
+<span class="break"></span>
 But I made it clear that I thought highly of his ability.
 </p>
 <p class="h-l">
@@ -2586,14 +2368,12 @@ But I made it clear that I thought highly of his ability.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure, if I can withstand personal suppression by the last administration, as we have seen here, certainly others can be respectful in their criticism of this administration.
-<br />
-<br />
+<span class="break"></span>
 	Anytime you are overly angry it reeks of personal issues and those aimed at your parents anyways, so it is not effective. Everyone ultimately sees through it.
 </p>
 <p class="h-l">
 	H.L. Well that goes both ways doesn’t it? Isn’t our current president guilty of jumping on reporters or callously attacking his critics?
-<br />
-<br />
+<span class="break"></span>
 Isn’t he guilty of tirades and spouting off things of distasteful content?
 </p>
 <p>
@@ -2634,17 +2414,13 @@ Isn’t he guilty of tirades and spouting off things of distasteful content?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Because I could tell The Theorem was being suppressed, I could feel it in my soul. But I had no proof or even any idea why it was happening. So the levels of frustration were maddening. I was a madman, you are right on that.
-<br />
-<br />
+<span class="break"></span>
 I can’t explain or illustrate exactly what that does to man; a cornered animal. I can’t convey the impact of what that does to someone who knows they have created or generated something positive, and suddenly the rules of society and success are twisted against them. It is maddening, it is horrible.
-<br />
-<br />
+<span class="break"></span>
 When you don’t know who your enemies are, it makes you wildly strike out at everyone. It makes you attack friends, become suspicious of family. You think that they are the ones holding you down. You blame everyone, but who you should be blaming. Still, you have no idea who you are being attacked by. Still, you have no idea why it is you are being attacked.
-<br />
-<br />
+<span class="break"></span>
 Finally without a definitive enemy you turn on yourself. Now it is an ugly sight when a man turns on himself, it really is. While a man typically becomes broken at that point, I was fortunate to have the tools to use this time for self-exploration and internal healing. I was also fortunate to have some good friends to help me out of that self-purgation. We have been over that.
-<br />
-<br />
+<span class="break"></span>
 But there costs to all of that growth. The costs are the days not with my children, and those can never be restored. And it breaks my heart to think about what it must have been like for them to be without their father there. Ultimately however, I did not cause that to occur. I was just a victim the same way they were.
 </p>
 <p class="h-l">
@@ -2658,8 +2434,7 @@ But there costs to all of that growth. The costs are the days not with my childr
 </p>
 <p>
 <span class="douglas">Douglas:</span> I am fine. What I am saying is that I did not calm down until I had to re-experience the governmental suppression as explained in this interview. As bad as it was, and it was bad, at least I knew who was responsible.
-<br />
-<br />
+<span class="break"></span>
 By being granted this clarity, I was able to function, to concentrate and to slowly climb my way out of the hole they had thrown me into.
 </p>
 <p class="h-l">
@@ -2667,8 +2442,7 @@ By being granted this clarity, I was able to function, to concentrate and to slo
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, they should be. They have committed some of the highest crimes our Nation can define. Punishment should be swift, steady and certain.
-<br />
-<br />
+<span class="break"></span>
 If they are not punished, and we continue to enable them, then we are doing a disservice to not only our nation but to them. We would be holding back the emotional growth they are crying out to receive. We cannot foster suppression on a national level or a personal level. That is how empires fall.
 </p>
 <p class="h-l">
@@ -2676,8 +2450,7 @@ If they are not punished, and we continue to enable them, then we are doing a di
 </p>
 <p>
 <span class="douglas">Douglas:</span> So when I see President Trump frustrated, I have from personal experience seen where he is at. He is literally surrounded by enemies. He has no idea where to turn. He can’t find the head of the snake, but it keeps biting him.
-<br />
-<br />
+<span class="break"></span>
 It’s a horrible place to be, and we should be ashamed of ourselves as a Nation for subjecting him to that. These people have stolen four years of his legacy, four years of his presidency. He can never get it back. He has worked his entire life to get here. We have allowed the Clintons, and now Obama to turn the American Dream into an American Nightmare; all so they can prop up their egos and not face their pain. It is absurd beyond measure.
 </p>
 <p class="h-l">
@@ -2685,17 +2458,13 @@ It’s a horrible place to be, and we should be ashamed of ourselves as a Nation
 </p>
 <p>
 <span class="douglas">Douglas:</span> So the next time a voter, or whoever reads this and doesn’t want to break down their own issues and rebel against the pseudo-parents that the Democratic Party represents, they need to think of what I have just said. They need to realize what I have experienced. And if they don’t think it could happen to them, then they are so very incorrect, because it will.
-<br />
-<br />
+<span class="break"></span>
 There is something else. Something directly related to that last statement.
-<br />
-<br />
+<span class="break"></span>
 Everyone needs to realize that this country is not theirs to lose. It doesn’t belong to you. It doesn’t belong to me. We are only tenants, renters at best. Our Veterans have a long term lease on this land; my great-grandfather at Verdun; my grandfather in the South West Pacific Theatre and my father in Laos.
-<br />
-<br />
+<span class="break"></span>
 But if you really want to know who owns this country take a walk through any National Veterans Cemetery. Look at the last date given on their headstones; for it is those who were killed in battle, the ones who paid the ultimate price who own this country.
-<br />
-<br />
+<span class="break"></span>
 It is not ours to lose. It is just not.
 </p>
 <p class="h-l">
@@ -2733,14 +2502,11 @@ It is not ours to lose. It is just not.
 </p>
 <p>
 <span class="douglas">Douglas:</span> We were tired from the train so we got off in a small Polish village. We had no idea where we were. It was Easter Sunday, though I do remember that.
-<br />
-<br />
+<span class="break"></span>
 The name of the town was hard to pronounce for us, and it didn’t bring back any recollection of anything we were familiar with. The name was Oswiecim, Poland.
-<br />
-<br />
+<span class="break"></span>
 Now again, at that naively young age and being somewhat ignorant to world and especially European History, we did not have a clue what we stumbled onto. We were just two budget seeking travelers.
-<br />
-<br />
+<span class="break"></span>
 At the same time we could not help but notice an eerie feeling in that village, you could not help but feel an oppressive historic aura. To intensify the atmosphere, it was a cold and overcast day, so everything that radiated from the town became essentially trapped beneath the clouds, and then re-circulated. So the pain that we were feeling, the depressed mood could not escape into the sky, but instead stayed low to the ground with the mist and us. I will never forget that feeling.
 </p>
 <p class="h-l">
@@ -2748,14 +2514,11 @@ At the same time we could not help but notice an eerie feeling in that village, 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, and we were two of those who did not know. Not at first at least.
-<br />
-<br />
+<span class="break"></span>
 So we made our way into the main concentration camp, of course everything was closed because it was Easter. The museum was closed and so forth. In fact there was hardly anyone there. Obviously we were there so we wanted to see; fortunately the gates to the camp were left open and we could walk around freely.
-<br />
-<br />
+<span class="break"></span>
 I will skip the part about weeping and falling to our knees, as there has been enough of that in this interview. But it makes a large impact upon you. It just never leaves. Certainly it is embarrassing to humanity that we could ever even imagine being responsible for that, but we were. We are.
-<br />
-<br />
+<span class="break"></span>
 I carried those ghosts around for many years, and the memory itself of the place has never left me. Everyone must go there. This is something we can never allow to occur again.
 </p>
 <p class="h-l">
@@ -2763,20 +2526,15 @@ I carried those ghosts around for many years, and the memory itself of the place
 </p>
 <p>
 <span class="douglas">Douglas:</span> It is and to follow your observations; well, now I can see your point when reviewing it all.
-<br />
-<br />
+<span class="break"></span>
 Because it all starts with a leader or a people projecting their personal insecurities upon others; whether it is the color of their skin, their religious belief, the style of clothes they wear or anything.
-<br />
-<br />
+<span class="break"></span>
 Healthy people, emotionally healthy people see through the issues of their leaders. After you see something like Auschwitz you realize that less government is better government. Anyone who tells you differently, should be thrown out of office, or more importantly never allowed in.
-<br />
-<br />
+<span class="break"></span>
 The Democratic Party has suppressed what you can read; now, through this current virus crisis they are telling where you can and cannot move around to, telling you they know what is better for you, than you do.
-<br />
-<br />
+<span class="break"></span>
 Before you know it, and the natural progression will be them telling you who you can and cannot talk to. It all starts with a seed; and this bad seed needs to never grow.
-<br />
-<br />
+<span class="break"></span>
 Trust me I am as liberal as you can ever imagine, but this Democratic Party is as sick, oppressive and manipulative as anything I have ever witnessed. Run away from these people. They want you to tell on each other, you should be telling on them.
 </p>
 <p class="h-l">
@@ -2784,11 +2542,9 @@ Trust me I am as liberal as you can ever imagine, but this Democratic Party is a
 </p>
 <p>
 <span class="douglas">Douglas:</span> The quickest way to become an American Hero is if you know something about what they have done, no matter what level of government you are in, turn these Liberal Elitist in.
-<br />
-<br />
+<span class="break"></span>
 If you are a world leader, and the Liberal Elite conned you into doing something against the current best interests of the United States; then pick up the phone and call our president. Tell him you were seduced, scammed or whatever. Give him names. He is a reasonable man, it might be painful and embarrassing at first, but it will be worth it in the long run.
-<br />
-<br />
+<span class="break"></span>
 Because if you don’t do that, and he catches you; and he will catch you, then the punishment is going to be more severe than imagined.
 </p>
 <p class="h-l">
@@ -2811,8 +2567,7 @@ Because if you don’t do that, and he catches you; and he will catch you, then 
 </p>
 <p class="h-l">
 	H.L. I agree.
-<br />
-<br />
+<span class="break"></span>
 So you are essentially explaining that President Trump’s behavior is directly related to the fact that he is surrounded by enemies and this parallels what you experienced.
 </p>
 <p>
@@ -2823,11 +2578,9 @@ So you are essentially explaining that President Trump’s behavior is directly 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well I agree with you in theory on that. However, I think he is getting a grip on the betrayals and the deceptions that surround him. Though, there was a time when I wondered, “Will there be an America tomorrow?” It was that scary.
-<br />
-<br />
+<span class="break"></span>
 President Trump however has many advantages that I didn’t have in my fight for justice.
-<br />
-<br />
+<span class="break"></span>
 The first thing is that he very good with people, he is a businessman. He is a networker and a negotiator; these are skills that will bring this all to a quick resolution. That is a lot different to being a solitary writer living in a foreign country.
 </p>
 <p class="h-l">
@@ -2835,8 +2588,7 @@ The first thing is that he very good with people, he is a businessman. He is a n
 </p>
 <p>
 <span class="douglas">Douglas:</span> Very perceptive and very possible, even though I didn’t see many episodes, I am in agreement on that.
-<br />
-<br />
+<span class="break"></span>
 Also, he is older than I was at the time. I was in my forties when I was confronted by that oppression. He is in his seventies and has seen more of life. You know there is no substitute for age and experience. I mean, you don’t see The Catholic Church today electing a thirty something year-old Pope because he is handsome and has charisma. You need to be seasoned, aged and experienced for the ups and the downs.
 </p>
 <p class="h-l">
@@ -2850,11 +2602,9 @@ Also, he is older than I was at the time. I was in my forties when I was confron
 </p>
 <p>
 <span class="douglas">Douglas:</span> That’s a good observation.
-<br />
-<br />
+<span class="break"></span>
 Finally one of the benefits President Trump has is all the resources in the world at his disposal, all the intelligence tools. After all, he is the president.
-<br />
-<br />
+<span class="break"></span>
 When the suppression was happening to me, I wasn’t aware to what level it was occurring. In a million years I would have never have guessed to what degree they were suppressing The Theorem. I only saw myself. I felt I was not important enough to warrant all that suppression. The truth is, I wasn’t.
 </p>
 <p class="h-l">
@@ -2874,11 +2624,9 @@ When the suppression was happening to me, I wasn’t aware to what level it was 
 </p>
 <p>
 <span class="douglas">Douglas:</span> No I couldn’t see that the largest search engine, Google, was in closed door meetings hundreds of times with President Obama. Therefore I didn’t understand why doctors would write great things and reviews about The Theorem, and then in a week they would be off my search. I thought they changed their mind.
-<br />
-<br />
+<span class="break"></span>
 I couldn’t see that one of the Brett Kavanaugh’s accusers had visited The Theorem Website many, many times years before she came forward with those allegations against him, nor even what that meant. It was all orchestrated in regards to preventing him to overturn Roe v Wade. The Democratic Elite were sure that tired old legislation would be thrown out of court if The Theorem ever received the attention it deserved. It was the same players involved.
-<br />
-<br />
+<span class="break"></span>
 I didn’t know about that Mickey Mouse Medical School, a poor excuse for higher learning 45 miles northeast of Washington D.C. A place so liberal and biased that it would make the Quaker merchant it was named after shiver in his own grave. I didn’t know about anything that was going on there.
 </p>
 <p class="h-l">
@@ -2886,8 +2634,7 @@ I didn’t know about that Mickey Mouse Medical School, a poor excuse for higher
 </p>
 <p>
 <span class="douglas">Douglas:</span> I didn’t know about billions of dollars of aid to Ivy League Schools in return for not researching The Theorem, or the stench at the N.I.H. or W.H.O. I had no idea; or even about the trillion dollar surveillance package of 2015.
-<br />
-<br />
+<span class="break"></span>
 I was just angry; a bull with decorated spikes in my back, not knowing who put them there, charging around the ring blindly, tercio de muerte, waiting for the matador to put me out of my misery.
 </p>
 <p class="h-l">
@@ -2925,8 +2672,7 @@ I was just angry; a bull with decorated spikes in my back, not knowing who put t
 </p>
 <p>
 <span class="douglas">Douglas:</span> And we have been over this already. Why do you keep asking me then?
-<br />
-<br />
+<span class="break"></span>
 So, if I had to guess…
 </p>
 <p class="h-l">
@@ -2940,11 +2686,9 @@ So, if I had to guess…
 </p>
 <p>
 <span class="douglas">Douglas:</span> That’s right, and we see that as large, and significant.
-<br />
-<br />
+<span class="break"></span>
 So when you see Donald Trump wanting to build things for America, to me that makes sense. Especially when you consider his father was a developer and a builder. Of course President Trump is not one-dimensional; he has not lived a one-dimensional life. He has accomplished much in many different fields.
-<br />
-<br />
+<span class="break"></span>
 But when I watch the president then I can relax, because I know what at least some of his motivation: to build things for us.
 </p>
 <p class="h-l">
@@ -2958,8 +2702,7 @@ But when I watch the president then I can relax, because I know what at least so
 </p>
 <p>
 <span class="douglas">Douglas:</span> Good point, I think a lot of Americans would agree with you.
-<br />
-<br />
+<span class="break"></span>
 You know I can’t speak for the president here, he may tell you something totally different about his life. But I know that as much as I wanted my independence from my father, to disbelieve what he believed, in the end…
 </p>
 <p class="h-l">
@@ -2967,8 +2710,7 @@ You know I can’t speak for the president here, he may tell you something total
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes. Philosophy puzzled him, it fascinated him. In fact he was more of a philosopher than a writer, and he wrote voluminously.
-<br />
-<br />
+<span class="break"></span>
 Now when I look at The Theorem and I realize the central premise of our entire development is based on a misinterpretation of events. I also realize that this will one day likely be accepted as a philosophical truth.
 </p>
 <p class="h-l">
@@ -2976,8 +2718,7 @@ Now when I look at The Theorem and I realize the central premise of our entire d
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, but how do I know that this was not an unconscious primary motivation to begin with?
-<br />
-<br />
+<span class="break"></span>
 I don’t; I can’t. I can try and trace it back to my father, to the discovery process, but I am blinded to it because I am involved.
 </p>
 <p class="h-l">
@@ -2986,12 +2727,10 @@ I don’t; I can’t. I can try and trace it back to my father, to the discovery
 <p>
 <span class="douglas">Douglas:</span> Yet, if I look at my accomplishment from the outside, I could easily say, the way we have here about others: “Ah look at Douglas defending his father, or actually avenging his father for the philosophical community not accepting him.”
 You Know?
-<br />
-<br />
+<span class="break"></span>
 “He got them back; he has nullified a great amount of what his father studied with a neurobiological developmental theory.”
 D.L. That is so true. We cannot escape our fathers influence. We don’t see it at the time, but when we look back it is almost always there.
-<br />
-<br />
+<span class="break"></span>
 <span class="douglas">Douglas:</span> I guess we as dads do matter a little.
 </p>
 <p class="h-l">
@@ -3011,8 +2750,7 @@ D.L. That is so true. We cannot escape our fathers influence. We don’t see it 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well maybe I got a little carried away. I guess it’s still fresh, the things we went over today at least.
-<br />
-<br />
+<span class="break"></span>
 Though I don’t think there were really too many Democrats in this county to begin with.
 </p>
 <p class="h-l">
@@ -3050,8 +2788,7 @@ Though I don’t think there were really too many Democrats in this county to be
 </p>
 <p>
 <span class="douglas">Douglas:</span> The abused child is expected to stop the trauma with their body, and to not pollute the next generation or those around them with it. We expect this as a society, and in many ways it is because we have to do this in order to keep order. We have to punish the adult; even though inside of them is a damaged child.
-<br />
-<br />
+<span class="break"></span>
 It gets very philosophical and certainly would exceed this medium. But it is an important discussion that must be had by any civilized society. We cannot forever continue to shame those who had shameful acts committed on them as either children or as adults.
 </p>
 <p class="h-l">
@@ -3059,11 +2796,9 @@ It gets very philosophical and certainly would exceed this medium. But it is an 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure we do, we all do. I have been guilty of it here this week, and you have participated in it.
-<br />
-<br />
+<span class="break"></span>
 As much as we hate to admit we cannot help to find some pleasure in it. Better them than me; the little reward light goes off as the trained chicken pecks on the piano key to make a sound, knowing that it will receive a reward for doing so.
-<br />
-<br />
+<span class="break"></span>
 While we expect children to stop the trauma with their body, to stop a speeding bullet that is launched at them like Superman does, it is impossible. We as organisms act out. We strike outwardly.
 </p>
 <p class="h-l">
@@ -3077,29 +2812,21 @@ While we expect children to stop the trauma with their body, to stop a speeding 
 </p>
 <p>
 <span class="douglas">Douglas:</span> So when I say, I was raped. That could mean anything. The degrees, while all terrible could vary with perception and execution of the act. While I would like leave it at that, you would gain little out of it. I would be hypocritical and nervous waiting for the unsanitized version to come out. I have come too far to let that define me, worked too hard to be that way. So, as you suggested I will release it all. I will warn you however, this is graphic.
-<br />
-<br />
+<span class="break"></span>
 In the sanitized version I just said I was violently raped by a teenage girl. The unsanitized version however is something else altogether.
-<br />
-<br />
+<span class="break"></span>
 I didn’t explain what it is like to have a fourteen or fifteen-year-old teenage girl pleasuring herself, her finger up your seven-year-old rectum, hitting you across the face in between strokes of her clitoris throughout the whole painful ordeal. How everything in your world stops at that point, how your development freezes and your life as a normal kid essentially is over.
-<br />
-<br />
+<span class="break"></span>
 How then, a month or two months later, you forget as time is blurry, you get another babysitter. She is an angel; she is so beautiful and lives down at the end of your street. She has known you for years, known you before you were raped. You are so happy to have her there. She brings records and she treats you with respect.
-<br />
-<br />
+<span class="break"></span>
 You tell her she is beautiful and you tell her you love her. She doesn’t tell you she loves you, but her eyes do not say she doesn’t. So later that night you begin to undress her. She is shocked and blushes, asking you to stop. You think this is what you do when you love someone, like the other babysitter did to you. You are persistent now; you must get her undressed to get her to love you. She declines. You are hurt and strike out at her over and over again, hitting and leaving bruises all over her. You will always and forever remember the look of shock on her face, as she doesn’t know what happened to you, this sweet child she knew before.
-<br />
-<br />
+<span class="break"></span>
 But now you are scared, terrified because your parents are going to see what you have done and you will be in trouble, big trouble. So you beg on your knees to get her to not tell them. Little do you realize that you will spend the rest of your life on your knees with women; begging them to overlook this or that, pleading with them to not leave you; promising how you will change and not cheat on them or call them names or worse. This is your reality now. This is your life. There is no going back.
-<br />
-<br />
+<span class="break"></span>
 The sweet babysitter, who is only a child herself at 14, though she is seven years older than you, lets you help her put your mother’s makeup on her to cover the bruises. She never came back. They never come back. This is your life, you are a monster. You are an animal.
-<br />
-<br />
+<span class="break"></span>
 And the other stuff the first babysitter, the rapist did to me, over and over again.  I could never reveal those things to you, to anyone really.
-<br />
-<br />
+<span class="break"></span>
 That is the non-sanitized version.
 </p>
 <p class="h-l">
@@ -3119,8 +2846,7 @@ That is the non-sanitized version.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I got this.
-<br />
-<br />
+<span class="break"></span>
 But of course the true telling aspects of one’s personality are buried in the non-sanitized version. So we are explaining what is too painful for many to explain on a personal level.
 </p>
 <p class="h-l">
@@ -3134,8 +2860,7 @@ But of course the true telling aspects of one’s personality are buried in the 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yeah, and also you must realize that with someone as abused as Bill Clinton, he is putting on a show. The audience he seeks is not me or you, but those in his childhood.
-<br />
-<br />
+<span class="break"></span>
 He wants them to know, those who knew him as an abused kid, “Hey I made it! Look, I am still the same child inside I was then, but I gamed the system and I beat them all. Look, I did it for you; I did it for us, I am a survivor!”
 </p>
 <p class="h-l">
@@ -3161,11 +2886,9 @@ He wants them to know, those who knew him as an abused kid, “Hey I made it! Lo
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well that belief is what keeps us going isn’t it?
-<br />
-<br />
+<span class="break"></span>
 As a society we want or even need to believe this. It keeps pushing us through the day. We see a great person; we grasp onto the sanitized version and then are disappointed when the truth comes out.
-<br />
-<br />
+<span class="break"></span>
 Ultimately, we should be disappointed in ourselves for expecting anything different.
 </p>
 <p class="h-l">
@@ -3173,8 +2896,7 @@ Ultimately, we should be disappointed in ourselves for expecting anything differ
 </p>
 <p>
 <span class="douglas">Douglas:</span> The human spirit is said to be immense, but at that age it is so fragile. Therefore the abused child does what they have to in order to survive. This outlook, this necessity grows with them into adulthood, it never really leaves. The initial audience never really changes either.
-<br />
-<br />
+<span class="break"></span>
 Tragically, you will see the full expansion of this statement tomorrow.
 </p>
 <p class="h-l">

@@ -23,8 +23,7 @@
 </p>
 <p>
 <span class="douglas">Douglas:</span> Okay, February of 2016. We are arrived at the Missouri house in the summer of 2015. My original intention was to slow down, to decrease the marketing of The Legacy Letter. But that is not what happened. For the final six months of 2015 I sent out close to 5000 copies of it. We have been over that already.
-<br />
-<br />
+<span class="break"></span>
 However, by February of 2016 I was essentially finished with sending out The Legacy Letter altogether.
 </p>
 <p class="h-l">
@@ -38,11 +37,9 @@ However, by February of 2016 I was essentially finished with sending out The Leg
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes in fact through all the events we speak of over these six days; she is the one. Obviously I wanted to keep them out of it, but as you said, today she will play a part.
-<br />
-<br />
+<span class="break"></span>
 At the same time it was not a stretch to define her as a friend more than as a girlfriend. While we were somewhat close periodically, it was always well understood by me that as soon as it was possible for her to do so, she would be returning to Southern California; as that is where the school system or school district she wanted her daughter to finish out school in was located.
-<br />
-<br />
+<span class="break"></span>
 It was also understood that when she moved, I would move to Europe to be close to my children.
 </p>
 <p class="h-l">
@@ -56,11 +53,9 @@ It was also understood that when she moved, I would move to Europe to be close t
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, and there was a very good reason for this: election season. I feared this election, because I knew that many of my potential donors were also very big political donors. So I believed the politicians would compete for the discretionary charity or interest I might receive. So to me it was a wash.
-<br />
-<br />
+<span class="break"></span>
 In fact after the middle of February 2016, I stopped sending out emailed copies of The Legacy Letter all together; this until well after the election, a date still many months away.
-<br />
-<br />
+<span class="break"></span>
 Even after the election I just sent a few to people that I had missed years earlier. It was basically over in mid February, I had sent out over 10,000 emails. Indeed there were very few of the wealthy and powerful around the world that did not know about The Theorem at this time. I had completed some of my job at least, and was looking to the future.
 </p>
 <p class="h-l">
@@ -80,14 +75,11 @@ Even after the election I just sent a few to people that I had missed years earl
 </p>
 <p>
 <span class="douglas">Douglas:</span> It was and is, sure. But like everything else it was the people, the ones you meet that make everything worth it.
-<br />
-<br />
+<span class="break"></span>
 So anyways, out of the 10,000 Legacy Letters I sent out to potential donors or investors, one of them I sent out was to Donald Trump. Of course he was a billionaire, so he was in my sights. I believe it was in early 2014, maybe it was spring. It was a very long time ago. Way before the 2016 political season began.
-<br />
-<br />
+<span class="break"></span>
 	As you know I was very good at determining who was coming to my website, who had interest and who did not. Donald Trump did not have any interest.
-<br />
-<br />
+<span class="break"></span>
 It was more than that. I didn’t even see any evidence that he had read the letter. He was essentially invisible to my search, my technique and to everything. And if there is one thing that now President Trump is not, it’s invisible.
 </p>
 <p class="h-l">
@@ -101,11 +93,9 @@ It was more than that. I didn’t even see any evidence that he had read the let
 </p>
 <p>
 <span class="douglas">Douglas:</span> You’re right, that’s a good point, especially a rich one.
-<br />
-<br />
+<span class="break"></span>
 Still, I liked Donald Trump and even though I didn’t think he would be a fit, I wanted him to read The Legacy Letter I was so proud of.
-<br />
-<br />
+<span class="break"></span>
 So I did something I rarely do; I sent him a duplicate copy a few months later. I figured maybe the first copy was chewed up in his expensive server or something. Still, I received no indication. He was still invisible to my search. So I assumed the obvious; he wasn’t interested.
 </p>
 <p class="h-l">
@@ -113,11 +103,9 @@ So I did something I rarely do; I sent him a duplicate copy a few months later. 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, I was because when I was much younger and was in business, I was a fan of his. I had even read his first book, and I enjoyed it. I think I received it as a gift for Christmas.
-<br />
-<br />
+<span class="break"></span>
 Years later when he had all those bankruptcy issues, and you didn’t hear about him as much, I said to myself, he will be back. I felt, as I think many did, he would go get his house in order and then come back stronger than ever.
-<br />
-<br />
+<span class="break"></span>
 	Of course that is what happened. In the many years that followed however, I never had a television so I never watched The Apprentice or the celebrity version. However, once in a motel I watched an episode and was quite impressed. He had matured into quite an effective leader I felt.
 </p>
 <p class="h-l">
@@ -125,14 +113,11 @@ Years later when he had all those bankruptcy issues, and you didn’t hear about
 </p>
 <p>
 <span class="douglas">Douglas:</span> Basically, that’s how I saw it. He had definitely changed, and for the better.
-<br />
-<br />
+<span class="break"></span>
 But he wasn’t interested in my letter, so I moved on. Again, in 2014, I was very busy surviving. Still over the following year and a half, I saw no interest from Donald Trump.
-<br />
-<br />
+<span class="break"></span>
 Then it all changed, and I mean it changed overnight. It took over two years, but it changed.
-<br />
-<br />
+<span class="break"></span>
 Here is where the story is going to get even more bizarre.
 </p>
 <p class="h-l">
@@ -140,11 +125,9 @@ Here is where the story is going to get even more bizarre.
 </p>
 <p>
 <span class="douglas">Douglas:</span> It is, and it will.
-<br />
-<br />
+<span class="break"></span>
 When you do something like I was doing for a long time, and that’s all you do, you get very tuned in to different aspects of doing it.
-<br />
-<br />
+<span class="break"></span>
 In other words, in the beginning, back in 2014, I had no idea if the potential investors were even interested. Over time by developing my detection tool, speaking to them on the phone and receiving their replies, I was able to get a sense of what their perceptions were.
 </p>
 <p class="h-l">
@@ -152,8 +135,7 @@ In other words, in the beginning, back in 2014, I had no idea if the potential i
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, well after nearly two and a half years I was almost an expert at this skill.
-<br />
-<br />
+<span class="break"></span>
 I could essentially ‘feel’ by someone’s behavior on the internet and related to my search where their head was at in regards to The Legacy Letter and The Theorem in general. So by now I would analyze the patterns of their behavior and was further developing an intuitive sense. Sometimes I was incorrect in my perceptions and assumptions, but most of the times I was right.
 </p>
 <p class="h-l">
@@ -161,8 +143,7 @@ I could essentially ‘feel’ by someone’s behavior on the internet and relat
 </p>
 <p>
 <span class="douglas">Douglas:</span> I am explaining all of this because the pattern I noticed with Donald Trump’s presence was unlike any I had ever seen before. Now I don’t know if it was him, or those closely associated to him, but they were at my website for a substantial amount of time; and their presence kept growing and growing.
-<br />
-<br />
+<span class="break"></span>
 Now if this would have been anyone else, anyone not in the middle of a presidential campaign, I would have been convinced that they were on the brink of investing.
 </p>
 <p class="h-l">
@@ -170,17 +151,13 @@ Now if this would have been anyone else, anyone not in the middle of a president
 </p>
 <p>
 <span class="douglas">Douglas:</span> At first I was convinced I was misinterpreting the data. This was my initial denial, where I hid from the reality of what was going on.
-<br />
-<br />
+<span class="break"></span>
 It was logical; he was all over the news. So I adjusted my detection tool back, as far as I have ever gone with a public individual: Still no change.
-<br />
-<br />
+<span class="break"></span>
 I then did something I never do: I went and checked my interpretations against a public computer; paid cash, no login, nothing. So, essentially I had a clean and invisible search; then I contrasted that with my own personal findings.
-<br />
-<br />
+<span class="break"></span>
 Finally, I went even one step beyond that. I scaled back my model even further; still my readings were off the charts.
-<br />
-<br />
+<span class="break"></span>
 Something was happening.
 </p>
 <p class="h-l">
@@ -188,11 +165,9 @@ Something was happening.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I really was. The second explanation was more practical. Perhaps he just had not read it yet. Now this happened occasionally, these guys are very busy and once in awhile I am surprised, as I will notice a first view a full two years after I sent the email.
-<br />
-<br />
+<span class="break"></span>
 In that case the letter had to typically be fished out of the spam folder. So I was relieved for awhile that this was the logical reason.  Still that didn’t make sense; there were those who knew him and who had received The Legacy Letter and were interested. I will not go into details. But, it was puzzling to me.
-<br />
-<br />
+<span class="break"></span>
 So I just let it pass, and figured; well maybe he just read it for the first time and it is motivating him. I felt proud it was motivating a presidential candidate. This belief was actually not a stretch, I could see from many of the men’s behavior after they received The Legacy Letter that they had taken bold action in their lives. Actually it was quite common. The letter was challenging, it would tug deep at the very soul of the motivation that defined them. So I could live with that.
 </p>
 <p class="h-l">
@@ -200,8 +175,7 @@ So I just let it pass, and figured; well maybe he just read it for the first tim
 </p>
 <p>
 <span class="douglas">Douglas:</span> For a minute, maybe two.
-<br />
-<br />
+<span class="break"></span>
 There were a couple of problems with this assessment however. The first was that this was going on at the same time the surveillance was ratcheting up in intensity.
 </p>
 <p class="h-l">
@@ -215,23 +189,17 @@ There were a couple of problems with this assessment however. The first was that
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure.
-<br />
-<br />
+<span class="break"></span>
 Every time I would try and get the local Missouri weather on my phone, all it would pull up was Washington D.C.
-<br />
-<br />
+<span class="break"></span>
 That by itself was not impressive, but when you add it to the same exact repairman who fixes your cable, your power lines and works for the gas company you have to start and wonder. At first you say, well, he must have two or even three jobs. Then you ask around about him to the real repair workers and no one has ever heard of this guy.
-<br />
-<br />
+<span class="break"></span>
 He wasn’t the only suspicious ‘repairman’ either. As it seemed like every week during the spring and summer of 2016 repair workers were looking for an excuse to get under our house, in the basement or on the roof for something. And none of them looked like repair people, all looked like recent graduates from the FBI academy. The list goes on and on; we thought we had a Peeping Tom(s), you couldn’t get a phone signal; Bluetooth wouldn’t happen, the internet went out every other week.
-<br />
-<br />
+<span class="break"></span>
 It became even more bizarre. They moved everyone out of the apartment complex across the street, it was a large operation. Seemingly there was nothing wrong with the apartments at all, but after moving everyone out of there they just leveled it all to the ground; in a town where they never do that. It was almost as if to get a better view of our property, which was of course then possible with those apartments out of the way.
-<br />
-<br />
+<span class="break"></span>
 Also, when we had moved in, and because we were on the main street of town, there was a large amount of vagrancy foot traffic; well, in the spring of 2015 those people suddenly vanished. And in their place were parked surveillance vehicles. Now this alone was not remarkable to us by this time, but it was the arrogance, the overt nature of the surveillance that gained the attention of even those neighbors who had been the least inquisitive previously.
-<br />
-<br />
+<span class="break"></span>
 This all culminated, and ceased, the day after the election, with an event we will get into later.
 </p>
 <p class="h-l">
@@ -269,8 +237,7 @@ This all culminated, and ceased, the day after the election, with an event we wi
 </p>
 <p>
 <span class="douglas">Douglas:</span> The best analogy I can give, and it never really escapes my mind, is that of me waking up a bear out of hibernation. The reason it doesn’t escape my mind is because it fit so perfectly.
-<br />
-<br />
+<span class="break"></span>
 The vibe I felt was, “Who are you, and why are you in the middle of my campaign for President?” It was very bearish, and again, unique to 10,000 other perceptions. I had never experienced that with anyone.
 </p>
 <p class="h-l">
@@ -278,8 +245,7 @@ The vibe I felt was, “Who are you, and why are you in the middle of my campaig
 </p>
 <p>
 <span class="douglas">Douglas:</span> It was. The thing is that it never went away. I mean all the way through the election cycle, not only the Trump Team’s increase in traffic but also that eerie feeling I had. So while I was rooting for Donald Trump, with every particle that was in me, I also had an uneasy feeling.
-<br />
-<br />
+<span class="break"></span>
 It just didn’t make any sense. It didn’t make any sense the same way the extra surveillance didn’t make any sense. But I had that feeling in the pit of my stomach that something was going on and I was involved in it, however I couldn’t define it.
 </p>
 <p class="h-l">
@@ -293,14 +259,11 @@ It just didn’t make any sense. It didn’t make any sense the same way the ext
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well we have to go back to the beginning of the year with Barack Obama to understand this. Now remember I am emailing, sending out Legacy Letters, all the way until February 2016. After that however, it would have been clear to anyone listening, which they were, I was done.
-<br />
-<br />
+<span class="break"></span>
 So by March 2016 Barack Obama had to feeling good about himself, about life in general, especially in regards to his suppression efforts in regards to The Theorem and The Legacy Letter.
-<br />
-<br />
+<span class="break"></span>
 He was getting a long earned reprieve from suppressing it. After all, 2015 had been a brutal year, he was bombarded by disappointing perceptions, and sleep interrupted nights. It didn’t help when I moved into the Missouri house in the summer of 2015 and started emailing again. He thought this nightmare would begin all over again. But it didn’t.
-<br />
-<br />
+<span class="break"></span>
 So by March of 2016, he prided himself that he had all but squashed my attempts to gain investment in The Theorem, and to be honest he had; crisis averted, mission accomplished.
 </p>
 <p class="h-l">
@@ -308,8 +271,7 @@ So by March of 2016, he prided himself that he had all but squashed my attempts 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Anyways, after he realized that our television was not on to hide sinister background communication, but that I was actually watching it, he could relax. He realized that I was taking some time off and doing little. The bedrock of this realization was that he had seen me do this before. He knew that I took my rest as serious as my work.
-<br />
-<br />
+<span class="break"></span>
 With the release of this burden he began to do what he needed to do, go fill up his coffers of self-confidence. To accomplish this he would take a trip down memory lane of international travel and go soak up some of the adoration he had received early in his presidency.
 </p>
 <p class="h-l">
@@ -317,8 +279,7 @@ With the release of this burden he began to do what he needed to do, go fill up 
 </p>
 <p>
 <span class="douglas">Douglas:</span> He was, very busy: he would visit Cuba, South America, Europe and even Asia all before the summer of 2016. Besides the expected adoration, he could make sure and be close enough to stomp out the embers that remained from the fire of international interest in The Theorem that was there just a year before.
-<br />
-<br />
+<span class="break"></span>
 So the trips made sense; likely many were promised secretly back in 2015 in order to pacify the leaders who then had to return to their billionaires with the bad news: they couldn’t invest in the largest psychological discovery in human history. It was a party they had to sit out.
 </p>
 <p class="h-l">
@@ -326,11 +287,9 @@ So the trips made sense; likely many were promised secretly back in 2015 in orde
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes. Now during that time, away from The White House I believe he stopped checking in on me, as Barack Obama somewhat disappeared from the tool I was using to determine my visitors. He could have been masked to a greater extent, but typically I could determine those times as well.
-<br />
-<br />
+<span class="break"></span>
 So now in the summer of 2016, he is back in Washington D.C. He will take a quick trip to Canada and one to Europe, but besides that he is the US. He will also meet with Hillary Clinton, to help her campaign in July. He will not leave the U.S. until September for China.
-<br />
-<br />
+<span class="break"></span>
 This is what I believe to be an accurate representation of events, as I could interpret them from all the tools I utilized and the power of observation as to what was going on around me.
 </p>
 <p class="h-l">
@@ -338,8 +297,7 @@ This is what I believe to be an accurate representation of events, as I could in
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sometime in the spring of 2016, somebody tipped off Donald Trump as to what had been going on with Obama and Clinton’s suppression of The Theorem and The Legacy Letter. It could have been a campaign aide; it could have been the Secret Service. It could have been anyone. It was more likely a source that told a source.
-<br />
-<br />
+<span class="break"></span>
 Still it was damning evidence against Hillary Clinton. Now Donald Trump really didn’t want to get involved in anything that could risk him his campaign, the potential presidency and his real estate empire.
 </p>
 <p class="h-l">
@@ -353,8 +311,7 @@ Still it was damning evidence against Hillary Clinton. Now Donald Trump really d
 </p>
 <p>
 <span class="douglas">Douglas:</span> He is still interested in what makes Hillary Clinton and Barack Obama so focused, almost obsessed on this. He can’t dismiss it. He is on the outside of the information, and there is one thing he does not like to be and that is the outside of the information. He is a billionaire and part of being a billionaire is having good intelligence about those around you or those you are competing against.
-<br />
-<br />
+<span class="break"></span>
 That’s normal, as long as information is collected in a legal manner it is allowed, and Donald Trump, at this stage of his life, will only collect his information in a legal manner. Trust me on this.
 </p>
 <p class="h-l">
@@ -368,8 +325,7 @@ That’s normal, as long as information is collected in a legal manner it is all
 </p>
 <p>
 <span class="douglas">Douglas:</span> No, I don’t because at this point I don’t have a clue of what is going on between these three players; Barack Obama, Hillary Clinton and Donald Trump.
-<br />
-<br />
+<span class="break"></span>
 Candidate Trump knows way more about it than I do, and he’s in the dark at this stage.
 </p>
 <p class="h-l">
@@ -377,17 +333,13 @@ Candidate Trump knows way more about it than I do, and he’s in the dark at thi
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure, I can explain.
-<br />
-<br />
+<span class="break"></span>
 In response to Donald Trump’s interest in this newly uncovered scandal, Barack Obama plants a spy inside the Trump Campaign. He also plants a false narrative that I am working with Obama, or Clinton.
-<br />
-<br />
+<span class="break"></span>
 Now you have to realize something. By summer of 2016 it was the worst kept secret in the financial community that my potential investors were being targeted; and targeted severely. In fact it was likely even known well before this, as the response I was getting towards the end of 2015 from Legacy Letter recipients was much less enthusiastic than before. In addition to the election, the lack of excited responses was one of the reasons that I stopped sending them out altogether in February of 2016.
-<br />
-<br />
+<span class="break"></span>
 So Obama is very crafty here. He uses this assumption that his administration is targeting my potential investors in his favor. He spins it clear around, and lets it be known that I am somehow responsible for the prosecutions of these high-net worth individuals.
-<br />
-<br />
+<span class="break"></span>
 Now, Donald Trump doesn’t fall for it. He’s pretty the sure the tip is false, that it is a plant. He also knows Obama and likely Clinton have spies in there, amongst his campaign team. But Obama’s strategy works well enough, this false narrative plant, to give Donald Trump a moment of pause.
 </p>
 <p class="h-l">
@@ -395,11 +347,9 @@ Now, Donald Trump doesn’t fall for it. He’s pretty the sure the tip is false
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, and let me tell you more.
-<br />
-<br />
+<span class="break"></span>
 If Donald Trump thought there was a spy in there, there was one. Because he has some of the best instincts I have seen in a billionaire. He really does, and I have been indirectly studying many of them for five years now. Not business instincts, or solely political instincts, but aggregate instincts about everything. They are highly attuned within him.
-<br />
-<br />
+<span class="break"></span>
 Still he is not sure. When you are dealing with spies you never really are. Who knows what they mean? So he is cautious, curious and reserved. That is what I was feeling.
 </p>
 <p class="h-l">
@@ -407,8 +357,7 @@ Still he is not sure. When you are dealing with spies you never really are. Who 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Here Obama overestimates me and begins misinterpreting events.
-<br />
-<br />
+<span class="break"></span>
 He sees this increased traffic by the Trump team as verification that I am up to something with candidate Trump. He increases my surveillance. Then he makes the second biggest mistake of his political career and starts surveillance on Trump Tower. Or at the very least he increases the surveillance on Trump Towers which of course is the wiretapping.
 </p>
 <p class="h-l">
@@ -422,11 +371,9 @@ He sees this increased traffic by the Trump team as verification that I am up to
 </p>
 <p>
 <span class="douglas">Douglas:</span> Now Hillary Clinton is not so stupid as to put direct surveillance on Donald Trump’s residence or campaign, but she is getting a little uncomfortable that Barack Obama has her fate in his hands.
-<br />
-<br />
+<span class="break"></span>
 After all she is embattled with the email scandal, and she could fall any day. So she’s not quite her cool and calm self. Now unlike how it usually works, where Bill sends Hillary out to conquer the world, this time it is different.
-<br />
-<br />
+<span class="break"></span>
 Hillary dispatches Bill to meet with Loretta Lynch on the airport tarmac in Arizona to see what she knows; and to also have her water down Hillary’s email scandal. This happens on June, 27th 2016. Lynch doesn’t give Bill Clinton the information he wants, and now distrust is starting to build between one-time allies; between Obama and the Clintons.
 </p>
 <p class="h-l">
@@ -458,11 +405,9 @@ Hillary dispatches Bill to meet with Loretta Lynch on the airport tarmac in Ariz
 </p>
 <p>
 Do you think that your lack of activity in Missouri made President Obama suspicious? Perhaps doing nothing, was speaking volumes.
-<br />
-<br />
+<span class="break"></span>
 <span class="douglas">Douglas:</span> I think that was a big part of it. Certainly if you are focused on something for a long period of time such as he was with my surveillance, then you leave it, and come back later to resume it, there could have been that natural tendency to believe you missed something.
-<br />
-<br />
+<span class="break"></span>
 This, in and of itself could have caused him some small panic. My lack of activity could have fed into this.
 </p>
 <p class="h-l">
@@ -482,23 +427,17 @@ This, in and of itself could have caused him some small panic. My lack of activi
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well, I was getting to that.
-<br />
-<br />
+<span class="break"></span>
 On the morning after the election, I was up early. I was heading to the gym or to go running. I went outside my house and noticed something very strange. This was close to 7 a.m. I will tell you why I remember almost the exact time and definitely the exact day.
-<br />
-<br />
+<span class="break"></span>
 I know it was the day I was to work my legs, and like everyone else, leg days are painful. So I was looking for an excuse not to go; I had one too.
-<br />
-<br />
+<span class="break"></span>
 I had been up late watching the election results. Still, I said to myself that it was Donald Trump’s victory now go make your own! I remember most of this like it is yesterday, it is that clear. But here is what I stumbled upon:
-<br />
-<br />
+<span class="break"></span>
 Now by this time I mostly knew who our utility workers were. I also knew which ones worked for Obama’s surveillance team, whatever branch he had conducting them; I believe it was some subcontractor for the NSA. On this morning, Wednesday November 9th, 2016, these were two workers I had never seen before.
-<br />
-<br />
+<span class="break"></span>
 Typically our real utility guys start their day like this. They have a cup of coffee around 8:30 am. Then they talk to about 9am. Then they slowly get their cherry picker or crane in place, put their cones down and slowly get up to the pole. I’m not putting them down, our guys were great; when we had a power outage, internet problem or whatever, they were right there. But again, this is a very small town, and everyone knew everyone. I think it would be stretching it to say we had 3000 people living there.
-<br />
-<br />
+<span class="break"></span>
 Also I had never seen our utility guys operate without a crane or a cherry picker. I had never seen them free climbing a pole. I am not saying they couldn’t, but it would be a challenge for them. Do you get my point?
 </p>
 <p class="h-l">
@@ -512,20 +451,15 @@ Also I had never seen our utility guys operate without a crane or a cherry picke
 </p>
 <p>
 <span class="douglas">Douglas:</span> But I did see one of them scurrying down. The other was already down just departing the pole with a small box in his hand; but again no cherry picker or crane on his pole either. His box was the same color as his pole.
-<br />
-<br />
+<span class="break"></span>
 But here is the thing; the two guys were not together. They were essentially competitors. I know it sounds strange, but they never acknowledged each other’s presence. They eventually drove away in different directions.
-<br />
-<br />
+<span class="break"></span>
 You’ll have to trust me on this, but you could tell they were in a type of professional competition. It was just so bizarre.
-<br />
-<br />
+<span class="break"></span>
 But the guy I saw coming down the other pole, the one on the northwestern end of our property, saw me and slipped. I caught him straight away. I saw him slip his box, the back of it, into his pouch and try and hide it. I really had him busted, and if I wasn’t so groggy, I may have even approached him. Also, his box was not the same color or type as the other guy’s box who had just come down from the other pole.
-<br />
-<br />
+<span class="break"></span>
 I wasn’t supposed to be up that early, they knew my schedule. I usually worked out later, but I had things to do that day and wanted to get out before my other duties and responsibilities.
-<br />
-<br />
+<span class="break"></span>
 But I have never seen anyone come down a pole like that; it was like one of those logger or lumberjack competitions, these guys were real pros. At least the one I caught was.
 </p>
 <p class="h-l">
@@ -533,8 +467,7 @@ But I have never seen anyone come down a pole like that; it was like one of thos
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well, I went into my car, sat down and then it all hit me. I was processing months and months of confusion that finally now had a tail. I literally became dizzy as it all came together for me. I say all, because to me that was all I knew at the time. But I would learn and assimilate much more at a later time.
-<br />
-<br />
+<span class="break"></span>
 This was a big piece of the puzzle however. I knew it had something to do with the election, and it confirmed my belief that I was indeed under surveillance by more than one entity. It was a big find.
 </p>
 <p class="h-l">
@@ -542,8 +475,7 @@ This was a big piece of the puzzle however. I knew it had something to do with t
 </p>
 <p>
 <span class="douglas">Douglas:</span> That’s it; I knew it was over for them. I knew, or at least I thought I would be a free man soon. I was convinced this nightmare I had endured was over.
-<br />
-<br />
+<span class="break"></span>
 I was wrong. Actually I was just getting deeper and deeper. But it was a relief. At this point, the only thing I didn’t understand was exactly our new president elect’s role, if any in this. I was so happy though and so excited Donald Trump was the new president; as you would imagine. He had really beaten those crooks!
 </p>
 <p class="h-l">
@@ -557,11 +489,9 @@ I was wrong. Actually I was just getting deeper and deeper. But it was a relief.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, there we are. Thank you.
-<br />
-<br />
+<span class="break"></span>
 In early July she meets with Obama at her rally and they discuss the information and the suspicions keep growing between them. Obama finds out about Clinton’s surveillance, but says nothing. You see they are all starting to run for cover. They are thinking about the exit strategy in case this all goes south. One does not trust the other. Their partnership is fraying.
-<br />
-<br />
+<span class="break"></span>
 Also Obama is fraying, from here on in he will be lashing out at candidate Trump. But at the same time he is not really supporting Hillary Clinton by showing up at rallies either. Things are heating up, and we start to see his pattern subtly emerge. He likes to run, when he believes he will be in trouble.
 </p>
 <p class="h-l">
@@ -569,8 +499,7 @@ Also Obama is fraying, from here on in he will be lashing out at candidate Trump
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure he is. In fact this likely came way earlier, probably right away after President Obama found out Donald Trump had the information about Hillary and his mischievous attempts to suppress The Theorem; whenever that was.
-<br />
-<br />
+<span class="break"></span>
 It is also critical to realize that I may be off a couple of months on my projections. In some ways, I think Trump Tower was under surveillance earlier, and just maybe our surveillance was ratcheted up earlier too. You know obviously I wish looking back I would have taken notes; I really wish I could go back in time and look with my eyes today and memorize every event, as they are all so important.
 </p>
 <p class="h-l">
@@ -584,11 +513,9 @@ It is also critical to realize that I may be off a couple of months on my projec
 </p>
 <p>
 <span class="douglas">Douglas:</span> Now when Donald Trump says he is under surveillance there are some things you need to know about that disclosure.
-<br />
-<br />
+<span class="break"></span>
 The first things are his opinions of it. While I share very few qualities with President Trump I think there is one that I do. I may be stretching my assumptions a little bit, but I think I can see his perspective.
-<br />
-<br />
+<span class="break"></span>
 Like myself, I think that when candidate Trump realized he was under surveillance, he didn’t care: to a point. In other words he was probably like well this is how politics works; as long as they are watching and I’m not watching them, they can eat my dust!
 I know that’s an antiquated statement, but it applies. He likes to be the lead dog essentially. I doubt he will ever be very good at surveillance or having any real interest in it. That is a welcome thing for our country right now; I know you can see why.
 </p>
@@ -597,11 +524,9 @@ I know that’s an antiquated statement, but it applies. He likes to be the lead
 </p>
 <p>
 <span class="douglas">Douglas:</span> Exactly not only is surveillance odd behavior, but it is a statement about your value in the world, your submission to others. To me, and for many, it is a dog rolling over in playful surrender when it is approached by a more dominate breed.
-<br />
-<br />
+<span class="break"></span>
 Another thing concerning his perception of surveillance is this; Donald Trump is a builder. He is a developer and Trump Towers is his project.  He essentially built it.
-<br />
-<br />
+<span class="break"></span>
 Therefore he knows everybody who comes in and out of the towers. He might not know their names, but he certainly knows their faces. Add that to a fact that he has a much younger, beautiful wife in there, and you can be assured he knows exactly what is going on in Trump Towers. It is in his vested interest to do so. He knows his security guys, and probably gets reports from them daily.
 </p>
 <p class="h-l">
@@ -615,8 +540,7 @@ Therefore he knows everybody who comes in and out of the towers. He might not kn
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course he is, and famous people and wealthy people from all over the world live there. There are Russians, Saudi’s and an international cast of who’s who.
-<br />
-<br />
+<span class="break"></span>
 So when he says he had a feeling or a hunch that he was under surveillance, well that hunch is worth a few billion dollars; and you would be wise to listen to it. I imagine many young property developers would feel very privileged to listen to his advice or ‘hunch’.
 </p>
 <p class="h-l">
@@ -648,11 +572,9 @@ So when he says he had a feeling or a hunch that he was under surveillance, well
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, the wiretapping that had already been going on. You see they were likely not too upset that their FISA application was denied. They still believed that Hillary would win the election and this would all be a mute point.
-<br />
-<br />
+<span class="break"></span>
 Also even though it is illegal, and it was, I would think it is better to have at least tried to get a warrant, and still wiretap when denied, then not even try at all.
-<br />
-<br />
+<span class="break"></span>
 Because upon Clintons presumed victory you could go and say, “Well we really were under belief that our Democracy was in jeopardy.”
 </p>
 <p class="h-l">
@@ -708,8 +630,7 @@ Because upon Clintons presumed victory you could go and say, “Well we really w
 </p>
 <p>
 <span class="douglas">Douglas:</span> There is simply no way for anyone to explain this but me, as I was in the middle of it. And even now when I listen to the tapes of these interviews, look at my responses it all sounds so ridiculously impossible. This was Obama’s and Clinton’s greatest shield; the narrative is impossible to explain, outlandish to suggest and absurd to even imagine.
-<br />
-<br />
+<span class="break"></span>
 The Theorem itself, the probability of one model being able to unlock all the doors of every imaginable behavior and disorder alone would tie the tongue of the most skilled orator.
 </p>
 <p class="h-l">
@@ -735,11 +656,9 @@ The Theorem itself, the probability of one model being able to unlock all the do
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well there is, actually a lot more to it. So you were right.
-<br />
-<br />
+<span class="break"></span>
 Donald Trump had no idea where my loyalties were at the time. Remember, they are feeding him false information though the spies on his campaign, both Obama and Clintons spies are doing this. All in attempt to tarnish this jewel of a find Trumps has in regards to the cover-up. They are feeding him the belief that I work for the Democrats.
-<br />
-<br />
+<span class="break"></span>
 So imagine if Donald Trump’s team were to attempt the impossible and explain the cover-up from the outside. Then I turn around and say, what are you talking about?
 </p>
 <p class="h-l">
@@ -813,14 +732,11 @@ So imagine if Donald Trump’s team were to attempt the impossible and explain t
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well, in many ways at this time Barack Obama wasn’t really thinking about what was ahead of him, about the election, in one way or the other. He was living in the moment.
-<br />
-<br />
+<span class="break"></span>
 He certainly wasn’t thinking about Hillary Clintons’ election chances; all of Obama’s actions are male dominated at this point: Donald Trump, me, his father, suppressing The Theorem.
-<br />
-<br />
+<span class="break"></span>
 It was like the ultimate video game for him, to suppress the book and the surveillance. In many ways he is living in fantasyland, in many ways we as a country enabled him to live insulated in The White House.
-<br />
-<br />
+<span class="break"></span>
 I doubt he was thinking ahead to consequences of any relevance with Hillary Clinton. He was surrounded by females and he didn’t like the fact the she was going to be president in many ways, as she would likely pull him back into her corruption.
 </p>
 <p class="h-l">
@@ -828,8 +744,7 @@ I doubt he was thinking ahead to consequences of any relevance with Hillary Clin
 </p>
 <p>
 <span class="douglas">Douglas:</span> I think he has a lot of charisma with females. But no, I don’t think there was any abuse there. His issues were with males, many, at this time at least. Later this will likely change, but now it is all males that are his focus.
-<br />
-<br />
+<span class="break"></span>
 At the same time, he had to almost hate Hillary Clinton at this point; I imagine she caused a stress response when he was around her. She had really stolen all of his two terms of the presidency, and distorted his legacy, either directly or indirectly.
 </p>
 <p class="h-l">
@@ -849,8 +764,7 @@ At the same time, he had to almost hate Hillary Clinton at this point; I imagine
 </p>
 <p>
 <span class="douglas">Douglas:</span> No one.
-<br />
-<br />
+<span class="break"></span>
 So Obama is doing nothing for her, nothing. No wiretapping, no surveillance, barely any campaign appearances.
 </p>
 <p class="h-l">
@@ -864,11 +778,9 @@ So Obama is doing nothing for her, nothing. No wiretapping, no surveillance, bar
 </p>
 <p>
 <span class="douglas">Douglas:</span> He didn’t care. He could have cared less. But when he did go out and campaign he was going to quit giving to Hillary; he was going to make sure he got something out of it for him, which was of course dialogue related to his male dominated needs or frustrations.
-<br />
-<br />
+<span class="break"></span>
 Again, he was done with females at that point. He wanted to be free of females essentially, to get away. He was surrounded by women.
-<br />
-<br />
+<span class="break"></span>
 So it is important to see that there is no way he is going to put surveillance on Trump Towers for anything related to a female. It’s just not going to happen; he will not risk it all for that.
 </p>
 <p class="h-l">
@@ -876,8 +788,7 @@ So it is important to see that there is no way he is going to put surveillance o
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course, Donald Trump by himself was not his target; his target was his secretive and private legacy of was squashing The Theorem for the Democratic Party, and anything that threatened that threatened him. So that is why he put the surveillance on Trump Towers. That is when he ratcheted up my surveillance.
-<br />
-<br />
+<span class="break"></span>
 The thing is he wanted attention from males; sure he wanted Donald Trump’s attention but…
 </p>
 <p class="h-l">
@@ -885,8 +796,7 @@ The thing is he wanted attention from males; sure he wanted Donald Trump’s att
 </p>
 <p>
 <span class="douglas">Douglas:</span> That’s it, now you are on it.
-<br />
-<br />
+<span class="break"></span>
 But I still gave Obama no attention.
 </p>
 <p class="h-l">
@@ -936,8 +846,7 @@ But I still gave Obama no attention.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, this is the origin of it all. Barack Obama had to build a narrative to explain his actions. So it starts out as Donald Trump or his team finding out about the years of suppression of The Theorem and The Legacy Letter, the targeting of my potential donors and investors. Barack Obama becomes nervous about this, and starts wiretapping Trump Towers, with or without a FISA warrant.
-<br />
-<br />
+<span class="break"></span>
 Barack Obama is concerned about my lack of activity in the spring and summer of 2016 and figures I may be planning to secretly contact Donald Trump’s team and tell them what I know. Obama’s suspicions were accelerated by the fact that he was traveling internationally extensively during the spring of 2016. In response to these two developments he intensifies surveillance of my Missouri residence. He doesn’t hide this fact, as he wants me to know I am being watched and this is an effort to prevent me from contacting Donald Trump’s team independently.
 </p>
 <p class="h-l">
@@ -945,8 +854,7 @@ Barack Obama is concerned about my lack of activity in the spring and summer of 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure I was piecing it together, just not as fast as he thought I was. And you add the fatigue of 8 years of the presidency to that. Obama couldn’t take any chances.
-<br />
-<br />
+<span class="break"></span>
 So in response to Donald Trumps’ team finding out about the cover-up, Barack Obama plants a spy within the Trump campaign. They provide a false narrative that I am working secretly for the Democratic Party, working secretly to test party loyalty for Obama and maybe even Hillary Clinton. This belief is furthered by the fact that my live-in girlfriend at the time is working for a subcontractor for an intelligence agency that indirectly reports to Barack Obama.
 </p>
 <p class="h-l">
@@ -954,14 +862,11 @@ So in response to Donald Trumps’ team finding out about the cover-up, Barack O
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, you are right. You cannot overemphasize the brilliance of Barack Obama here, even in this somewhat panicked state, he is cool-headed and collected and executes all of these steps perfectly.
-<br />
-<br />
+<span class="break"></span>
 It is true, I am surrounded. I have some damning information, as I am the one they have been suppressing. I was the hub of all the potential investors who had The Legacy Letter. I was the common denominator with all the harassments and the prosecutions. I had an unobstructed view of what Barack Obama had been doing to them.
-<br />
-<br />
+<span class="break"></span>
 Therefore I was the one who could tie all the names and the dates together. I was the one who could build the comprehensible narrative to this cover-up. If I were to have shared that with candidate Trump, not only would Hillary Clinton be in trouble, but Barack Obama would have been in even bigger trouble.
-<br />
-<br />
+<span class="break"></span>
 So they smothered me in a fortress like you say; my girlfriend was on their payroll, my house was surrounded by agents and not a word I spoke went unrecorded.
 </p>
 <p class="h-l">
@@ -969,8 +874,7 @@ So they smothered me in a fortress like you say; my girlfriend was on their payr
 </p>
 <p>
 <span class="douglas">Douglas:</span> All the time. All the time I was complaining. You know I am not used to failing. It all made no sense to me, with the interest in The Legacy Letter the way it was. Sure in Tennessee I blamed myself, and maybe continued the self-blame all the way through 2015 in Missouri. But by 2016, it was obvious what they were doing to me. I was really frustrated.
-<br />
-<br />
+<span class="break"></span>
 Now when it got close to the election, I went one step further and publicly told Obama essentially that I knew what was going on.
 </p>
 <p class="h-l">
@@ -978,8 +882,7 @@ Now when it got close to the election, I went one step further and publicly told
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, so by the end of October 2016, as I said I was really fuming. I published on The Theorem’s website a letter to my readers. There were actually two letters; both similar in content. So in the first letter I stated to my readers, to the men who had been prosecuted and lost so much for supporting The Theorem that I saw them as heroes and that a change was coming. Soon this would all be essentially uncovered.
-<br />
-<br />
+<span class="break"></span>
 Now in the first letter, I even went as far as to state resignations in the Obama Administration, indirectly referencing Eric Holder and others. But I got too nervous and only left that letter up for a day. So in the second letter, I left out specifically the Obama Administration by name, and watered the letter down for a bit. But again I only left that one up for a few days as well.
 </p>
 <p class="h-l">
@@ -987,8 +890,7 @@ Now in the first letter, I even went as far as to state resignations in the Obam
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, of course. Remember the surveillance is right outside of our door. It would have been easy for one of them to sneak in the middle of night, and eliminate us all. And of course the second night, we heard someone clumsily trying to get into the house, which I took as a warning. I figured if they wanted us dead, we would have never heard a thing.
-<br />
-<br />
+<span class="break"></span>
 If it was just me in there all by myself, I can all but guarantee you I would have left it up. But a child was in there with us; her daughter, so that was out of the question.
 </p>
 <p class="h-l">
@@ -1002,17 +904,13 @@ If it was just me in there all by myself, I can all but guarantee you I would ha
 </p>
 <p>
 <span class="douglas">Douglas:</span> Right, so Donald Trump has the goods on Hillary Clinton and Barack Obama but can do nothing with them. He can’t explain the narrative of The Theorem, and the suppression of The Legacy Letter. He can’t trust me, so all he can do is to visit my website and wait for me to spill the cover-up.
-<br />
-<br />
+<span class="break"></span>
 Now for Barack Obama, he has to mine all the information out of the Trump Campaign that he can. He has surveillance, spies and wiretapping all over Donald Trump.
-<br />
-<br />
+<span class="break"></span>
 Hillary Clinton and Barack Obama’s relationship is beyond frayed at this point. She doesn’t want to be the one left out of the loop. So she wiretaps my residence and places spies within the Trump Campaign; though she likely had them there already.
-<br />
-<br />
+<span class="break"></span>
 Of course you can’t fool the master spy Barack Obama, so he finds out Hillary is wiretapping my residence and this makes him more uncomfortable. Her surveillance people are sloppy and could get caught, and they may have the morning after the election. Meanwhile Hillary Clinton is locked out of Barack Obama’s inner sanctum and therefore dispatches Bill Clinton to Attorney General Loretta Lynch to find out what she knows in regards to Obama’s thinking on the matter, and about Hillary’s fate in general. Of course she likely knows little, but no matter, he tried; essentially stalking Lynch’s plane at the airport in Phoenix.
-<br />
-<br />
+<span class="break"></span>
 It’s a mess. With each action by one party involved, then becomes responsible for a counteraction by the other; hence; the makings of a multidimensional scandal.
 </p>
 <p class="h-l">
@@ -1026,11 +924,9 @@ It’s a mess. With each action by one party involved, then becomes responsible 
 </p>
 <p>
 <span class="douglas">Douglas:</span> So we all know that Donald Trump won in November. But when everyone else is watching our new president-elect, I have my eyes firmly fixed on my captor; Barack Obama.
-<br />
-<br />
+<span class="break"></span>
 Once again, everyone is watching the celebrations; everyone is looking one way, I am looking the other, and I am about to witness some of the greatest sleights of hand in American Political History.
-<br />
-<br />
+<span class="break"></span>
 What he will do from here on in, his mental health, his actions will ultimately dictate what happens in the United States well into the Trump Presidency, and the fallout continues even today.
 </p>
 <p class="h-l">
@@ -1038,14 +934,11 @@ What he will do from here on in, his mental health, his actions will ultimately 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Me, well, I will stay in Central Missouri for a few months to let all of this process.
-<br />
-<br />
+<span class="break"></span>
 But as Barack Obama’s mental health further deteriorates, I will be planning to depart for deep in the Ozarks, by myself, to be with the local people: where I can spot those who might come and try and eliminate me from a greater distance and with greater contrast.  I’m not scared, but I am cautious, and certainly I do not want to risk the lives of those around me.
-<br />
-<br />
+<span class="break"></span>
 But I will never stay in one place for too long, as I have a good feeling I know what is in store for me; ultimately I will move to California, work and save up enough to go see my children in Europe for the first time in many years.
-<br />
-<br />
+<span class="break"></span>
 But for now I am staying put, and starting to piece together the events I had just experienced.
 </p>
 <p class="h-l">
@@ -1053,32 +946,25 @@ But for now I am staying put, and starting to piece together the events I had ju
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure it does. But again, more than an observer, I am very focused on what Barack Obama is going to do next. Every single move he makes will interest me. He wanted my attention during his administration, I certainly didn’t give it to him; he has it now however, he definitely has it now.
-<br />
-<br />
+<span class="break"></span>
 While I had never been seriously concerned for my safety before, I had never been a loose end before. So, watching him now; from the day after the election until his exodus to the South Pacific, takes on a new meaning.
-<br />
-<br />
+<span class="break"></span>
 Indeed, little motivates a man more than the personal safety of himself and those around him.
 </p>
 <p class="h-l">
 	H.L. Now I get it, I think you just connected every single dot for me with that last statement.
-<br />
-<br />
+<span class="break"></span>
 You see I always wondered, after first reading your summary how you would know so much about the psyche of Barack Obama, I mean who would care; he is no longer President? But I imagine if you felt your safety could be at risk.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure, I know how this works. Operation over, tie up loose ends, move on. Again, it is a very uncomfortable situation. Where I was once carefree, I am now suddenly careful. Where I was once careless, I am suddenly cautious.
-<br />
-<br />
+<span class="break"></span>
 Now with that hyper alert state also evolves a perception, a deep perceptional ability, and this goes way back into our infancy, and into our childhood. And fear has a way to reawaken those abilities.
-<br />
-<br />
+<span class="break"></span>
 You see in my mind over eight years, I had developed a belief system, one that gave me peace and solace regarding this little triangle of Bill Clinton, Hillary Clinton and Barack Obama.
-<br />
-<br />
+<span class="break"></span>
 I always felt that if it were up to her, up to Hillary, I would become victim to some unfortunate accident; after all it would be the easiest way to eliminate the problem.
-<br />
-<br />
+<span class="break"></span>
 I always believed The Theorem was way over Hillary’s head and so were the historical implications of it. While she is smart, she is not that type of smart, as she is blinded by denial and passion. Also she is not the main protagonist in her relationship with success; she is essentially a hitchhiker to fame. She is not the main player, Bill Clinton is. Does that make sense?
 </p>
 <p class="h-l">
@@ -1086,8 +972,7 @@ I always believed The Theorem was way over Hillary’s head and so were the hist
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well they are the key aspects of the triangle. So if something happened to Bill Clinton, I didn’t care, because then Hillary would morph into something else. And anything except who she is now would be welcomed.
-<br />
-<br />
+<span class="break"></span>
 And it was the same if Hillary Clinton disappeared out of the picture, I could care less about her fate; as I didn’t see any changes in the dynamic in regards to Bill Clinton or Barack Obama if she was gone.
 </p>
 <p class="h-l">
@@ -1101,8 +986,7 @@ And it was the same if Hillary Clinton disappeared out of the picture, I could c
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, I was, especially since 2014; it was just a fact of my life.
-<br />
-<br />
+<span class="break"></span>
 One thing is for sure. I know and can feel that there are things that have happened, I don’t know about that are even scarier. I can feel that especially when I talk about this. I can almost see one of those three reading this and saying, “You just have no idea how correct that last statement is.” In fact it gives me chills to think about it.
 </p>
 <p class="h-l">
@@ -1110,8 +994,7 @@ One thing is for sure. I know and can feel that there are things that have happe
 </p>
 <p>
 <span class="douglas">Douglas:</span> It was so bad after the election that my girlfriend and I would even joke about it. We would say to each other, “You are the loose end, they will eliminate you!” Then the other one would say the same back. This would go on for days.
-<br />
-<br />
+<span class="break"></span>
 True, it wasn’t funny, but we had to do something with the compounding discomfort from the obvious reality we both had to face; there was a regime change and we were loose ends, toys a kid tired of playing with, and we didn’t know if we would be thrown in the toy box or out in the garbage.
 </p>
 <p class="h-l">
@@ -1125,8 +1008,7 @@ True, it wasn’t funny, but we had to do something with the compounding discomf
 </p>
 <p>
 <span class="douglas">Douglas:</span> Again, here I am just guessing, right; your own demise, your projected demise, who wants to spend anytime analyzing that? That’s just strange.
-<br />
-<br />
+<span class="break"></span>
 But instinctually I always felt Obama would never tolerate that. But again, I may have had it all backwards. Who knows, but this was the bedrock of my belief regarding those three.
 </p>
 <p class="h-l">
@@ -1152,8 +1034,7 @@ But instinctually I always felt Obama would never tolerate that. But again, I ma
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well if you are going to suppress another man’s spirit and his accomplishments you are not going to get much more energy off anyone else than with me.
-<br />
-<br />
+<span class="break"></span>
 I have a large amount male energy and a brilliant discovery. They are, and were, living off my back by suppressing me. They were harvesting my energy, to prop themselves up.
 </p>
 <p class="h-l">
@@ -1161,11 +1042,9 @@ I have a large amount male energy and a brilliant discovery. They are, and were,
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, it sounds bizarre when you are saying it, but it is the ‘way of the world’ as you would say it; but not just Bill Clinton, Obama as well. The same or similar rules apply to not having a good mother as not having a good father or one that was not there.
-<br />
-<br />
+<span class="break"></span>
 Now Bill Clinton has a little more male energy than Obama, but not much. If you saw either one of these two walking down the street without knowing who they were or without their entourage; to you as a male, they would be essentially invisible.
-<br />
-<br />
+<span class="break"></span>
 I can tell the minute that I meet another man, right away what type of father he had; within seconds. We all can, and the same with women. It just registers on a subconscious level. I am only verbalizing what we all do unconsciously.
 </p>
 <p class="h-l">
@@ -1173,14 +1052,11 @@ I can tell the minute that I meet another man, right away what type of father he
 </p>
 <p>
 <span class="douglas">Douglas:</span> That’s not true. You most definitely have; charisma and confidence. I am just taking you behind the scenes, and showing you what is behind the curtain of those blanket observations.
-<br />
-<br />
+<span class="break"></span>
 Actually John Lennon said it best years ago in Come Together: He’s got to be good looking because he is so hard to see.
-<br />
-<br />
+<span class="break"></span>
 My interpretation of those words at least, was that someone who is lacking internal energy, who radiates nothing has to compensate for it by being perfect, remarkable or as Lennon said; good looking.
-<br />
-<br />
+<span class="break"></span>
 It is a powerful lyric.
 </p>
 <p class="h-l">
@@ -1188,8 +1064,7 @@ It is a powerful lyric.
 </p>
 <p>
 <span class="douglas">Douglas:</span> It is, you see at one time for a child, to not be noticed by their parents in certain situations could be life-threatening. To be ignored meant you were not going to get fed, not going to get changed or something worse even; maybe it is a signal that your parents are mad and you will now be beat.
-<br />
-<br />
+<span class="break"></span>
 For most of us to be ignored is no big deal; but for others, those who have suffered a bad childhood, each time they are ignored by strangers then those early fears spring up, as they were reinforced within them from their environment in childhood. So they need to be noticed, being ignored or being invisible reminds them subconsciously of that struggle for survival.
 </p>
 <p class="h-l">
@@ -1233,11 +1108,9 @@ For most of us to be ignored is no big deal; but for others, those who have suff
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure.
-<br />
-<br />
+<span class="break"></span>
 But here is the thing; this is all based upon me being a victim.
-<br />
-<br />
+<span class="break"></span>
 I don’t mind disclosing this, but there has got to be a balance. Again, this is all very uncomfortable for me. So I’d like to move on. Perhaps another time we can focus on this, but not now.
 </p>
 <p class="h-l">
@@ -1245,8 +1118,7 @@ I don’t mind disclosing this, but there has got to be a balance. Again, this i
 </p>
 <p>
 <span class="douglas">Douglas:</span> One final thing: the benefit of having someone taking your energy or suppressing it, is that you get stronger from it. So I have become incredibly strong over the last eight years.
-<br />
-<br />
+<span class="break"></span>
 This is true to a point right?
 </p>
 <p class="h-l">
@@ -1266,8 +1138,7 @@ This is true to a point right?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes it is, into pieces.
-<br />
-<br />
+<span class="break"></span>
 It will be better if I give you an example of how this process works, obtaining this hyper alert state. I have a good one as well, in regards to Bill Clinton. It’s appropriate.
 </p>
 <p class="h-l">
@@ -1275,11 +1146,9 @@ It will be better if I give you an example of how this process works, obtaining 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Over the last 20 years, as little as I follow political news, I have heard this statement from political analysts.
-<br />
-<br />
+<span class="break"></span>
 They have said something to the affect that no one can ‘work a room’, the way Bill Clinton can, or at least could. He has the charisma and the charm, he knows which hands to shake, who to embrace and who to ignore. Have you heard this about him before?
-<br />
-<br />
+<span class="break"></span>
 This of course was back in his day, back many years ago.
 </p>
 <p class="h-l">
@@ -1293,8 +1162,7 @@ This of course was back in his day, back many years ago.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well just think about it a minute. Take a room, a political room and strip it of all its elegance, its eminence. Now take that room back forty, fifty or sixty years and you are in Hope Springs, Arkansas. Now remember little Bill Clinton is on edge. Let’s say he is 10 years old.
-<br />
-<br />
+<span class="break"></span>
 He is the ultimate diplomat. Whatever he does, he is walking in a minefield. The cost of failure, of a misstep is high. He twists the wrong way, fails to conceal his weakness and that abusive bastard stepfather lets him have it. Smack!
 With his mother it is the same way; he is dealing with drunks and abusers, and while he needs their company and will compromise himself to obtain it, as all children do, he must be on high alert for the miniscule changes; the micro-movements that are occurring, this enhanced sense he has developed, the ones he so keenly refined. This ability enables him to successfully obtain his goals; food, nourishment and the paper thin joy he can cultivate out of a miserable situation.
 </p>
@@ -1303,11 +1171,9 @@ With his mother it is the same way; he is dealing with drunks and abusers, and w
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, but you have to realize that these micro-movements, these almost vapor like subtleties of energy free-floating around the room would be invisible to you or me.
-<br />
-<br />
+<span class="break"></span>
 Why you ask? Well in my case I didn’t grow up in a household like his.
-<br />
-<br />
+<span class="break"></span>
 Though I have been in situations like that around distant family members, and friends. Of course I could just leave. But he couldn’t. There was nowhere to run to. Young Bill Clinton was stuck in that horrific scene, the gauntlet as you say.
 </p>
 <p class="h-l">
@@ -1315,11 +1181,9 @@ Though I have been in situations like that around distant family members, and fr
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course he does. The pain and the trauma morphs and is refined into talent.
-<br />
-<br />
+<span class="break"></span>
 The purpose of the story is only to demonstrate there is no substitute for survival as a motivator to train and ultimately enhance one’s perceptions.
-<br />
-<br />
+<span class="break"></span>
 You notice everything. Information others discard or misinterpret you identify correctly. That is why he was so good at it. It is some type of sick and twisted Darwinian survival of the fittest for abused children: the perceptive ones survive, the unobservant ones die.
 </p>
 <p class="h-l">
@@ -1327,17 +1191,13 @@ You notice everything. Information others discard or misinterpret you identify c
 </p>
 <p>
 <span class="douglas">Douglas:</span> It is; it is very much so. Unfortunately it happens all the time.
-<br />
-<br />
+<span class="break"></span>
 So I bring this up because for a while I am going to ask you to trust me in regards to that model we just experienced.
-<br />
-<br />
+<span class="break"></span>
 I am going to be the child in that room. I am going to report to you those micro-movements. I am going to utilize a diluted version of this enhanced perception and share with you things only someone who has been in that situation can. We are back in that room now. Like a child with an abusive parent, I have been watching my captor for eight years.
-<br />
-<br />
+<span class="break"></span>
 I know every movement of my jailer because I am motivated to do so, as my very survival is at stake.
-<br />
-<br />
+<span class="break"></span>
 Understanding what I just said is the only way any of this is going to make any sense to you at all.
 </p>
 <p class="h-l">
@@ -1351,8 +1211,7 @@ Understanding what I just said is the only way any of this is going to make any 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Mostly yes. It is close enough. I am vested into watching every movement my captor made and those around him once Obama left office. Now with that, I developed a motivated perception, an enhanced observational power.
-<br />
-<br />
+<span class="break"></span>
 I could essentially see what others had missed, or at the very least see things that were kept concealed from the public.
 </p>
 <p class="h-l">
@@ -1360,8 +1219,7 @@ I could essentially see what others had missed, or at the very least see things 
 </p>
 <p>
 <span class="douglas">Douglas:</span> That’s it exactly. While the reason I know this is not a healthy one; as fear of your life never is, I can confidently convey to you what I noticed and observed during that time period.
-<br />
-<br />
+<span class="break"></span>
 So while I was an outsider, I was still locked inside. The bars may have disappeared, but the indefinite sentence remained.
 </p>
 <p class="h-l">
@@ -1369,14 +1227,11 @@ So while I was an outsider, I was still locked inside. The bars may have disappe
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, and thank you.
-<br />
-<br />
+<span class="break"></span>
 So with that in mind realize that what I say is also going to upset a large number of people. What we are dealing with here is the disintegration of a human being, but not just any human being; the former President of the United States. Not just any former president, but the first African-American President of the United States.
-<br />
-<br />
+<span class="break"></span>
 Some will say that I am attacking him because he is African-American and I am Caucasian, I understand. Some will also say that he suppressed The Theorem because he is African-American and I am Caucasian, I understand. However, I believe in my heart neither of these to be true. So I am aware of how this will likely be received or at least perceived. To the best of my ability and experience, I understand the implications.
-<br />
-<br />
+<span class="break"></span>
 But keep in mind, behind the façade, and the props, is a man. It is a man, I think we all can agree is worth saving. It is a man who made some very serious errors in judgment. Still, we all make very serious errors in judgment.
 </p>
 <p class="h-l">
@@ -1387,27 +1242,22 @@ But keep in mind, behind the façade, and the props, is a man. It is a man, I th
 </p>
 <p class="h-l">
 	H.L. That’s so true. A human shield, this is exactly what the Clintons’ see Obama as. It’s sad.
-<br />
-<br />
+<span class="break"></span>
 As far as the rest goes, I wouldn’t worry too much about it. Say what you have to say; explain what you witnessed. I think your words so far radiate a compassion for Obama that simply are not present in your examination of the Clintons.
-<br />
-<br />
+<span class="break"></span>
 You know he is a victim, I do, and probably soon the entire country will. This isn’t to justify his actions, but like you said no one is perfect. Only God is perfect, we are all fallible.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Thank you, very strong words. Really amazing!
 Yet there is something else.
-<br />
-<br />
+<span class="break"></span>
 Certainly, no one is going to like what I tell you next, for other reasons as well.
-<br />
-<br />
+<span class="break"></span>
 People will say it is irresponsible; none of my business and that could possibly hurt others. That’s okay; I understand their perception, their perspective. But they should understand mine as well. If you know something about behaviors and disorders then you should share it. Obviously I do; especially suicide, anxiety disorders and depression as they are cornerstones to The Theorem model, to the discovery itself.
 </p>
 <p class="h-l">
 	H.L. I think that is well established. I agree, you need to share it.
-<br />
-<br />
+<span class="break"></span>
 So when do you think this disintegration really started?
 </p>
 <p>
@@ -1418,8 +1268,7 @@ So when do you think this disintegration really started?
 </p>
 <p>
 <span class="douglas">Douglas:</span> That is where a good amount of it took place. You know at this point Barack Obama needs some serious professional mental health counseling, not friends and nostalgic places to spark up good memories and bad. It‘s just too destabilizing to revisit those places where the trauma occurred.
-<br />
-<br />
+<span class="break"></span>
 So yes you are right.
 </p>
 <p class="h-l">
@@ -1457,8 +1306,7 @@ So yes you are right.
 </p>
 <p>
 <span class="douglas">Douglas:</span> When I was very young, about 11 or 12 years old, I was not a very good kid. Like many kids I was into drugs, though my pain was more severe so I had started earlier and used heavier than most. While I spent my very early years in Las Vegas, we eventually moved to Southern California. By the time I was 12, I was so wrapped up in drugs and hanging around delinquents that my father fretted for my fate. In response he moved us up the coast about 200 miles. I missed my friends, as delinquent and devious as they were, they were still my friends.
-<br />
-<br />
+<span class="break"></span>
 So on the weekends I would go to Southern California and visit them. On one of these visits, the final visit, I was elected by our little gang of thugs to steal a chainsaw; a big concrete chainsaw we noticed in a neighbors open garage. The reasoning was that by the time the cops figured out who did it, I would be safely up the coast. Well I stole the saw, we sold it for drugs and that was that. Then the police came looking for us.
 </p>
 <p class="h-l">
@@ -1472,8 +1320,7 @@ So on the weekends I would go to Southern California and visit them. On one of t
 </p>
 <p>
 <span class="douglas">Douglas:</span> So when the police pulled up, two cars, I ran. I was the only one to run. I was the only one to get arrested. You see my friends knew better, they were smarter, they were experienced. All of us were in on the crime, we each had played our part, and all were guilty in one way or another. But I was the only one to run. I imagine then, by default, I was the least experienced. I had the best chance for recovery; I was green to the process of dealing with the police.
-<br />
-<br />
+<span class="break"></span>
 There was still hope for me.
 </p>
 <p class="h-l">
@@ -1481,8 +1328,7 @@ There was still hope for me.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Exactly, but my friends weren’t so lucky.
-<br />
-<br />
+<span class="break"></span>
 Now at Donald Trump Rallies the crowds are screaming, “Lock her up!”  This in regards to Hillary Clinton’s corruption, so is Hillary going to flee?
 </p>
 <p class="h-l">
@@ -1496,8 +1342,7 @@ Now at Donald Trump Rallies the crowds are screaming, “Lock her up!”  This i
 </p>
 <p>
 <span class="douglas">Douglas:</span>  Do you really? This was a big deal to Barack Obama. This was a huge deal. His conscience was ripping out from his chest. He was showing the signs. His psyche could not contain the trauma, and it started to hemorrhage.
-<br />
-<br />
+<span class="break"></span>
 What little innocence of nature he had in him was innocence nonetheless, and it rebelled against the assimilation of these crimes. He could not merge them into his character. So once you are aware of that fact, it is just a matter of tracing the dots of his actions, and they were serious actions with potentially fatal consequences.
 </p>
 <p class="h-l">
@@ -1511,8 +1356,7 @@ What little innocence of nature he had in him was innocence nonetheless, and it 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course Richard Branson was sent a copy of The Legacy Letter. From what I could tell he was very interested in it, and for a long time. So, like The Presidential Awards we will go into tomorrow, his connection to Branson made complete sense.
-<br />
-<br />
+<span class="break"></span>
 After all Branson wasn’t an American citizen so there would have been little punishment Barack Obama could subject him to. So he had to entice him with agreeing to visit to his island. This visit was likely promised years before. And when he got out of office, he made good on his promise.
 </p>
 <p class="h-l">
@@ -1520,8 +1364,7 @@ After all Branson wasn’t an American citizen so there would have been little p
 </p>
 <p>
 <span class="douglas">Douglas:</span> No it’s not; actually not at all.
-<br />
-<br />
+<span class="break"></span>
 He in fact will be visiting Branson’s Nekar Island for another reason altogether. A reason that nothing to do with The Legacy Letter, nothing to do directly with me, and nothing to do with promises made a few years before. As you will see his Barack Obama’s interest in this island and this man, at this point is for a much more sinister intent altogether.
 </p>
 <p class="h-l">
@@ -1532,8 +1375,7 @@ He in fact will be visiting Branson’s Nekar Island for another reason altogeth
 </p>
 <p class="h-l">
 	H.L. It still seemed like an unusual choice of a trip. Obama said he was going to give his wife a ‘special trip’ when he got out of office.
-<br />
-<br />
+<span class="break"></span>
 He could have taken her anywhere in the world, I don’t see how a one hour flight out of Miami is considered special. “Here, this is what you get for standing behind me for 20 plus years honey; a Pirates of the Caribbean ride.”
 </p>
 <p>
@@ -1544,8 +1386,7 @@ He could have taken her anywhere in the world, I don’t see how a one hour flig
 </p>
 <p>
 <span class="douglas">Douglas:</span> In more ways than one. I know you are married, so maybe you can follow me on this one.
-<br />
-<br />
+<span class="break"></span>
 In my life I have known many mothers, a few bad, but mostly good ones. I have also known some great mothers. I would have to say Michelle Obama is in that last category; I don’t know for sure, but her kids come first, it seems to me.
 </p>
 <p class="h-l">
@@ -1565,8 +1406,7 @@ In my life I have known many mothers, a few bad, but mostly good ones. I have al
 </p>
 <p>
 <span class="douglas">Douglas:</span> It is. “Hey, honey we can save money if we fly back Tuesday, instead of Sunday”. The answer is always no. Mothers demand that their children be there; school attendance must be in some unwritten manual of motherhood. It doesn’t matter if you are the President of the United States or the president of the plumbers union; a mom is a mom, and a good mom is a good mom.
-<br />
-<br />
+<span class="break"></span>
 So good luck to Barack Obama to get her to have the kids miss school for some exodus to the Caribbean, even one child, forget it. It’s just not going to happen. It looks bad for the mom, it derides her motherly instincts.
 </p>
 <p class="h-l">
@@ -1574,8 +1414,7 @@ So good luck to Barack Obama to get her to have the kids miss school for some ex
 </p>
 <p>
 <span class="douglas">Douglas:</span> She does, some mothers don’t have to wait until they are grandmothers to see the cycle, and Michelle Obama is one of them.
-<br />
-<br />
+<span class="break"></span>
 Again, to a man this would like bringing your masterwork, the Picasso you just painted out in the rain.
 </p>
 <p class="h-l">
@@ -1583,8 +1422,7 @@ Again, to a man this would like bringing your masterwork, the Picasso you just p
 </p>
 <p>
 <span class="douglas">Douglas:</span> But let’s look at this in another way, really. You just spent 8 years building your house, now you’re going to take a vacation from it. Why? Live in your house.
-<br />
-<br />
+<span class="break"></span>
 I checked online, I can’t be sure, but I don’t believe any president has ever left the country that quickly for an international vacation after leaving office. I just could find no evidence of it. Oh they all will travel, but not right away.
 </p>
 <p class="h-l">
@@ -1592,20 +1430,15 @@ I checked online, I can’t be sure, but I don’t believe any president has eve
 </p>
 <p>
 <span class="douglas">Douglas:</span> That is such a good point. Yes, you are so right on that.
-<br />
-<br />
+<span class="break"></span>
 I remember when I had a small business that I owned for just a few years, back when I was a young man. It was extremely stressful. Just providing jobs for people was stressful enough, and for the ten men and women who worked for me, I had to make sure I had enough money every week for payroll; I had to make sure they had food on the table for their families. I took my responsibility seriously. So the minute I go out from under that business, from under that stress, it was a huge relief. I went straight into my bedroom and fell into exhaustion, and my body shook for days. It was responding to the massive release of stress. I was 25 years old.
-<br />
-<br />
+<span class="break"></span>
 Barrack Obama is not in charge of some rinky-dink small business. No, he was the President of The United States of America. He wasn’t responsible for 10 people, but instead 320 million! He had to make sure they all were taken care. He had perhaps one of the top five most stressful jobs in the world. The stress ravages and distorts you, and rarely do you leave office even remotely resembling the appearance of the man who entered it. He served two full terms, eight full years. Barack Obama was in his 50’s.
-<br />
-<br />
+<span class="break"></span>
 It is a massive let down. He had literally the entire country on his back, then all of a sudden it is gone; it is a deflation of your defenses, of your hormones.
-<br />
-<br />
+<span class="break"></span>
 You lie to your body for months and years, promising it tomorrow the stress will be gone. You promise yourself you can sleep tomorrow night. All these lies, all these deceptions you trick your body with, your sleep cycle with, come due for collection the minute you get away from that stress. They came due the minute he boarded the plane and left Washington D.C.
-<br />
-<br />
+<span class="break"></span>
 The stress would have hit him. No, there is a reason former presidents do not travel the minute they get out of office. It is almost physically impossible to do so.
 </p>
 <p class="h-l">
@@ -1625,8 +1458,7 @@ The stress would have hit him. No, there is a reason former presidents do not tr
 </p>
 <p>
 <span class="douglas">Douglas:</span> The list of improbabilities goes on and on. Why take your kids with you? He had just taken them to Hawaii less than a month earlier. That’s plenty tropical. If you want to go on a family vacation why not wait until summer?
-<br />
-<br />
+<span class="break"></span>
 Hawaii would have made sense, and at least it would have been in the USA, the country you just spent eight years building. It is where he had been going on vacation to for years.
 </p>
 <p class="h-l">
@@ -1637,14 +1469,12 @@ Hawaii would have made sense, and at least it would have been in the USA, the co
 </p>
 <p class="h-l">
 	H.L. I agree. It doesn’t add up otherwise.
-<br />
-<br />
+<span class="break"></span>
 Also if you were in Washington D.C why would you fly all the way out West to California for a day or two; then fly all the way back East again. Seems somewhat deceptive, like you said sleight of hand; we are going this way, and now that way.
 </p>
 <p>
 <span class="douglas">Douglas:</span> No, they were going to flee. They were preparing to flee, Obama could not anticipate what President Trump would do, how much he knew and what was coming next. Barack Obama was certain the minute Donald Trump entered office, he would release all he knew about the cover-up and concealment of The Theorem, of The Legacy Letter and of his knowledge of the wiretapping of Trump Tower. Remember, just a few weeks before the election, on The Theorem Website, I all but foreshadowed this would happen. I all but foreshadowed that prosecution was imminent, and that a change was coming.
-<br />
-<br />
+<span class="break"></span>
 You have to understand it’s not the way you would normally see it, the way he saw it.
 </p>
 <p class="h-l">
@@ -1658,11 +1488,9 @@ You have to understand it’s not the way you would normally see it, the way he 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Barack Obama wasn’t seeing just Donald Trump coming at him, he was seeing double; Fred Trump helping his son with real estate or walking with him down a street in Manhattan.
-<br />
-<br />
+<span class="break"></span>
 He didn’t just see me coming at him, he saw my father helping me in the produce business or writing. He was seeing double.
-<br />
-<br />
+<span class="break"></span>
 No, what Barack Obama needed to offset this magnified perception was a father figure with an airline.
 </p>
 <p class="h-l">
@@ -1676,11 +1504,9 @@ No, what Barack Obama needed to offset this magnified perception was a father fi
 </p>
 <p>
 <span class="douglas">Douglas:</span> No, she’s not. You are so right about that. But Obama has no one he can relate this trauma to. He is trying to contain it within himself, but it’s coming out.
-<br />
-<br />
+<span class="break"></span>
 She is first worried about her children. But she also loves her husband and as favor, she will give into his paranoia just this one time. He is a convincing speaker, and he has convinced her without a shadow of a doubt that President Trump is going to arrest them.
-<br />
-<br />
+<span class="break"></span>
 Plus he has given her the heights of the American accomplishment. That is worth something, it might get a woman on a plane once, maybe even if she’s a mother, but it won’t be easy.
 </p>
 <p class="h-l">
@@ -1688,8 +1514,7 @@ Plus he has given her the heights of the American accomplishment. That is worth 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well but at that time, what he was saying could have been laced with some truths. To get her to go, he had to pull out all the tricks.
-<br />
-<br />
+<span class="break"></span>
 This may be the first time she has learned the depth of the cover-up. To feed this neurotic state, he will reveal all State Secrets to her, all in order to stop the anxiety from consuming him. It is our biological limitation as a man, as a male; a woman can smother our insecurities and heal our perceived inadequacies with the simple nod of her head in agreement. A gentle caress does even more.
 </p>
 <p class="h-l">
@@ -1709,8 +1534,7 @@ This may be the first time she has learned the depth of the cover-up. To feed th
 </p>
 <p>
 <span class="douglas">Douglas:</span> She is a mother, a role model, former First Lady, a lawyer and then a wife. He is in crisis; he needs someone to listen to his whining, and his paranoia while he rewinds all the events to a conclusion; thus enabling him to eventually initiate a plan of action.
-<br />
-<br />
+<span class="break"></span>
 I don’t mean to sound unsympathetic to her needs, but I am first concerned about the one in the deepest crisis.
 </p>
 <p class="h-l">
@@ -1718,8 +1542,7 @@ I don’t mean to sound unsympathetic to her needs, but I am first concerned abo
 </p>
 <p>
 <span class="douglas">Douglas:</span> You’re right; and that is a very good point. You see Nekar Island was a departure point. If President Trump released more, disclosing what he likely knew, and the dialogue in Washington was circulating around prosecuting Barack Obama, then some decisions would have to be made. Like you said, his wife is not going to subject her children, her immortality, to a life on the run. So there, in the Caribbean, they would part ways. Michelle Obama would return to the United States with her children, and one of Branson’s private jets would shuttle off Barack Obama to an undisclosed location. This until the Liberal Elite in D.C. could reason and negotiate with the newly minted president who would have likely been furious over the entire ordeal. Then Obama would return to the U.S. and face the music.
-<br />
-<br />
+<span class="break"></span>
 But at least Nekar Island was a place where they could spend some quality family time before the split, which at this point Barack Obama was convinced would be inevitable.
 </p>
 <p class="h-l">
@@ -1733,8 +1556,7 @@ But at least Nekar Island was a place where they could spend some quality family
 </p>
 <p>
 <span class="douglas">Douglas:</span> They get home, Obama is starting to unwind, and then crash it all starts again! Though this time it is going to be worse; this time he is going to be alone.
-<br />
-<br />
+<span class="break"></span>
 This time he is not planning on coming back.
 </p>
 <p class="h-l">
@@ -1742,8 +1564,7 @@ This time he is not planning on coming back.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, but even before that we have to take a look at the situation he is in. Obama’s access to surveillance for the most part is gone. It has been for some time. So the worst thing for him is the lack of information.
-<br />
-<br />
+<span class="break"></span>
 	Of course coming down off of surveillance is not like coming off of a drug, but for him it is close. The lack of ability to know is going to eat at him, especially when now he is on the other end.
 </p>
 <p class="h-l">
@@ -1769,8 +1590,7 @@ This time he is not planning on coming back.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, now you see it. This was a cornerstone of his presidency. He was essentially addicted to it. This is more than needing to know, it is everything to know.
-<br />
-<br />
+<span class="break"></span>
 Because without the surveillance where is he again?
 </p>
 <p class="h-l">
@@ -1778,11 +1598,9 @@ Because without the surveillance where is he again?
 </p>
 <p>
 <span class="douglas">Douglas:</span> That’s it.
-<br />
-<br />
+<span class="break"></span>
 He is back there in his childhood and he is in a very bad condition to face those fears. He is exhausted. And you know what happens when you stop, the pain from those eight years catches up to you.
-<br />
-<br />
+<span class="break"></span>
 Now here is where I get angry. In fact, really pissed off: where the hell was the mental health community? Where the hell was the psychiatrist? I mean at this point we are about to lose a president. This is going to be a national loss, with international implications!
 </p>
 <p class="h-l">
@@ -1790,8 +1608,7 @@ Now here is where I get angry. In fact, really pissed off: where the hell was th
 </p>
 <p>
 <span class="douglas">Douglas:</span> And if there were stimulants involved, this is going to magnify the comedown.
-<br />
-<br />
+<span class="break"></span>
 Now I am not saying he was on drugs or anything like that. Do not pin that on me at all. I am just saying that there are things that we as private citizens are not aware of; and when you are responsible for 300 plus million people then there are legal pharmaceutical aids to get you through an otherwise impossible level of stress and an unforgiving schedule.
 </p>
 <p class="h-l">
@@ -1805,8 +1622,7 @@ Now I am not saying he was on drugs or anything like that. Do not pin that on me
 </p>
 <p>
 <span class="douglas">Douglas:</span> So it’s February and he is thinking to himself about the Clintons. He realizes something very profound. Even in this deteriorating state he gains clarity when he thinks of them.  He quickly realizes that they are old. They are really old. He also realizes that in 10 or 15 years they will likely not be here anymore, but he will.
-<br />
-<br />
+<span class="break"></span>
 He also knows The Theorem is not going away anytime soon. He knows this better than anyone. He can see the more he pushed it down the more curious people became, he watched those frustrating    dynamics up close for many years.
 </p>
 <p class="h-l">
@@ -1814,15 +1630,12 @@ He also knows The Theorem is not going away anytime soon. He knows this better t
 </p>
 <p>
 <span class="douglas">Douglas:</span> He also knows this entire cover-up will someday likely unfold. Someone from somewhere is going to snap. There are just too many players, too many loose ends.
-<br />
-<br />
+<span class="break"></span>
 Then there is President Trump. If he gets caught, it will be a nightmare to have Trump in control and telling everyone, “I told you so!”
 All of this is going through his head, all of it.
-<br />
-<br />
+<span class="break"></span>
 Then he thinks of the image of the Clintons. Everyone knows of them as corrupt. Yet they function just fine. He doesn’t see himself able to put that hat on. You see now we are into the difference, the filth of the human heart; between neglect and abuse.
-<br />
-<br />
+<span class="break"></span>
 The Clintons were abused as children; Obama for the most part was only neglected and deserted. This is a huge difference on how the character forms. In some ways they subconsciously seek out the punishment, in some ways he does not. It is foreign to him.
 </p>
 <p class="h-l">
@@ -1830,8 +1643,7 @@ The Clintons were abused as children; Obama for the most part was only neglected
 </p>
 <p>
 <span class="douglas">Douglas:</span> But he also knows the Clintons bounce. He knows they bounce and turn and somehow float; and he sees the finger pointing at him. He marvels at the various scandals they have survived. Their image is already tarnished, his is not.
-<br />
-<br />
+<span class="break"></span>
 He has way more to lose than them.
 </p>
 <p class="h-l">
@@ -1840,14 +1652,11 @@ He has way more to lose than them.
 <p>
 <span class="douglas">Douglas:</span> But it just never stops. This is Jaws on a big day with huge swells pounding the Maui Coastline; one after another, wave upon relentless wave!
 He realizes the terror of living every day, waking up not knowing if this will be his last day of freedom, waiting for that knock on the door, or no knock at all. This fear alone has driven a many a criminal to confession. It’s a big deal, a really big issue. Getting away with something is not always getting away with something; the stress on the human body is severe.
-<br />
-<br />
+<span class="break"></span>
 We have all heard of people who lived on the run for years, and one day just confess and surrender. It happens. Only a certain type of person can withhold that sin inside of them, and he is not that kind of person.
-<br />
-<br />
+<span class="break"></span>
 It is pulling him deep under the surf now.
-<br />
-<br />
+<span class="break"></span>
 He can’t really make any long term plans; he doesn’t know what tomorrow holds in store for him. He is already being punished. This was supposed to be the best time of his life, but make no mistake about it, it is a nightmare.
 </p>
 <p class="h-l">
@@ -1855,11 +1664,9 @@ He can’t really make any long term plans; he doesn’t know what tomorrow hold
 </p>
 <p>
 <span class="douglas">Douglas:</span> That’s right, but what is going on in his head is far from over, because when he dodges one wave another comes crashing down on him.
-<br />
-<br />
+<span class="break"></span>
 What about his legacy? What about the African-American community that has tirelessly supported him? We could never know what it would be like to represent the symbol of hundreds of year of oppression finally released.
-<br />
-<br />
+<span class="break"></span>
 We cannot understand what it must have felt like to have been the one elevated to those heights. Nor can we understand how he loved them for their praise, how unworthy he must have felt to receive their adoration; how anyone would have felt unworthy of that level of adoration. Our first African-American president; this was a once in a country phenomenon!
 </p>
 <p class="h-l">
@@ -1867,8 +1674,7 @@ We cannot understand what it must have felt like to have been the one elevated t
 </p>
 <p>
 <span class="douglas">Douglas:</span> This was always a huge problem.  I remember years ago, I was a big Nirvana fan. And when Kurt Cobain was alive, I remember every time they would over elevate him and put him on a pedestal, I would just cringe. I really would. It was like Kurt Cobain was not just a brilliant and innovative musician with a unique sound; he is the future of music! Or else it was some other overblown statement.
-<br />
-<br />
+<span class="break"></span>
 I would just want to say into the radio, “No stop! Don’t put that much pressure on him. Nobody can handle that much at that age. Let the man have a few failures first.”
 </p>
 <p class="h-l">
@@ -1882,8 +1688,7 @@ I would just want to say into the radio, “No stop! Don’t put that much press
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, but like a pregnancy; are you ever too young for your immortality?
-<br />
-<br />
+<span class="break"></span>
 I mean he had one chance, and he took it. But on an individual level, at this moment, he was paying a high price.
 </p>
 <p class="h-l">
@@ -1891,14 +1696,11 @@ I mean he had one chance, and he took it. But on an individual level, at this mo
 </p>
 <p>
 <span class="douglas">Douglas:</span> Finally, there is The Theorem. To most readers, those who aren’t familiar with the discovery, this will seem overblown, but in reality it is an underestimation.
-<br />
-<br />
+<span class="break"></span>
 The Theorem is a discovery of such magnitude that it will simply change everything. It is a once in a civilization discovery. To suppress this was a gargantuan task. It was an accomplishment of suppression that will forever be remembered throughout history. It will be one of the largest tag lines connected to his name. It was a multinational effort, with universities involved, and so many players; likely close to a hundred household names from around the globe. There were trillions of dollars involved and we as a society forfeited a great deal of our civil liberties to enable this suppression. It’s all going to come out.
-<br />
-<br />
+<span class="break"></span>
 To be the villainous suppressor unprecedented wasn’t why he went to law school; it wasn’t why he entered politics. But at this moment, this is how he is sure he will be remembered.
-<br />
-<br />
+<span class="break"></span>
 We saw all of this yesterday, but it is circulating through our former presidents’ mind at this stage.
 </p>
 <p class="h-l">
@@ -1906,8 +1708,7 @@ We saw all of this yesterday, but it is circulating through our former president
 </p>
 <p>
 <span class="douglas">Douglas:</span> Then there is the research, the lives lost because this information was suppressed. The list goes on and on.
-<br />
-<br />
+<span class="break"></span>
 This wasn’t some southern preacher burning Elvis records or Beatles albums; this was a level of suppression and censorship even the most reactionary individual would run from.
 </p>
 <p class="h-l">
@@ -1915,8 +1716,7 @@ This wasn’t some southern preacher burning Elvis records or Beatles albums; th
 </p>
 <p>
 <span class="douglas">Douglas:</span> No, he saw there would be nowhere to run and nowhere to hide. He was alone. He was around others, yet he was alone. This was as serious as it could become. He was checking out.
-<br />
-<br />
+<span class="break"></span>
 People, he was checking out! Barack Obama was on his way out!
 </p>
 <p class="h-l">
@@ -1924,11 +1724,9 @@ People, he was checking out! Barack Obama was on his way out!
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, but there is something else first.
-<br />
-<br />
+<span class="break"></span>
 There is one thing we have not talked about and it is a very important emotion in relation to being a motivating factor in regards to Barack Obama’s actions here. It is one that I like to avoid as I suffer from its consequences; though not quite to the level that Barack Obama does at this stage of his life.
-<br />
-<br />
+<span class="break"></span>
 It is one emotion that dominates over all the other reasons, all the problems we have talked about; being concerned that President Donald Trump will prosecute him, letting the African-American community down, concerns in relation to his legacy, being out of the loop with regards to surveillance and the long term implications of suppressing The Theorem. It is an emotion more than any others that is going to be responsible for his attempt on his own life he is about to undertake.
 </p>
 <p class="h-l">
@@ -1936,14 +1734,11 @@ It is one emotion that dominates over all the other reasons, all the problems we
 </p>
 <p>
 <span class="douglas">Douglas:</span> Shame. And again, shame itself is so poorly understood, it really is. For me shame is hard to define and convey for two reasons. The first is that it is not necessarily, or at least completely, womb based in origin. Contrast this to guilt, which we may get into tomorrow a little bit.
-<br />
-<br />
+<span class="break"></span>
 Another reason I have a hard time with it is because, again, I suffer from it as well. In my case it is due to my sexual abuse; the multiple instances of rape I experienced as a young child.
-<br />
-<br />
+<span class="break"></span>
 HL. Understandable.
-<br />
-<br />
+<span class="break"></span>
 <span class="douglas">Douglas:</span> But Barack Obama has it about as bad as I have seen it in anyone. There are many reasons for this, and we can’t go into all of them. But as you would imagine a large progenitor for shame is abandonment by the mother; in this case, by his mother.
 </p>
 <p class="h-l">
@@ -1954,8 +1749,7 @@ HL. Understandable.
 </p>
 <p class="h-l">
 	H.L. I see; this makes a large amount of sense. He feels deserted by his mother, and then he feels inadequate and shameful as a child. Later as you say there is a link between that and suicide attempts.
-<br />
-<br />
+<span class="break"></span>
 So there is actually an indirect link with abandonment as a child and attempted suicide later in life?
 </p>
 <p>
@@ -1972,8 +1766,7 @@ So there is actually an indirect link with abandonment as a child and attempted 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, I think that is very likely what happened.
-<br />
-<br />
+<span class="break"></span>
 Of course from a male perspective what I posted on The Theorem’s Website, calling him out online about the prosecutions didn’t help. So I was providing the shame from the male vantage point. But like you inferred, it doesn’t seem that would be complete enough; the abandonment by his father. It is a female behind the final trigger to nearly push him over.
 </p>
 <p class="h-l">
@@ -2005,17 +1798,13 @@ Of course from a male perspective what I posted on The Theorem’s Website, call
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, and no. Shame is almost like backwards guilt. Shame stems from when you give someone everything and they reject you, especially at an early age.
-<br />
-<br />
+<span class="break"></span>
 Obama, as most all children do, gave his mother everything. But in his case he was sent away; deemed by circumstance inadequate to command her attention, not entertaining enough to fill up her day. This is how his subconscious would have experienced it.
-<br />
-<br />
+<span class="break"></span>
 Guilt would be closer to the opposite. Someone gave you everything and you reject them; having done something wrong to them or deserted them, this would be a cause to have guilt.
-<br />
-<br />
+<span class="break"></span>
 One of the reasons the relationship is confusing is that behind a person who commits an act that they feel guilty about, often there is a sense of feeling extremely powerless; so therefore they had to use another person to gain back that equilibrium, essentially doing to others what was once done to them.
-<br />
-<br />
+<span class="break"></span>
 So when they are exposed for the act they feel guilty about, the underlying shame stems from the inadequacies and events defining their personality that caused them to commit that act will then rise to the surface; which likely in this case has its origins in rejection as we have seen.
 </p>
 <p class="h-l">
@@ -2023,11 +1812,9 @@ So when they are exposed for the act they feel guilty about, the underlying sham
 </p>
 <p>
 <span class="douglas">Douglas:</span> Exactly, though shame is much more complex than we are exploring here. In the most severe degree, it is the complete self-judgment of inadequacies and inability to see the cause at the origin. It is not a retail emotion, it is a wholesale one; a total condemnation of the self, global in its consumption. Therefore it completely snuffs out all logic, and retreats into its private world, where it can feed on itself undisturbed.
-<br />
-<br />
+<span class="break"></span>
 I should have explained this earlier today as it would have made more sense, but I avoided it. As I say, I suffer from it as well, though not like I did in my youth.
-<br />
-<br />
+<span class="break"></span>
 When you plug shame into the equation, and the avoidance of it; his wanting to flee in the beginning right after the election makes sense, as embarrassment of his perceived inadequacies were what he feared being exposed to the public.
 </p>
 <p class="h-l">
@@ -2035,11 +1822,9 @@ When you plug shame into the equation, and the avoidance of it; his wanting to f
 </p>
 <p>
 <span class="douglas">Douglas:</span> I agree, but he is not thinking clearly. He is not thinking clearly and he is not realizing he was given an impossible task. He is not thinking clearly that he has been betrayed. All of this was logical, but his mind is not logical now.
-<br />
-<br />
+<span class="break"></span>
 The fear of shame will fly that plane first to California, then to the Caribbean. Now a few months later shame will fly that plane to Hawaii and then ultimately his prepared last stop in French Polynesia, where he plans on ending his life.
-<br />
-<br />
+<span class="break"></span>
 Avoidance of embarrassment will be the copilot on that flight; he will attempt to flee, to reject others symbolically before he feels that rejection from them.
 </p>
 <p class="h-l">
@@ -2059,8 +1844,7 @@ Avoidance of embarrassment will be the copilot on that flight; he will attempt t
 </p>
 <p>
 <span class="douglas">Douglas:</span> Really? I would believe it.
-<br />
-<br />
+<span class="break"></span>
 No, he was definitely planning to commit suicide; there is no doubt in my mind. That is interesting though. I knew it was right after his mother had his sister, and who knows she might have had postpartum depression, as back then they didn’t really understand what that was.
 </p>
 <p class="h-l">
@@ -2068,11 +1852,9 @@ No, he was definitely planning to commit suicide; there is no doubt in my mind. 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course, Hillary Clinton is only 5 years younger than his mother was as well. It is interesting.
-<br />
-<br />
+<span class="break"></span>
 The Clintons set themselves up as the top of the Democratic Party, as the apex of the struggle for the common man. Barack Obama, while he is wise enough to see through their charade and the façade has unfinished emotional issues with his mother; he therefore allows Hillary to enter, all the while oblivious to the corruption she reeks of and the deception she radiates.
-<br />
-<br />
+<span class="break"></span>
 So he could have been looking for a symbolic surrogate to please, having Hillary there in The White House in the beginning of his Presidency.
 </p>
 <p class="h-l">
@@ -2095,11 +1877,9 @@ So he could have been looking for a symbolic surrogate to please, having Hillary
 </p>
 <p class="h-l">
 	H.L. I have to say though it is really hard not to empathize here with Barack Obama at this moment. Knowing what we know now.
-<br />
-<br />
+<span class="break"></span>
 He is deserted as a kid by his mother. Then he gets into office and like you said he is taken in by this demented mother figure, only 5 years younger than his own mother. He is forced to stop an unstoppable force in The Theorem.
-<br />
-<br />
+<span class="break"></span>
 Hillary then deserts him, “You’re on your own Barack!” Now he is left feeling those pains again, heading to the last place in the world, as you say, he should be going and that is Hawaii where the origins of those emotions started in the first place.
 </p>
 <p>
@@ -2122,17 +1902,13 @@ Hillary then deserts him, “You’re on your own Barack!” Now he is left feel
 </p>
 <p>
 <span class="douglas">Douglas:</span> Maybe. One thing I am almost sure you are right on though, there is a female behind it. Certainly it makes the most sense.
-<br />
-<br />
+<span class="break"></span>
 While fleeing perceived prosecution and fleeing the vicinity after the inauguration was male-dominated, as we saw in him wanting to go to Neckar Island and have Branson fly him via one of his airplanes to safety. That was male-focused, as in Branson he saw a father figure, a protector, someone he could confide in.
-<br />
-<br />
+<span class="break"></span>
 The Caribbean trip however culminated over six months of male-dominated focus. But now, like a bi-annual cycling manic-depressive the switches deep within his limbic regions are depleted of the essential sodium needed to keep his focus on his patriarchal abandonment. Suddenly they malfunction, and his feminine desertions and betrayals rise to surface with the action of a coiled spring.
-<br />
-<br />
+<span class="break"></span>
 Therefore, this time, when he flees to the South Pacific it will be much different. There is nothing but the abyss to await him. Here distance is the only protection he will receive, and this is ultimately his goal on a subconscious level. Distance is the key, as he will travel 6000 miles away from the perceived shame he has experienced or expects to experience at the feminine hands of someone in or very near Washington D.C.
-<br />
-<br />
+<span class="break"></span>
 Barack Obama has no idea what is driving him on a conscious level at this moment, the shame is complete. He will not listen to anyone. Nothing is going to break down those defenses and the childhood barriers. Remember they are hard if not close to impossible to break down, as they were put there by Nature to prevent the child from splintering apart. No one in his vicinity therefore will be able to reach Barack Obama, as the impenetrable biological barriers seat him on that plane in what will literally be a flight of shame.
 </p>
 <p class="h-l">
@@ -2140,8 +1916,7 @@ Barack Obama has no idea what is driving him on a conscious level at this moment
 </p>
 <p>
 <span class="douglas">Douglas:</span> Barack Obama feels worthless, absolutely worthless. Yet ironically, he has just accomplished the greatest feat in front of the curtain, a two-term presidency, the first African-American president ever! Behind the curtains we talked about that yesterday, an amazing accomplishment; he stopped the unstoppable, with The Legacy Letter and The Theorem.
-<br />
-<br />
+<span class="break"></span>
 It is no matter, his amazing accomplishments, because all he can see is that 5th grader being sent away; hence the power of the human mind to elevate and destroy, often simultaneously.
 </p>
 <p class="h-l">
@@ -2149,11 +1924,9 @@ It is no matter, his amazing accomplishments, because all he can see is that 5th
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, then came the tweet on March 4th by President Trump; the tweet was the cog that turned the gear that started the wheel to roll that would ultimately cease moving somewhere in French Polynesia.
-<br />
-<br />
+<span class="break"></span>
 It was what Obama thought was only the beginning of what President Trump was going to disclose. First President Trump would say he had surveillance, and then next the whole cover-up would come out. This is what Barack Obama was convinced was going to happen.
-<br />
-<br />
+<span class="break"></span>
 Then came the tweet, and like the 12 year old me, he ran. But this time he wasn’t coming back.
 </p>
 <p class="h-l">
@@ -2164,8 +1937,7 @@ Then came the tweet, and like the 12 year old me, he ran. But this time he wasn�
 </p>
 <p class="h-l">
 	H.L. So let’s clean this up a little bit here. It’s early March 2017. Just a little over a week after Donald Trump’s tweet of March, 4th, Barack Obama is going to leave for the South Pacific; French Polynesia.
-<br />
-<br />
+<span class="break"></span>
 He will arrive there on March 15th. Before he goes there he will stop in Hawaii to play golf with friends and meet some tech executives, this is on March 14th. And before that on Monday, March 13th he will hold a secretive meeting with tech executives in San Jose, and the day before that he will lunch with Warren Buffet on Sunday in Omaha. Does that match what you have?
 </p>
 <p>
@@ -2176,14 +1948,11 @@ He will arrive there on March 15th. Before he goes there he will stop in Hawaii 
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes that is right. Of course the thought of suicide was horrific. He couldn’t imagine doing it, but he was going to.
-<br />
-<br />
+<span class="break"></span>
 Now you have to really understand Barack Obama to realize the level of class he intends to accomplish this with. He is not going to drive to Pennsylvania or Maryland do this is in a motel and have some maid find him. I know he had Secret Service, but I’m trying to make a point here.
-<br />
-<br />
+<span class="break"></span>
 He is going to go far away from his people, all 300 plus million of them, very far. He doesn’t want an American citizen to be the one to find him. He doesn’t want to cause anymore trauma than he has to. This is very classy, very selfless and very considerate. This is well rehearsed by him, and he begins the steps with grace.
-<br />
-<br />
+<span class="break"></span>
 Now you also need to remember or be reminded that he is a big fan of the Godfather movies. As there is some choreographed drama at play here as well.
 </p>
 <p class="h-l">
@@ -2194,11 +1963,9 @@ Now you also need to remember or be reminded that he is a big fan of the Godfath
 </p>
 <p class="h-l">
 	H.L. Yes, who can forget? He was to testify against Michael Corleone in The Godfather Part II. Then Pentangeli’s’ brother showed up from Italy.
-<br />
-<br />
+<span class="break"></span>
 Tom Hagan comes and talks to Frank Pentangeli and tells him of the Roman Empire and how the traitors can save their families name if they committed suicide. But often they had a party first.
-<br />
-<br />
+<span class="break"></span>
 You think that’s how he planned it?
 </p>
 <p>
@@ -2227,14 +1994,12 @@ You think that’s how he planned it?
 </p>
 <p>
 <span class="douglas">Douglas:</span> No, I just think it was another example of his selfless thinking.
-<br />
-<br />
+<span class="break"></span>
 Remember he is surrounded by Secret Service agents. These people have become his friends and they will get blamed, or blame themselves, if this looks like an impulsive act.
 </p>
 <p class="h-l">
 	H.L. Now that makes sense. I have never in my life heard something so disturbing, but at the same time so real.
-<br />
-<br />
+<span class="break"></span>
 He was in bad shape.
 </p>
 <p>
@@ -2245,8 +2010,7 @@ He was in bad shape.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Now this first action or first stop can be interpreted in two ways. I will give you both.
-<br />
-<br />
+<span class="break"></span>
 When he stopped by for a ‘secret meeting’ with the tech executives and the other with Warren Buffet, he very well may have been thanking them. This would have been very classy. This would have been in accordance with the entire production.
 </p>
 <p class="h-l">
@@ -2272,8 +2036,7 @@ When he stopped by for a ‘secret meeting’ with the tech executives and the o
 </p>
 <p>
 <span class="douglas">Douglas:</span> No, I already know who most of them are. They have been dogging me for years. They are irrelevant; they are what I worked so hard for 25 years to never become.
-<br />
-<br />
+<span class="break"></span>
 But I know a man who now lives on Pennsylvania Ave who is going to be very interested in their names.
 </p>
 <p class="h-l">
@@ -2281,8 +2044,7 @@ But I know a man who now lives on Pennsylvania Ave who is going to be very inter
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes they have been, and have made the presidents last four years hell.
-<br />
-<br />
+<span class="break"></span>
 All their silly billionaire reading lists are not going to help them now; for they forgot to learn the one primary lesson of history.
 </p>
 <p class="h-l">
@@ -2314,8 +2076,7 @@ All their silly billionaire reading lists are not going to help them now; for th
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, but you read The Theorem; you know how intimidating Nature can be.
-<br />
-<br />
+<span class="break"></span>
 That is the worst scene to play out that psychodrama. Anything that reminds you of the awesome power of Nature uncontrolled can reignite those origins we all experienced. This includes the process of birth itself, of which suicide is a reenactment of.
 </p>
 <p class="h-l">
@@ -2323,8 +2084,7 @@ That is the worst scene to play out that psychodrama. Anything that reminds you 
 </p>
 <p>
 <span class="douglas">Douglas:</span> That would be the perfect place. To see Nature controlled like that should suppress those impulses, more so than the dominance of Nature he experienced. In theory at least, now I don’t know if such statistics would support that.
-<br />
-<br />
+<span class="break"></span>
 But I would have to think that overwhelming swath of beauty would have to make one feel powerless and insignificant. It would me.
 </p>
 <p class="h-l">
@@ -2332,8 +2092,7 @@ But I would have to think that overwhelming swath of beauty would have to make o
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure, so you go from feeling powerless in the manmade world, losing your throne essentially to feeling powerless in the natural world.
-<br />
-<br />
+<span class="break"></span>
 I don’t know; it’s interesting. Maybe then in a way that is what he needed. I am not sure now, I’m riddled, and it is not something I should be riddled by.
 </p>
 <p class="h-l">
@@ -2377,8 +2136,7 @@ I don’t know; it’s interesting. Maybe then in a way that is what he needed. 
 </p>
 <p>
 <span class="douglas">Douglas:</span> I think at that point, likely you are right on target.
-<br />
-<br />
+<span class="break"></span>
 She might have needed someone to support her so that she could support him, as he was likely emptying everything out of her. No woman, no matter how strong can cope with a man who has suppressed his abuse for close to fifty years and now suddenly it fires explosively in every direction.
 </p>
 <p class="h-l">
@@ -2386,8 +2144,7 @@ She might have needed someone to support her so that she could support him, as h
 </p>
 <p>
 <span class="douglas">Douglas:</span> It kind of busted up the facade that he would be there a few months working on a book, the celebrities coming though.
-<br />
-<br />
+<span class="break"></span>
 I don’t think he was there more than three or maybe four weeks and then they showed up. If I was really working on a book down there, I would have sent the celebrities away.
 </p>
 <p class="h-l">
@@ -2404,14 +2161,12 @@ I don’t think he was there more than three or maybe four weeks and then they s
 </p>
 <p class="h-l">
 	H.L. I know that one of the celebrities that were there, Oprah, said, “What happened on the boat stays on the boat.” This was in response to questions about their journey to visit Obama.
-<br />
-<br />
+<span class="break"></span>
 After listening to this, it sounds ominous, that statement.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I heard that as well. Yes, that’s extremely ominous.
-<br />
-<br />
+<span class="break"></span>
 But it worked. They did a good job, really they did. I am sure they are proud; someone down there saved a presidents life. Maybe they were all in on it.
 </p>
 <p class="h-l">
@@ -2425,11 +2180,9 @@ But it worked. They did a good job, really they did. I am sure they are proud; s
 </p>
 <p>
 <span class="douglas">Douglas:</span> Definitely a good sign. You know at first I misinterpreted the entire string of events. I figured well, he was fleeing. This made the most sense initially.
-<br />
-<br />
+<span class="break"></span>
 If he would have gone straight to Indonesia, I would have bought that, as they have no extradition treaty with the U.S. But then, well, you know, it looked bad.
-<br />
-<br />
+<span class="break"></span>
 So it was steps to his recovery really. Start off with the goodbye tour, head to Suicide Island, wife and friends to the rescue, and then off to improving mental health where he can’t be extradited. He would have quite a book in him, if he was brave enough to ever disclose the truth.
 </p>
 <p class="h-l">
@@ -2443,8 +2196,7 @@ So it was steps to his recovery really. Start off with the goodbye tour, head to
 </p>
 <p>
 <span class="douglas">Douglas:</span> You know if President Trump would have sent one more tweet, had any more information to disclose, or revealed one more piece of the puzzle in regards to this wiretapping and cover-up. Likely that would have been enough to push Barack Obama over the edge.
-<br />
-<br />
+<span class="break"></span>
 We, as a nation, really came that close to losing a President by one of the foulest means imaginable.
 </p>
 <p class="h-l">
@@ -2452,11 +2204,9 @@ We, as a nation, really came that close to losing a President by one of the foul
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well, yes. You have to give President Trump the benefit of the doubt. He is man in his seventies, he has likely seen many men on the verge of suicide and it is possible, he said enough is enough; and released nothing more.
-<br />
-<br />
+<span class="break"></span>
 It certainly makes you wonder. Barack Obama was certainly convinced more was going to come out.
-<br />
-<br />
+<span class="break"></span>
 Why would that be?
 </p>
 <p class="h-l">
@@ -2470,8 +2220,7 @@ Why would that be?
 </p>
 <p>
 <span class="douglas">Douglas:</span> No, it will just make tomorrow exceedingly long.
-<br />
-<br />
+<span class="break"></span>
 At the same time, we have been deep into a large amount of recent U.S. History today. A president on the verge of suicide will be a lot for the reader to fathom and ultimately digest. Hopefully those in charge of mental health policy in this country will do some soul searching and realize that Barack Obama’s actions while unique because of his position; were not unique to the masses he once led. And if nothing else good comes from this, at least it should be a wakeup call to us all as a Nation.
 </p>
 <p class="h-l">
