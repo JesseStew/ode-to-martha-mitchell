@@ -280,8 +280,8 @@ export default {
 		blue: '#14143a',
 		pages: [
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Cabin_martha_3.jpg?alt=media&token=b8663a7d-f8e5-4b48-b633-d6d796ea52f7',
-				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/home_final_lazy.jpg?alt=media&token=c839d1da-5868-43b0-93b4-5757cef56c54",
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/home_final.jpg?alt=media&token=57982954-1dcf-448d-a55d-f247acf60c21',
+				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/home_final_lazy.jpg?alt=media&token=103815fa-2c3d-4a18-9c50-b35589962a5d",
 				name: 'Home',
 				path: '/',
 				title: 'Home',
