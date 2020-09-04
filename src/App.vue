@@ -45,6 +45,9 @@ export default {
     font-weight: 900;
     margin-top: -30px;
 }
+.bold {
+    font-weight: bold;
+}
 .small-text {
 	font-size: .7em;
     font-weight: bold;

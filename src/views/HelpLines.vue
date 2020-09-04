@@ -6,28 +6,28 @@
 					World Suicide Hotlines
 				</h1>
 			</v-col>
-			<v-col cols="12">
+			<v-col cols="6">
 				<p>
 					<span class="bold">Australia</span><br />
-					Lifeline www.lifeline.org.au<br />
+					Lifeline <a target="_blank" href="https://www.lifeline.org.au/">www.lifeline.org.au</a><br />
 					Tel 13 11 14
 				</p>
 				<p>
 					<span class="bold">Belgium Centre de Prevention de Suicide</span><br />
-					www.preventionsuicide.be<br />
+					<a target="_blank" href="https://www.preventionsuicide.be/">www.preventionsuicide.be</a><br />
 					Hotline 0800 32 123
 				</p>
 				<p>
 					<span class="bold">Brazil CVV Org</span><br />
-					www.cvv.org.br<br />
+					<a target="_blank" href="https://www.cvv.org.br/">www.cvv.org.br</a><br />
 					Tel 188
 				</p>
 				<p>
 					<span class="bold">Canada</span><br />
 					Crisis Services Canada<br />
 					Tel 1 833 456 4566<br />
-					www.crisisservicescanada.ca<br />
-					Distress Centres www.dcontario.org<br />
+					<a target="_blank" href="https://www.crisisservicescanada.ca/en/">www.crisisservicescanada.ca</a><br />
+					Distress Centres <a target="_blank" href="http://www.dcontario.org/">www.dcontario.org</a><br />
 					Suicide Action Montreal<br />
 					Tel 514 723 4000
 				</p>
@@ -35,14 +35,15 @@
 					<span class="bold">China Beijing</span><br />
 					Suicide Research and Prevention Hotline Tel Free 0800 810 1117<br />
 					Cell Users 010 8295 1332<br />
-					www.crisis.org.cn<br />
+					<!-- here, not working correctly -->
+					<a target="_blank" href="www.crisis.org.cn">www.crisis.org.cn</a><br />
 					Lifeline Shanghai (0433) 273 9595<br />
-					www.lifelineshanghai.org
+					<a target="_blank" href="www.lifelineshanghai.org">www.lifelineshanghai.org</a>
 				</p>
 				<p>
 					<span class="bold">England</span><br />
 					Samaritans<br />
-					www.samaritans.org/<br />
+					<a target="_blank" href="https://www.samaritans.org/">www.samaritans.org</a>/<br />
 					Tel 116.123 National Helpline Tel 111 (Option 2)
 				</p>
 				<p>
@@ -50,52 +51,55 @@
 					SOS Help<br />
 					Hotline 01 46 21 46 46<br />
 					Suicide Ecoute<br />
-					suicideecoute.pads.fr/accueil Hotline 01 45 39 40 00
+					<a target="_blank" href="https://suicideecoute.pads.fr/accueil">suicideecoute.pads.fr/accueil</a> Hotline 01 45 39 40 00
 				</p>
 				<p>
 					<span class="bold">Germany</span><br />
 					International Website Helpline Telefonseelsorge<br />
-					Deutschland National Hotline 0800 1110 111 or 0800 1110 222 www.<br />
-					Telefonseelsorge.org
+					Deutschland National Hotline 0800 1110 111 or 0800 1110 222<br />
+					<a target="_blank" href="https://www.telefonseelsorge.de/">www.Telefonseelsorge.org</a>
 				</p>
 				<p>
 					<span class="bold">Ireland</span><br />
 					Mental Health Ireland<br />
-					www.mentalhealthireland.ie<br />
+					<a target="_blank" href="https://www.mentalhealthireland.ie/">www.mentalhealthireland.ie</a><br />
 					Tel 01 284 1166
 				</p>
 				<p>
 					<span class="bold">Israel</span><br />
 					Tel 1201<br />
-					www.1201.org.il www.Eran.org.il<br />
+					<a target="_blank" href="http://www.1201.org.il/">www.1201.org.il</a> <br /> <a target="_blank" href="https://www.eran.org.il/">www.Eran.org.il</a><br />
 					Tel 972-98891333
 				</p>
 				<p>
 					<span class="bold">Italy</span><br />
 					Pevenire il Suicido<br />
-					www.preveniresuicido.it Samartans ONLUS<br />
+					<a target="_blank" href="https://www.preveniresuicid.eu/home/">https://www.preveniresuicid.eu</a> <br />Samartans ONLUS<br />
 					Tel 800 86 00 22
 				</p>
 				<p>
 					<span class="bold">Japan</span><br />
 					Befrienders Worldwide Osaka Suicide Prevent Center<br />
-					www.spc-osaka.org 06-6260-4343
+					<a target="_blank" href="http://www.spc-osaka.org/">www.spc-osaka.org</a><br /> 06-6260-4343
 				</p>
+			</v-col>
+			<v-col cols="6">
 				<p>
 					<span class="bold">Hong Kong</span><br />
 					Samaritans Hong Kong<br />
-					www.samaritans.org.hk<br />
+					<a target="_blank" href="https://samaritans.org.hk/">www.samaritans.org.hk</a><br />
 					Tel 2896 0000
 				</p>
 				<p>
 					<span class="bold">Kenya</span><br />
 					Befrienders Kenya<br />
-					www.befrienderskenya.org<br />
+					<a target="_blank" href="http://www.befrienderskenya.org/">www.befrienderskenya.org</a><br />
 					Tel 254722178177
 				</p>
 				<p>
 					<span class="bold">Netherlands</span><br />
-					113 Online www.113.nl<br />
+					113 Online<br />
+					<a target="_blank" href="https://www.113.nl/">www.113.nl</a><br />
 					Tel 113 or 0800 0113
 				</p>
 				<p>
@@ -108,7 +112,7 @@
 					<span class="bold">Norway</span><br />
 					Kirkens SOS<br />
 					Tel 22 40 00 40<br />
-					www.kirkens-sos.no
+					<a target="_blank" href="https://www.kirkens-sos.no/">www.kirkens-sos.no</a>
 				</p>
 				<p>
 					<span class="bold">Russia</span><br />
@@ -135,25 +139,27 @@
 				<p>
 					<span class="bold">Switzerland</span><br />
 					Parspas Hotline 027 321 21 21<br />
-					www.parspas.ch<br />
+					<a target="_blank" href="www.parspas.ch">www.parspas.ch</a><br />
 				</p>
 				<p>
 					<span class="bold">United States of America</span><br />
 					National Suicide Prevention Lifeline<br />
 					Tel 1 800 273 8255 Tel 1 800 784 2433<br />
-					www.suicidepreventionlifeline.org
+					<a target="_blank" href="https://suicidepreventionlifeline.org/">www.suicidepreventionlifeline.org</a>
 				</p>
 				<p>
 					<span class="bold">Ukraine</span><br />
 					Lifeline Ukraine<br />
 					Tel 7333<br />
-					www.lifelineukraine.org<br />
+					<a target="_blank" href="https://lifelineukraine.com/">lifelineukraine.com</a><br />
 				</p>
+			</v-col>
+			<v-col class="12">
 				<p class="bold">
 					<span
 						style="
 							font-size: 1.3em;
-						">Note:</span> All phone numbers are within country calling, unless otherwise specified. If you have another country, resource number or Site not listed please inform us and we will do the best we can to add it in a timely manner. The same with corrections: email Suicidelines@thetheorem.org Special thank you to all the giving souls who work the hotlines worldwide; truly, you are our heroes.
+						">Note:</span> All phone numbers are within country calling, unless otherwise specified. If you have another country, resource number or Site not listed please inform us and we will do the best we can to add it in a timely manner. The same with corrections: email <a target="_blank" href="mailto:Suicidelines@thetheorem.org">Suicidelines@thetheorem.org</a> Special thank you to all the giving souls who work the hotlines worldwide; truly, you are our heroes.
 				</p>
 				<p class="bold">
 					<span
