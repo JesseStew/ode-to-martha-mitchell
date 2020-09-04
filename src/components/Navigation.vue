@@ -38,36 +38,6 @@
 						<v-icon>mdi-chevron-left</v-icon>
 					</v-btn>
 				</div>
-				<div :class="homeTitlePosition">
-					<span v-if="$vuetify.breakpoint.xsOnly" class="home-title-text-xs">
-						{{page.text}}
-						<br />
-					</span>
-					<span v-if="$vuetify.breakpoint.smOnly" class="home-title-text-sm">
-						{{page.text}}
-						<br />
-					</span>
-					<span v-if="$vuetify.breakpoint.mdOnly" class="home-title-text-md">
-						{{page.text}}
-						<br />
-					</span>
-					<span v-if="$vuetify.breakpoint.lgAndUp" class="home-title-text-lg">
-						{{page.text}}
-						<br />
-					</span>
-					<span v-if="$vuetify.breakpoint.xsOnly" class="home-subtitle-text-xs">
-						{{page.text}}
-					</span>
-					<span v-if="$vuetify.breakpoint.smOnly" class="home-subtitle-text-sm">
-						{{page.text}}
-					</span>
-					<span v-if="$vuetify.breakpoint.mdOnly" class="home-subtitle-text-md">
-						{{page.text}}
-					</span>
-					<span v-if="$vuetify.breakpoint.lgAndUp" class="home-subtitle-text-lg">
-						{{page.text}}
-					</span>
-				</div>
 				<div
 					style="
 						position: absolute;
@@ -310,7 +280,7 @@ export default {
 		blue: '#14143a',
 		pages: [
 			{
-				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/home_final.jpg?alt=media&token=1d2811c3-4543-4f32-8568-59bbf0cd2d33',
+				src: 'https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/Cabin_martha_3.jpg?alt=media&token=b8663a7d-f8e5-4b48-b633-d6d796ea52f7',
 				lazySrc: "https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/home_final_lazy.jpg?alt=media&token=c839d1da-5868-43b0-93b4-5757cef56c54",
 				name: 'Home',
 				path: '/',
