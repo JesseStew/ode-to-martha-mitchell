@@ -3,51 +3,66 @@
 		<v-row>
 			<v-col cols="12">
 				<h1 class="interview-title">
-					Douglas Arone
+					Contact &amp; Acknowledgements
 				</h1>
-				<v-img position="center" src="https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/headshot.jpg?alt=media&token=098612d8-a9a5-437e-8ac6-92445c665a7a">
-				</v-img>
 			</v-col>
-			<v-col>
-				<h1 class="interview-title">
-					Contact
-				</h1>
+			<v-col cols="12" sm="6">
+				<h3>The Martha Team is:</h3>
 				<p class="px-5">
-					Contact us directly here at TheTheorem.org through our secure email.
-					<!-- here, make sure this is correct -->
-				</p>
-				<p class="px-5">
-					For General Inquiries, comments, corrections or suggestions.
-				</p>
-				<p class="px-5">
-					contact@thetheorem.org TIPLINE
-					<!-- here, make sure this is correct -->
-				</p>
-				<p class="px-5">
-					If you feel in any way you have been targeted for your interest in The Theorem or in The Legacy Letter contact us at the Tipline.
-				</p>
-				<p class="px-5">
-					All correspondence will be 100 percent confidential. Tipline@thetheorem.org
-				</p>
-					<p class="font-weight-medium">
-					Acknowledgments &amp; Legal &amp; Media Talent
-				</p>
-				<p class="px-5">
-					The Martha Team is:<br />
-					H.L. Interviewer<br />
-					L.A. Sean: Content Editor.<br />
-					General Editor Good Matthew:<br />
-					Lead Developer/ Web and Concept Design Miss Lisa:<br />
-					Lead Graphic Artist/ Assistant Web Developer/Lead Photographer<br />
-					Southpark Mike:<br />
-					Lead Artist/ Graphic Artist Miss Mystica:<br />
-					Editorial Assistant TiTi Tracy:<br />
-					Production Assistant / Photographer Boss Potter:
-				</p>
-				<p class="px-5">
-					Completion Financing While all team leaders feel their team is special, this group of hard-working, young people were particularly devoted to this project. Thank you so very much…Douglas
-					To inquire about any one of these talented individuals above contact talent@thetheorem.org Permissions and Legal: legal@thetheorem.org
-				</p>
+					<span style="font-weight: bold;">H.L.</span> Interviewer<br />
+<span style="font-weight: bold;">L.A. Sean:</span> Content Editor/General Editor<br />
+<span style="font-weight: bold;">Mountain Crimp Jesse:</span> Lead Developer/ Web and Concept Design<br />
+<span style="font-weight: bold;">Miss Keli:</span> Lead Graphic Artist/ Assistant Web Developer/Lead Photographer<br />
+<span style="font-weight: bold;">Southpark Mike:</span> Lead Artist/ Graphic Artist/ Original Artwork Creation<br />
+<span style="font-weight: bold;">Pastor Stacey:</span> Secondary Web Development, Conceptualization<br />
+<span style="font-weight: bold;">Expecting Mystica:</span> Editorial Assistant <br />
+<span style="font-weight: bold;">TiTi Tracy:</span> Production Assistant / Photographer<br />
+<span style="font-weight: bold;">Virginia Mollie:</span> Transportation/ Production Assistant<br />
+<span style="font-weight: bold;">Good Matthew:</span> Web Assistant<br />
+<span style="font-weight: bold;">Dealing Dan:</span> Talent Acquisition<br />
+<span style="font-weight: bold;">Radio Dave:</span> Audio Consultant<br />
+
+<span style="font-weight: bold;">Professor Filip:</span> Languages/ Interpretations<br />
+<span style="font-weight: bold;">Boss Potter:</span> Completion Financing
+</p>
+<p class="px-5">
+While all team leaders feel their team is special, this group of hard-working, mostly young people were particularly devoted to this work. All of these brave individuals also put their personal safety at risk to accomplish this project. So proud of them.
+</p>
+<p class="px-5">
+Thank you so very much!<br />
+Douglas
+</p>
+			</v-col>
+			<v-col cols="12" sm="6">
+				<p class="pa-5">
+				To inquire about any one of these talented individuals above contact
+us directly here at TheTheorem.org through our secure email.
+Also For General Inquiries, Comments, Corrections or Suggestions.
+<!-- here, fix protonmail -->
+<a href="mailto:thetheorem@protonmail.com">thetheorem&#64;&#112;&#114;otonmail&#46;&#99;om</a>
+</p>
+
+<h3 class="px-5">
+TIPLINE
+</h3>
+<p class="px-5">
+If you feel in any way you have been targeted for your interest in The Theorem or in The Legacy Letter contact us at the Tipline.
+</p>
+<p class="px-5">
+<a href="mailto:thetheorem@protonmail.com">thetheorem&#64;&#112;&#114;otonmail&#46;&#99;om</a>
+</p>
+<p class="px-5">
+All correspondence will be 100 percent confidential. No Exceptions.
+</p>
+<p class="px-5">
+Permissions &amp; Legal contact:
+<a href="mailto:thetheorem@protonmail.com">thetheorem&#64;&#112;&#114;otonmail&#46;&#99;om</a>rmissions
+Complete Interview and Website: © Copyright 2020 Battle Born/ Maryland Parkway Productions/ All Rights Reserved
+</p>
+			</v-col>
+			<v-col cols="12">
+				<v-img class=".ml-auto" src="https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/headshot.jpg?alt=media&token=098612d8-a9a5-437e-8ac6-92445c665a7a">
+				</v-img>
 			</v-col>
 		</v-row>
 	</v-container>
