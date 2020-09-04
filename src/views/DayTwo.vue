@@ -1676,9 +1676,9 @@
 				</p>
 				<p class="h-l">
 					H.L. Yes, I agree with you there. Don’t you think however with the mothers working, they are growing up with unmet female needs by their mother?
+				Don’t you think this is responsible for so many girls being interested in other girls?
 				</p>
 				<p>
-				Don’t you think this is responsible for so many girls being interested in other girls?
 				<span class="douglas">Douglas:</span> That makes sense to me. It is out of the scope of The Theorem, but it certainly seems logical.
 				<br />
 				<br />
@@ -1741,7 +1741,7 @@
 					<span class="douglas">Douglas:</span> That’s his problem. He should have dealt with his mother issues. The world would have been a better place that’s for sure.
 				</p>
 				<p class="h-l">
-					H.L. I think there are many in that generation who did not deal with their pain
+					H.L. I think there are many in that generation who did not deal with their pain.
 				</p>
 				<p>
 					<span class="douglas">Douglas:</span> Yes, but fortunately there are some who did.
