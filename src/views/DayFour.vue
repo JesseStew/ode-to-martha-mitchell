@@ -1382,46 +1382,10 @@ He in fact will be visiting Branson’s Nekar Island for another reason altogeth
 He could have taken her anywhere in the world, I don’t see how a one hour flight out of Miami is considered special. “Here, this is what you get for standing behind me for 20 plus years honey; a Pirates of the Caribbean ride.”
 </p>
 <p>
-<span class="douglas">Douglas:</span> Pirates of the Caribbean, so true. But don’t forget, the kids will be sitting between us the entire ride.
+<span class="douglas">Douglas:</span> Pirates of the Caribbean, so true.
 </p>
 <p class="h-l">
-	H.L. It just didn’t make any sense at all.
-</p>
-<p>
-<span class="douglas">Douglas:</span> In more ways than one. I know you are married, so maybe you can follow me on this one.
-<span class="break"></span>
-In my life I have known many mothers, a few bad, but mostly good ones. I have also known some great mothers. I would have to say Michelle Obama is in that last category; I don’t know for sure, but her kids come first, it seems to me.
-</p>
-<p class="h-l">
-	H.L. I agree.
-</p>
-<p>
-<span class="douglas">Douglas:</span> Now there is one thing that all good mothers share, they want their children in school every day. As men, we understand the basic logic of this, but we also know what happens when we try and break that rule with a mom right?
-</p>
-<p class="h-l">
-	H.L. We always lose.
-</p>
-<p>
-<span class="douglas">Douglas:</span> We always lose. I have tried, you probably have tried. The first question a mother asks is, “Are the kids going to miss any school?”
-</p>
-<p class="h-l">
-	H.L. It is true, I have earned that knowledge.
-</p>
-<p>
-<span class="douglas">Douglas:</span> It is. “Hey, honey we can save money if we fly back Tuesday, instead of Sunday”. The answer is always no. Mothers demand that their children be there; school attendance must be in some unwritten manual of motherhood. It doesn’t matter if you are the President of the United States or the president of the plumbers union; a mom is a mom, and a good mom is a good mom.
-<span class="break"></span>
-So good luck to Barack Obama to get her to have the kids miss school for some exodus to the Caribbean, even one child, forget it. It’s just not going to happen. It looks bad for the mom, it derides her motherly instincts.
-</p>
-<p class="h-l">
-	H.L. Like you said it’s her immortality, she gets it.
-</p>
-<p>
-<span class="douglas">Douglas:</span> She does, some mothers don’t have to wait until they are grandmothers to see the cycle, and Michelle Obama is one of them.
-<span class="break"></span>
-Again, to a man this would like bringing your masterwork, the Picasso you just painted out in the rain.
-</p>
-<p class="h-l">
-	H.L. You wouldn’t do it. Neither would she.
+	H.L. It just didn't make any sense at all.
 </p>
 <p>
 <span class="douglas">Douglas:</span> But let’s look at this in another way, really. You just spent 8 years building your house, now you’re going to take a vacation from it. Why? Live in your house.
