@@ -2,7 +2,10 @@
 	<v-container fluid>
 		<v-row>
 			<v-col cols="12">
-				<h1 class="band-color-green interview-title">
+				<h1 v-if="$vuetify.breakpoint.smAndUp" class="band-color-green interview-title">
+					Day 4 - The South Pacific
+				</h1>
+				<h1 v-else class="band-color-green interview-title-sm">
 					Day 4 - The South Pacific
 				</h1>
 			</v-col>

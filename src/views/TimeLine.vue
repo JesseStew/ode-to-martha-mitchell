@@ -2,9 +2,11 @@
 	<v-container>
 		<v-row>
 			<v-col class="band-color-green" cols="12">
-				<h1 class="interview-title">
+				<h1 v-if="$vuetify.breakpoint.smAndUp" class="band-color-green interview-title">
 					TIMELINE OF EVENTS
-					<!-- here, ? -->
+				</h1>
+				<h1 v-else class="band-color-green interview-title-sm">
+					TIMELINE OF EVENTS
 				</h1>
 				<h2>
 					*2005 to 2020: Timeline Of A Scandal

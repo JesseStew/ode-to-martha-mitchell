@@ -3,10 +3,12 @@
 	<v-container fluid>
       <v-row no-gutters>
         <v-col cols="12">
-          <h1 class="band-color-green interview-title pb-5 px-5"
-						>
-						The Legacy Letter - (Actual Copy)
-					</h1>
+					<h1 v-if="$vuetify.breakpoint.smAndUp" class="band-color-green interview-title">
+            The Legacy Letter - (Actual Copy)
+          </h1>
+          <h1 v-else class="band-color-green interview-title-sm">
+            The Legacy Letter - (Actual Copy)
+          </h1>
         </v-col>
 				<v-col class="interview-color" cols="12">
 					<p class="px-5 home-text">

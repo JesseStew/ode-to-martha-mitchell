@@ -2,15 +2,14 @@
   <div>
     <v-container fluid>
       <v-row no-gutters>
-        <v-col
-          style="
-            margin-top: -30px;
-          "
-         class="text-center home-title" cols="12">
-          <h1 class="pb-5 px-5">
+        <v-col class="text-center" cols="12">
+          <h1 v-if="$vuetify.breakpoint.smAndUp" class="band-color-blue interview-title">
             An Ode to Martha Mitchell*
           </h1>
-          <h2 class="pb-5 px-5" style="font-size: .9em; margin-top: -20px">
+          <h1 v-else class="band-color-blue interview-title-sm">
+            An Ode to Martha Mitchell*
+          </h1>
+          <h2 class="pb-5 px-5">
             Headwaters to COVID-19, Impeachment and Murder
           </h2>
         </v-col>

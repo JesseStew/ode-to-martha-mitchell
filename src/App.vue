@@ -87,6 +87,10 @@ export default {
     margin-top: -35px;
     font-size: 3.5em;
 }
+.interview-title-sm {
+    margin-top: -35px;
+    font-size: 2em;
+}
 .interview-color {
     color: #222222;
 }

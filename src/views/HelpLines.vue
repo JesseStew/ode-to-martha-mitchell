@@ -2,7 +2,10 @@
 	<v-container>
 		<v-row>
 			<v-col cols="12">
-				<h1 class="interview-title">
+				<h1 v-if="$vuetify.breakpoint.smAndUp" class="band-color-blue interview-title">
+					World Suicide Hotlines
+				</h1>
+				<h1 v-else class="band-color-blue interview-title-sm">
 					World Suicide Hotlines
 				</h1>
 			</v-col>

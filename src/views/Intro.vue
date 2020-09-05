@@ -2,12 +2,12 @@
 	<v-container fluid>
       <v-row no-gutters>
         <v-col cols="12">
-          <h1 class="band-color-blue pb-5 px-5 interview-title">
-						Introduction to The Interview
-					</h1>
-					<!-- <h2 class="pb-5 px-5" style="font-size: 1.2em; margin-top: -20px">
-						To the Interview
-					</h2> -->
+					<h1 v-if="$vuetify.breakpoint.smAndUp" class="band-color-blue interview-title">
+            Introduction to The Interview
+          </h1>
+          <h1 v-else class="band-color-blue interview-title-sm">
+            Introduction to The Interview
+          </h1>
         </v-col>
 				<v-col class="interview-color mb-5 main-text text-center">
 					<p style="
