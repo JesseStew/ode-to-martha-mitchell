@@ -405,10 +405,10 @@ Hillary dispatches Bill to meet with Loretta Lynch on the airport tarmac in Ariz
 </p>
 <p class="h-l">
 	H.L. Looking back to Tennessee and the stunt you played with the US Africa Aid, this is all starting to make sense. Barack Obama now has no real idea what you are doing.
+	<span class="break"></span>
+Do you think that your lack of activity in Missouri made President Obama suspicious? Perhaps doing nothing, was speaking volumes.
 </p>
 <p>
-Do you think that your lack of activity in Missouri made President Obama suspicious? Perhaps doing nothing, was speaking volumes.
-<span class="break"></span>
 <span class="douglas">Douglas:</span> I think that was a big part of it. Certainly if you are focused on something for a long period of time such as he was with my surveillance, then you leave it, and come back later to resume it, there could have been that natural tendency to believe you missed something.
 <span class="break"></span>
 This, in and of itself could have caused him some small panic. My lack of activity could have fed into this.
@@ -1056,7 +1056,8 @@ I can tell the minute that I meet another man, right away what type of father he
 <p>
 <span class="douglas">Douglas:</span> That’s not true. You most definitely have; charisma and confidence. I am just taking you behind the scenes, and showing you what is behind the curtain of those blanket observations.
 <span class="break"></span>
-Actually John Lennon said it best years ago in Come Together: He’s got to be good looking because he is so hard to see.
+Actually John Lennon said it best years ago in the song Come Together:
+<span class="italic">He’s got to be good looking because he is so hard to see.</span>
 <span class="break"></span>
 My interpretation of those words at least, was that someone who is lacking internal energy, who radiates nothing has to compensate for it by being perfect, remarkable or as Lennon said; good looking.
 <span class="break"></span>
@@ -1703,9 +1704,10 @@ It is one emotion that dominates over all the other reasons, all the problems we
 <span class="douglas">Douglas:</span> Shame. And again, shame itself is so poorly understood, it really is. For me shame is hard to define and convey for two reasons. The first is that it is not necessarily, or at least completely, womb based in origin. Contrast this to guilt, which we may get into tomorrow a little bit.
 <span class="break"></span>
 Another reason I have a hard time with it is because, again, I suffer from it as well. In my case it is due to my sexual abuse; the multiple instances of rape I experienced as a young child.
-<span class="break"></span>
+<p class="h-l">
 HL. Understandable.
-<span class="break"></span>
+</p>
+<p>
 <span class="douglas">Douglas:</span> But Barack Obama has it about as bad as I have seen it in anyone. There are many reasons for this, and we can’t go into all of them. But as you would imagine a large progenitor for shame is abandonment by the mother; in this case, by his mother.
 </p>
 <p class="h-l">
