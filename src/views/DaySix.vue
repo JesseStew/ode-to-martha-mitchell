@@ -356,7 +356,7 @@ H.L. Interesting.
 H.L Obviously.
 </p>
 <p>
-<span class="douglas">Douglas:</span> On my soul, my dead soul. That was the first book of Gogol’s I fell in love with. It was supposed to be a double entendre based on Gogol’s Dead Souls.
+<span class="douglas">Douglas:</span> On my soul, my dead soul. That was the first book of Gogol’s I fell in love with. It was supposed to be a double entendre based on Gogol’s <span class="italic">Dead Souls.</span>
 </p>
 <p class="h-l">
 H.L. I see. I think.
@@ -693,7 +693,7 @@ H.L. We have been through so much over these six days, now a serial killer at th
 <p class="h-l">
 H.L. No, no, of course not; keep going.
 <span class="break"></span>
-Okay, so who is it. Or who was it?
+Okay, so who is it? Or who was it?
 </p>
 <p>
 <span class="douglas">Douglas:</span> His name was Aubrey McClendon. Aubrey was killed in early March, 2016 when his SUV, which was traveling at 88 miles an hour, smashed right into a concrete pylon under an overpass in Oklahoma City.
@@ -852,7 +852,7 @@ H.L. That actually seems the most logical to me.
 Maybe not.
 </p>
 <p class="h-l">
-H.L. We are heading into some dangerous territory here <span class="douglas">Douglas:</span>
+H.L. We are heading into some dangerous territory here Douglas.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, we are.
@@ -1178,7 +1178,7 @@ We must return to the events of the twenty-third day of January 2020. Yesterday,
 <p class="h-l">
 H.L. Yes, I remember. You said they were obviously for the eyes of The Pope.
 <span class="break"></span>
-This was so that every time he opened up the letter he had to look at the envelope and the date on that envelope would match the established or reported date the Corona Virus (Covid 19) hit Italy.
+This was so that every time he opened up the letter he had to look at the envelope and the date on that envelope would match the established or reported date the Corona Virus (COVID-19) hit Italy.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, that is correct. But there is another more logical reason it was for The Popes eyes, this date.
@@ -1379,6 +1379,7 @@ H.L. It’s okay just let it out. Everyone cries.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I’m falling apart. I can’t do this, not right now.
+<span class="break"></span>
 <span class="break"></span>
 (Extended Break)
 <span class="break"></span>
@@ -2102,7 +2103,7 @@ He has battled inside of himself for years to not be the like the man he despise
 H.L. We will stop him!
 </p>
 <p>
-<span class="douglas">Douglas:</span>In some ways I see what the killer is doing now. I see what Soros is doing. He is envious; he feels that he could have been a great intellectual if not for the war. This is his excuse. This is his delusion. Silly man; he doesn’t seem to realize that the way to find anything of intellectual value doesn’t come from building up your own defenses, but instead arrives from stripping them down.
+<span class="douglas">Douglas:</span> In some ways I see what the killer is doing now. I see what Soros is doing. He is envious; he feels that he could have been a great intellectual if not for the war. This is his excuse. This is his delusion. Silly man; he doesn’t seem to realize that the way to find anything of intellectual value doesn’t come from building up your own defenses, but instead arrives from stripping them down.
 <span class="break"></span>
 So he wants me to watch and witness the feeling of powerlessness that he experienced as an adolescent, to watch those around me being killed the way he experienced it, yet be unable to do anything about it.
 <span class="break"></span>
