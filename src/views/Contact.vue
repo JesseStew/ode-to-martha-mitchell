@@ -64,7 +64,7 @@ Complete Interview and Website: © Copyright 2020 Battle Born/ Maryland Parkway 
 </p>
 			</v-col>
 			<v-col cols="12">
-				<v-img class=".ml-auto" src="https://firebasestorage.googleapis.com/v0/b/an-ode.appspot.com/o/headshot.jpg?alt=media&token=098612d8-a9a5-437e-8ac6-92445c665a7a">
+				<v-img class=".ml-auto" :src="require('../assets/images/headshot.jpg')" :lazy-src="require('../assets/images/headshot_lazy.jpg')">
 				</v-img>
 			</v-col>
 		</v-row>
