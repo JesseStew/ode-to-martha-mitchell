@@ -17,7 +17,7 @@
 			<v-col cols="12">
 				<p class="graphic-material">
 					WARNING: SUBJECT MATERIAL IN THIS CHAPTER IS NOT SUITABLE FOR MINORS:
-					GRAPHIC DESCRIPTION OF A RAPE IS INCLUDED.
+					GRAPHIC DEPICTION OF A RAPE IS INCLUDED.
 				</p>
 			</v-col>
 			<v-col cols="12" class="main-text text-border">
