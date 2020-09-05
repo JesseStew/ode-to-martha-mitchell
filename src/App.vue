@@ -30,6 +30,11 @@ export default {
 </script>
 
 <style>
+.graphic-material {
+    color: red;
+    font-weight: bold;
+    font-size: 1.5em;
+}
 .break {
     display: block;
     height: 5px;
