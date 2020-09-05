@@ -186,7 +186,7 @@ export default {
 			}
 		},
 		pictureMaxHeight() {
-			return this.windowHeight - 200
+			return this.windowHeight - 150
 		},
 		pictureMinHeight() {
 			if (this.$vuetify.breakpoint.md) {
