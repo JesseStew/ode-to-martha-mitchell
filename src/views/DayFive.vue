@@ -52,7 +52,7 @@ Yet, it has turned into something different altogether.
 	H.L. Meaning the letter you sent to Italy?
 </p>
 <p>
-<span class="douglas">Douglas:</span>  Meaning the discovery itself to begin with; then The Legacy Letter, then the letter to Rome; I think when looking back, there are days I wish I just didn’t get out of bed.
+<span class="douglas">Douglas:</span>  Meaning the discovery itself to begin with; then <span class="italic">The Legacy Letter</span>, then the letter to Rome; I think when looking back, there are days I wish I just didn’t get out of bed.
 </p>
 <p class="h-l">
 	H.L. I see your point.
@@ -133,7 +133,7 @@ This is easy to do in my life, as the facts reinforce that.
 <p>
 <span class="douglas">Douglas:</span> My pathetic surroundings. I was receiving unemployment at the time. My car is very old; I live alone in a studio. I pay 600 dollars a month, and that is probably too much for what this place is worth.
 <span class="break"></span>
-Yet two days later I see a liberal dinosaur; an actor way past his relevancy, who received a copy of The Legacy Letter, and he is speaking with the very same man that I sent the email to: Pope Francis.
+Yet two days later I see a liberal dinosaur; an actor way past his relevancy, who received a copy of <span class="italic">The Legacy Letter</span>, and he is speaking with the very same man that I sent the email to: Pope Francis.
 </p>
 <p class="h-l">
 	H.L.  Robert Redford?
@@ -641,7 +641,7 @@ Obviously I didn’t put any tracking on it. I could never bring myself to doing
 <span class="douglas">Douglas:</span> Sure, just like they did with Bill Gates, Warren Buffett and Eric Schmidt and so many others; the Clintons start off with something only mildly corrupt, usually salting it with that throwback political ideology, and then they got them. They own them!
 </p>
 <p class="h-l">
-	H.L. That is sad. So explain why Robert Redford is important in regards to The Legacy Letter.
+	H.L. That is sad. So explain why Robert Redford is important in regards to <span class="italic">The Legacy Letter</span>.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Sure, because of the 10 actors that I sent it to, out of the 10,000 Legacy Letters, he was one who received it.
@@ -664,16 +664,16 @@ Remember earlier, a few days ago, the section on Obama targeting the celebrities
 	H.L.  He spins The Theorem Wheel and Obama awarded him with a Presidential Medal.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Exactly. Many of those medals, after 2014, went to the select few actors or entertainers who received a copy of The Legacy Letter or had deep interest in it. And again I only sent it to a few actors or celebrities.
+<span class="douglas">Douglas:</span> Exactly. Many of those medals, after 2014, went to the select few actors or entertainers who received a copy of <span class="italic">The Legacy Letter</span> or had deep interest in it. And again I only sent it to a few actors or celebrities.
 </p>
 <p class="h-l">
 	H.L. So you liked them, these people.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Yes of course; and I am not saying they didn’t deserve the medals or acknowledgements. I am glad they received them. I feel that Robert Redford more than some of the others was very interested in The Theorem and very proud to get his copy of The Legacy Letter. He was proud to receive it when those other actors didn’t get one. But ultimately the other side paid better, so what can you do?
+<span class="douglas">Douglas:</span> Yes of course; and I am not saying they didn’t deserve the medals or acknowledgements. I am glad they received them. I feel that Robert Redford more than some of the others was very interested in The Theorem and very proud to get his copy of <span class="italic">The Legacy Letter</span>. He was proud to receive it when those other actors didn’t get one. But ultimately the other side paid better, so what can you do?
 </p>
 <p class="h-l">
-	H.L. It is so true. The very fact that they receive the medal after you sent them a copy of The Legacy Letter, you are confident then they had interest. That makes sense.
+	H.L. It is so true. The very fact that they receive the medal after you sent them a copy of <span class="italic">The Legacy Letter</span>, you are confident then they had interest. That makes sense.
 </p>
 <p>
 <span class="douglas">Douglas:</span> They just couldn’t have Robert Redford defecting. He knew too many Hollywood types. He knew too many filmmakers. It just couldn’t happen.
@@ -743,7 +743,7 @@ Again, I truly hope I am wrong in regards to any involvement by China. I want to
 <p class="h-l">
 	H.L. Me too, I hope you are. Then you sent another letter, this time in the mail.
 <span class="break"></span>
-One quick question or clarification; as of January 1st of 2020 had you ever sent a religious leader or any other world leader an email or letter, this since you finished up with sending The Legacy Letter out in early 2017?
+One quick question or clarification; as of January 1st of 2020 had you ever sent a religious leader or any other world leader an email or letter, this since you finished up with sending <span class="italic">The Legacy Letter</span> out in early 2017?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Never, not a single letter or email to anyone. The only letters in the mail I sent were postcards to family and friends when traveling, and letters to Holland for my children or to their mother. That was it.
@@ -843,7 +843,7 @@ You’re never going to make it through tomorrow, I see that now.
 <span class="douglas">Douglas:</span> I know, then you add Hillary Clinton’s presence to that, at the film festival, then those numbers or odds have to triple against coincidence.
 </p>
 <p class="h-l">
-	H.L. Now, add that to fact that your primary focus on marketing The Legacy Letter, your initial focus was on New York City; and they were essentially decimated by the Corona Virus as was Italy, it seems like someone was trying to send someone a message. It is hard to negate that as simple coincidence.
+	H.L. Now, add that to fact that your primary focus on marketing <span class="italic">The Legacy Letter</span>, your initial focus was on New York City; and they were essentially decimated by the Corona Virus as was Italy, it seems like someone was trying to send someone a message. It is hard to negate that as simple coincidence.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, but you are forgetting a bunch off the list, things I didn’t tell you.
@@ -2203,7 +2203,7 @@ H.L. You think they will turn on the Democratic Elite?
 <span class="break"></span>
 Many of these individuals have known of the cover-up a long time. Like we talked about before, powerful people, elite and the world leaders like to know when something is coming before it happens.
 <span class="break"></span>
-There are many people waiting on this, for me to release what I know. They know pieces I don’t know. Some know really key pieces. Some assume because so much of it is about The Legacy Letter and The Theorem then maybe someone will tell me something. There are other reasons too. Add that all together and we can all get some clarification of the world right now. The entire scandal has the world on edge and very uncomfortable. It is coming to head and everyone wants resolution.
+There are many people waiting on this, for me to release what I know. They know pieces I don’t know. Some know really key pieces. Some assume because so much of it is about <span class="italic">The Legacy Letter</span> and The Theorem then maybe someone will tell me something. There are other reasons too. Add that all together and we can all get some clarification of the world right now. The entire scandal has the world on edge and very uncomfortable. It is coming to head and everyone wants resolution.
 </p>
 <p class="h-l">
 	H.L. Yes, you feel the uneasiness in the air. It is different than before.

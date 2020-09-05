@@ -231,7 +231,7 @@
 				<p>
 						<span class="douglas">Douglas:</span> You know looking back that makes sense. But at the time I didn’t see it. I am sure that most psychologists would agree with your assessment.
 						<span class="break"></span>
-						Perhaps that is true, because I know I had a great amount of confidence when I drafted The Legacy Letter.
+						Perhaps that is true, because I know I had a great amount of confidence when I drafted <span class="italic">The Legacy Letter</span>.
 						<span class="break"></span>
 						Actually think you are onto something there, because sometimes when I would read it, while I was sending it, I would say to myself, “How gutsy, the things you say; these are great men and you’re writing to them as though they’re your younger brother. Who the hell do you think you are?”
 				</p>
@@ -243,10 +243,10 @@
 						<span class="douglas">Douglas:</span> I think so.
 				</p>
 				<p class="h-l">
-						H.L. Do you think all of these experiences helped you when drafting The Legacy Letter?
+						H.L. Do you think all of these experiences helped you when drafting <span class="italic">The Legacy Letter</span>?
 				</p>
 				<p>
-						<span class="douglas">Douglas:</span> I would say so, yes. Because when I first drafted The Legacy Letter, I knew I was onto something special.
+						<span class="douglas">Douglas:</span> I would say so, yes. Because when I first drafted <span class="italic">The Legacy Letter</span>, I knew I was onto something special.
 						<span class="break"></span>
 						It’s hard to explain, but you just get that feeling that radiates inside and you realize: This is what it is all about! That was how I felt right away. I truly believed in the words that I was writing, and had earned them. That is important. You have to earn the words, or people will see right through you, no matter what types of words they are.
 				</p>
@@ -275,7 +275,7 @@
 						H.L. The government used this confidentiality against you; against them?
 				</p>
 				<p>
-						<span class="douglas">Douglas:</span> Sure they did. I was the common denominator in all their prosecutions. I could clearly see the pattern. They would come to my website; have a large number of reads of The Legacy Letter, or make phone calls to me and then it would happen.
+						<span class="douglas">Douglas:</span> Sure they did. I was the common denominator in all their prosecutions. I could clearly see the pattern. They would come to my website; have a large number of reads of <span class="italic">The Legacy Letter</span>, or make phone calls to me and then it would happen.
 						<span class="break"></span>
 						But we are getting way ahead of ourselves. Can I tell you about the cabin, because it is impossible to explain the events without the cabin?
 				</p>
@@ -401,12 +401,12 @@
 						<span class="douglas">Douglas:</span> Well, it’s probably silly or stupid, but what they did to the bears wasn’t right. It still bothers me to this day.
 				</p>
 				<p class="h-l">
-						H.L. I see. Since you will be talking about it later, let’s just move onto The Legacy Letter.
+						H.L. I see. Since you will be talking about it later, let’s just move onto <span class="italic">The Legacy Letter</span>.
 				</p>
 				<p>
 						<span class="douglas">Douglas:</span> Sure, you’re right.
 						<span class="break"></span>
-						So I started sending the letter out at the beginning of February, 2014. At first it was very silent. I mean, really silent. It took a while to learn how to get the emails through the various bots that would kick them into spam. Now, I was hand customizing each copy of The Legacy Letter into email form.
+						So I started sending the letter out at the beginning of February, 2014. At first it was very silent. I mean, really silent. It took a while to learn how to get the emails through the various bots that would kick them into spam. Now, I was hand customizing each copy of <span class="italic">The Legacy Letter</span> into email form.
 						<span class="break"></span>
 						So that took even longer. I know that there are programs that will do it for you, but I felt that these potential investors would know if I hadn’t taken the time and personal care to customize each one. After all, these were some of the richest men in the world. I really wanted to send the letters hard copy in the mail, but it was just too expensive. So I did what I could.
 				</p>
@@ -454,7 +454,7 @@
 						H.L. I can see that.
 				</p>
 				<p>
-						<span class="douglas">Douglas:</span> After awhile, I was finally able to get into a rhythm in sending out The Legacy Letter. I would send the letters out, and put tracking on the emails to see if they were reading them.
+						<span class="douglas">Douglas:</span> After awhile, I was finally able to get into a rhythm in sending out <span class="italic">The Legacy Letter</span>. I would send the letters out, and put tracking on the emails to see if they were reading them.
 						<span class="break"></span>
 						At this early stage, seeing evidence that they were reading the letter was all the motivation I had to keep me going. Since there were only so many business hours during the day in the U.S., after hours I would send them to the wealthy elite in countries that were open during those hours.
 				</p>
@@ -463,7 +463,7 @@
 						H.L. So you would view the number of times the potential investors would read the email and this kept you going?
 				</p>
 				<p>
-						<span class="douglas">Douglas:</span> Yes exactly. In the evening I sent the letter out primarily to Asia and Oceania; mostly India and Australia. In many ways, it was as though I was addicted to seeing how many times the email had been read; it was kind of pathetic really. In the early morning or very late at night, I would also send The Legacy Letter out to Europe, as these were the hours of their normal day to day operations.
+						<span class="douglas">Douglas:</span> Yes exactly. In the evening I sent the letter out primarily to Asia and Oceania; mostly India and Australia. In many ways, it was as though I was addicted to seeing how many times the email had been read; it was kind of pathetic really. In the early morning or very late at night, I would also send <span class="italic">The Legacy Letter</span> out to Europe, as these were the hours of their normal day to day operations.
 				</p>
 				<p class="h-l">
 						H.L. Then the phone calls started?
@@ -471,7 +471,7 @@
 				<p>
 						<span class="douglas">Douglas:</span> Yes, well it took awhile. But yes, they started. The first thing to understand about the phone calls is that I was never prepared for them. I just never thought anyone would call me, nor did any part of the letter encourage it.
 						<span class="break"></span>
-						True, I put my phone number on The Legacy Letter, but that was for identification purposes. I wanted them to know it was me. I figured, the more information I could provide for them to authenticate my identity, the more likely they would be to invest or donate. I just never expected them to call me. So not being prepared really was a problem.
+						True, I put my phone number on <span class="italic">The Legacy Letter</span>, but that was for identification purposes. I wanted them to know it was me. I figured, the more information I could provide for them to authenticate my identity, the more likely they would be to invest or donate. I just never expected them to call me. So not being prepared really was a problem.
 				</p>
 
 				<p class="h-l">
@@ -540,7 +540,7 @@
 						H.L. Tell me about that.
 				</p>
 				<p>
-						<span class="douglas">Douglas:</span> By now I had sent out many copies of The Legacy Letter, perhaps even a thousand. While I told you about the phone calls, after a while everything became really silent, like it dropped off a cliff.
+						<span class="douglas">Douglas:</span> By now I had sent out many copies of <span class="italic">The Legacy Letter</span>, perhaps even a thousand. While I told you about the phone calls, after a while everything became really silent, like it dropped off a cliff.
 				</p>
 				<p class="h-l">
 						H.L. When was this?
@@ -555,7 +555,7 @@
 						<span class="douglas">Douglas:</span> Yes, but of course I know that now, but at the time I really had no idea.
 						<span class="break"></span>
 						No, instead I blamed myself completely. I figured that word had gone around that I wasn’t ready for the money, or that this entire project was a flop or whatever.
-						So by early summer, maybe even late spring of 2014, I had already sent out almost a thousand copies of The Legacy Letter, and I had only enough money to send out maybe 50 follow-up letters and potential donor packages in the mail. Therefore, it was necessary to find out who was interested. Now looking back, I should have focused exclusively on those who I had talked to on the phone, but I did not.
+						So by early summer, maybe even late spring of 2014, I had already sent out almost a thousand copies of <span class="italic">The Legacy Letter</span>, and I had only enough money to send out maybe 50 follow-up letters and potential donor packages in the mail. Therefore, it was necessary to find out who was interested. Now looking back, I should have focused exclusively on those who I had talked to on the phone, but I did not.
 						<span class="break"></span>
 						I wanted fresh leads, I guess somehow reasoning that this time I wouldn’t screw things up when I talked to them.
 				</p>
@@ -644,7 +644,7 @@
 						<span class="break"></span>
 						You see, the thing is, I had other advantages as well. For example, I had not done any marketing of The Theorem for years. Therefore, my website had essentially no traffic whatsoever. So, I was almost starting with a blank slate. I doubt that by that time barely over 1000 people had read The Theorem. And if you spread out a 1000 people over many years, this isn’t much web traffic.
 						<span class="break"></span>
-						Then, when I started marketing The Theorem with The Legacy Letter, I only sent them to people who had high visibility on the web. So they would float to the top of my visibility list. This, in contrast to someone who had little written about them; those people you could never find with this method.
+						Then, when I started marketing The Theorem with <span class="italic">The Legacy Letter</span>, I only sent them to people who had high visibility on the web. So they would float to the top of my visibility list. This, in contrast to someone who had little written about them; those people you could never find with this method.
 				</p>
 
 				<p class="h-l">
@@ -685,7 +685,7 @@
 				</p>
 
 				<p class="h-l">
-						H.L. Well said. So you knew then, you saw evidence that The Legacy Letter was successful?
+						H.L. Well said. So you knew then, you saw evidence that <span class="italic">The Legacy Letter</span> was successful?
 				</p>
 				<p>
 						<span class="douglas">Douglas:</span> Yes, I knew right away. It was a huge hit. I was very proud. Here, I could track the traffic of the letter and the word of mouth that followed it. Really, it was such an eye opener.
@@ -762,7 +762,7 @@
 						H.L. That makes more sense.
 				</p>
 				<p>
-						<span class="douglas">Douglas:</span> It is just much more believable to realize that somebody else has accomplished what was once considered impossible if you have done it yourself. I think that is how the billionaires experienced it, and that was a significant part of the content of The Legacy Letter.
+						<span class="douglas">Douglas:</span> It is just much more believable to realize that somebody else has accomplished what was once considered impossible if you have done it yourself. I think that is how the billionaires experienced it, and that was a significant part of the content of <span class="italic">The Legacy Letter</span>.
 				</p>
 				<p class="h-l">
 						H.L. So you felt your book had finally found its market?
@@ -804,7 +804,7 @@
 						H.L. Problems like what?
 				</p>
 				<p>
-						<span class="douglas">Douglas:</span> Like who to exclude and who not to exclude. It seemed like the wealthy friends of the billionaires were more interested in the book or coming to The Theorem Website more often than the actual people I sent the letter to. It was as though they did not want to be excluded, and they were waiting for their copy of The Legacy Letter.
+						<span class="douglas">Douglas:</span> Like who to exclude and who not to exclude. It seemed like the wealthy friends of the billionaires were more interested in the book or coming to The Theorem Website more often than the actual people I sent the letter to. It was as though they did not want to be excluded, and they were waiting for their copy of <span class="italic">The Legacy Letter</span>.
 						<span class="break"></span>
 						After all, these are very powerful men, and this is a big discovery. And these guys work very hard to make sure they will never be excluded.
 						<span class="break"></span>
@@ -815,7 +815,7 @@
 						H.L. That’s a good point. I never thought of that. I suppose it comes with the territory.
 				</p>
 				<p>
-						<span class="douglas">Douglas:</span> Yeah, it was a problem I hadn’t anticipated either; I essentially was trapped by my own success, the convincing clarity of The Legacy Letter.
+						<span class="douglas">Douglas:</span> Yeah, it was a problem I hadn’t anticipated either; I essentially was trapped by my own success, the convincing clarity of <span class="italic">The Legacy Letter</span>.
 						<span class="break"></span>
 						Yet I was not successful at all in achieving my original goal. So of course I kept emailing. I was originally only going to send out 100 copies and be done in 3 months. I ended up sending out 10,000 copies and it took almost 3 years!
 						<span class="break"></span>
@@ -858,7 +858,7 @@
 						H.L. That’s so true. Explain.
 				</p>
 				<p>
-						<span class="douglas">Douglas:</span> Well, one morning it all hit me. But before that, I was starting to see patterns. I was starting to piece together the fact that those who showed the most interest in The Legacy Letter and The Theorem seemed to be getting into a lot of trouble with the government. I would even say out loud, “Boy do these guys live some type of risky lifestyle. They are real high rollers!”
+						<span class="douglas">Douglas:</span> Well, one morning it all hit me. But before that, I was starting to see patterns. I was starting to piece together the fact that those who showed the most interest in <span class="italic">The Legacy Letter</span> and The Theorem seemed to be getting into a lot of trouble with the government. I would even say out loud, “Boy do these guys live some type of risky lifestyle. They are real high rollers!”
 				</p>
 				<p class="h-l">
 						H.L. Sure, you didn’t want to make a direct connection back to you, but still you noticed a pattern.
@@ -1090,7 +1090,7 @@
 						<span class="break"></span>
 						Someone would come to my website, heavily, and then three weeks to a month later, they would ‘commit a crime’ or at least be charged with one; typically a securities violation, tax issues or even more serious offenses. No matter, the end result was that the reputation they had worked so hard to cultivate would be ruined. I could not believe it. But it was definitely happening, over and over again.
 						<span class="break"></span>
-						At first, like seeing the mouse run across the floor, I lived in total denial. I would just lie to myself because I did not want to be responsible. But I really liked these potential investors and donors I sent The Legacy Letter to; I even considered some of them my friends. I was devastated! It is just so painful. To think and realize what they have done to me, to these people. I can’t believe I let it happen.
+						At first, like seeing the mouse run across the floor, I lived in total denial. I would just lie to myself because I did not want to be responsible. But I really liked these potential investors and donors I sent <span class="italic">The Legacy Letter</span> to; I even considered some of them my friends. I was devastated! It is just so painful. To think and realize what they have done to me, to these people. I can’t believe I let it happen.
 				</p>
 
 				<p class="h-l">
@@ -1185,7 +1185,7 @@
 				<p>
 						<span class="douglas">Douglas:</span> Still it kept happening, especially in regards to Africa. So to test the hypotheses, and to further refine the accuracy of the detection tool and technique I had developed, I put my hunch to the test.
 						<span class="break"></span>
-						I really don’t know why I did it, I had nothing to gain, and it wasn’t really like me. I found a country in Africa that I really wanted to visit one day, and had interest in. Then after sending the wealthiest individuals a copy of The Legacy Letter, I would essentially create a false narrative.
+						I really don’t know why I did it, I had nothing to gain, and it wasn’t really like me. I found a country in Africa that I really wanted to visit one day, and had interest in. Then after sending the wealthiest individuals a copy of <span class="italic">The Legacy Letter</span>, I would essentially create a false narrative.
 				</p>
 
 				<p class="h-l">

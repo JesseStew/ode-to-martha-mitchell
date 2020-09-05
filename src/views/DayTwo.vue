@@ -25,15 +25,15 @@
 					H.L. Today we are going to go deeper into the cover-up. Yesterday you talked about the Obama Administration as the primary culprit in the conspiracy and cover-up. But according to the summary you gave me, this is not exactly the case. Do you want to explain this now? I think some clarification is definitely necessary.
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> Sure, you’re right. Yesterday we did talk about the Obama administration as the main player, and President Obama was essentially responsible for the events we discussed. At the same time, I felt it would be too confusing for the reader to go into each individual responsible. After all, the vast majority of the day was spent on Tennessee; the cabin, drafting and the early response to The Legacy Letter.
+				<span class="douglas">Douglas:</span> Sure, you’re right. Yesterday we did talk about the Obama administration as the main player, and President Obama was essentially responsible for the events we discussed. At the same time, I felt it would be too confusing for the reader to go into each individual responsible. After all, the vast majority of the day was spent on Tennessee; the cabin, drafting and the early response to <span class="italic">The Legacy Letter</span>.
 				<span class="break"></span>
-				But behind Barack Obama’s actions in relation to the suppression of The Legacy Letter, it was always Bill Clinton and his enforcer Hillary.
+				But behind Barack Obama’s actions in relation to the suppression of <span class="italic">The Legacy Letter</span>, it was always Bill Clinton and his enforcer Hillary.
 				</p>
 				<p class="h-l">
 					H.L. I see.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Now all of this will be explained later today as to why and when this suppression by Bill Clinton started. But for now, it is only necessary to understand that the early success of The Legacy Letter; February through May of 2014, was initially Bill Clinton’s concern and problem, not the concern of President Obama.
+					<span class="douglas">Douglas:</span> Now all of this will be explained later today as to why and when this suppression by Bill Clinton started. But for now, it is only necessary to understand that the early success of <span class="italic">The Legacy Letter</span>; February through May of 2014, was initially Bill Clinton’s concern and problem, not the concern of President Obama.
 				</p>
 				<p class="h-l">
 					H.L. And Bill Clinton’s ‘enforcer’ Hillary as you said.
@@ -48,7 +48,7 @@
 					<span class="douglas">Douglas:</span> It will be.
 				</p>
 				<p class="h-l">
-					H.L. Okay so here is the big question, the one everyone is going to want to know. How many days after you sent the first copy of The Legacy Letter out did it take for the suppression efforts to begin transpiring in Washington D.C.?
+					H.L. Okay so here is the big question, the one everyone is going to want to know. How many days after you sent the first copy of <span class="italic">The Legacy Letter</span> out did it take for the suppression efforts to begin transpiring in Washington D.C.?
 				</p>
 				<p>
 					<span class="douglas">Douglas:</span> Three days.
@@ -57,7 +57,7 @@
 					H.L. That’s it?
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Three days after I sent the first copy of The Legacy Letter out in February of 2014, on MSN Mail, a Microsoft product; Hillary Clinton formed a partnership with Bill Gates the founder of Microsoft and the Gates Foundation.
+					<span class="douglas">Douglas:</span> Three days after I sent the first copy of <span class="italic">The Legacy Letter</span> out in February of 2014, on MSN Mail, a Microsoft product; Hillary Clinton formed a partnership with Bill Gates the founder of Microsoft and the Gates Foundation.
 				</p>
 				<p class="h-l">
 					H.L. So what did you do in response to this partnership?
@@ -81,24 +81,24 @@
 					H.L. She wanted your data?
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Yes, she needed my data. She wanted and needed to know to who and where The Legacy Letter was being sent. She needed to know every single person who received a copy, and the only way to get it as a private citizen was to go to the top; the founder or the chairman of those Companies; both Microsoft and Google.
+					<span class="douglas">Douglas:</span> Yes, she needed my data. She wanted and needed to know to who and where <span class="italic">The Legacy Letter</span> was being sent. She needed to know every single person who received a copy, and the only way to get it as a private citizen was to go to the top; the founder or the chairman of those Companies; both Microsoft and Google.
 				</p>
 				<p class="h-l">
 					H.L. Unbelievable. Well Hillary Clinton was really shadowing you at this point.
 				</p>
 				<p>
 					<p>
-					<span class="douglas">Douglas:</span> Definitely, she was. You have to understand at first Barack Obama did not want those suppression operations in regards to The Legacy Letter anywhere near the White House.
+					<span class="douglas">Douglas:</span> Definitely, she was. You have to understand at first Barack Obama did not want those suppression operations in regards to <span class="italic">The Legacy Letter</span> anywhere near the White House.
 				<span class="break"></span>
-				He told Hillary this is your problem, you deal with it. Obama told her he would do what he could do to help her, and he did so in March, but he did not want the operation to suppress The Theorem and The Legacy Letter run out of The White House in the late winter and early spring of 2014: No way, no how.
+				He told Hillary this is your problem, you deal with it. Obama told her he would do what he could do to help her, and he did so in March, but he did not want the operation to suppress The Theorem and <span class="italic">The Legacy Letter</span> run out of The White House in the late winter and early spring of 2014: No way, no how.
 				<span class="break"></span>
 				He tells her to wait until May. Obama was sure that I would give up, as I had before. Because as you will learn the reasons for later, Barack Obama has been watching me; forced to watch me for six years at this point, and he knows the patterns of my behavior.
 				</p>
 				<p class="h-l">
-					H.L. Obama tells Hillary to wait until May; if you are still at it, still sending out copies of The Legacy Letter then come back and see him then.
+					H.L. Obama tells Hillary to wait until May; if you are still at it, still sending out copies of <span class="italic">The Legacy Letter</span> then come back and see him then.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Yes, and this should show how well The Legacy Letter was doing, as to the date in May that Bill Clinton picks to visit President Obama.
+					<span class="douglas">Douglas:</span> Yes, and this should show how well <span class="italic">The Legacy Letter</span> was doing, as to the date in May that Bill Clinton picks to visit President Obama.
 				</p>
 				<p class="h-l">
 					H.L. Meaning President Obama told Hillary or Bill, you can come see me in May if things do not improve; he meant ‘sometime’ in May. But Bill Clinton is right there on his doorstep on May 1st, 2014.
@@ -112,10 +112,10 @@
 					H.L. And in some ways Obama should have listened to Clinton right?
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Absolutely. You see Bill Clinton is a wise and experienced statesman at this point; he sees the big picture. He knows I am sending out 50 to 100 copies of The Legacy Letter every day. So he realizes the mushrooming effect; he sees the coming storm. He sees the problem compounding every day.
+					<span class="douglas">Douglas:</span> Absolutely. You see Bill Clinton is a wise and experienced statesman at this point; he sees the big picture. He knows I am sending out 50 to 100 copies of <span class="italic">The Legacy Letter</span> every day. So he realizes the mushrooming effect; he sees the coming storm. He sees the problem compounding every day.
 				</p>
 				<p class="h-l">
-					H.L. Bill Clinton by now has read The Legacy Letter, he realizes this is not just some half-baked attempt to get money; he realizes that it is very successful letter, and the billionaires are calling you on the phone. This is serious and he tells Obama as much.
+					H.L. Bill Clinton by now has read <span class="italic">The Legacy Letter</span>, he realizes this is not just some half-baked attempt to get money; he realizes that it is very successful letter, and the billionaires are calling you on the phone. This is serious and he tells Obama as much.
 				</p>
 				<p>
 					<span class="douglas">Douglas:</span> Sure, but President Obama is having none of it. He doesn’t like Bill Clinton to begin with. He doesn’t like another man showing up unannounced at his castle either, and by 2014 the White House is definitely Barack Obama’s castle.
@@ -171,7 +171,7 @@
 				Remember, this was to be the year of action; 2014. Remember, he had promised in January of 2014 that there would be sweeping surveillance reforms. So what Clinton was asking seemed foul on many levels to Obama. It was contrary to where he wanted to go with the final two years of his presidency.
 				</p>
 				<p class="h-l">
-					H.L. That is so true, and funny in a way. I almost forgot about that. In January Obama announces in a speech that he is going to reform surveillance, it‘s a major speech. Of course the next month you start sending out The Legacy Letter and that reform promise goes out the window.
+					H.L. That is so true, and funny in a way. I almost forgot about that. In January Obama announces in a speech that he is going to reform surveillance, it‘s a major speech. Of course the next month you start sending out <span class="italic">The Legacy Letter</span> and that reform promise goes out the window.
 				</p>
 				<p>
 					<span class="douglas">Douglas:</span> So true, I bet he would like to have that speech back.
@@ -194,18 +194,18 @@
 					H.L. Very true. So the Clintons will have to wait until the end of the month. On May 29th Hillary Clinton enters the White House and has a ‘secret lunch’ with Obama, correct?
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Yes, secret sure. But Obama already told Bill Clinton at the beginning of the month to send Hillary next time, if the situation with The Legacy Letter did not improve. He said they would have a lunch; it was all informally planned and just not announced.
+					<span class="douglas">Douglas:</span> Yes, secret sure. But Obama already told Bill Clinton at the beginning of the month to send Hillary next time, if the situation with <span class="italic">The Legacy Letter</span> did not improve. He said they would have a lunch; it was all informally planned and just not announced.
 				</p>
 				<p class="h-l">
 					H.L Hillary gets the job done.
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> Yes, Obama agrees to take over operations to suppress The Legacy Letter from the White House, as he had to admit the letter was getting out of control. The momentum was almost unstoppable at that point.
+				<span class="douglas">Douglas:</span> Yes, Obama agrees to take over operations to suppress <span class="italic">The Legacy Letter</span> from the White House, as he had to admit the letter was getting out of control. The momentum was almost unstoppable at that point.
 				<span class="break"></span>
 				While he will not admit to Hillary that Bill Clinton was right, at the same time, he gives her what she wants. She gets the full suppression and surveillance package. The one Bill Clinton suggested earlier.
 				</p>
 				<p class="h-l">
-					H.L. You say even Obama had to admit the popularity of The Legacy Letter needed to be squashed at that stage. Is this because of the international phone calls, the ones from world leaders he is getting at this point?
+					H.L. You say even Obama had to admit the popularity of <span class="italic">The Legacy Letter</span> needed to be squashed at that stage. Is this because of the international phone calls, the ones from world leaders he is getting at this point?
 				</p>
 				<p>
 					<span class="douglas">Douglas:</span> Yes, but you are jumping ahead. The phone calls had already started yes; Obama knew he had to do something at that point.
@@ -240,7 +240,7 @@
 				<p>
 				<span class="douglas">Douglas:</span> It is a large number of Legacy Letters and to some of the wealthiest people in the world; the most powerful. So imagine being behind that? His problems are going to snowball. President Obama will be trying to catch the wind essentially.
 				<span class="break"></span>
-				Therefore the excitement connected to The Legacy Letter is going to go unchecked by Barack Obama for 28 days; this at a crucial time. All these little things, these seemingly small mistakes, will be important later.
+				Therefore the excitement connected to <span class="italic">The Legacy Letter</span> is going to go unchecked by Barack Obama for 28 days; this at a crucial time. All these little things, these seemingly small mistakes, will be important later.
 				</p>
 				<p class="h-l">
 					H.L. And you think much of these early mistakes are due to Barack Obama’s inability to grasp your motivation, your persistence at this stage.
@@ -380,14 +380,14 @@
 					<span class="douglas">Douglas:</span> Very perceptive; another good point.
 				</p>
 				<p class="h-l">
-					H.L. Do you think that was another appeal to The Legacy Letter?
+					H.L. Do you think that was another appeal to <span class="italic">The Legacy Letter</span>?
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> I think so yes, and I could go beyond that even. I think two people can read The Legacy Letter and get completely different perceptions of it.
+					<span class="douglas">Douglas:</span> I think so yes, and I could go beyond that even. I think two people can read <span class="italic">The Legacy Letter</span> and get completely different perceptions of it.
 				<span class="break"></span>
 				In fact, I have a friend who just recently read the letter and enjoyed it. His first reaction was, “Wow, you are really going after the medical community!”  He liked that part of it. But I never saw that aspect; it wasn’t my intention at all. Of course he is not wealthy.
 				<span class="break"></span>
-				But then a billionaire reads it, and they see something totally different. There are filters all over that letter, and to get through the filters and get the entire view of it you have to have a massive amount of success and wealth, and belief that it is all or nothing. After looking at The Legacy Letter thousands of times when sending it out, this is my summation at least.
+				But then a billionaire reads it, and they see something totally different. There are filters all over that letter, and to get through the filters and get the entire view of it you have to have a massive amount of success and wealth, and belief that it is all or nothing. After looking at <span class="italic">The Legacy Letter</span> thousands of times when sending it out, this is my summation at least.
 				</p>
 				<p class="h-l">
 					H.L. I can see that; two or more different ways to interpret the same words. That seems appropriate.
@@ -396,7 +396,7 @@
 					<span class="douglas">Douglas:</span> Should we go back to the events, we have a long way to go. We haven’t even scratched the surface yet.
 				</p>
 				<p class="h-l">
-					H.L. Yes.  In late March 2014, just a little over a month and a half after you send out the first copy of The Legacy Letter, Barack Obama holds a young philanthropist summit at the White House. He invites many of the children of the adult billionaires you have sent The Legacy Letter to; the ones that are interested in investing or donating to The Theorem and the discovery behind it. Correct?
+					H.L. Yes.  In late March 2014, just a little over a month and a half after you send out the first copy of <span class="italic">The Legacy Letter</span>, Barack Obama holds a young philanthropist summit at the White House. He invites many of the children of the adult billionaires you have sent <span class="italic">The Legacy Letter</span> to; the ones that are interested in investing or donating to The Theorem and the discovery behind it. Correct?
 				</p>
 				<p>
 				<span class="douglas">Douglas:</span> Well, you are really anxious to get the war started? Enough of the prelude, you want to jump right to the first battle.
@@ -460,7 +460,7 @@
 				<span class="break"></span>
 				They had to start like this, “Barack, what the hell is going on over there?”
 				<span class="break"></span>
-				These are world leaders calling him. Remember, I said that most of the billionaires in foreign countries have friends who are the leaders of those countries. Many of those billionaires received The Legacy Letter.
+				These are world leaders calling him. Remember, I said that most of the billionaires in foreign countries have friends who are the leaders of those countries. Many of those billionaires received <span class="italic">The Legacy Letter</span>.
 				</p>
 				<p class="h-l">
 					H.L. Yes, you said that already.
@@ -519,7 +519,7 @@
 				<p>
 				<span class="douglas">Douglas:</span> This is so true. One thing is for sure, billionaires do not like to be embarrassed.
 				<span class="break"></span>
-				So you have this growing animosity towards America, towards President Obama. These world leaders are bright men; brilliant women and men. They are educated at the best universities in the world. Often times they even attended our own Ivy League Schools. They are not slouches. They can take one look at The Legacy Letter, and know more about me and more about The Theorem than most could ever comprehend. Obama was fooling no one. All the world leaders knew immediately; they could see his denials were politically motivated.
+				So you have this growing animosity towards America, towards President Obama. These world leaders are bright men; brilliant women and men. They are educated at the best universities in the world. Often times they even attended our own Ivy League Schools. They are not slouches. They can take one look at <span class="italic">The Legacy Letter</span>, and know more about me and more about The Theorem than most could ever comprehend. Obama was fooling no one. All the world leaders knew immediately; they could see his denials were politically motivated.
 				</p>
 				<p class="h-l">
 					H.L. They probably also saw it as another example of American arrogance.
@@ -542,7 +542,7 @@
 				<p>
 					<span class="douglas">Douglas:</span> Yes, of course you do; but for the readers I will explain.
 				<span class="break"></span>
-				In fact, this is exactly what it is all about: The Legacy Letter and The Theorem. This type of letter, with deep intellectual content and a controversial behavioral theory; well, this was right in these elite backers’ wheelhouses.
+				In fact, this is exactly what it is all about: <span class="italic">The Legacy Letter</span> and The Theorem. This type of letter, with deep intellectual content and a controversial behavioral theory; well, this was right in these elite backers’ wheelhouses.
 				<span class="break"></span>
 				Now this goes back to royalty, it goes back hundreds of years and crosses oceans and continents. The wealthy elite like to have any breakthrough discovery first.
 				</p>
@@ -550,7 +550,7 @@
 					H.L. Sure they do, so they can vet it out, and make sure they end up on the right side of all the new changes.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Correct, before it filters down to the masses. So this is where The Theorem ultimately would end up; along with its newly introduced coincidental prelude: The Legacy Letter. It was the end of the line essentially. This is where the decisions would be made in many cases.
+					<span class="douglas">Douglas:</span> Correct, before it filters down to the masses. So this is where The Theorem ultimately would end up; along with its newly introduced coincidental prelude: <span class="italic">The Legacy Letter</span>. It was the end of the line essentially. This is where the decisions would be made in many cases.
 				</p>
 				<p class="h-l">
 					H.L. And they were interested?
@@ -602,7 +602,7 @@
 				<span class="break"></span>
 				So, the loyalty these wealthy elite had to the Democratic Party, to the Clintons was fraying. It was never as strong as the Clintons thought it was, this is what they were realizing.
 				<span class="break"></span>
-				Their democratic platform was dated, a part of the past. Then, when The Legacy Letter came along, it represented a direct contrast to that dreary portrait they had painted. The Clintons were in fear of losing everything they convinced themselves they had. They were hemorrhaging; grabbing at the ankles of these wealthy individuals and trying to pull them back into the past. While I was trying to pry them off the same old rock they had been pinned against for the last 30 years.
+				Their democratic platform was dated, a part of the past. Then, when <span class="italic">The Legacy Letter</span> came along, it represented a direct contrast to that dreary portrait they had painted. The Clintons were in fear of losing everything they convinced themselves they had. They were hemorrhaging; grabbing at the ankles of these wealthy individuals and trying to pull them back into the past. While I was trying to pry them off the same old rock they had been pinned against for the last 30 years.
 				<span class="break"></span>
 				It was quite a battle. Again, and it wasn’t intentional on my end, somehow this just happened.
 				</p>
@@ -643,7 +643,7 @@
 				At the same time The Theorem is obviously so much more, as this was just a slice of our marketing. So at the time, in 2014, I was only focused on the behavioral model and on the disorders and behaviors that The Theorem solved the mysteries to; autism, depression, panic disorder, OCD, anorexia, the purpose of sleep and dreams, and the reproduction model among others.
 				</p>
 				<p class="h-l">
-					H.L. Well true, there is not a single word in The Legacy Letter about abortion. It just wasn’t headed in that direction. Still you must have had an idea?
+					H.L. Well true, there is not a single word in <span class="italic">The Legacy Letter</span> about abortion. It just wasn’t headed in that direction. Still you must have had an idea?
 				</p>
 				<p>
 				<span class="douglas">Douglas:</span> No, I told you I really had blinders on; falsely assuming that since I wasn’t thinking about it, no one else was. My mind just works different that way.
@@ -754,7 +754,7 @@
 				<p>
 				<span class="douglas">Douglas:</span> And again, I hold no grudges against the billionaires who were in on this.  I see them only as victims of Barack Obama and The Clintons.
 				<span class="break"></span>
-				I like most everyone I sent The Legacy Letter to, or I wouldn’t have sent it. I will just say this; there are some billionaires out there who do not love themselves. These people I cannot help.
+				I like most everyone I sent <span class="italic">The Legacy Letter</span> to, or I wouldn’t have sent it. I will just say this; there are some billionaires out there who do not love themselves. These people I cannot help.
 				</p>
 				<p class="h-l">
 					H.L.  Very diplomatically spoken.
@@ -1108,7 +1108,7 @@
 				<p>
 				<span class="douglas">Douglas:</span> This one is going to take some time. I doubt anyone would publish this, as we have to go very far off subject to get back on it. It gets to the heart of humanity, the core of what it means to be a man; to be a woman.
 				<span class="break"></span>
-				It’s quite intense. Some of it is from The Legacy Letter, scratches of it at least.
+				It’s quite intense. Some of it is from <span class="italic">The Legacy Letter</span>, scratches of it at least.
 				</p>
 				<p class="h-l">
 				H.L. I’m intrigued. Now I have to hear it!
@@ -1154,7 +1154,7 @@
 				We want something, beyond a tombstone, which says, “I was here, I conquered. All this pain and hard work meant something!”
 				</p>
 				<p class="h-l">
-					H.L. Sure. I think this feeling is a common trait in many men. I already realized some of this after I read The Legacy Letter, but for the sake of the interview I will go along as though I haven’t read it.
+					H.L. Sure. I think this feeling is a common trait in many men. I already realized some of this after I read <span class="italic">The Legacy Letter</span>, but for the sake of the interview I will go along as though I haven’t read it.
 				</p>
 				<p>
 					<span class="douglas">Douglas:</span> That’s good, because this is going to launch where that letter left off, so you will have an advantage.
@@ -1173,7 +1173,7 @@
 					H.L. Because the child quenches that thirst for immortality, as this child will have another. And that child will have another. And so on.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Yes, but you’re cheating. You’re stealing my moment because you already read The Legacy Letter.
+					<span class="douglas">Douglas:</span> Yes, but you’re cheating. You’re stealing my moment because you already read <span class="italic">The Legacy Letter</span>.
 				</p>
 				<p class="h-l">
 					H.L. Oh, okay sorry.
@@ -1659,7 +1659,7 @@
 				We can’t forget that.
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> Right. We need to get to it today, tomorrow will be too busy. I think I can weave it into those eight years between 2006 and 2014; between when the book was published, and when I composed The Legacy Letter.
+				<span class="douglas">Douglas:</span> Right. We need to get to it today, tomorrow will be too busy. I think I can weave it into those eight years between 2006 and 2014; between when the book was published, and when I composed <span class="italic">The Legacy Letter</span>.
 				<span class="break"></span>
 				That should save space and time.
 				</p>

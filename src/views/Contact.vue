@@ -43,7 +43,7 @@
 					TIPLINE
 				</h3>
 				<p class="px-5">
-					If you feel in any way you have been targeted for your interest in The Theorem or in The Legacy Letter contact us at the Tipline.
+					If you feel in any way you have been targeted for your interest in The Theorem or in <span class="italic">The Legacy Letter</span> contact us at the Tipline.
 				</p>
 				<p class="px-5">
 					<a href="mailto:thetheorem@protonmail.com">thetheorem&#64;&#112;&#114;otonmail&#46;&#99;om</a>

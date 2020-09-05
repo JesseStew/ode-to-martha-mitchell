@@ -385,7 +385,7 @@
 				H.L. You mean Barack and Eric?
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> It was a big deal for President Obama to have Eric Holder leaving the post of Attorney General, resigning at the end of September, 2014. Holder wanted no part of suppressing a book or The Legacy Letter or the mushrooming storm he could see coming. This wasn’t going to be his legacy, no way.
+				<span class="douglas">Douglas:</span> It was a big deal for President Obama to have Eric Holder leaving the post of Attorney General, resigning at the end of September, 2014. Holder wanted no part of suppressing a book or <span class="italic">The Legacy Letter</span> or the mushrooming storm he could see coming. This wasn’t going to be his legacy, no way.
 				<span class="break"></span>
 				Holder felt if they were caught, perhaps President Obama may get off with a severe slap on the wrist, but Holder knew he would end up the fall guy. He had worked too hard, and too many people believed in him, including many African-Americans. While it is hard and sad to believe that it took this long; Eric Holder was the first African-American Attorney General of The United States.
 				<span class="break"></span>
@@ -421,7 +421,7 @@
 				H.L. Yes, I can agree that his childhood experience would magnify the loss.
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> He was a very isolated president to begin with. He was going to have to go all in now. The cover-up in response to The Legacy Letter and The Theorem was mushrooming into an even bigger mess. To be in something that big and that vast as the cover-up was becoming; well, you can’t tell up from down. You are going to make mistakes. You have no one to tell you, “Hey don’t do that!”
+				<span class="douglas">Douglas:</span> He was a very isolated president to begin with. He was going to have to go all in now. The cover-up in response to <span class="italic">The Legacy Letter</span> and The Theorem was mushrooming into an even bigger mess. To be in something that big and that vast as the cover-up was becoming; well, you can’t tell up from down. You are going to make mistakes. You have no one to tell you, “Hey don’t do that!”
 				<span class="break"></span>
 				And by the time he is going undertake surveillance on Trump Tower, he will have slid into such a precarious mental state, and much of this is due to the isolation he was about to realize.
 				</p>
@@ -495,7 +495,7 @@
 				H.L. He was throwing a party and hardly anyone came.
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> Yes, and while much of it had to do with his negotiations with Iran, a good portion of it had to do with Obama blocking the Arab Billionaires interest in The Legacy Letter. Billionaires do not like to be told what they can or can’t do; again, many are close friends with the leaders of their country. Also Muslims by nature are very generous and some were sincerely interested in helping out.
+				<span class="douglas">Douglas:</span> Yes, and while much of it had to do with his negotiations with Iran, a good portion of it had to do with Obama blocking the Arab Billionaires interest in <span class="italic">The Legacy Letter</span>. Billionaires do not like to be told what they can or can’t do; again, many are close friends with the leaders of their country. Also Muslims by nature are very generous and some were sincerely interested in helping out.
 				</p>
 				<p class="h-l">
 				H.L. So by 2016 he will be secretly sending 400 million dollars to Iran.
@@ -515,7 +515,7 @@
 				H.L. In contrast, you are out of that stressful situation.
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> Exactly I am out of Tennessee, I am making money. We are taking about moving to Europe at this point, though we never did. I am very relaxed. Meanwhile the interest in The Legacy Letter is really starting to grow exponentially, and the growth will continue to flourish throughout 2015.
+				<span class="douglas">Douglas:</span> Exactly I am out of Tennessee, I am making money. We are taking about moving to Europe at this point, though we never did. I am very relaxed. Meanwhile the interest in <span class="italic">The Legacy Letter</span> is really starting to grow exponentially, and the growth will continue to flourish throughout 2015.
 				</p>
 				<p class="h-l">
 				H.L. So why did you settle in Missouri; the where and when?
@@ -537,7 +537,7 @@
 				H.L. What were your plans there?
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> Well not much really. At first I even considered giving up on The Legacy Letter and starting another book. Then I began working on building another website for The Theorem. My friend was a great help on that site. Essentially in the beginning, we did a little bit of everything.
+				<span class="douglas">Douglas:</span> Well not much really. At first I even considered giving up on <span class="italic">The Legacy Letter</span> and starting another book. Then I began working on building another website for The Theorem. My friend was a great help on that site. Essentially in the beginning, we did a little bit of everything.
 				</p>
 				<p class="h-l">
 				H.L. You were tired, you had said.
@@ -549,7 +549,7 @@
 				H.L. I imagine so. But you kept sending the letter out?
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> Yes, I did, and at a very high volume. I sent copies out at a very brisk pace from summer of 2015 until February of 2016; I believe I sent out close to 5000 copies of The Legacy Letter during that short time frame.
+				<span class="douglas">Douglas:</span> Yes, I did, and at a very high volume. I sent copies out at a very brisk pace from summer of 2015 until February of 2016; I believe I sent out close to 5000 copies of <span class="italic">The Legacy Letter</span> during that short time frame.
 				</p>
 				<p class="h-l">
 				H.L. That is a large volume, so you didn’t slow down at all really?
@@ -590,10 +590,10 @@
 				<span class="douglas">Douglas:</span> Okay?
 				</p>
 				<p class="h-l">
-				H.L. You talk about women and men, but mostly you talk about businessmen. So I am confused. Did you send The Legacy Letter to men only or to women as well?
+				H.L. You talk about women and men, but mostly you talk about businessmen. So I am confused. Did you send <span class="italic">The Legacy Letter</span> to men only or to women as well?
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> Now that is an appropriate question. No, I didn’t send it to many women, maybe 300 in total (3%). Here’s why, The Legacy Letter was written specifically for men; dealing with issues in regards to his quest for immortality, in contrast to women obtaining that naturally.
+				<span class="douglas">Douglas:</span> Now that is an appropriate question. No, I didn’t send it to many women, maybe 300 in total (3%). Here’s why, <span class="italic">The Legacy Letter</span> was written specifically for men; dealing with issues in regards to his quest for immortality, in contrast to women obtaining that naturally.
 				<span class="break"></span>
 				This was frustrating; it was very frustrating to me. Because I would see a woman CEO and say to myself, “She is perfect, she will invest or donate.” But all I had was this male oriented letter. So it was like sending a woman a pair of men’s socks as a gift. It really made no sense.
 				</p>
@@ -651,7 +651,7 @@
 				<p>
 				<span class="douglas">Douglas:</span> If you add that to the word of mouth from the billionaires and financially elite; then, as you would imagine, eventually the word spread.
 				<span class="break"></span>
-				Also, some of the CEO’s of movie production companies received a copy of The Legacy Letter years earlier. But my focus on them was the fact that they were corporate CEO’s, and no connection or interest in regards to Hollywood.
+				Also, some of the CEO’s of movie production companies received a copy of <span class="italic">The Legacy Letter</span> years earlier. But my focus on them was the fact that they were corporate CEO’s, and no connection or interest in regards to Hollywood.
 				</p>
 				<p class="h-l">
 				H.L. Sure, still they were CEO’s. Still they were businessmen.
@@ -741,7 +741,7 @@
 				<p>
 				<span class="douglas">Douglas:</span> Yes, I am. Here’s the story. Finally something positive!
 				<span class="break"></span>
-				So occasionally over the years as I was emailing, I would hear a song or a lyric and then think I should send that person a copy of The Legacy Letter. But for some reason I was shy. So finally one week, sometime in or around 2015, I made up my mind to get up the courage to do it. Their email addresses were not easy to find, but I sent the letter to maybe ten or even fifteen famous musicians.
+				So occasionally over the years as I was emailing, I would hear a song or a lyric and then think I should send that person a copy of <span class="italic">The Legacy Letter</span>. But for some reason I was shy. So finally one week, sometime in or around 2015, I made up my mind to get up the courage to do it. Their email addresses were not easy to find, but I sent the letter to maybe ten or even fifteen famous musicians.
 				<span class="break"></span>
 				At first I heard nothing, saw no interest on the website or anything. I thought that it was a dud. Then about a year later it started, and it’s like they woke or rose up, and it has not stopped since.
 				</p>
@@ -2037,7 +2037,7 @@
 				H.L. No, it makes total sense. If I seem like I am drifting off, it is just I am only now starting to realize how large the scope of this operation was.
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> Okay, yes. It is his legacy. Suppressing The Theorem and The Legacy Letter is his legacy. The Obama Care; wasn’t that Clinton’s idea as well? Didn’t she float that idea years ago? I may be wrong.
+				<span class="douglas">Douglas:</span> Okay, yes. It is his legacy. Suppressing The Theorem and <span class="italic">The Legacy Letter</span> is his legacy. The Obama Care; wasn’t that Clinton’s idea as well? Didn’t she float that idea years ago? I may be wrong.
 				</p>
 				<p class="h-l">
 				H.L. No, she talked about it.

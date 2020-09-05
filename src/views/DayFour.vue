@@ -25,9 +25,9 @@
 	H.L. Let’s recap the timeline here. You are in Missouri; it is the winter of 2016.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Okay, February of 2016. We are arrived at the Missouri house in the summer of 2015. My original intention was to slow down, to decrease the marketing of The Legacy Letter. But that is not what happened. For the final six months of 2015 I sent out close to 5000 copies of it. We have been over that already.
+<span class="douglas">Douglas:</span> Okay, February of 2016. We are arrived at the Missouri house in the summer of 2015. My original intention was to slow down, to decrease the marketing of <span class="italic">The Legacy Letter</span>. But that is not what happened. For the final six months of 2015 I sent out close to 5000 copies of it. We have been over that already.
 <span class="break"></span>
-However, by February of 2016 I was essentially finished with sending out The Legacy Letter altogether.
+However, by February of 2016 I was essentially finished with sending out <span class="italic">The Legacy Letter</span> altogether.
 </p>
 <p class="h-l">
 	H.L. You say ‘we’. It may be a good time to introduce your ‘friends’ to the readers. As you will need to clarify their involvement as they do play some role in the events we are speaking of today.
@@ -52,12 +52,12 @@ It was also understood that when she moved, I would move to Europe to be close t
 <span class="douglas">Douglas:</span> Yes. Well, something close to that.
 </p>
 <p class="h-l">
-	H.L. So by February of 2016 you were just about finished with The Legacy Letter, and doing very little. Correct?
+	H.L. So by February of 2016 you were just about finished with <span class="italic">The Legacy Letter</span>, and doing very little. Correct?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, and there was a very good reason for this: election season. I feared this election, because I knew that many of my potential donors were also very big political donors. So I believed the politicians would compete for the discretionary charity or interest I might receive. So to me it was a wash.
 <span class="break"></span>
-In fact after the middle of February 2016, I stopped sending out emailed copies of The Legacy Letter all together; this until well after the election, a date still many months away.
+In fact after the middle of February 2016, I stopped sending out emailed copies of <span class="italic">The Legacy Letter</span> all together; this until well after the election, a date still many months away.
 <span class="break"></span>
 Even after the election I just sent a few to people that I had missed years earlier. It was basically over in mid February, I had sent out over 10,000 emails. Indeed there were very few of the wealthy and powerful around the world that did not know about The Theorem at this time. I had completed some of my job at least, and was looking to the future.
 </p>
@@ -65,7 +65,7 @@ Even after the election I just sent a few to people that I had missed years earl
 	H.L. I imagine you were tired, two years, even intermittently, is a long time to sit in front of a computer. Especially when you are not getting the results you want. But like you said, you made a lot of friends.
 </p>
 <p>
-<span class="douglas">Douglas:</span> I did make a lot of friends, and that is really what I consider them to be to this day. I mean all of them; I wouldn’t have sent a copy of The Legacy Letter to these people if I didn’t like them. Even though some aligned against me, I understand it was only business. I still like them today. I may have regretted sending maybe 10 Legacy Letters out of the 10,000, so that’s a good ratio.
+<span class="douglas">Douglas:</span> I did make a lot of friends, and that is really what I consider them to be to this day. I mean all of them; I wouldn’t have sent a copy of <span class="italic">The Legacy Letter</span> to these people if I didn’t like them. Even though some aligned against me, I understand it was only business. I still like them today. I may have regretted sending maybe 10 Legacy Letters out of the 10,000, so that’s a good ratio.
 </p>
 <p class="h-l">
 	H.L. Not bad at all.
@@ -97,7 +97,7 @@ It was more than that. I didn’t even see any evidence that he had read the let
 <p>
 <span class="douglas">Douglas:</span> You’re right, that’s a good point, especially a rich one.
 <span class="break"></span>
-Still, I liked Donald Trump and even though I didn’t think he would be a fit, I wanted him to read The Legacy Letter I was so proud of.
+Still, I liked Donald Trump and even though I didn’t think he would be a fit, I wanted him to read <span class="italic">The Legacy Letter</span> I was so proud of.
 <span class="break"></span>
 So I did something I rarely do; I sent him a duplicate copy a few months later. I figured maybe the first copy was chewed up in his expensive server or something. Still, I received no indication. He was still invisible to my search. So I assumed the obvious; he wasn’t interested.
 </p>
@@ -139,7 +139,7 @@ In other words, in the beginning, back in 2014, I had no idea if the potential i
 <p>
 <span class="douglas">Douglas:</span> Yes, well after nearly two and a half years I was almost an expert at this skill.
 <span class="break"></span>
-I could essentially ‘feel’ by someone’s behavior on the internet and related to my search where their head was at in regards to The Legacy Letter and The Theorem in general. So by now I would analyze the patterns of their behavior and was further developing an intuitive sense. Sometimes I was incorrect in my perceptions and assumptions, but most of the times I was right.
+I could essentially ‘feel’ by someone’s behavior on the internet and related to my search where their head was at in regards to <span class="italic">The Legacy Letter</span> and The Theorem in general. So by now I would analyze the patterns of their behavior and was further developing an intuitive sense. Sometimes I was incorrect in my perceptions and assumptions, but most of the times I was right.
 </p>
 <p class="h-l">
 	H.L. Understood.
@@ -169,9 +169,9 @@ Something was happening.
 <p>
 <span class="douglas">Douglas:</span> I really was. The second explanation was more practical. Perhaps he just had not read it yet. Now this happened occasionally, these guys are very busy and once in awhile I am surprised, as I will notice a first view a full two years after I sent the email.
 <span class="break"></span>
-In that case the letter had to typically be fished out of the spam folder. So I was relieved for awhile that this was the logical reason.  Still that didn’t make sense; there were those who knew him and who had received The Legacy Letter and were interested. I will not go into details. But, it was puzzling to me.
+In that case the letter had to typically be fished out of the spam folder. So I was relieved for awhile that this was the logical reason.  Still that didn’t make sense; there were those who knew him and who had received <span class="italic">The Legacy Letter</span> and were interested. I will not go into details. But, it was puzzling to me.
 <span class="break"></span>
-So I just let it pass, and figured; well maybe he just read it for the first time and it is motivating him. I felt proud it was motivating a presidential candidate. This belief was actually not a stretch, I could see from many of the men’s behavior after they received The Legacy Letter that they had taken bold action in their lives. Actually it was quite common. The letter was challenging, it would tug deep at the very soul of the motivation that defined them. So I could live with that.
+So I just let it pass, and figured; well maybe he just read it for the first time and it is motivating him. I felt proud it was motivating a presidential candidate. This belief was actually not a stretch, I could see from many of the men’s behavior after they received <span class="italic">The Legacy Letter</span> that they had taken bold action in their lives. Actually it was quite common. The letter was challenging, it would tug deep at the very soul of the motivation that defined them. So I could live with that.
 </p>
 <p class="h-l">
 	H.L. That was your summation of the situation?
@@ -263,7 +263,7 @@ It just didn’t make any sense. It didn’t make any sense the same way the ext
 <p>
 <span class="douglas">Douglas:</span> Well we have to go back to the beginning of the year with Barack Obama to understand this. Now remember I am emailing, sending out Legacy Letters, all the way until February 2016. After that however, it would have been clear to anyone listening, which they were, I was done.
 <span class="break"></span>
-So by March 2016 Barack Obama had to feeling good about himself, about life in general, especially in regards to his suppression efforts in regards to The Theorem and The Legacy Letter.
+So by March 2016 Barack Obama had to feeling good about himself, about life in general, especially in regards to his suppression efforts in regards to The Theorem and <span class="italic">The Legacy Letter</span>.
 <span class="break"></span>
 He was getting a long earned reprieve from suppressing it. After all, 2015 had been a brutal year, he was bombarded by disappointing perceptions, and sleep interrupted nights. It didn’t help when I moved into the Missouri house in the summer of 2015 and started emailing again. He thought this nightmare would begin all over again. But it didn’t.
 <span class="break"></span>
@@ -299,7 +299,7 @@ This is what I believe to be an accurate representation of events, as I could in
 	H.L. Sure, I welcome it.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Sometime in the spring of 2016, somebody tipped off Donald Trump as to what had been going on with Obama and Clinton’s suppression of The Theorem and The Legacy Letter. It could have been a campaign aide; it could have been the Secret Service. It could have been anyone. It was more likely a source that told a source.
+<span class="douglas">Douglas:</span> Sometime in the spring of 2016, somebody tipped off Donald Trump as to what had been going on with Obama and Clinton’s suppression of The Theorem and <span class="italic">The Legacy Letter</span>. It could have been a campaign aide; it could have been the Secret Service. It could have been anyone. It was more likely a source that told a source.
 <span class="break"></span>
 Still it was damning evidence against Hillary Clinton. Now Donald Trump really didn’t want to get involved in anything that could risk him his campaign, the potential presidency and his real estate empire.
 </p>
@@ -401,7 +401,7 @@ Hillary dispatches Bill to meet with Loretta Lynch on the airport tarmac in Ariz
 	H.L It all ties together. Good.
 </p>
 <p>
-<span class="douglas">Douglas:</span> So Hillary Clinton is hungry for information. Now in this loop between Obama’s obsession with The Legacy Letter and The Theorem, and his growing obsession with Donald Trump’s candidacy; I am the lowest risk to scour information out of. So she starts surveillance on me, hoping that if there is something going on, I will be careless and spill it.
+<span class="douglas">Douglas:</span> So Hillary Clinton is hungry for information. Now in this loop between Obama’s obsession with <span class="italic">The Legacy Letter</span> and The Theorem, and his growing obsession with Donald Trump’s candidacy; I am the lowest risk to scour information out of. So she starts surveillance on me, hoping that if there is something going on, I will be careless and spill it.
 </p>
 <p class="h-l">
 	H.L. Looking back to Tennessee and the stunt you played with the US Africa Aid, this is all starting to make sense. Barack Obama now has no real idea what you are doing.
@@ -617,7 +617,7 @@ Because upon Clintons presumed victory you could go and say, “Well we really w
 <span class="douglas">Douglas:</span> Sure he did. Look, people really liked Donald Trump and they wanted to help him. If they know something is going on and Clinton or Obama were behind it, they wanted to bring it to his attention. Donald Trump was not going to go looking for that information, as that is not his style. But people were likely bringing him boxes of information on those two crooks. At this point he is the most popular kid in the schoolyard and everybody wants to share their lunch with him.
 </p>
 <p class="h-l">
-	H.L. And in one of those boxes contains The Theorem, The Legacy Letter and how the Obama Administration and Hillary Clinton were suppressing it.
+	H.L. And in one of those boxes contains The Theorem, <span class="italic">The Legacy Letter</span> and how the Obama Administration and Hillary Clinton were suppressing it.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, and it was a big box.
@@ -674,7 +674,7 @@ So imagine if Donald Trump’s team were to attempt the impossible and explain t
 	H.L. Sure.
 </p>
 <p>
-<span class="douglas">Douglas:</span> So I should disclose then that after I finished The Legacy Letter and right before we left Tennessee in December of 2015, she was hired by an international surveillance and intelligence company. Now she had no experience in this field and the job conveniently fell into her lap.
+<span class="douglas">Douglas:</span> So I should disclose then that after I finished <span class="italic">The Legacy Letter</span> and right before we left Tennessee in December of 2015, she was hired by an international surveillance and intelligence company. Now she had no experience in this field and the job conveniently fell into her lap.
 </p>
 <p class="h-l">
 	H.L. How convenient. The plot thickens.
@@ -806,7 +806,7 @@ But I still gave Obama no attention.
 	H.L. And now, before the election, you are getting interested and giving attention to Donald Trump. This to make matters worse for Obama.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Of course I am. Someone from a presidential candidate’s team is visiting my website often. I am no hotshot; I put on my work boots like everyone else. I was very honored from this increased attention. One of my billionaires is going to be president! I was so proud. Of course he is not one of ‘my billionaires’, but I called them that at the time, the ones who received The Legacy Letter.
+<span class="douglas">Douglas:</span> Of course I am. Someone from a presidential candidate’s team is visiting my website often. I am no hotshot; I put on my work boots like everyone else. I was very honored from this increased attention. One of my billionaires is going to be president! I was so proud. Of course he is not one of ‘my billionaires’, but I called them that at the time, the ones who received <span class="italic">The Legacy Letter</span>.
 </p>
 <p class="h-l">
 	H.L. No, I understand you were excited for him.
@@ -848,7 +848,7 @@ But I still gave Obama no attention.
 	H.L. So this is the prelude, the headwaters as you say to the Impeachment hearings, to Spygate and the Russia probe?
 </p>
 <p>
-<span class="douglas">Douglas:</span> Yes, this is the origin of it all. Barack Obama had to build a narrative to explain his actions. So it starts out as Donald Trump or his team finding out about the years of suppression of The Theorem and The Legacy Letter, the targeting of my potential donors and investors. Barack Obama becomes nervous about this, and starts wiretapping Trump Towers, with or without a FISA warrant.
+<span class="douglas">Douglas:</span> Yes, this is the origin of it all. Barack Obama had to build a narrative to explain his actions. So it starts out as Donald Trump or his team finding out about the years of suppression of The Theorem and <span class="italic">The Legacy Letter</span>, the targeting of my potential donors and investors. Barack Obama becomes nervous about this, and starts wiretapping Trump Towers, with or without a FISA warrant.
 <span class="break"></span>
 Barack Obama is concerned about my lack of activity in the spring and summer of 2016 and figures I may be planning to secretly contact Donald Trump’s team and tell them what I know. Obama’s suspicions were accelerated by the fact that he was traveling internationally extensively during the spring of 2016. In response to these two developments he intensifies surveillance of my Missouri residence. He doesn’t hide this fact, as he wants me to know I am being watched and this is an effort to prevent me from contacting Donald Trump’s team independently.
 </p>
@@ -866,7 +866,7 @@ So in response to Donald Trumps’ team finding out about the cover-up, Barack O
 <p>
 <span class="douglas">Douglas:</span> Yes, you are right. You cannot overemphasize the brilliance of Barack Obama here, even in this somewhat panicked state, he is cool-headed and collected and executes all of these steps perfectly.
 <span class="break"></span>
-It is true, I am surrounded. I have some damning information, as I am the one they have been suppressing. I was the hub of all the potential investors who had The Legacy Letter. I was the common denominator with all the harassments and the prosecutions. I had an unobstructed view of what Barack Obama had been doing to them.
+It is true, I am surrounded. I have some damning information, as I am the one they have been suppressing. I was the hub of all the potential investors who had <span class="italic">The Legacy Letter</span>. I was the common denominator with all the harassments and the prosecutions. I had an unobstructed view of what Barack Obama had been doing to them.
 <span class="break"></span>
 Therefore I was the one who could tie all the names and the dates together. I was the one who could build the comprehensible narrative to this cover-up. If I were to have shared that with candidate Trump, not only would Hillary Clinton be in trouble, but Barack Obama would have been in even bigger trouble.
 <span class="break"></span>
@@ -876,7 +876,7 @@ So they smothered me in a fortress like you say; my girlfriend was on their payr
 	H.L. Obama knows you have some damning information on him, because you said you were complaining to your girlfriend about it, like you said.
 </p>
 <p>
-<span class="douglas">Douglas:</span> All the time. All the time I was complaining. You know I am not used to failing. It all made no sense to me, with the interest in The Legacy Letter the way it was. Sure in Tennessee I blamed myself, and maybe continued the self-blame all the way through 2015 in Missouri. But by 2016, it was obvious what they were doing to me. I was really frustrated.
+<span class="douglas">Douglas:</span> All the time. All the time I was complaining. You know I am not used to failing. It all made no sense to me, with the interest in <span class="italic">The Legacy Letter</span> the way it was. Sure in Tennessee I blamed myself, and maybe continued the self-blame all the way through 2015 in Missouri. But by 2016, it was obvious what they were doing to me. I was really frustrated.
 <span class="break"></span>
 Now when it got close to the election, I went one step further and publicly told Obama essentially that I knew what was going on.
 </p>
@@ -906,7 +906,7 @@ If it was just me in there all by myself, I can all but guarantee you I would ha
 	H.L. Okay, back to your summation.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Right, so Donald Trump has the goods on Hillary Clinton and Barack Obama but can do nothing with them. He can’t explain the narrative of The Theorem, and the suppression of The Legacy Letter. He can’t trust me, so all he can do is to visit my website and wait for me to spill the cover-up.
+<span class="douglas">Douglas:</span> Right, so Donald Trump has the goods on Hillary Clinton and Barack Obama but can do nothing with them. He can’t explain the narrative of The Theorem, and the suppression of <span class="italic">The Legacy Letter</span>. He can’t trust me, so all he can do is to visit my website and wait for me to spill the cover-up.
 <span class="break"></span>
 Now for Barack Obama, he has to mine all the information out of the Trump Campaign that he can. He has surveillance, spies and wiretapping all over Donald Trump.
 <span class="break"></span>
@@ -1353,13 +1353,13 @@ What little innocence of nature he had in him was innocence nonetheless, and it 
 	H.L. Yes, the optics weren’t very good for an outgoing liberal president, a supposed champion of the ‘little guy’, to hang out on an island with a billionaire; Richard Branson founder of the Virgin Group.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Right? Of course to everyone else it made no sense. I should clarify that. It made no sense to everyone else, but to those who received The Legacy Letter it made perfect sense. I just said to myself, well there goes another potential investor.
+<span class="douglas">Douglas:</span> Right? Of course to everyone else it made no sense. I should clarify that. It made no sense to everyone else, but to those who received <span class="italic">The Legacy Letter</span> it made perfect sense. I just said to myself, well there goes another potential investor.
 </p>
 <p class="h-l">
-	H.L. I see. True, once you read The Legacy Letter you do figure this would be something Richard Branson would be interested in.
+	H.L. I see. True, once you read <span class="italic">The Legacy Letter</span> you do figure this would be something Richard Branson would be interested in.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Of course Richard Branson was sent a copy of The Legacy Letter. From what I could tell he was very interested in it, and for a long time. So, like The Presidential Awards we will go into tomorrow, his connection to Branson made complete sense.
+<span class="douglas">Douglas:</span> Of course Richard Branson was sent a copy of <span class="italic">The Legacy Letter</span>. From what I could tell he was very interested in it, and for a long time. So, like The Presidential Awards we will go into tomorrow, his connection to Branson made complete sense.
 <span class="break"></span>
 After all Branson wasn’t an American citizen so there would have been little punishment Barack Obama could subject him to. So he had to entice him with agreeing to visit to his island. This visit was likely promised years before. And when he got out of office, he made good on his promise.
 </p>
@@ -1369,7 +1369,7 @@ After all Branson wasn’t an American citizen so there would have been little p
 <p>
 <span class="douglas">Douglas:</span> No it’s not; actually not at all.
 <span class="break"></span>
-He in fact will be visiting Branson’s Nekar Island for another reason altogether. A reason that nothing to do with The Legacy Letter, nothing to do directly with me, and nothing to do with promises made a few years before. As you will see his Barack Obama’s interest in this island and this man, at this point is for a much more sinister intent altogether.
+He in fact will be visiting Branson’s Nekar Island for another reason altogether. A reason that nothing to do with <span class="italic">The Legacy Letter</span>, nothing to do directly with me, and nothing to do with promises made a few years before. As you will see his Barack Obama’s interest in this island and this man, at this point is for a much more sinister intent altogether.
 </p>
 <p class="h-l">
 	H.L. So let’s just clarify where we are here. The inauguration is over. Barack Obama is about to leave Washington D.C as a private citizen for the first time in eight years. He takes his family and heads to the Palm Springs Area. In three days he will depart, with all of the family to the Caribbean to Richard Branson’s Neckar Island for 10 days. Correct?
@@ -1441,7 +1441,7 @@ Hawaii would have made sense, and at least it would have been in the USA, the co
 Also if you were in Washington D.C why would you fly all the way out West to California for a day or two; then fly all the way back East again. Seems somewhat deceptive, like you said sleight of hand; we are going this way, and now that way.
 </p>
 <p>
-<span class="douglas">Douglas:</span> No, they were going to flee. They were preparing to flee, Obama could not anticipate what President Trump would do, how much he knew and what was coming next. Barack Obama was certain the minute Donald Trump entered office, he would release all he knew about the cover-up and concealment of The Theorem, of The Legacy Letter and of his knowledge of the wiretapping of Trump Tower. Remember, just a few weeks before the election, on The Theorem Website, I all but foreshadowed this would happen. I all but foreshadowed that prosecution was imminent, and that a change was coming.
+<span class="douglas">Douglas:</span> No, they were going to flee. They were preparing to flee, Obama could not anticipate what President Trump would do, how much he knew and what was coming next. Barack Obama was certain the minute Donald Trump entered office, he would release all he knew about the cover-up and concealment of The Theorem, of <span class="italic">The Legacy Letter</span> and of his knowledge of the wiretapping of Trump Tower. Remember, just a few weeks before the election, on The Theorem Website, I all but foreshadowed this would happen. I all but foreshadowed that prosecution was imminent, and that a change was coming.
 <span class="break"></span>
 You have to understand it’s not the way you would normally see it, the way he saw it.
 </p>
@@ -1884,7 +1884,7 @@ Barack Obama has no idea what is driving him on a conscious level at this moment
 	H.L. Well said.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Barack Obama feels worthless, absolutely worthless. Yet ironically, he has just accomplished the greatest feat in front of the curtain, a two-term presidency, the first African-American president ever! Behind the curtains we talked about that yesterday, an amazing accomplishment; he stopped the unstoppable, with The Legacy Letter and The Theorem.
+<span class="douglas">Douglas:</span> Barack Obama feels worthless, absolutely worthless. Yet ironically, he has just accomplished the greatest feat in front of the curtain, a two-term presidency, the first African-American president ever! Behind the curtains we talked about that yesterday, an amazing accomplishment; he stopped the unstoppable, with <span class="italic">The Legacy Letter</span> and The Theorem.
 <span class="break"></span>
 It is no matter, his amazing accomplishments, because all he can see is that 5th grader being sent away; hence the power of the human mind to elevate and destroy, often simultaneously.
 </p>

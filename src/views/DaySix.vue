@@ -254,7 +254,7 @@ H.L. What do you mean by that exactly?
 <p>
 <span class="douglas">Douglas:</span> Like one cold Tennessee morning, mixed with hickory ashes in the fireplace were the embers of discontent, some foreign force inside that just had enough of me. It wanted out.
 <span class="break"></span>
-The discovery had outgrown its host. So unknowingly but obediently, I compose The Legacy Letter. Unknowingly but obediently, I seek out the most powerful individuals in the world. So The Theorem is looking for a new home, all the while I think it is about me.
+The discovery had outgrown its host. So unknowingly but obediently, I compose <span class="italic">The Legacy Letter</span>. Unknowingly but obediently, I seek out the most powerful individuals in the world. So The Theorem is looking for a new home, all the while I think it is about me.
 </p>
 <p class="h-l">
 H.L. I see. Implying The Theorem and the originating discovery has its own mind, is its own independent entity? Kind of like the movie Alien, it is tired of you so it rips out of your chest and goes to look for someone else to host it.
@@ -475,7 +475,7 @@ H.L. Sure, but death is a normal part of our existence. You can’t just ignore 
 <span class="break"></span>
 While I have not mentioned death extensively it was always there, lingering around The Theorem all the way back to the beginning. First it was my grandfather in 1995; grandmother in 2000 and finally, almost ten years ago, my father. It was always there. While those are a few of my personal experiences with death, there were always other deaths as well; those less directly connected to me but still very close to the work, The Theorem: A Complete Answer to Human Behavior and its originating discovery.
 <span class="break"></span>
-When I sent out The Legacy Letter in 2014, I became more aware of man’s mortality. In some cases, I would send out The Legacy Letter to someone who appeared from my perception to be alive and well; only to be informed later that this person had indeed perished. This was embarrassing, as it made me feel amateurish or uncaring, as if I hadn’t read carefully enough their biography. I would quickly apologize for my insensitivity.
+When I sent out <span class="italic">The Legacy Letter</span> in 2014, I became more aware of man’s mortality. In some cases, I would send out <span class="italic">The Legacy Letter</span> to someone who appeared from my perception to be alive and well; only to be informed later that this person had indeed perished. This was embarrassing, as it made me feel amateurish or uncaring, as if I hadn’t read carefully enough their biography. I would quickly apologize for my insensitivity.
 </p>
 <p class="h-l">
 H.L. I imagine that was embarrassing.
@@ -485,7 +485,7 @@ H.L. I imagine that was embarrassing.
 <span class="break"></span>
 Each death however, regardless of the circumstances, I took very personal. I had never attached this quality to death before. I am typically less likely than the average person to be affected by the death of an individual I do not know very well; this was my summation at least.
 <span class="break"></span>
-With The Legacy Letter however it was different. Because when I chose that person, when I found them, it was by utilizing all the unspoken perceptions and sensory guidance I had in me to seek them out; I was studying and researching a person very alive and vibrant, but when I would send it out to them, they were gone. They had vacated this plane for another.
+With <span class="italic">The Legacy Letter</span> however it was different. Because when I chose that person, when I found them, it was by utilizing all the unspoken perceptions and sensory guidance I had in me to seek them out; I was studying and researching a person very alive and vibrant, but when I would send it out to them, they were gone. They had vacated this plane for another.
 </p>
 <p class="h-l">
 H.L. That makes sense, it would affect you.
@@ -627,10 +627,10 @@ H.L. Just fascinating, I must say. I really had no idea this was how you were go
 <span class="douglas">Douglas:</span> Like I said, you study these wealthy individuals long enough and you learn a great deal about them. And like in any group, rich or poor, one out of 10,000 will be capable of something so unusual and remarkable. In this case, it is something very twisted and sick.
 </p>
 <p class="h-l">
-H.L. So they are wealthy? They are someone you sent The Legacy Letter to? A billionaire?
+H.L. So they are wealthy? They are someone you sent <span class="italic">The Legacy Letter</span> to? A billionaire?
 </p>
 <p>
-<span class="douglas">Douglas:</span> Yes, they are someone who received a copy of The Legacy Letter. But I will not disclose whether they are a billionaire or not; at least not yet. But they have plenty of money, I can tell you that. Remember I sent The Legacy Letter out to many wealthy or successful individuals whose net worth wasn’t even close to a billion dollars.
+<span class="douglas">Douglas:</span> Yes, they are someone who received a copy of <span class="italic">The Legacy Letter</span>. But I will not disclose whether they are a billionaire or not; at least not yet. But they have plenty of money, I can tell you that. Remember I sent <span class="italic">The Legacy Letter</span> out to many wealthy or successful individuals whose net worth wasn’t even close to a billion dollars.
 <span class="break"></span>
 This killer also only goes after the rich, as most of his victims are wealthy; many were even billionaires. He doesn’t seem to have any interest in killing the poor.
 <span class="break"></span>
@@ -718,7 +718,7 @@ What made his case different however was his death. I felt they had gone too far
 H.L. So he was very interested in donating or investing?
 </p>
 <p>
-<span class="douglas">Douglas:</span> I certainly believe so. You know Aubrey McClendon was one of the first hundred or so Legacy Letters that I sent out. In many ways it was as though The Legacy Letter was written with him in mind.
+<span class="douglas">Douglas:</span> I certainly believe so. You know Aubrey McClendon was one of the first hundred or so Legacy Letters that I sent out. In many ways it was as though <span class="italic">The Legacy Letter</span> was written with him in mind.
 </p>
 <p class="h-l">
 H.L. What do you mean?
@@ -801,7 +801,7 @@ H.L. But you’re not buying it.
 H.L. You think he connected the dots?
 </p>
 <p>
-<span class="douglas">Douglas:</span> I really do. Remember this is March 2016. As I said, by then almost everyone knew they were using The Theorem and The Legacy Letter to target my potential donors. It is possible Aubrey McClendon did his homework on the issue and was going to expose the administration for their corruption.
+<span class="douglas">Douglas:</span> I really do. Remember this is March 2016. As I said, by then almost everyone knew they were using The Theorem and <span class="italic">The Legacy Letter</span> to target my potential donors. It is possible Aubrey McClendon did his homework on the issue and was going to expose the administration for their corruption.
 <span class="break"></span>
 Now even if his case was flimsy, even speculative, this could have started the ball rolling. In other words, other potential investors who were targeted could start coming forward connecting the dots together.
 </p>
@@ -867,7 +867,7 @@ H.L. Are you alright?
 H.L. What is it?
 </p>
 <p>
-<span class="douglas">Douglas:</span> Well, I said a few days ago that I stopped sending out The Legacy Letter in late February of 2016; do you remember?
+<span class="douglas">Douglas:</span> Well, I said a few days ago that I stopped sending out <span class="italic">The Legacy Letter</span> in late February of 2016; do you remember?
 </p>
 <p class="h-l">
 H.L. Yes, you said it was because of the election. I feel that was before we lost our innocence though, I have to admit.
@@ -899,7 +899,7 @@ H.L. Unbelievable. Like you said, you can’t make this stuff up. I am really st
 H.L. That is not right. But of course in politics you have to sometimes reward those who know too much. Likely he was not going quietly either.
 </p>
 <p>
-<span class="douglas">Douglas:</span> That is true. Well that wraps up our non serial killer related death. Obviously I am very sorry to his family, if The Legacy Letter or The Theorem was even indirectly connected as cause and effect to his death. He was a great man and I am sure he is missed.
+<span class="douglas">Douglas:</span> That is true. Well that wraps up our non serial killer related death. Obviously I am very sorry to his family, if <span class="italic">The Legacy Letter</span> or The Theorem was even indirectly connected as cause and effect to his death. He was a great man and I am sure he is missed.
 </p>
 <p class="h-l">
 H.L. The next one?  This next one will be the first murder you connect to the serial killer?
@@ -910,7 +910,7 @@ H.L. The next one?  This next one will be the first murder you connect to the se
 <p class="h-l">
 H.L. Of course I have. It was a big case. In fact when you talked about deaths, even before you brought up murders, I was going to inquire about that couple.
 <span class="break"></span>
-So they received The Legacy Letter?
+So they received <span class="italic">The Legacy Letter</span>?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Of course; Barry Sherman did. In fact he was one of the first we sent it out to. I say we, because for the first couple of weeks my girlfriend at the time helped me. It was her idea of sending it out to the owners of pharmaceutical companies. I was in disagreement with that idea, as I didn’t think it would be a fit. Obviously I was wrong.
@@ -925,7 +925,7 @@ H.L. So do you think he was going to invest, or donate?
 <span class="break"></span>
 Now in the next two cases, along with the last we just spoke of, these individuals all received a copy of the letter very early on. Now this is important for a couple of reasons.
 <span class="break"></span>
-The first is that it takes a long time to realize the impact not only of The Legacy Letter but also The Theorem itself. Barry Sherman may have put The Theorem: A Complete Answer to Human Behavior on his reading list, and that could have taken a year to get to. Then he would have to realize the effectiveness of the model in action, to watch it unfold in front of him. Then, there are the philosophical implications of a discovery of this magnitude occurring for one to even witness. The list goes on and on, but ultimately it takes time to wrap your head around the concept of The Theorem, no matter how talented and bright you are. And Barry Sherman was certainly very talented and bright.
+The first is that it takes a long time to realize the impact not only of <span class="italic">The Legacy Letter</span> but also The Theorem itself. Barry Sherman may have put The Theorem: A Complete Answer to Human Behavior on his reading list, and that could have taken a year to get to. Then he would have to realize the effectiveness of the model in action, to watch it unfold in front of him. Then, there are the philosophical implications of a discovery of this magnitude occurring for one to even witness. The list goes on and on, but ultimately it takes time to wrap your head around the concept of The Theorem, no matter how talented and bright you are. And Barry Sherman was certainly very talented and bright.
 </p>
 <p class="h-l">
 H.L. Sure.
@@ -939,7 +939,7 @@ Of course I didn’t realize any of this in the beginning. I am telling you this
 H.L. More knowledge you have earned; the other reason?
 </p>
 <p>
-<span class="douglas">Douglas:</span> The other reason is that the early date they received The Legacy Letter could have been seen as bragging rights by the potential donor. Most billionaires are extremely competitive, especially against other billionaires. So, to receive it earlier they would have assumed they were favored over their peers and competitors.
+<span class="douglas">Douglas:</span> The other reason is that the early date they received <span class="italic">The Legacy Letter</span> could have been seen as bragging rights by the potential donor. Most billionaires are extremely competitive, especially against other billionaires. So, to receive it earlier they would have assumed they were favored over their peers and competitors.
 </p>
 <p class="h-l">
 H.L. Especially if the CEO of the company he owned received a copy earlier in 2017, close to three years after Barry Sherman received his Legacy Letter.
@@ -1077,7 +1077,7 @@ H.L. I have also heard about that one. You think that was murder as well?
 H.L. That is a long time between murders.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Yes it is. However these may not be the only murders the killer committed during that time frame. Again, we are only focusing on murders directly related to The Theorem and to The Legacy Letter. This individual, our killer, has worldwide interests.
+<span class="douglas">Douglas:</span> Yes it is. However these may not be the only murders the killer committed during that time frame. Again, we are only focusing on murders directly related to The Theorem and to <span class="italic">The Legacy Letter</span>. This individual, our killer, has worldwide interests.
 </p>
 <p class="h-l">
 H.L. Chris Cline received a Legacy Letter and was interested in investing?
@@ -1089,7 +1089,7 @@ H.L. Chris Cline received a Legacy Letter and was interested in investing?
 H.L. Sounds like he was the ideal candidate.
 </p>
 <p>
-<span class="douglas">Douglas:</span> He really was. Also his coal operations were in Illinois and his headquarters of his Company; Foresight Energy was located in St. Louis, Missouri. So our move to Missouri could have been seen as a move closer to his operational hub. Christopher Cline was a risk taker, and The Legacy Letter was tailored especially to someone with his personality in mind.
+<span class="douglas">Douglas:</span> He really was. Also his coal operations were in Illinois and his headquarters of his Company; Foresight Energy was located in St. Louis, Missouri. So our move to Missouri could have been seen as a move closer to his operational hub. Christopher Cline was a risk taker, and <span class="italic">The Legacy Letter</span> was tailored especially to someone with his personality in mind.
 <span class="break"></span>
 To make all of this even more painful, Chris Cline was one of my favorites. While I like most all of the billionaires, some more than others, Chris Clines story was one that I returned to over and over again. Maybe it was because we were living in Tennessee, maybe it a number of things, but his life certainly never stopped inspiring me. This is why it is too painful to go into too much detail in regards to his life and his multitude of accomplishments.
 </p>
@@ -1103,7 +1103,7 @@ H.L. Sure, everyone has their favorites. Was he interested in investing though?
 H.L. What does that mean?
 </p>
 <p>
-<span class="douglas">Douglas:</span> Well our serial killer has a definitive audience in mind he is trying to impress.  He is putting on a show for someone, and that person is not me. He is showing this person, his small audience of one that he can handle his problem; a major problem of his audience is The Legacy Letter and The Theorem.
+<span class="douglas">Douglas:</span> Well our serial killer has a definitive audience in mind he is trying to impress.  He is putting on a show for someone, and that person is not me. He is showing this person, his small audience of one that he can handle his problem; a major problem of his audience is <span class="italic">The Legacy Letter</span> and The Theorem.
 <span class="break"></span>
 At the same time he needs this murder. This is a practice run for his magnum opus, which we will go into later. This is hard to talk about, it is really sick. This killer is really not well. And truthfully I feel I am getting unstable talking about him.
 </p>
@@ -1159,7 +1159,7 @@ H.L. It is bad already. I can’t imagine it getting any worse.
 <p>
 <span class="douglas">Douglas:</span> Well first, I would like to apologize to all of the families. While it should go without saying, I will say it anyways.
 <span class="break"></span>
-If I ever thought that death, these deaths and others would originate from The Legacy Letter, I would never have composed it nor would I have ever sent it out. On that Tennessee morning I would have started on something altogether different if I realized that this much pain could ever derive from something I believed to be so good and so pure. I am deeply sorry for your loss.  This apology extends to all the families who lost loved ones, including the families of our next victims.
+If I ever thought that death, these deaths and others would originate from <span class="italic">The Legacy Letter</span>, I would never have composed it nor would I have ever sent it out. On that Tennessee morning I would have started on something altogether different if I realized that this much pain could ever derive from something I believed to be so good and so pure. I am deeply sorry for your loss.  This apology extends to all the families who lost loved ones, including the families of our next victims.
 </p>
 <p class="h-l">
 H.L. That was very nice. I am sure they realize that you had no idea any of this would be connected.
@@ -1296,7 +1296,7 @@ Second; he knows that of all the NBA players, of all the 10,000 Legacy Letters s
 H.L. That is uncanny.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Not only is it uncanny, but it is convincing. In fact, to all the insiders; the political and financial elite who know about The Legacy Letter and the cover-up already, the men and women who already knew what I was going to write and the content of this interview before we began it, this fact is extremely convincing. For them, just knowing that the only NBA player to receive this letter was Kobe Bryant and he died in an ‘accident’, is going to ring all the alarms in their highly intuitive political minds.
+<span class="douglas">Douglas:</span> Not only is it uncanny, but it is convincing. In fact, to all the insiders; the political and financial elite who know about <span class="italic">The Legacy Letter</span> and the cover-up already, the men and women who already knew what I was going to write and the content of this interview before we began it, this fact is extremely convincing. For them, just knowing that the only NBA player to receive this letter was Kobe Bryant and he died in an ‘accident’, is going to ring all the alarms in their highly intuitive political minds.
 </p>
 <p class="h-l">
 H.L. I imagine. I could see that.
@@ -1363,7 +1363,7 @@ H.L. Say what you want about me, just as long as you say something.
 This is no Ted Bundy who wants to be a lawyer. This is no John Wayne Gacy who ran a part time construction business. No, this man is already successful, wildly so. There is nothing he wants that he does not get. However he witnessed something during his formative years so horrific that it has permanently warped him and pushed him over the edge.
 </p>
 <p class="h-l">
-H.L. Can I ask why you chose Kobe Bryant over all the other basketball players to send a copy of ‘The Legacy Letter’ too?
+H.L. Can I ask why you chose Kobe Bryant over all the other basketball players to send a copy of ‘<span class="italic">The Legacy Letter</span>’ too?
 </p>
 <p>
 <span class="douglas">Douglas:</span>  Yes, well I was afraid you were going to ask that. This is going to be very tough for me.
@@ -1442,7 +1442,7 @@ H.L. Alright; sounds like a plan. Do you believe that Kobe was interested in inv
 You know, I don’t have to tell you how famous he was, and is. He was all over the place. My prediction or detection tool just didn’t work on people like that, people who were in the media every minute of their career. And truthfully I never had any deep feeling inside of me that he was interested at all. I never even thought he would be a fit. Again, I avoided celebrities and he was a big one.
 </p>
 <p class="h-l">
-H.L. Well, why did you send him a copy of The Legacy Letter then?
+H.L. Well, why did you send him a copy of <span class="italic">The Legacy Letter</span> then?
 </p>
 <p>
 <span class="douglas">Douglas:</span> I don’t know. I really don’t. I guess it was just my way of saying hello. It was my way of saying, I notice you. I notice your greatness. I just loved him like we all did, and I wasn’t even a basketball fan. It’s just so ridiculous; all of it.
@@ -1457,7 +1457,7 @@ I just thought maybe it had something to do with why he was targeted.
 <p>
 <span class="douglas">Douglas:</span> You know, I could be wrong, maybe he was interested. There were many times when I misread the cues on people. That tool wasn’t perfect, not at all. With celebrities there was always distortion and bias in my detection tool; their fame and exposure made it hard to know one way or the other.
 <span class="break"></span>
-I mean, certainly he must have been surprised as a player to receive it. The Legacy Letter wasn’t a letter players received. It was a letter for the owners of sports teams. Many of them were billionaires, and this was their letter. So he must have felt already more special than he already knew he was, when he received it. He may have asked other players about it; in fact, I have some evidence on my detection tool that he told others about it. But I can’t say for sure. I can’t say anything for sure right now!
+I mean, certainly he must have been surprised as a player to receive it. <span class="italic">The Legacy Letter</span> wasn’t a letter players received. It was a letter for the owners of sports teams. Many of them were billionaires, and this was their letter. So he must have felt already more special than he already knew he was, when he received it. He may have asked other players about it; in fact, I have some evidence on my detection tool that he told others about it. But I can’t say for sure. I can’t say anything for sure right now!
 </p>
 <p class="h-l">
 H.L. He was Catholic.
@@ -1761,7 +1761,7 @@ H.L. If you say so; this is so bizarre and painful at this point that I am not e
 H.L. So take a breath and let it out.
 </p>
 <p>
-<span class="douglas">Douglas:</span> This man received a Legacy Letter like so many others; he is a billionaire and he is very elderly. I sent him a copy of The Legacy Letter in August of 2014, and I never saw any evidence that he even received the letter. He was essentially a ghost. Then the month before the murders of Christopher Cline, he suddenly appeared out of nowhere on my search, on my tool and on my feed. I said okay, this is just coincidence. But he was at the wrong place at the wrong time.
+<span class="douglas">Douglas:</span> This man received a Legacy Letter like so many others; he is a billionaire and he is very elderly. I sent him a copy of <span class="italic">The Legacy Letter</span> in August of 2014, and I never saw any evidence that he even received the letter. He was essentially a ghost. Then the month before the murders of Christopher Cline, he suddenly appeared out of nowhere on my search, on my tool and on my feed. I said okay, this is just coincidence. But he was at the wrong place at the wrong time.
 <span class="break"></span>
 Next when I began to piece events together with Kobe Bryant’s death. He popped up radiating guilt like no one I have ever seen before. Suddenly he was there again, my newly devoted customer. This made no sense, he made no sense. But I caught him and he knew it.
 </p>
@@ -1837,7 +1837,7 @@ You start out doing one thing, you think you are driving and know where you are 
 H.L. I think that is what fascinates so many people about serial killers; they look just like everyone else, they act like anyone else. They are essentially chameleons, but then behind the façade: killers.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Yes, and I only have him for three events, and under 20 murders. He is in his eighties. He could have been actively killing for 50 years. As I only focused on his murders related to The Theorem, and to The Legacy Letter.
+<span class="douglas">Douglas:</span> Yes, and I only have him for three events, and under 20 murders. He is in his eighties. He could have been actively killing for 50 years. As I only focused on his murders related to The Theorem, and to <span class="italic">The Legacy Letter</span>.
 </p>
 <p class="h-l">
 H.L. It is scary.

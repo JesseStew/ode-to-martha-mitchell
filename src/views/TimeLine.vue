@@ -47,7 +47,7 @@
 					<span class="dates">2012 September)</span> ACLU reports that electronic spying on Americans by Barack Obama and his administration has increased 64% since he took office. Between 2009 and 2011 pen register and trap and trace orders (warrantless ingoing/outgoing phone and email data) increased 361%.
 				</p>
 				<p>
-					<span class="dates">2013 October)</span> From 2007 until 2013 Douglas Arone will live in Europe, Central America, Hawaii, California and Idaho. He ultimately decides to give marketing of The Theorem one final attempt. Within two months he will begin to draft The Legacy Letter.
+					<span class="dates">2013 October)</span> From 2007 until 2013 Douglas Arone will live in Europe, Central America, Hawaii, California and Idaho. He ultimately decides to give marketing of The Theorem one final attempt. Within two months he will begin to draft <span class="italic">The Legacy Letter</span>.
 				</p>
 				<p>
 					<span class="dates">2013 November)</span> Douglas Arone, his girlfriend and her daughter move to a remote rural cabin a few miles out of Gatlinburg, Tennessee.
@@ -56,10 +56,10 @@
 					<span class="dates">2014 January 17)</span> Barrack Obama gave a public address on mass surveillance, promising increased restriction on data collection. Within months of this speech, he would undertake a major operation to put boots on the ground in regards to physical surveillance of Douglas Arone’s Tennessee residence.
 				</p>
 				<p>
-					<span class="dates">2014 January)</span> Douglas Arone begins working on The Legacy Letter; the letter deals with themes of the pursuit of immortality though accomplishment, fearless youthful ambition, and aspects of a major psychological discovery chronicled in his 2006 book The Theorem: A Complete Answer to Human Behavior. This request for funding will be sent to the ruling financial elite of the world.
+					<span class="dates">2014 January)</span> Douglas Arone begins working on <span class="italic">The Legacy Letter</span>; the letter deals with themes of the pursuit of immortality though accomplishment, fearless youthful ambition, and aspects of a major psychological discovery chronicled in his 2006 book The Theorem: A Complete Answer to Human Behavior. This request for funding will be sent to the ruling financial elite of the world.
 				</p>
 				<p>
-					<span class="dates">2014 February 10)</span> Douglas Arone sends out first copy of The Legacy Letter via email from the Tennessee residence.
+					<span class="dates">2014 February 10)</span> Douglas Arone sends out first copy of <span class="italic">The Legacy Letter</span> via email from the Tennessee residence.
 				</p>
 				<p>
 					<span class="dates">2014 February 13)</span> Hillary Clinton announces partnership with the Gates Foundation.
@@ -68,10 +68,10 @@
 					<span class="dates">2014 March)</span> President Barack Obama, while earlier promising to overhaul the (NSA) National Security Administration’s collection and storage of bulk phone call data, the administration continually seeks to gain 90 day extensions via FISA court authorizations. A year later in March of 2015, the Obama administration was still seeking 90 days extensions to enable the NSA to retrieve and store this data.
 				</p>
 				<p>
-					<span class="dates">2014 March 27)</span> President Obama hosts a summit at The White House for 100 young philanthropists and heirs to billionaire fortunes. Many invited were the children of billionaires Arone had sent a copy of The Legacy Letter to, just weeks before.
+					<span class="dates">2014 March 27)</span> President Obama hosts a summit at The White House for 100 young philanthropists and heirs to billionaire fortunes. Many invited were the children of billionaires Arone had sent a copy of <span class="italic">The Legacy Letter</span> to, just weeks before.
 				</p>
 				<p>
-					<span class="dates">2014 April)</span> Douglas Arone switches email products to send out The Legacy Letter and now exclusively utilizes Gmail, a Google product.
+					<span class="dates">2014 April)</span> Douglas Arone switches email products to send out <span class="italic">The Legacy Letter</span> and now exclusively utilizes Gmail, a Google product.
 				</p>
 				<p>
 					<span class="dates">2014 April)</span> Hillary Clinton sets up a data alliance with Eric Schmidt chairman of Google/Alphabet. The data alliance between Schmidt and Clinton was initiated on or before April 3, 2014 via email communications between close associates of Hillary Clinton; Cheryl Mills, Robby Mook, and John Podesta with Eric Schmidt.
@@ -116,14 +116,14 @@
 					<span class="dates">2015 December 8)</span> President Obama signs into law the Cybersecurity Information Sharing Act or CISA. The bill was originally introduced into the Senate by Senator Diane Feinstein of California. The law allowed enhanced sharing of internet traffic information between technology companies and the U.S. Government. Critics of CISA suggested it would do little to actually thwart a cyberattack, while increasing the vulnerability of personal private information.
 				</p>
 				<p>
-					<span class="dates">2015 summer)</span> Douglas Arone reunites with his girlfriend and her daughter in Concordia, Missouri. It is a small farming hamlet 60 miles of Kansas City. Arone’s initial intention was to cease sending out copies of The Legacy Letter. However the demand and interest was very high,    therefore he continued marketing of the letter.
+					<span class="dates">2015 summer)</span> Douglas Arone reunites with his girlfriend and her daughter in Concordia, Missouri. It is a small farming hamlet 60 miles of Kansas City. Arone’s initial intention was to cease sending out copies of <span class="italic">The Legacy Letter</span>. However the demand and interest was very high,    therefore he continued marketing of the letter.
 				</p>
 				<p>
-					<span class="dates">2016 February)</span> Douglas Arone temporarily suspends operations in relation to sending out copies of The Legacy Letter. The primary reason is the upcoming election season.  While he will send out a handful of Legacy Letters in 2017, operations are essentially suspended indefinitely. Ultimately 10, 100 copies are sent out to the most powerful men and women in the world. Now over two years later, the initial intention was to send out 300 copies and be finished in three months.
+					<span class="dates">2016 February)</span> Douglas Arone temporarily suspends operations in relation to sending out copies of <span class="italic">The Legacy Letter</span>. The primary reason is the upcoming election season.  While he will send out a handful of Legacy Letters in 2017, operations are essentially suspended indefinitely. Ultimately 10, 100 copies are sent out to the most powerful men and women in the world. Now over two years later, the initial intention was to send out 300 copies and be finished in three months.
 				</p>
 				<p>
 					<span class="dates">2016 March 2)</span> Aubrey McClendon, a billionaire and energy magnate, was killed in a single vehicle car crash in Oklahoma City, Oklahoma. The previous day Aubrey had been indicted by a federal grand jury on charges conspiring to rig bids in relation to his energy company. He is survived by a wife and three children.
-					Aubrey McClendon received his copy of The Legacy Letter very early in the process; February 10, 2014. He also received a follow-up letter on December 18, 2014.
+					Aubrey McClendon received his copy of <span class="italic">The Legacy Letter</span> very early in the process; February 10, 2014. He also received a follow-up letter on December 18, 2014.
 				</p>
 				<p>
 					<span class="dates">2016 spring)</span> Douglas Arone notices substantial increase in surveillance at, and around the Concordia, Missouri residence.
@@ -141,7 +141,7 @@
 					<span class="dates">2016 July 26)</span> Hillary Clinton is confirmed as the Democratic nominee for 2016 presidential election.
 				</p>
 				<p>
-					<span class="dates">2016 October)</span> In late October, just a few days before the 2016 election, on The Theorem’s Website Douglas Arone publishes an open letter to his readers thanking the potential donors for their interest in The Legacy Letter and The Theorem. He also calls out the Obama administration for the prosecutions and harassments of those who received The Legacy Letter and had interest in donating or investing. He foreshadows changes ahead with what he believes to be the imminent election of Donald Trump on November 8, 2016.
+					<span class="dates">2016 October)</span> In late October, just a few days before the 2016 election, on The Theorem’s Website Douglas Arone publishes an open letter to his readers thanking the potential donors for their interest in <span class="italic">The Legacy Letter</span> and The Theorem. He also calls out the Obama administration for the prosecutions and harassments of those who received <span class="italic">The Legacy Letter</span> and had interest in donating or investing. He foreshadows changes ahead with what he believes to be the imminent election of Donald Trump on November 8, 2016.
 					Arone only leaves the letter up for a few days however, as a late night thwarted potential break-in to the residence, left him concerned for the safety of others at the residence.
 				</p>
 				<p>
@@ -188,18 +188,18 @@
 				</p>
 				<p>
 					<span class="dates">2017 December 15)</span> The bodies of Barry Sherman and his wife are discovered by a real estate agent who was showing their home for sale. Initially the Toronto police suspected murder/ suicide. However the assessment was later modified to that of a double homicide. The killer has never been caught. The Shermans are survived by four children.
-					Barry Sherman was one of the earliest billionaires to receive a copy of The Legacy Letter; Dr. Bernard Sherman ‘Barry’ received it on February 11, 2014.
+					Barry Sherman was one of the earliest billionaires to receive a copy of <span class="italic">The Legacy Letter</span>; Dr. Bernard Sherman ‘Barry’ received it on February 11, 2014.
 				</p>
 				<p>
 					<span class="dates">2018 November 19)</span> After spearheading Nissan Motor Company turnaround from nearly imminent bankruptcy into solid profitability, and being considered one of the moist respected business leaders in the world; Carlos Ghosn, Chairman and CEO of the Renault-Nissan-Mitsubishi alliance was arrested in Japan for alleged false accounting.
-					Carlos Ghosn received a copy of The Legacy Letter on 9/3/15.
+					Carlos Ghosn received a copy of <span class="italic">The Legacy Letter</span> on 9/3/15.
 				</p>
 				<p>
 					<span class="dates">2019 July 4, 2019)</span> Chris Cline and his 22-year old daughter along with five others are killed in a helicopter crash in Grand Cay, Bahamas. The cause of the crash remains under investigation. He is survived by three children.
-					Chris Cline a billionaire and coal magnate was one of the early potential investors to receive a copy of The Legacy Letter; February 14, 2014.
+					Chris Cline a billionaire and coal magnate was one of the early potential investors to receive a copy of <span class="italic">The Legacy Letter</span>; February 14, 2014.
 				</p>
 				<p>
-					<span class="dates">2019 December 2)</span> Douglas Arone sends an email to Pope Francis at 1:54 PM(CST). Tired of the suppression of The Theorem and The Legacy Letter in The United States, Arone intends to flee America. He offers The Pope and The Church a majority percentage of publishing rights of The Theorem in return for safe harbor; a place to stay and small subsistence pension.
+					<span class="dates">2019 December 2)</span> Douglas Arone sends an email to Pope Francis at 1:54 PM(CST). Tired of the suppression of The Theorem and <span class="italic">The Legacy Letter</span> in The United States, Arone intends to flee America. He offers The Pope and The Church a majority percentage of publishing rights of The Theorem in return for safe harbor; a place to stay and small subsistence pension.
 				</p>
 				<p>
 					<span class="dates">2019 December 3)</span> Google founders Sergey Brin and Larry Page announce they are stepping down from their roles as CEO and President of Google/ Alphabet.
@@ -208,7 +208,7 @@
 					<span class="dates">2019 December 5)</span> When asked by a reporter if she hates President Trump, Democratic House Speaker Nancy Pelosi states she doesn’t hate the president or anyone for that matter, invoking her Catholic faith as a primary reason.
 				</p>
 				<p>
-					<span class="dates">2019 December 5)</span> Robert Redford 83, travels to Vatican City to meet Pope Francis. He waits in the general audience line. Redford an actor and filmmaker was one of the ten actors who received The Legacy Letter.
+					<span class="dates">2019 December 5)</span> Robert Redford 83, travels to Vatican City to meet Pope Francis. He waits in the general audience line. Redford an actor and filmmaker was one of the ten actors who received <span class="italic">The Legacy Letter</span>.
 				</p>
 				<p>
 					<span class="dates">2020 January 23)</span> Douglas Arone follows up December email to Pope Francis with a hard copy letter sent via U.S. Mail first class. He reinstates and formalizes his earlier requests in this expanded correspondence.
@@ -224,7 +224,7 @@
 				</p>
 				<p>
 					<span class="dates">2020 January 26)</span> Kobe Bryant along with his 13-year-old and seven other occupants are killed in Helicopter Crash over Calabasas, California. Kobe Bryant is survived by a wife and three children.
-					Kobe Bryant was the only NBA superstar, and one of only a few professional athletes to receive a copy of The Legacy Letter. He received it during the summer of 2014.
+					Kobe Bryant was the only NBA superstar, and one of only a few professional athletes to receive a copy of <span class="italic">The Legacy Letter</span>. He received it during the summer of 2014.
 				</p>
 				<p>
 					<span class="dates">2020 April)</span> Douglas Arone begins a series of six interviews over six days with a freelance journalist H.L. in and near Branson Missouri. The interviews lasted in length between 4 and 6 hours per day. The final result of the project would be An Ode to Martha Mitchell.
