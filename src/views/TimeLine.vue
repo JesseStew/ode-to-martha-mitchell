@@ -230,7 +230,10 @@
 					<span class="dates">2020 April)</span> Douglas Arone begins a series of six interviews over six days with a freelance journalist H.L. in and near Branson Missouri. The interviews lasted in length between 4 and 6 hours per day. The final result of the project would be An Ode to Martha Mitchell.
 				</p>
 				<p>
-					<span class="dates">2020 August)</span> An Ode to Martha Mitchell is published via a link to The Theorems website thetheorem dot net.
+					<span class="dates">2020 August 12)</span> An Ode to Martha Mitchell is published in downloadable form with no links to The Theorem's website. The purpose was for development and testing of the site. By the afternoon of August 13th the site was removed for further development.
+				</p>
+				<p>
+					<span class="dates">2020 September 5)</span> An Ode to Martha Mitchell is published for the general public via a link from The Theorem's website TheTheorem.net.
 				</p>
 			</v-col>
 		</v-row>
