@@ -327,7 +327,7 @@ Reliving it now, while helpful, makes me realize just how intense it all was. No
 <span class="douglas">Douglas:</span> No it wasn’t. You are right on that.
 </p>
 <p class="h-l">
-H.L. That was heavy stuff this week, you did really good <span class="douglas">Douglas:</span>
+H.L. That was heavy stuff this week, you did really good Douglas.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well you should thank yourself, because the Tolstoy quote you read me the third day has stuck in my craw.
@@ -1252,7 +1252,7 @@ H.L. This is so horrible; do you know what you are saying?
 <span class="douglas">Douglas:</span> I do, my friend I do. Just take a minute.
 <span class="break"></span>
 <br />
-(One Hour Later)
+<span class="bold">(One Hour Later)</span>
 </p>
 <p class="h-l">
 H.L. So I will summarize events; the serial killer has carefully camped himself out amongst the Democratic or Liberal Elite. But you say he is not interested necessarily in forwarding their agenda. But this is his camouflage, not only to others but to himself.
@@ -1381,7 +1381,9 @@ H.L. It’s okay just let it out. Everyone cries.
 <span class="douglas">Douglas:</span> I’m falling apart. I can’t do this, not right now.
 <span class="break"></span>
 <span class="break"></span>
-(Extended Break)
+<span class="break"></span>
+<span class="break"></span>
+<span class="bold">(Extended Break)</span>
 <span class="break"></span>
 <span class="douglas">Douglas:</span> Sure, and that is another good question. Especially as you know I am not the biggest of basketball fans. I am now, as you would imagine, out of respect to this man, I will be the rest of my life.
 <span class="break"></span>
@@ -1766,7 +1768,7 @@ H.L. So take a breath and let it out.
 Next when I began to piece events together with Kobe Bryant’s death. He popped up radiating guilt like no one I have ever seen before. Suddenly he was there again, my newly devoted customer. This made no sense, he made no sense. But I caught him and he knew it.
 </p>
 <p class="h-l">
-H.L. Strike two
+H.L. Strike two.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes definitely. In many ways his was like a face that pops up out of nowhere in the middle of a dream and you want to say to the face: “What are you doing here, you’re not supposed to be here?” It was illogical; it was unexplainable and it was certainly unexpected.
@@ -1972,10 +1974,12 @@ H.L. So he clings to Bill Clinton, because the others are too sophisticated and 
 <span class="douglas">Douglas:</span> That is right, Soros sees Bill Clinton as a dumb hillbilly who will buy into his demented agenda. While Clinton is not ignorant, his pain and quenchless needs have certainly diminished his intelligence, so as you say, Soros finds a way in. He plays the role of abusive stepfather to Clinton; while Bill Clinton was focused on his female issues, his unmet male dominated needs crept in and blindsided him, slapped him straight across the face.
 <span class="break"></span>
 Still even Bill Clinton has had enough of Soros; now, in fear of being ideologically homeless, Soros must pull Clinton in deeper.
-<span class="break"></span>
+</p>
+<p class="h-l">
 HL. This is what he is doing by these events; these staged homicides that only are thinly veiled as accidents.
-<span class="break"></span>
-<span class="douglas">Douglas:</span> Exactly
+</p>
+<p>
+<span class="douglas">Douglas:</span> Exactly.
 </p>
 <p class="h-l">
 H.L. What a legacy to leave to your children.
@@ -2121,8 +2125,11 @@ H.L. They’re overmatched. You caught them. You got them all!
 <p>
 <span class="douglas">Douglas:</span> I will go after them. That is one thing for sure. It’s bad luck for them to me as an opponent. You have seen how asleep I was for years, but I am awake now. Damn it, I am awake now! I am wide awake.
 <span class="break"></span>
-<span class="douglas">END…</span>
+<br />
 </p>
+			</v-col>
+			<v-col cols="12" class="text-center">
+				<span class="douglas">END OF INTERVIEW…</span>
 			</v-col>
 		</v-row>
 	</v-container>

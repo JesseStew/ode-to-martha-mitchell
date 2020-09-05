@@ -14,7 +14,7 @@
 					(Ride My Seesaw, Dopamine, Mastering The Tightrope, Magic Beans, Jeremiah Johnson, Checking Out, Pandemic Coincidence, Lying To Myself, Martha Mitchell, Satan’s Daughter, The Candyman, Pope Francis, Chinese Spy, A Dangerous Proposal, Alien, Tropical Island, Negative Symptoms, Theorem 101, It All Starts With A Lie, Becoming Picasso, Desperately Seeking Deception, Same Old Song And Dance, How To Steal An Election, Welcome To My Nightmare, Dancing With Mr. D, Teflon Don 2.0, Gotcha, Non-Sanitized Version, Watergate, First Fear Not Relieved, Boy Blue, Can You See The Real Me, A Sissy Slap, The Kick Inside, Born Into Conspiracy, No Rats To Speak Of, Civilization Stuck In Its Past, Highwire, World Leaders, Do It Again, Radiating More Heat Than Light, Corona Virus, Neural Reprogramming, Piggly Wiggly Ballot Box, Fucked My Way To The Bottom, Beaten By A Dead Horse, Double-Dealing Reductionist, Chasing The Dragon, Misinterpretation Of Our Misinterpretation, Sundown For Sundance, Chewing Through The Wires, Pregnancy Of The Pause, Had Enough, Bill Was Here, Our Terrorist Nursery, No Alarms And No Surprises Please, Hillary’s Global Tantrum, Central Park, K.C. Thunderstorms, Flee To Italy, The Fire Down Below, Invincible, Don’t Pull A Pablo On Me, Getting Political Now, Auschwitz, Disability Daydreams, An Old Man Is A Nasty Thing, Schizophrenia Model, Spoiled Bureaucrats and more …… See Timeline for Chronology of Events)
 				</p>
 			</v-col>
-			<v-col cols="12">
+			<v-col class="text-center" cols="12">
 				<p class="graphic-material">
 					WARNING: SUBJECT MATERIAL IN THIS CHAPTER IS NOT SUITABLE FOR MINORS:
 					GRAPHIC DEPICTION OF A RAPE IS INCLUDED.
@@ -2363,7 +2363,7 @@ Finally, I also have a large volume of positive people who truly want to help. I
 <span class="douglas">Douglas:</span> That is fair, but let’s postpone until towards the end of the interview. I do not want to get upset. Just like the second day, I gave you my word and I delivered. You may have to remind me though.
 </p>
 <p class="h-l">
-	H.L. I will
+	H.L. I will.
 </p>
 <p>
 <span class="douglas">Douglas:</span> I imagine.

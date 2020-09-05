@@ -1342,7 +1342,7 @@
 				<span class="douglas">Douglas:</span> See, now you are getting it. There are signs everywhere, and kids pick up on that stuff. It never goes away. We had to learn all about it in school. It was uncomfortable, yet revealing. That’s California, perhaps the most selfish place on earth. No need for subtle symbolism, literal purgation of the young revealed right at the border!
 				</p>
 				<p class="h-l">
-				H.L. I was just thinking when you said that. Remember Grapes of Wrath?
+				H.L. I was just thinking when you said that. Remember <span class="italic">The Grapes of Wrath?</span>
 				</p>
 				<p>
 				<span class="douglas">Douglas:</span> Very good. Another fine example right there, many read it in high school; the baby dies in the end and the hungry grown man crowds the vacant breast. That was the San Joaquin Valley; that was California. Sure.
