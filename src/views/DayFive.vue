@@ -31,7 +31,8 @@
 	H.L. You mean, ‘It all starts with a lie?’
 </p>
 <p>
-<span class="douglas">Douglas:</span> Yes, that’s it. It all starts with a lie. How was I to know in 2002, when I began working on the final draft of what would become The Theorem: A Complete Answer to Human Behavior ultimately how prophetic, how prescient those words would turn out to be?
+<span class="douglas">Douglas:</span> Yes, that’s it. It all starts with a lie. How was I to know in 2002, when I began working on the final draft of what would become
+<span class="italic">The Theorem: A Complete Answer to Human Behavior</span> ultimately how prophetic, how prescient those words would turn out to be?
 </p>
 <p class="h-l">
 H.L. You couldn’t have. Even though you were writing about something different, I assume?
@@ -172,8 +173,11 @@ Can anyone? It just reeks to me of schizophrenia, it fills up the room.
 </p>
 <p>
 <span class="douglas">Douglas:</span> But then in contrast…
+</p>
+<p class="h-l">
 	H.L. Then in contrast there are the facts, the narrative unfolding in front of you.
-<span class="break"></span>
+</p>
+<p>
 <span class="douglas">Douglas:</span> Yes.
 </p>
 <p class="h-l">
@@ -700,7 +704,7 @@ It is all going to come out, every nasty little secret.
 <p>
 <span class="douglas">Douglas:</span> Yes, this is what I saw on my end at least. It actually backfired on the Democratic Elite, this scare tactic. Because then, according to my detection tool, The Church and likely even The Pope become more interested.
 <span class="break"></span>
-	I mean how audacious can you be? Pope Francis represents over 1.2 billion Catholics. And just because you have a filmmaker and a ragtag bunch of political ‘has beens’ you are going to try and dictate Church Policy. He was having none of it!
+	I mean how audacious can you be? Pope Francis represents over 1.2 billion Catholics. And just because you have a filmmaker and a ragtag bunch of political ‘has beens’ you are going to try and dictate Church Policy. He was having none of it.
 </p>
 <p class="h-l">
 	H.L. Good for him!
@@ -757,11 +761,11 @@ But as a rule, this is just not something I ever do; the entire episode was very
 I told him this would be the last letter I would send, so as not to bother him. I said if I did not hear from him I would assume then The Church was not interested in my proposal, and that was that; wishing him the best of health and so forth.
 </p>
 <p class="h-l">
-	H.L. I see. The same day you sent the letter, the Corona Virus (Covid 19) arrives in Italy, of course unbeknownst to you as you are oblivious to it; this is what you told me earlier.
+	H.L. I see. The same day you sent the letter, the Corona Virus (COVID-19) arrives in Italy, of course unbeknownst to you as you are oblivious to it; this is what you told me earlier.
+	<span class="break"></span>
+	Did you know they had shut down Wuhan, China that same day?
 </p>
 <p>
-Did you know they had shut down Wuhan, China that same day?
-<span class="break"></span>
 <span class="douglas">Douglas:</span> No idea. I had no idea what the virus even was at that time, or even if there was one. I certainly would have never guessed it would land in Italy, if that is when it did land, on the 23rd; the same day I sent the letter.
 </p>
 <p class="h-l">
@@ -2174,7 +2178,7 @@ H.L. You think they will turn on the Democratic Elite?
 <span class="douglas">Douglas:</span> I do. They will do whatever is in the best interest for their country. And this is definitely their best interest.  All of this is because the ideology behind the Democratic Party is outdated, and this is because dinosaurs like Clinton are holding the reigns behind the scenes of the party.
 </p>
 <p class="h-l">
-	H.L This then goes further back to her unconscious attempts to destroy the Party.
+	H.L This then goes further back to her unconscious attempts to destroy the Democratic Party.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, and that all goes back to her inability or unwillingness to face her own personal issues.
@@ -2642,7 +2646,7 @@ I didn’t know about that Mickey Mouse Medical School, a poor excuse for higher
 	H.L. You’re calling them out now. This is what it’s all about!
 </p>
 <p>
-<span class="douglas">Douglas:</span> I didn’t know about billions of dollars of aid to Ivy League Schools in return for not researching The Theorem, or the stench at the N.I.H. or W.H.O. I had no idea; or even about the trillion dollar surveillance package of 2015.
+<span class="douglas">Douglas:</span> I didn’t know about billions of dollars of aid to Ivy League Schools in return for not researching The Theorem, or the stench at the N.I.H. or W.H.O. I had no idea; or even about the boundless surveillance package of 2015.
 <span class="break"></span>
 I was just angry; a bull with decorated spikes in my back, not knowing who put them there, charging around the ring blindly, tercio de muerte, waiting for the matador to put me out of my misery.
 </p>
@@ -2842,7 +2846,7 @@ That is the non-sanitized version.
 	H.L. Sorry for that, I see.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Do you really see. How could you really see that?
+<span class="douglas">Douglas:</span> Do you really see? How could you really see that?
 </p>
 <p class="h-l">
 	H.L. Yes I see. Do you need a minute?
