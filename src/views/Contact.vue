@@ -34,7 +34,7 @@
 				<p class="pa-5">
 					To inquire about any one of these talented individuals above contact
 					us directly here at TheTheorem.org through our secure email.
-					Also For General Inquiries, Comments, Corrections or Suggestions.
+					Also for General Inquiries, Comments, Corrections or Suggestions.
 					<!-- here, fix protonmail -->
 					<a href="mailto:thetheorem@protonmail.com">thetheorem&#64;&#112;&#114;otonmail&#46;&#99;om</a>
 				</p>
@@ -53,8 +53,9 @@
 				</p>
 				<p class="px-5">
 					Permissions &amp; Legal contact:
-					<a href="mailto:thetheorem@protonmail.com">thetheorem&#64;&#112;&#114;otonmail&#46;&#99;om</a>rmissions
-					Complete Interview and Website: © Copyright 2020 Battle Born/ Maryland Parkway Productions/ All Rights Reserved
+					<a href="mailto:thetheorem@protonmail.com">thetheorem&#64;&#112;&#114;otonmail&#46;&#99;om</a>
+					Complete Interview and Website:
+					<span class="bold">© Copyright 2020 Battle Born/ Maryland Parkway Productions/ All Rights Reserved</span>
 				</p>
 			</v-col>
 			<v-col cols="12">

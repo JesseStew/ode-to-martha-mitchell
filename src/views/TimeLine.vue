@@ -20,13 +20,13 @@
 					Note: This is a chronology of events loosely related to the six days of interviews. This is not a summary or a condensation of events. Attempting to interpret events out of this timeline, without the aid of the interview, will be not only confusing, but also counterproductive. This timeline therefore is only intended to give the readers of the interviews a point of reference should they become lost in the timeframe of the text, nothing more. Thank You.
 				</p>
 				<p>
-					<span class="dates">2005 August)</span> Publisher of The Theorem: A Complete Answers to Human Behavior John Hunt reports to Douglas Arone that there has been a break in at the graphics company and the proofs for the book cover for The Theorem have been stolen.
+					<span class="dates">2005 August)</span> Publisher of <span class="italic">The Theorem: A Complete Answers to Human Behavior</span> John Hunt reports to Douglas Arone that there has been a break in at the graphics company and the proofs for the book cover for <span class="italic">The Theorem</span> have been stolen.
 				</p>
 				<p>
-					<span class="dates">2005 December 13)</span> Catholic News Agency picks up press release out of London in regards The Theorem A Complete Answer to Human Behavior. The press release states a major Pro-life book and discovery is soon to be released. The result is strong preorders on Amazon, which itself is responsible for The Theorem being available in major brick and mortar bookstore chains such as Borders Bookstores in the United States.
+					<span class="dates">2005 December 13)</span> Catholic News Agency picks up press release out of London in regards <span class="italic">The Theorem: A Complete Answers to Human Behavior</span>. The press release states a major Pro-life book and discovery is soon to be released. The result is strong preorders on Amazon, which itself is responsible for <span class="italic"><span class="italic">The Theorem: A Complete Answers to Human Behavior</span></span> being available in major brick and mortar bookstore chains such as Borders Bookstores in the United States.
 				</p>
 				<p>
-					<span class="dates">2006  January 1)</span> <span class="italic">The Theorem: A Complete Answer to Human Behavior</span> a book chronicling a major discovery in human psychology is released to the general audience by John Hunt Publishing in the UK. The Theorem is distributed by National Book Network and is available through bookstores in 23 countries.
+					<span class="dates">2006  January 1)</span> <span class="italic">The Theorem: A Complete Answer to Human Behavior</span> a book chronicling a major discovery in human psychology is released to the general audience by John Hunt Publishing in the UK. <span class="italic">The Theorem</span> is distributed by National Book Network and is available through bookstores in 23 countries.
 				</p>
 				<p>
 					<span class="dates">2008 February 10)</span> Barack Obama announces his candidacy for President of The United States.
@@ -38,7 +38,7 @@
 					<span class="dates">2009 January 21)</span> New York Senator Hillary Rodham Clinton assumes position of Secretary of State: Appointed by President Barrack Obama.
 				</p>
 				<p>
-					<span class="dates">2009 February)</span> Douglas Arone receives rights for <span class="italic">The Theorem: A Complete Answer to Human Behavior</span> back from John Hunt Publishing. The Theorem is now out of print.
+					<span class="dates">2009 February)</span> Douglas Arone receives rights for <span class="italic">The Theorem: A Complete Answer to Human Behavior</span> back from John Hunt Publishing. <span class="italic">The Theorem</span> is now out of print.
 				</p>
 				<p>
 					<span class="dates">2013 October)</span> President Obama is forced to apologize to Germany’s Chancellor Angela Merkel for the NSA monitoring her personal cellphone. Italy, France, Mexico, Brazil, and many others all lined up for apologies as well. At one time Barack Obama through the NSA is spying on 35 world leaders, the majority of them friendly to the US and posing no security threat. While Obama denied these allegations, his former NSA chief claim’s Obama was aware of the spying since 2010 and encouraged it to continue.
@@ -47,7 +47,7 @@
 					<span class="dates">2012 September)</span> ACLU reports that electronic spying on Americans by Barack Obama and his administration has increased 64% since he took office. Between 2009 and 2011 pen register and trap and trace orders (warrantless ingoing/outgoing phone and email data) increased 361%.
 				</p>
 				<p>
-					<span class="dates">2013 October)</span> From 2007 until 2013 Douglas Arone will live in Europe, Central America, Hawaii, California and Idaho. He ultimately decides to give marketing of The Theorem one final attempt. Within two months he will begin to draft <span class="italic">The Legacy Letter</span>.
+					<span class="dates">2013 October)</span> From 2007 until 2013 Douglas Arone will live in Europe, Central America, Hawaii, California and Idaho. He ultimately decides to give marketing of <span class="italic">The Theorem</span> one final attempt. Within two months he will begin to draft <span class="italic">The Legacy Letter</span>.
 				</p>
 				<p>
 					<span class="dates">2013 November)</span> Douglas Arone, his girlfriend and her daughter move to a remote rural cabin a few miles out of Gatlinburg, Tennessee.
@@ -89,7 +89,7 @@
 					<span class="dates">2014 June)</span> Douglas Arone and occupants notice an increase of the quality of surveillance at the Tennessee cabin residence, including but not limited to highly sophisticated prototype insect drones.
 				</p>
 				<p>
-					<span class="dates">2014 Late spring & summer)</span> Douglas Arone accidentally stumbles on a method of detection in relation to visitor’s frequency visiting The Theorem Website. This detection tool he masters over the next four years enables him to clearly identify the names of the individuals who visit his websites regardless of their masking and concealment attempts. This tool will play a critical role in the events within the cover-up and concealment activities.
+					<span class="dates">2014 Late spring & summer)</span> Douglas Arone accidentally stumbles on a method of detection in relation to visitor’s frequency visiting <span class="italic">The Theorem</span> Website. This detection tool he masters over the next four years enables him to clearly identify the names of the individuals who visit his websites regardless of their masking and concealment attempts. This tool will play a critical role in the events within the cover-up and concealment activities.
 				</p>
 				<p>
 					<span class="dates">2014 summer)</span> Douglas Arone through the utilization of his web detection tool is able to establish a disturbing connection. The potential investors that have heavy web traffic to his website in an escalating pattern are being charged with crimes and their companies harassed by the Obama administration. This is Arone’s first verification of his previous observation that his potential investors or donors are being targeted.
@@ -141,7 +141,7 @@
 					<span class="dates">2016 July 26)</span> Hillary Clinton is confirmed as the Democratic nominee for 2016 presidential election.
 				</p>
 				<p>
-					<span class="dates">2016 October)</span> In late October, just a few days before the 2016 election, on The Theorem’s Website Douglas Arone publishes an open letter to his readers thanking the potential donors for their interest in <span class="italic">The Legacy Letter</span> and The Theorem. He also calls out the Obama administration for the prosecutions and harassments of those who received <span class="italic">The Legacy Letter</span> and had interest in donating or investing. He foreshadows changes ahead with what he believes to be the imminent election of Donald Trump on November 8, 2016.
+					<span class="dates">2016 October)</span> In late October, just a few days before the 2016 election, on <span class="italic">The Theorem</span>’s Website Douglas Arone publishes an open letter to his readers thanking the potential donors for their interest in <span class="italic">The Legacy Letter</span> and <span class="italic">The Theorem</span>. He also calls out the Obama administration for the prosecutions and harassments of those who received <span class="italic">The Legacy Letter</span> and had interest in donating or investing. He foreshadows changes ahead with what he believes to be the imminent election of Donald Trump on November 8, 2016.
 					Arone only leaves the letter up for a few days however, as a late night thwarted potential break-in to the residence, left him concerned for the safety of others at the residence.
 				</p>
 				<p>
@@ -199,7 +199,7 @@
 					Chris Cline a billionaire and coal magnate was one of the early potential investors to receive a copy of <span class="italic">The Legacy Letter</span>; February 14, 2014.
 				</p>
 				<p>
-					<span class="dates">2019 December 2)</span> Douglas Arone sends an email to Pope Francis at 1:54 PM(CST). Tired of the suppression of The Theorem and <span class="italic">The Legacy Letter</span> in The United States, Arone intends to flee America. He offers The Pope and The Church a majority percentage of publishing rights of The Theorem in return for safe harbor; a place to stay and small subsistence pension.
+					<span class="dates">2019 December 2)</span> Douglas Arone sends an email to Pope Francis at 1:54 PM(CST). Tired of the suppression of <span class="italic">The Theorem</span> and <span class="italic">The Legacy Letter</span> in The United States, Arone intends to flee America. He offers The Pope and The Church a majority percentage of publishing rights of <span class="italic">The Theorem</span> in return for safe harbor; a place to stay and small subsistence pension.
 				</p>
 				<p>
 					<span class="dates">2019 December 3)</span> Google founders Sergey Brin and Larry Page announce they are stepping down from their roles as CEO and President of Google/ Alphabet.
@@ -220,7 +220,7 @@
 					<span class="dates">2020 January 23)</span> Wuhan, China shuts down due to the Corona Virus (Covid-19)
 				</p>
 				<p>
-					<span class="dates">2020 January 25)</span>Hillary Clinton attends Robert Redford’s Sundance Film Festival in Park City, Utah.
+					<span class="dates">2020 January 25)</span> Hillary Clinton attends Robert Redford’s Sundance Film Festival in Park City, Utah.
 				</p>
 				<p>
 					<span class="dates">2020 January 26)</span> Kobe Bryant along with his 13-year-old and seven other occupants are killed in Helicopter Crash over Calabasas, California. Kobe Bryant is survived by a wife and three children.
@@ -230,10 +230,10 @@
 					<span class="dates">2020 April)</span> Douglas Arone begins a series of six interviews over six days with a freelance journalist H.L. in and near Branson Missouri. The interviews lasted in length between 4 and 6 hours per day. The final result of the project would be An Ode to Martha Mitchell.
 				</p>
 				<p>
-					<span class="dates">2020 August 12)</span> An Ode to Martha Mitchell is published in downloadable form with no links to The Theorem's website. The purpose was for development and testing of the site. By the afternoon of August 13th the site was removed for further development.
+					<span class="dates">2020 August 12)</span> An Ode to Martha Mitchell is published in downloadable form with no links to <span class="italic">The Theorem</span>'s website. The purpose was for development and testing of the site. By the afternoon of August 13th the site was removed for further development.
 				</p>
 				<p>
-					<span class="dates">2020 September 5)</span> An Ode to Martha Mitchell is published for the general public via a link from The Theorem's website TheTheorem.net.
+					<span class="dates">2020 September 5)</span> An Ode to Martha Mitchell is published for the general public via a link from <span class="italic">The Theorem</span>'s website TheTheorem.net.
 				</p>
 			</v-col>
 		</v-row>
