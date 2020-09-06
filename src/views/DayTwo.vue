@@ -638,7 +638,7 @@
 				<p>
 					<span class="douglas">Douglas:</span> Prolife or prochoice just wasn’t the focus of my marketing and had not been for years in relation to The Theorem.
 				<span class="break"></span>
-				At the same time, I will always hold the Prolife Community in high regard, as they were a large contributing factor in regards to The Theorem: A Complete Answer to Human Behavior being on the actual bookshelves in bookstores. In contrast to at least 40,000 others books published in the US in 2006 that never even made it into the bookstores at all. For this, I will be forever grateful.
+				At the same time, I will always hold the Prolife Community in high regard, as they were a large contributing factor in regards to <span class="italic">The Theorem: A Complete Answer to Human Behavior</span> being on the actual bookshelves in bookstores. In contrast to at least 40,000 others books published in the US in 2006 that never even made it into the bookstores at all. For this, I will be forever grateful.
 				<span class="break"></span>
 				At the same time The Theorem is obviously so much more, as this was just a slice of our marketing. So at the time, in 2014, I was only focused on the behavioral model and on the disorders and behaviors that The Theorem solved the mysteries to; autism, depression, panic disorder, OCD, anorexia, the purpose of sleep and dreams, and the reproduction model among others.
 				</p>
@@ -1675,7 +1675,7 @@
 				<p>
 				<span class="douglas">Douglas:</span> Okay, sure.
 				<span class="break"></span>
-				Well by the time the book, The Theorem: A Complete Answer to Human Behavior came out in 2006, I was exhausted. My struggle to get it written was epic, finding the right publisher was equally difficult. It was really a sad story of poverty, no running water and hunger.
+				Well by the time the book, <span class="italic">The Theorem: A Complete Answer to Human Behavior</span> came out in 2006, I was exhausted. My struggle to get it written was epic, finding the right publisher was equally difficult. It was really a sad story of poverty, no running water and hunger.
 				<span class="break"></span>
 				Ultimately it was too much for my wife at the time. We packed up and moved to Holland, to a small Dutch Village near Amsterdam. The dilemma was that I had two older children with me from my first marriage. I was, with the help of my Dutch wife, raising them in the Northern Rockies at the time.
 				<span class="break"></span>

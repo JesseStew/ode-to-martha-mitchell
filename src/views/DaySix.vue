@@ -134,7 +134,7 @@ H.L. That’s sounds pessimistic. How about I have a book half-finished! Not hal
 H.L. What is it about?
 </p>
 <p>
-<span class="douglas">Douglas:</span> I’d rather not say. I will reveal this though: I have spent 25 years unintentionally elevating 3.5 billion women, through the discovery and ultimate publication of The Theorem: A Complete Answer to Human Behavior. So in the next book I am prepared to elevate men, to elevate mankind. It’s our turn.
+<span class="douglas">Douglas:</span> I’d rather not say. I will reveal this though: I have spent 25 years unintentionally elevating 3.5 billion women, through the discovery and ultimate publication of <span class="italic">The Theorem: A Complete Answer to Human Behavior</span>. So in the next book I am prepared to elevate men, to elevate mankind. It’s our turn.
 </p>
 <p class="h-l">
 H.L. That’s good. I agree The Theorem elevates the female gender; it can be difficult for a man to accept. I will be interested to see how you pull that one off, though I think I have an idea.
@@ -473,7 +473,7 @@ H.L. Sure, but death is a normal part of our existence. You can’t just ignore 
 <p>
 <span class="douglas">Douglas:</span> No, you can’t. Not any longer at least.
 <span class="break"></span>
-While I have not mentioned death extensively it was always there, lingering around The Theorem all the way back to the beginning. First it was my grandfather in 1995; grandmother in 2000 and finally, almost ten years ago, my father. It was always there. While those are a few of my personal experiences with death, there were always other deaths as well; those less directly connected to me but still very close to the work, The Theorem: A Complete Answer to Human Behavior and its originating discovery.
+While I have not mentioned death extensively it was always there, lingering around The Theorem all the way back to the beginning. First it was my grandfather in 1995; grandmother in 2000 and finally, almost ten years ago, my father. It was always there. While those are a few of my personal experiences with death, there were always other deaths as well; those less directly connected to me but still very close to the work, <span class="italic">The Theorem: A Complete Answer to Human Behavior</span> and its originating discovery.
 <span class="break"></span>
 When I sent out <span class="italic">The Legacy Letter</span> in 2014, I became more aware of man’s mortality. In some cases, I would send out <span class="italic">The Legacy Letter</span> to someone who appeared from my perception to be alive and well; only to be informed later that this person had indeed perished. This was embarrassing, as it made me feel amateurish or uncaring, as if I hadn’t read carefully enough their biography. I would quickly apologize for my insensitivity.
 </p>
@@ -925,7 +925,7 @@ H.L. So do you think he was going to invest, or donate?
 <span class="break"></span>
 Now in the next two cases, along with the last we just spoke of, these individuals all received a copy of the letter very early on. Now this is important for a couple of reasons.
 <span class="break"></span>
-The first is that it takes a long time to realize the impact not only of <span class="italic">The Legacy Letter</span> but also The Theorem itself. Barry Sherman may have put The Theorem: A Complete Answer to Human Behavior on his reading list, and that could have taken a year to get to. Then he would have to realize the effectiveness of the model in action, to watch it unfold in front of him. Then, there are the philosophical implications of a discovery of this magnitude occurring for one to even witness. The list goes on and on, but ultimately it takes time to wrap your head around the concept of The Theorem, no matter how talented and bright you are. And Barry Sherman was certainly very talented and bright.
+The first is that it takes a long time to realize the impact not only of <span class="italic">The Legacy Letter</span> but also The Theorem itself. Barry Sherman may have put <span class="italic">The Theorem: A Complete Answer to Human Behavior</span> on his reading list, and that could have taken a year to get to. Then he would have to realize the effectiveness of the model in action, to watch it unfold in front of him. Then, there are the philosophical implications of a discovery of this magnitude occurring for one to even witness. The list goes on and on, but ultimately it takes time to wrap your head around the concept of The Theorem, no matter how talented and bright you are. And Barry Sherman was certainly very talented and bright.
 </p>
 <p class="h-l">
 H.L. Sure.

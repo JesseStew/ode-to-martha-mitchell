@@ -127,7 +127,7 @@
 				>
 					<v-col cols="4" md="3" :color="pages[model].color" @click="tabMethod(3)">
 						<v-btn block @click="tabMethod(3)" tile :color="pages[model].color" icon>
-							Day 1 - Tennesee
+							Day 1 - Tennessee
 						</v-btn>
 					</v-col>
 					<v-col cols="4" md="3" :color="pages[model].color" @click="tabMethod(4)">
@@ -313,7 +313,7 @@ export default {
 				color: '#14143a',
 				class: 'blue-background',
 				minHeight: 595,
-				dayLink: 'Begin The Interview: Day 1 - Tennesee',
+				dayLink: 'Begin The Interview: Day 1 - Tennessee',
 			},
 			{
 				src: require("../assets/images/Day1_final.jpg"),

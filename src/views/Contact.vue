@@ -59,7 +59,7 @@
 			</v-col>
 			<v-col cols="12">
 				<p class="px-5">
-					While all team leaders feel their team is special, this group of hard-working, mostly young people were particularly devoted to this work. All of these brave individuals also put their personal safety at risk to accomplish this project. So proud of them.
+					While all team leaders feel their team is special, this group of hard-working, mostly young people were particularly devoted to this work. Many of these brave individuals also put their personal safety at risk to accomplish this project. So proud of them.
 				</p>
 			</v-col>
 			<v-col class="text-h6 text-center" cols="12">

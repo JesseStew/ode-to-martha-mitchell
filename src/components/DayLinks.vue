@@ -3,7 +3,7 @@
 		<v-row>
 			<v-col class="text-center">
 				<router-link class="pa-2" to="/DayOne">
-					Day 1 - Tennesee
+					Day 1 - Tennessee
 				</router-link>
 				<router-link class="pa-2" to="/DayTwo">
 					Day 2 - Washington D.C.

@@ -26,7 +26,7 @@
 					<span class="dates">2005 December 13)</span> Catholic News Agency picks up press release out of London in regards The Theorem A Complete Answer to Human Behavior. The press release states a major Pro-life book and discovery is soon to be released. The result is strong preorders on Amazon, which itself is responsible for The Theorem being available in major brick and mortar bookstore chains such as Borders Bookstores in the United States.
 				</p>
 				<p>
-					<span class="dates">2006  January 1)</span> The Theorem: A Complete Answer to Human Behavior a book chronicling a major discovery in human psychology is released to the general audience by John Hunt Publishing in the UK. The Theorem is distributed by National Book Network and is available through bookstores in 23 countries.
+					<span class="dates">2006  January 1)</span> <span class="italic">The Theorem: A Complete Answer to Human Behavior</span> a book chronicling a major discovery in human psychology is released to the general audience by John Hunt Publishing in the UK. The Theorem is distributed by National Book Network and is available through bookstores in 23 countries.
 				</p>
 				<p>
 					<span class="dates">2008 February 10)</span> Barack Obama announces his candidacy for President of The United States.
@@ -38,7 +38,7 @@
 					<span class="dates">2009 January 21)</span> New York Senator Hillary Rodham Clinton assumes position of Secretary of State: Appointed by President Barrack Obama.
 				</p>
 				<p>
-					<span class="dates">2009 February)</span> Douglas Arone receives rights for The Theorem: A Complete Answer to Human Behavior back from John Hunt Publishing. The Theorem is now out of print.
+					<span class="dates">2009 February)</span> Douglas Arone receives rights for <span class="italic">The Theorem: A Complete Answer to Human Behavior</span> back from John Hunt Publishing. The Theorem is now out of print.
 				</p>
 				<p>
 					<span class="dates">2013 October)</span> President Obama is forced to apologize to Germany’s Chancellor Angela Merkel for the NSA monitoring her personal cellphone. Italy, France, Mexico, Brazil, and many others all lined up for apologies as well. At one time Barack Obama through the NSA is spying on 35 world leaders, the majority of them friendly to the US and posing no security threat. While Obama denied these allegations, his former NSA chief claim’s Obama was aware of the spying since 2010 and encouraged it to continue.
@@ -56,7 +56,7 @@
 					<span class="dates">2014 January 17)</span> Barrack Obama gave a public address on mass surveillance, promising increased restriction on data collection. Within months of this speech, he would undertake a major operation to put boots on the ground in regards to physical surveillance of Douglas Arone’s Tennessee residence.
 				</p>
 				<p>
-					<span class="dates">2014 January)</span> Douglas Arone begins working on <span class="italic">The Legacy Letter</span>; the letter deals with themes of the pursuit of immortality though accomplishment, fearless youthful ambition, and aspects of a major psychological discovery chronicled in his 2006 book The Theorem: A Complete Answer to Human Behavior. This request for funding will be sent to the ruling financial elite of the world.
+					<span class="dates">2014 January)</span> Douglas Arone begins working on <span class="italic">The Legacy Letter</span>; the letter deals with themes of the pursuit of immortality though accomplishment, fearless youthful ambition, and aspects of a major psychological discovery chronicled in his 2006 book <span class="italic">The Theorem: A Complete Answer to Human Behavior</span>. This request for funding will be sent to the ruling financial elite of the world.
 				</p>
 				<p>
 					<span class="dates">2014 February 10)</span> Douglas Arone sends out first copy of <span class="italic">The Legacy Letter</span> via email from the Tennessee residence.

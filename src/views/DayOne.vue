@@ -3,10 +3,10 @@
 		<v-row>
 			<v-col cols="12">
 				<h1 v-if="$vuetify.breakpoint.smAndUp" class="band-color-green interview-title">
-					Day 1 - Tennesee
+					Day 1 - Tennessee
 				</h1>
 				<h1 v-else class="band-color-green interview-title-sm">
-					Day 1 - Tennesee
+					Day 1 - Tennessee
 				</h1>
 			</v-col>
 			<v-col cols="12">
@@ -106,7 +106,7 @@
 						H.L.  Sounds about the right time to start.
 				</p>
 				<p>
-						<span class="douglas">Douglas:</span> So, The Theorem (The Theorem: A Complete Answer to Human Behavior) came out in 2006. I will skip over 8 years of drifting around the world aimlessly; maybe we could talk about that part later.
+						<span class="douglas">Douglas:</span> So, The Theorem (<span class="italic">The Theorem: A Complete Answer to Human Behavior</span>) came out in 2006. I will skip over 8 years of drifting around the world aimlessly; maybe we could talk about that part later.
 				</p>
 				<p class="h-l">
 						H.L. That’s fine, so we are in 2014?
