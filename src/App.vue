@@ -40,7 +40,7 @@ export default {
     height: 5px;
 }
 .main-text {
-    font-size: 1.2em;
+    font-size: 1.3em;
     margin-top: 4px;
     padding: 30px;
 }
@@ -50,7 +50,7 @@ export default {
     /* border-bottom: 5.1px solid grey; */
 }
 .word-salad {
-	font-size: 1em;
+	font-size: .9em;
     font-weight: 900;
     margin-top: -30px;
 }
@@ -62,7 +62,7 @@ export default {
     font-weight: bold;
 }
 .martha-mitchell {
-	font-size: .9em;
+	font-size: 1em;
     font-weight: bold;
 }
 .emphasis {
