@@ -125,33 +125,33 @@
 						font-size: 1.5em;
 					"
 				>
-					<v-col cols="4" md="3" :color="pages[model].color" @click="tabMethod(3)">
+					<v-col cols="6" sm="4" md="3" :color="pages[model].color" @click="tabMethod(3)">
 						<v-btn block @click="tabMethod(3)" tile :color="pages[model].color" icon>
 							Day 1 - Tennessee
 						</v-btn>
 					</v-col>
-					<v-col cols="4" md="3" :color="pages[model].color" @click="tabMethod(4)">
+					<v-col cols="6" sm="4" md="3" :color="pages[model].color" @click="tabMethod(4)">
 						<v-btn block @click="tabMethod(4)" tile :color="pages[model].color" icon>
 							Day 2 - Washington D.C.
 						</v-btn>
 					</v-col>
-					<v-col cols="4" md="3" :color="pages[model].color" @click="tabMethod(5)">
+					<v-col cols="6" sm="4" md="3" :color="pages[model].color" @click="tabMethod(5)">
 						<v-btn block @click="tabMethod(5)" tile :color="pages[model].color" icon>
 							Day 3 - Missouri
 						</v-btn>
 					</v-col>
-					<v-col cols="4" md="3" :color="pages[model].color" @click="tabMethod(6)">
+					<v-col cols="6" sm="4" md="3" :color="pages[model].color" @click="tabMethod(6)">
 						<v-btn block @click="tabMethod(6)" tile :color="pages[model].color" icon>
 							Day 4 - South Pacific
 						</v-btn>
 					</v-col>
 					<v-col v-if="$vuetify.breakpoint.mdAndUp" md="3"></v-col>
-					<v-col cols="4" md="3" :color="pages[model].color" @click="tabMethod(7)">
+					<v-col cols="6" sm="4" md="3" :color="pages[model].color" @click="tabMethod(7)">
 						<v-btn block @click="tabMethod(7)" tile :color="pages[model].color" icon>
 							Day 5 - Rome, Italy
 						</v-btn>
 					</v-col>
-					<v-col cols="4" md="3" :color="pages[model].color" @click="tabMethod(8)">
+					<v-col cols="6" sm="4" md="3" :color="pages[model].color" @click="tabMethod(8)">
 						<v-btn block @click="tabMethod(8)" tile :color="pages[model].color" icon>
 							Day 6 - Los Angeles
 						</v-btn>
