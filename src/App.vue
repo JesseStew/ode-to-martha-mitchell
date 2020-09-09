@@ -31,7 +31,7 @@ export default {
 
 <style>
 .graphic-material {
-    color: red;
+    color: white;
     font-weight: bold;
     font-size: 1.5em;
 }

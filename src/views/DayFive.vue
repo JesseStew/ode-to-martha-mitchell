@@ -15,10 +15,12 @@
 				</p>
 			</v-col>
 			<v-col class="text-center" cols="12">
+				<v-card color="#14143a">
 				<p class="graphic-material">
 					WARNING: SUBJECT MATERIAL IN THIS CHAPTER IS NOT SUITABLE FOR MINORS:
 					GRAPHIC DEPICTION OF A RAPE IS INCLUDED.
 				</p>
+				</v-card>
 			</v-col>
 			<v-col cols="12" class="main-text text-border">
 				<p class="h-l">
