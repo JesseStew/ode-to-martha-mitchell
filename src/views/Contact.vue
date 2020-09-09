@@ -64,8 +64,11 @@
 				</p>
 			</v-col>
 			<v-col class="text-h6 text-center" cols="12">
-				<p style="margin-top: -20px" class="px-5">
-					Thank you so very much!<br />
+				<p style="
+					margin-top: -20px;
+					font-size: .9em;
+				" class="px-5">
+					Thank you so very much;<br />
 					Douglas
 				</p>
 			</v-col>
