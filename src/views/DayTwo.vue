@@ -536,7 +536,7 @@
 				In the United States, the billionaires here are often friends with the wealthy socialites and these people had a long and storied history of philanthropy on the East Coast.
 				</p>
 				<p class="h-l">
-					H.L. The plot thickens. Enter the “Old Money”. I know it well.
+					H.L. The plot thickens. Enter the 'Old Money'. I know it well.
 				</p>
 				<p>
 				<p>
@@ -636,9 +636,9 @@
 					H.L. Yes, but you must have realized that The Theorem, in your original press release was going right at the very throat of a central tenet of the Democratic Platform; the right to choose in regards to abortion.
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> Prolife or prochoice just wasn’t the focus of my marketing and had not been for years in relation to The Theorem.
+					<span class="douglas">Douglas:</span> Pro-life or pro-choice just wasn’t the focus of my marketing and had not been for years in relation to The Theorem.
 				<span class="break"></span>
-				At the same time, I will always hold the Prolife Community in high regard, as they were a large contributing factor in regards to <span class="italic">The Theorem: A Complete Answer to Human Behavior</span> being on the actual bookshelves in bookstores. In contrast to at least 40,000 others books published in the US in 2006 that never even made it into the bookstores at all. For this, I will be forever grateful.
+				At the same time, I will always hold the Pro-life Community in high regard, as they were a large contributing factor in regards to <span class="italic">The Theorem: A Complete Answer to Human Behavior</span> being on the actual bookshelves in bookstores. In contrast to at least 40,000 others books published in the US in 2006 that never even made it into the bookstores at all. For this, I will be forever grateful.
 				<span class="break"></span>
 				At the same time The Theorem is obviously so much more, as this was just a slice of our marketing. So at the time, in 2014, I was only focused on the behavioral model and on the disorders and behaviors that The Theorem solved the mysteries to; autism, depression, panic disorder, OCD, anorexia, the purpose of sleep and dreams, and the reproduction model among others.
 				</p>
@@ -1029,7 +1029,7 @@
 					<span class="douglas">Douglas:</span> Twice. He vetoed that bill twice.
 				</p>
 				<p class="h-l">
-					H.L. I could see the concern. That isn’t even really an abortion. Even the most indoctrinated prochoice supporter had a hard time with that one. The fetus is partially delivered, then killed, and the dead fetus is delivered. Why would he veto that? Why would he want that to occur?
+					H.L. I could see the concern. That isn’t even really an abortion. Even the most indoctrinated pro-choice supporter had a hard time with that one. The fetus is partially delivered, then killed, and the dead fetus is delivered. Why would he veto that? Why would he want that to occur?
 				</p>
 				<p>
 					<span class="douglas">Douglas:</span> Well, this is the second part of the answer. But first, it is important to reflect on what The Theorem discovers and defines.
@@ -1076,7 +1076,7 @@
 				<p>
 					<span class="douglas">Douglas:</span> Then suddenly in 2006 there it is; his worst nightmare. His legacy would be toast. This was his fear; he would be erased out of the history books. So he builds this big foundation to line his pockets with cash. But he sells the fear of The Theorem to his gullible donors and contributors right?
 				<span class="break"></span>
-				He tells them they are all going to be in trouble. He lies, of course. He sells it to the party faithful as the death of the Democratic Party. And since he is the former president everyone listens to him. No one questions
+				He tells them they are all going to be in trouble. He lies, of course. He sells it to the party faithful as the death of the Democratic Party. And since he is the former president everyone listens to him. No one questions.
 				<span class="break"></span>
 				Somewhere along the line it becomes personal, it becomes his quest. It’s a way he can touch something larger than him, without getting hurt or rejected. He will reject the work first, me first, by suppressing the discovery.
 				</p>
@@ -1271,7 +1271,7 @@
 					H.L. Because Debby DoNothing’s kid may go on to birth five Bach’s and Einstein’s?
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span>: Exactly. But this is very hard for man to accept. He will spend his life, in many ways trying to subconsciously negate that statement.
+				<span class="douglas">Douglas:</span> Exactly. But this is very hard for man to accept. He will spend his life, in many ways trying to subconsciously negate that statement.
 				<span class="break"></span>
 				You have to realize that not only did we experience our development encapsulated within a woman, within her womb, but also that some of that development was not pleasant. Indeed much of our development was very painful. This becomes oppressive for the young male.
 				<span class="break"></span>
@@ -1442,7 +1442,7 @@
 					<span class="douglas">Douglas:</span> One of the most significant discoveries in The Theorem is the human reproduction model. It is one aspect that I am particularly proud of, as it continues to yield results.
 				</p>
 				<p class="h-l">
-					H.L. Yes, I remember. You show how Natures steals the females’ self–esteem and how then the male is there to replenish it. I remember it well.
+					H.L. Yes, I remember. You show how Nature steals the females’ self–esteem and how then the male is there to replenish it. I remember it well.
 				</p>
 				<p>
 				<span class="douglas">Douglas:</span> That’s it. Though I used the word ‘stripped’.
@@ -1455,13 +1455,13 @@
 				<p>
 				<span class="douglas">Douglas:</span> Since male and female both originate from the same female womb, getting the male interested in the female without the exclusive use of pheromones is easy. To get the female interested in the male without pheromones however is difficult, as she has no real biological connection to the male. She didn’t come out of him, so Nature can’t lead a trail back to him, the way she can with the male to female.
 				<span class="break"></span>
-				Nature accomplishes this attraction to the male by stripping the female of her self-belief; her self-esteem and her sense of worth. This is intended to prevent her from being interested in another female sexually. But as you know Natures model is fragile, and sometimes fails, as women are often interested in other women. At the same time there are over seven billion people in this world, plenty of evidence, which can attest to the effectiveness of Natures model. So it works.
+				Nature accomplishes this attraction to the male by stripping the female of her self-belief; her self-esteem and her sense of worth. This is intended to prevent her from being interested in another female sexually. But as you know Natures' model is fragile, and sometimes fails, as women are often interested in other women. At the same time there are over seven billion people in this world, plenty of evidence, which can attest to the effectiveness of Natures' model. So it works.
 				</p>
 				<p class="h-l">
 					H.L. It definitely works, there are no shortage of people.
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> The ideal scenario is that the father then, through his support and presence will restore some of that self-esteem and belief in the female, like you said. Then, as she matures her boyfriend or husband will take the fathers place. From him she will retain the self-esteem her father restored.
+				<span class="douglas">Douglas:</span> The ideal scenario is that the father then, through his support and presence will restore some of that self-esteem and belief in the female, like you said. Then, as she matures her boyfriend or husband will take the fathers' place. From him she will retain the self-esteem her father restored.
 				<span class="break"></span>
 				One of the ways which Natures’ model can go askew is if the father isn’t there. He is out of the picture. Therefore there is no male to restore the self-esteem of the female. Now historically this has been a problem, as many men have died in battle throughout history; or they have been deployed during wartime or were absent from their daughters life for numerous reasons.
 				<span class="break"></span>
@@ -1513,9 +1513,9 @@
 				<span class="break"></span>
 				Fortunately our leaders and other world leaders have wised up. There are no more major global wars and have not been for quite some time.
 				<span class="break"></span>
-				Mom is working and father is home more often as well. So you have this entire generation of females who believe in themselves in relation to males and their self-esteem has been replenished; this, as much as anyone’s can in this day and age. They believe in what is inside of them therefore to be valuable.
+				Mom is working and father is home more often as well. So you have this entire generation of females who believe in themselves in relation to males and their self-esteem has been replenished; this, as much as anyones can in this day and age. They believe in what is inside of them therefore to be valuable.
 				<span class="break"></span>
-				They are also suspicious of anyone who wants take that fetus away from them. Certainly there is no interest in marching in parade to kill what they love; to kill a part of them.
+				They are also suspicious of anyone who wants to take that fetus away from them. Certainly there is no interest in marching in parade to kill what they love; to kill a part of them.
 				</p>
 				<p class="h-l">
 					H.L. Yes, I agree with you there. Don’t you think however with the mothers working, they are growing up with unmet female needs by their mother?
@@ -1632,7 +1632,7 @@
 				But this idea of throwing copies of The Theorem at women when they walk into an abortion clinic or leaving copies of the book on their cars. That makes me ill. These are the horror stories I have heard in the past. This isn’t why I wrote The Theorem. This isn’t what it is all about.
 				</p>
 				<p class="h-l">
-					H.L. So I guess the big question is then are you pro-choice or prolife?
+					H.L. So I guess the big question is then are you pro-choice or pro-life?
 				</p>
 				<p>
 					<span class="douglas">Douglas:</span> Our President is Pro-life. He means a great deal to me, as you can imagine, after what the last administration did; so I am Pro-life.
@@ -1708,7 +1708,9 @@
 				As bad as I was to women, I was probably worse to men. I was fighting with everyone, not just physically, but emotionally too. I would use men just the same. Every job I had I always made sure I took more than I gave.
 				<span class="break"></span>
 				I had been in therapy for years, at least 20 years by that time. It was not the typical therapy either. I stripped every part of me down to nothing, went back and relived every trauma. The problem was that I didn’t do it for the right reasons, the intense therapy. I didn’t do it to become a better boyfriend or husband, but instead to strip all the subjectivity out of myself so that I would not pollute the behavioral model of The Theorem. I was sick even in my intentions to get better.
-				So the change had to come from my heart. And finally it did.
+				So the change had to come from my heart.
+				<span class="break"></span>
+				...And finally it did.
 				<span class="break"></span>
 				I made a vow to never use anyone again. I made a vow to give more than I would take, and I stuck to those vows. It wasn’t a perfect ascension, as there were lots of stops and starts, but I got there. Finally I could live with myself. Finally I can live with myself. But there is an awful lot of damage in my wake.
 				<span class="break"></span>
@@ -1718,7 +1720,7 @@
 					H.L. That is good you dealt with it. That’s a tragic story. Where were you when you did all of this for those 8 years?
 				</p>
 				<p>
-					<span class="douglas">Douglas:</span> All over really. The problem was when I was in Europe; I felt I was breaking my kid’s hearts in the U.S. When I was in the US, I felt I was breaking my kid’s hearts in Europe. So I just ran. I tried to stay out of both places as much as I could, so as to not hurt either. It was bizarre and twisted logic, but it was all my mind could come up with in response to that impossible decision.
+					<span class="douglas">Douglas:</span> All over really. The problem was when I was in Europe, I felt I was breaking my kid’s hearts in the U.S. When I was in America, I felt I was breaking my kid’s hearts in Europe. So I just ran. I tried to stay out of both places as much as I could, so as to not hurt either. It was bizarre and twisted logic, but it was all my mind could come up with in response to that impossible decision.
 				</p>
 				<p class="h-l">
 					H.L. Split up families can be hard, even if different cities.
@@ -1807,6 +1809,8 @@
 				</p>
 				<p>
 				<span class="douglas">Douglas:</span> Yes. In the beginning, I would show him how good The Theorem was doing. He would say “But I want that to be my book”. It was sad. What do you say to that?
+				</p>
+				<p class="h-l">
 				H.L.  Well there’s not much you can say. Stealing your father’s dream is not like stealing his car for a joyride with your best girlfriend.
 				</p>
 				<p>
