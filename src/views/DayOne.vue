@@ -826,7 +826,7 @@
 						H.L. No, you were living like a gypsy, always moving. It would have been hard to have a box of books with you.
 				</p>
 				<p>
-						<span class="douglas">Douglas:</span> So when they would ask for a copy of the book, I would have to purchase it like anyone else. Now, at first that was no big deal. Copies of The Theorem were cheap, even the new ones were less than30 dollars; but as the marketing intensified and the popularity of the book increased…
+						<span class="douglas">Douglas:</span> So when they would ask for a copy of the book, I would have to purchase it like anyone else. Now, at first that was no big deal. Copies of The Theorem were cheap, even the new ones were less than 30 dollars; but as the marketing intensified and the popularity of the book increased…
 				</p>
 				<p class="h-l">
 						H.L. So did the price of the book.
@@ -985,7 +985,7 @@
 						H.L. Who the bears or the neighbors?
 				</p>
 				<p>
-						<span class="douglas">Douglas:</span> Both
+						<span class="douglas">Douglas:</span> Both.
 						<span class="break"></span>
 						It was just a different feeling altogether. The vehicles were newer, the agents were much more in shape and the tools of surveillance, as I told you were state of the art.
 				</p>
@@ -1011,7 +1011,7 @@
 						<span class="break"></span>
 						I was sitting right under a window and the window was open. There were no screens, as I said. It was in the afternoon and my friend was sitting next to me. I have no idea what my friend was doing, because I was deep into concentration of interpreting data on my computer. I would not look up.
 						<span class="break"></span>
-						Then my friend told me to look at the window. Now the wooden table I was sitting on was right under the window. I looked at it and saw that a bumble bee had landed there, maybe a foot away from me on the edge of the table. I didn’t think anything of it, I just said, oh yeah, “It’s a bumble bee”. I realized it had just flown in the open window. My friend said no, it’s not. By now I was bothered and said okay it’s a carpenter bee, I don’t know!
+						Then my friend told me to look at the window. Now the wooden table I was sitting on was right under the window. I looked at it and saw that a bumble bee had landed there, maybe a foot away from me on the edge of the table. I didn’t think anything of it, I just said, oh yeah, “It’s a bumble bee.” I realized it had just flown in the open window. My friend said no, it’s not. By now I was bothered and said okay it’s a carpenter bee, I don’t know!
 				</p>
 
 				<p class="h-l">
@@ -1068,7 +1068,7 @@
 						H.L. Go ahead.
 				</p>
 				<p>
-						<span class="douglas">Douglas:</span> Did you ever see that movie, ‘Minority Report’ with Tom Cruise back in 2002?
+						<span class="douglas">Douglas:</span> Did you ever see that movie, <span class="italic bold">Minority Report</span> with Tom Cruise back in 2002?
 				</p>
 				<p class="h-l">
 						H.L. Sure, it was a great movie; Spielberg and Cruise what a combination! They should do a sequel.
@@ -1131,11 +1131,11 @@
 				</p>
 
 				<p>
-						<span class="douglas">Douglas:</span> It is just that I was the common denominator to all these harassments. That is why they will do anything to keep this from coming out. You know they can erase the data, I know they likely already have done that. They can wash and scrub the emails, and everything, but they can’t kill everyone. I mean we are talking about close to 20 cases at least that I know about. There were more, I am sure; the real number, the ones I don’t know about are probably closer to forty or fifty cases total. At least in some form or another.
+						<span class="douglas">Douglas:</span> It is just that I was the common denominator to all these harassments. That is why they will do anything to keep this from coming out. You know they can erase the data, I know they likely already have done that. They can wash and scrub the emails, and everything, but they can’t kill everyone. I mean we are talking about close to twenty cases at least that I know about. There were more, I am sure; the real number, the ones I don’t know about are probably closer to forty or fifty cases total. At least in some form or another.
 						<span class="break"></span>
 						My hope is that those charged or harassed by the Obama administration will look back, all of them and remember and review those events before they were charged. If they can backtrack to those events, and come forward all of them, or even a few. This has all got to come out.
 						<span class="break"></span>
-						It was really like a nightmare of no-effect I described in The Theorem. You are kicking and punching out at an opponent or a villain and your punches are powerless. That was how it felt to watch my newfound friends getting charged with bogus crimes; their reputations being torn to shreds, and I could do nothing about it. I am so sorry.
+						It was really like a nightmare of <span class="italic">no-effect</span> that I described in The Theorem. You are kicking and punching out at an opponent or a villain and your punches are powerless. That was how it felt to watch my newfound friends getting charged with bogus crimes; their reputations being torn to shreds, and I could do nothing about it. I am so sorry.
 				</p>
 
 				<p class="h-l">
@@ -1209,7 +1209,7 @@
 						H.L. Maybe you just had enough.
 				</p>
 				<p>
-						<span class="douglas">Douglas:</span> I think so. At that point things were deteriorating rapidly. I started to view those in DC with contempt and I am not a contemptuous individual. We were just sitting there like animals in the zoo; in a great big glass-paneled cage, in a beautiful but isolated place. I felt like a monkey in a cage. Well, this time the monkey fought back!
+						<span class="douglas">Douglas:</span> I think so. At that point things were deteriorating rapidly. I started to view those in D.C. with contempt and I am not a contemptuous individual. We were just sitting there like animals in the zoo; in a great big glass-paneled cage, in a beautiful but isolated place. I felt like a monkey in a cage. Well, this time the monkey fought back!
 				</p>
 				<p class="h-l">
 						H.L. The irony being that you were so poor, yet you were either directly or indirectly responsible for allocating billions of dollars from the US to another country.
