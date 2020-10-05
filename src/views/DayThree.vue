@@ -66,7 +66,6 @@
 				<p>
 				<span class="douglas">Douglas:</span>
 				<span class="italic">
-				<span class="break"></span>
 				Tried hard to find a wise man, but all I could find was a fool. There’s history books full of lies and a PhD for a soul.
 				<span class="break"></span>
 				And all of these heroes we struggle to find are really just freaks in a circus, they take off their costumes and rewind their minds, but in the end they desert us.</span>
@@ -290,7 +289,7 @@
 				<span class="douglas">Douglas:</span> Well it happened with The Theorem model. I felt the immunological aspects of it were the weakest link of the developmental model. I really came this close to leaving them out.
 				</p>
 				<p class="h-l">
-				H.L They were the strongest aspect?
+				H.L. They were the strongest aspect?
 				</p>
 				<p>
 				<span class="douglas">Douglas:</span> I wouldn’t go that far, but I do think that this aspect of the model has received the most interest.
@@ -403,7 +402,7 @@
 				H.L. That’s a good point.
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> Not only that. He could see through Holders’ eyes and actions how severe and dire the situation was. Eric Holder was a brave man and he was heading for the hills.
+				<span class="douglas">Douglas:</span> Not only that. He could see through Holder's eyes and actions how severe and dire the situation was. Eric Holder was a brave man and he was heading for the hills.
 				<span class="break"></span>
 				Obama had to wonder, should he do the same? I am sure he wished he could resign; he wished he was just attorney general and could go home to his private practice. But he was the president, and the job he once only dreamed of was quickly turning into a nightmare that had no sign of ending.
 				</p>
@@ -449,7 +448,7 @@
 				<p>
 				<span class="douglas">Douglas:</span> Well, I believe he thought it was. After all Eric Holder didn’t know anything about Tennessee Appalachian People. Barack Obama didn’t know anything about Tennessee Appalachian People. This was a different world I was living in down there. They are amazing people really, they are so warm-hearted.
 				<span class="break"></span>
-				But many have their own dialects and customs, and Washington D.C and the political elite may have well been a million miles away. So Obama sought out someone who was from the Appalachian region, Greensboro N.C. Maybe she could help enhance his understanding of what I was up to in this strange world he knew nothing about.
+				But many have their own dialects and customs, and Washington D.C. and the political elite may have well been a million miles away. So Obama sought out someone who was from the Appalachian region, Greensboro N.C. Maybe she could help enhance his understanding of what I was up to in this strange world he knew nothing about.
 				</p>
 				<p class="h-l">
 				H.L. Then you moved.
@@ -505,7 +504,7 @@
 				<span class="break"></span>
 				From this point on, when I was monitoring my computer, it was not uncommon to see hits on my website from the Camp David area on the weekends when he was there.
 				<span class="break"></span>
-				So even when President Obama is supposed to be resting, he is still focused on this cover-up and suppression. A s you would imagine, this will all be important later.
+				So even when President Obama is supposed to be resting, he is still focused on this cover-up and suppression. As you would imagine, this will all be important later.
 				<span class="break"></span>
 				Barack Obama is a Harvard educated lawyer who lectures on U.S. Constitutional Law. It will take a tremendous amount of pressure, fatigue, and stress for him to go against everything he knows to be moral and also logical by allowing a FISA warrant anywhere close to a potential presidential candidates residence.
 				<span class="break"></span>
@@ -643,7 +642,7 @@
 				<span class="break"></span>
 				Also, The Theorem may have done quite well in Hollywood when it was in the bookstores back in 2007.
 				<span class="break"></span>
-				While I do not know this to be true, or have exact sales figures, I have to assume there was some demand there because it was stocked in brick and mortar bookstores in the Hollywood area. This was in contrast to other cities where The Theorem was not stocked on the shelves of the same bookstore chains’ store.
+				While I do not know this to be true, or have exact sales figures, I have to assume there was some demand there because it was stocked in brick and mortar bookstores in the Hollywood area. This was in contrast to other cities where The Theorem was not stocked on the shelves of the same bookstore chain's stores.
 				</p>
 				<p class="h-l">
 				H.L. Sure.
@@ -771,7 +770,7 @@
 				H.L. Then they became more active?
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> It was as though they figured it out; “Hey, some writer is being censored and he’s one of our fans”. Suddenly it was like the heroes on the posters of my stoned out youth came down from the walls and took action! When I say action, I mean action, they told every other musician imaginable. It was quite a sight. I was overwhelmed.
+				<span class="douglas">Douglas:</span> It was as though they figured it out; “Hey, some writer is being censored and he’s one of our fans.” Suddenly it was like the heroes on the posters of my stoned out youth came down from the walls and took action! When I say action, I mean action, they told every other musician imaginable. It was quite a sight. I was overwhelmed.
 				</p>
 				<p class="h-l">
 				H.L. That’s great, like you said, finally some good news.
@@ -789,9 +788,9 @@
 				H.L. That’s true, from a business standpoint. They would just ride it out.
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> One more thing. I think when all of this is said and done years down the road; when all of this mess is finally uncovered, when insiders begin to testify, you are going to notice something.
+				<span class="douglas">Douglas:</span> One more thing. I think when all of this is said and done, years down the road; when all of this mess is finally uncovered, when insiders begin to testify, you are going to notice something.
 				<span class="break"></span>
-				I think the action of these musicians, this intense word of mouth, was in many ways the threshold, the straw that broke the camels’ back. While the Obama administration could certainly target Hollywood as there was a geographical core there, a set location; the music business was so far spread out like I mentioned earlier.
+				I think the action of these musicians, this intense word of mouth, was in many ways the threshold, the straw that broke the camels’ back. While the Obama Administration could certainly target Hollywood as there was a geographical core there, a set location; the music business was so far spread out like I mentioned earlier.
 				<span class="break"></span>
 				So essentially I believe this was the tipping point, the time when the president just through his hands up in the air, not yet in defeat, but in an overwhelming realization that in the long term he wasn’t going to win.
 				</p>
@@ -1027,10 +1026,10 @@
 				H.L. What do you mean by that exactly?
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> William Blake once said, “The eagle never lost so much time as when he submitted to learn of the crow.” I certainly see Europe this way now, trying to follow us, to learn our crow ways. They are becoming nothing more than a cheap of imitation of America. And this incident, following outdated liberal polices rehashed and repackaged by the Obama administration is just another example that reinforces my belief in that.
+				<span class="douglas">Douglas:</span> William Blake once said, <span class="italic">“The eagle never lost so much time as when he submitted to learn of the crow.”</span> I certainly see Europe this way now, trying to follow us, to learn our crow ways. They are becoming nothing more than a cheap of imitation of America. And this incident, following outdated liberal polices rehashed and repackaged by the Obama administration is just another example that reinforces my belief in that.
 				</p>
 				<p class="h-l">
-				H.L. That’s very good. Blake also said, along the same line, “No bird ever soars too high if he soars with his own wings”.
+				H.L. That’s very good. Blake also said, along the same line, <span class="italic">“No bird ever soars too high if he soars with his own wings”.</span>
 				</p>
 				<p>
 				<span class="douglas">Douglas:</span> Exactly, that’s my point exactly. That is what Europe needs to do, fly with its own wings and quit trying to copy ours. They have centuries of culture, centuries! They need to embrace that. They need to quit being embarrassed of their perceived inadequacies and start to embrace them again as qualities. Don’t measure yourself against America; we are too young for that. We are only an experiment. That’s it, nothing more and nothing less.
@@ -1099,6 +1098,7 @@
 				<span class="break"></span>
 
 				</p>
+				<br />
 				<p class="h-l">
 				H.L. So, you obviously felt you had a vested interest in the outcome of the 2016 election.
 				</p>
@@ -1123,7 +1123,7 @@
 				H.L. How so?
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> Okay, well let’s put it this way. When I was 12-years-old, I saved up my money from my paper route to purchase a subscription to Mother Jones magazine. How much more liberal than that can you get? Who even does that?
+				<span class="douglas">Douglas:</span> Okay, well let’s put it this way. When I was 12-years-old, I saved up my money from my paper route to purchase a subscription to <span class="italic">Mother Jones</span> magazine. How much more liberal than that can you get? Who even does that?
 				</p>
 				<p class="h-l">
 				H.L. I find it really hard to believe that you did that at 12-years-old.
@@ -1329,7 +1329,7 @@
 				And of course they were forced to resort to cannibalism to survive.
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> Sure, but here is what it is really telling you. It tells the children; be careful! You are entering a place where if your parents miscalculate, you will be eaten as a meal. It is right there when you enter California, its 20 ft high. It tells kids you better hope mom and dad don’t get lost in Reno or dally in Carson City because you may become supper.
+				<span class="douglas">Douglas:</span> Sure, but here is what it is really telling you. It tells the children; be careful! You are entering a place where if your parents miscalculate, you will be eaten as a meal. It is right there when you enter California, it's 20 ft high. It tells kids you better hope mom and dad don’t get lost in Reno or dally in Carson City because you may become supper.
 				</p>
 				<p class="h-l">
 				H.L. I see what you are saying, it is a morbid monument. That’s very perceptive.
@@ -1470,7 +1470,7 @@
 				Like you said, mom has traded in the pink for a business suit and she is not coming home anytime soon. Men want women more, women want women more. It’s a mess.
 				</p>
 				<p class="h-l">
-				H.L. At Sixes and sevens.
+				H.L. At sixes and sevens.
 				</p>
 				<p>
 				<span class="douglas">Douglas:</span> Yes, at sixes and sevens.
@@ -1550,7 +1550,7 @@
 				<span class="douglas">Douglas:</span> You’re right it’s a horrible idea, but these kids have nowhere to turn. So therefore free things sound appealing, because they feel they are entitled to get something free as they are already paying a high price at home. They are being sucked dry by their own families, and as we have seen it’s exhausting to them.
 				</p>
 				<p class="h-l">
-				H.L. Would it be better if they just dealt with the problems at home, their parent’s selfishness?
+				H.L. Wouldn't it be better if they just dealt with the problems at home, their parent’s selfishness?
 				</p>
 				<p>
 				<span class="douglas">Douglas:</span> That is true, but not easier. Definitely it would be better for them and the country in the long run.
@@ -1570,7 +1570,7 @@
 				No, the bus that took us in here was capitalism and that needs to be the bus that takes us out. So right now the bus is temporarily broken down, we will get it repaired and be on our way.
 				</p>
 				<p class="h-l">
-				H.L. Speaking of capitalism, do think Donald Trump found enough of the people we were talking about, the way America used to be, and that’s why he won?
+				H.L. Speaking of capitalism, do you think Donald Trump found enough of the people we were talking about, the way America used to be, and that’s why he won?
 				</p>
 				<p>
 				<span class="douglas">Douglas:</span> Well I never thought of it exactly like that, but I think that’s correct. Add that to the debate and I think you got your answer; his recipe for success.
@@ -1754,17 +1754,17 @@
 				<span class="douglas">Douglas:</span> I think it was a mixing of that with arrogance.
 				</p>
 				<p class="h-l">
-				H.L. Interesting
+				H.L. Interesting.
 				</p>
 				<p>
 				<span class="douglas">Douglas:</span> Barack Obama had a unique ability to put on a public face, especially during the day. Then at night, he likely had a sinister side, the need to control variables he had no business controlling; the lives of others. I think he kept that very well hidden. It likely went all the way back to his childhood. Maybe at night was when his grandparents would converse about him, and he could almost hear them. He would have had a need to listen to them; were they deciding his fate? This very well could have been the origins of his obsession with surveillance.
 				<span class="break"></span>
 				It could even go back further. I mean here he is living with his mother in Indonesia and then at night his parents talk. His stepfather complains about Barack to his mother at night. “I can’t deal with this kid” or whatever. Then all of a sudden he is sent away. That is just devastating on a kid, to be sent away from his mother. To be cast out like that, no one ever recovers from that.
 				<span class="break"></span>
-				I know the media spins it as him getting a better education in Hawaii, but there is more to the story you can bet. The media doesn’t know what that kind of trauma this is to a child, they just don’t. It is a type of rejection unfathomable.
+				I know the media spins it as him getting a better education in Hawaii, but there is more to the story you can bet. The media doesn’t know how tramatic this is to a child, they just don’t. It is a type of rejection unfathomable.
 				</p>
 				<p class="h-l">
-				H.L. Yes, there is always more the story. Probably Obama can’t process everything that happened like you say. It’s too traumatic.
+				H.L. Yes, there is always more to the story. Probably Obama can’t process everything that happened like you say. It’s too traumatic.
 				</p>
 				<p>
 				<span class="douglas">Douglas:</span> Likely everything is decided for the young Barack Obama at night. So there at his grandparents, he wants to listen as well. Who can blame a kid for that?
@@ -1781,7 +1781,7 @@
 				H.L. So by surveillance he is able to offset some of that childhood trauma; interesting.
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> Sure, much like Bill Clintons controlling and abusing women offsets his. A lot of people do a lot of things for various and disorganized reasons, but not presidents. They are very effective in the channeling of their inner motivations; compartmentalizing their trauma and acting it out in a parallel manner to their accomplishments. They are like machines. Presidents do very little random.
+				<span class="douglas">Douglas:</span> Sure, much like Bill Clinton's controlling and abusing women offsets his. A lot of people do a lot of things for various and disorganized reasons, but not presidents. They are very effective in the channeling of their inner motivations; compartmentalizing their trauma and acting it out in a parallel manner to their accomplishments. They are like machines. Presidents do very little random.
 				</p>
 				<p class="h-l">
 				H.L. I am really seeing another side to them, a mild respect.
@@ -1854,7 +1854,7 @@
 				<span class="douglas">Douglas:</span> Now you’re getting it. Yes, of course, he had too. All the work involved is mind-numbing. You have to control the media, rewarding those who comply and punishing those who deny.
 				</p>
 				<p class="h-l">
-				H.L. Suddenly the 400 closed door meetings in the White House with the largest search engine, Google, makes sense.
+				H.L. Suddenly the 400 closed door meetings in The White House with the largest search engine, Google, makes sense.
 				</p>
 				<p>
 				<span class="douglas">Douglas:</span> Correct as well. You have to control the digital media. This is a major part of it.
@@ -1879,7 +1879,7 @@
 				H.L. Yes, I could only imagine. It was stifling for him.
 				</p>
 				<p>
-				<span class="douglas">Douglas:</span> So yes, I can tell you about surveillance, all over the world. I can tell you about men, like I have never seen before, soldiers in his employ; soldiers in shape, his elite secret force, fit and muscular to such a degree that in twists the human brain into a pretzel; and this from a man, this man, who has spent his life in gyms all over the world.
+				<span class="douglas">Douglas:</span> So yes, I can tell you about surveillance, all over the world. I can tell you about men, like I have never seen before, soldiers in his employ; soldiers in shape, his elite secret force, fit and muscular to such a degree that it twists the human brain into a pretzel; and this from a man, this man, who has spent his life in gyms all over the world.
 				<span class="break"></span>
 				These men of his who don’t even look like men, but instead machines as they are so perfect in every way imaginable, not an ounce of body fat separating the striated, layered muscle; human killing machines, weapons sent to rescue me in Central America or prevent me from being rescued. Only Barack Obama knows which is correct.
 				<span class="break"></span>
