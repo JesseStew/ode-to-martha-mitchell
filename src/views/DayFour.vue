@@ -25,7 +25,7 @@
 	H.L. Let’s recap the timeline here. You are in Missouri; it is the winter of 2016.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Okay, February of 2016. We are arrived at the Missouri house in the summer of 2015. My original intention was to slow down, to decrease the marketing of <span class="italic">The Legacy Letter</span>. But that is not what happened. For the final six months of 2015 I sent out close to 5000 copies of it. We have been over that already.
+<span class="douglas">Douglas:</span> Okay, February of 2016. We arrived at the Missouri house in the summer of 2015. My original intention was to slow down, to decrease the marketing of <span class="italic">The Legacy Letter</span>. But that is not what happened. For the final six months of 2015, I sent out close to 5000 copies of it. We have been over that already.
 <span class="break"></span>
 However, by February of 2016 I was essentially finished with sending out <span class="italic">The Legacy Letter</span> altogether.
 </p>
@@ -71,7 +71,7 @@ Even after the election I just sent a few to people that I had missed years earl
 	H.L. Not bad at all.
 </p>
 <p>
-<span class="douglas">Douglas:</span> You know one last thing; American business is really such a class act. Everyone was so respectful to me. In some ways, I was envious I didn’t choose that field. In all the phone calls, and the annoying follow up emails I must have sent, even during market (stock) hours these guys would take the time to read my communications. I really think in the thousands of communications and calls, I never met a rude voice or reply. I just fell in love with them. That’s the truth; they are a true class act!
+<span class="douglas">Douglas:</span> You know one last thing; American business is really such a class act. Everyone was so respectful to me. In some ways, I was envious I didn’t choose that field. In all the phone calls, and the annoying follow-up emails I must have sent, even during market (stock) hours these guys would take the time to read my communications. I really think in the thousands of communications and calls, I never met a rude voice or reply. I just fell in love with them. That’s the truth; they are a true class act!
 </p>
 <p class="h-l">
 	H.L. That’s great. Still that is great exposure for your book.
@@ -361,7 +361,7 @@ Still he is not sure. When you are dealing with spies you never really are. Who 
 <p>
 <span class="douglas">Douglas:</span> Here Obama overestimates me and begins misinterpreting events.
 <span class="break"></span>
-He sees this increased traffic by the Trump team as verification that I am up to something with candidate Trump. He increases my surveillance. Then he makes the second biggest mistake of his political career and starts surveillance on Trump Tower. Or at the very least he increases the surveillance on Trump Towers which of course is the wiretapping.
+He sees this increased traffic by the Trump Team as verification that I am up to something with candidate Trump. He increases my surveillance. Then he makes the second biggest mistake of his political career and starts surveillance on Trump Tower. Or at the very least he increases the surveillance on Trump Towers which of course is the wiretapping.
 </p>
 <p class="h-l">
 	H.L. That is just bizarre, all of this in the middle of Hillary Clinton’s Presidential Campaign.
@@ -439,7 +439,7 @@ I had been up late watching the election results. Still, I said to myself that i
 <span class="break"></span>
 Now by this time I mostly knew who our utility workers were. I also knew which ones worked for Obama’s surveillance team, whatever branch he had conducting them; I believe it was some subcontractor for the NSA. On this morning, Wednesday November 9th, 2016, these were two workers I had never seen before.
 <span class="break"></span>
-Typically our real utility guys start their day like this. They have a cup of coffee around 8:30 am. Then they talk to about 9am. Then they slowly get their cherry picker or crane in place, put their cones down and slowly get up to the pole. I’m not putting them down, our guys were great; when we had a power outage, internet problem or whatever, they were right there. But again, this is a very small town, and everyone knew everyone. I think it would be stretching it to say we had 3000 people living there.
+Typically our real utility guys start their day like this. They have a cup of coffee around 8:30 am. Then they talk until about 9am. Then they slowly get their cherry picker or crane in place, put their cones down and slowly get up to the pole. I’m not putting them down, our guys were great; when we had a power outage, internet problem or whatever, they were right there. But again, this is a very small town, and everyone knew everyone. I think it would be stretching it to say we had 3000 people living there.
 <span class="break"></span>
 Also I had never seen our utility guys operate without a crane or a cherry picker. I had never seen them free climbing a pole. I am not saying they couldn’t, but it would be a challenge for them. Do you get my point?
 </p>
@@ -596,7 +596,7 @@ Because upon Clintons presumed victory you could go and say, “Well we really w
 	H.L. Yes. You said it was over because of that great political maneuver by the Trump Team.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Well, obviously I was not the only one to think so, Barack Obama likely agreed. The second debate was October 10. Five days later they got a FISA for wiretapping Trump Tower application approved.
+<span class="douglas">Douglas:</span> Well, obviously I was not the only one to think so, Barack Obama likely agreed. The second debate was October 10. Five days later they got a FISA warrant for wiretapping Trump Tower application approved.
 </p>
 <p class="h-l">
 	H.L. So you are implying Obama and his team knew it was over for Clinton then?
@@ -660,7 +660,7 @@ The Theorem itself, the probability of one model being able to unlock all the do
 <p>
 <span class="douglas">Douglas:</span> Well there is, actually a lot more to it. So you were right.
 <span class="break"></span>
-Donald Trump had no idea where my loyalties were at the time. Remember, they are feeding him false information though the spies on his campaign, both Obama and Clintons spies are doing this. All in attempt to tarnish this jewel of a find Trumps has in regards to the cover-up. They are feeding him the belief that I work for the Democrats.
+Donald Trump had no idea where my loyalties were at the time. Remember, they are feeding him false information though the spies on his campaign, both Obama and Clintons spies are doing this. All in attempt to tarnish this jewel of a find Trump has in regards to the cover-up. They are feeding him the belief that I work for the Democrats.
 <span class="break"></span>
 So imagine if Donald Trump’s team were to attempt the impossible and explain the cover-up from the outside. Then I turn around and say, what are you talking about?
 </p>
@@ -790,7 +790,7 @@ So it is important to see that there is no way he is going to put surveillance o
 	H.L. That’s how you knew you were a part of it?
 </p>
 <p>
-<span class="douglas">Douglas:</span> Of course, Donald Trump by himself was not his target; his target was his secretive and private legacy of was squashing The Theorem for the Democratic Party, and anything that threatened that threatened him. So that is why he put the surveillance on Trump Towers. That is when he ratcheted up my surveillance.
+<span class="douglas">Douglas:</span> Of course, Donald Trump by himself was not his target; his target was his secretive and private legacy of squashing The Theorem for the Democratic Party, and anything that threatened that threatened him. So that is why he put the surveillance on Trump Towers. That is when he ratcheted up my surveillance.
 <span class="break"></span>
 The thing is he wanted attention from males; sure he wanted Donald Trump’s attention but…
 </p>
@@ -818,7 +818,7 @@ But I still gave Obama no attention.
 	H.L. Of course, it would have been a big deal for anyone.
 </p>
 <p>
-<span class="douglas">Douglas:</span> It’s essential to point out; it was a purely psychological interplay that was occurring. If it wasn’t for the wiretapping, which was related to The Theorem, personally I don’t think he would have minded if Donald Trump became President.
+<span class="douglas">Douglas:</span> It’s essential to point out; it was a purely psychological interplay that was occurring. If it wasn’t for the wiretapping, which was related to The Theorem, personally I don’t think he would have minded if Donald Trump became president.
 </p>
 <p class="h-l">
 	H.L. Because Donald Trump gave him attention.
@@ -858,7 +858,7 @@ Barack Obama is concerned about my lack of activity in the spring and summer of 
 <p>
 <span class="douglas">Douglas:</span> Sure I was piecing it together, just not as fast as he thought I was. And you add the fatigue of 8 years of the presidency to that. Obama couldn’t take any chances.
 <span class="break"></span>
-So in response to Donald Trumps’ team finding out about the cover-up, Barack Obama plants a spy within the Trump campaign. They provide a false narrative that I am working secretly for the Democratic Party, working secretly to test party loyalty for Obama and maybe even Hillary Clinton. This belief is furthered by the fact that my live-in girlfriend at the time is working for a subcontractor for an intelligence agency that indirectly reports to Barack Obama.
+So in response to Donald Trump's team finding out about the cover-up, Barack Obama plants a spy within the Trump campaign. They provide a false narrative that I am working secretly for the Democratic Party, working secretly to test party loyalty for Obama and maybe even Hillary Clinton. This belief is furthered by the fact that my live-in girlfriend at the time is working for a subcontractor for an intelligence agency that indirectly reports to Barack Obama.
 </p>
 <p class="h-l">
 	H.L. Obama suffocated all the information release. He had you surrounded like a fortress.
@@ -914,7 +914,7 @@ Hillary Clinton and Barack Obama’s relationship is beyond frayed at this point
 <span class="break"></span>
 Of course you can’t fool the master spy Barack Obama, so he finds out Hillary is wiretapping my residence and this makes him more uncomfortable. Her surveillance people are sloppy and could get caught, and they may have the morning after the election. Meanwhile Hillary Clinton is locked out of Barack Obama’s inner sanctum and therefore dispatches Bill Clinton to Attorney General Loretta Lynch to find out what she knows in regards to Obama’s thinking on the matter, and about Hillary’s fate in general. Of course she likely knows little, but no matter, he tried; essentially stalking Lynch’s plane at the airport in Phoenix.
 <span class="break"></span>
-It’s a mess. With each action by one party involved, then becomes responsible for a counteraction by the other; hence; the makings of a multidimensional scandal.
+It’s a mess. With each action by one party involved, then becomes responsible for a counteraction by the other; hence, the makings of a multidimensional scandal.
 </p>
 <p class="h-l">
 	H.L. Thanks for that.
@@ -923,7 +923,7 @@ It’s a mess. With each action by one party involved, then becomes responsible 
 <span class="douglas">Douglas:</span> Now things are going to move rapidly. So hang on.
 </p>
 <p class="h-l">
-	H.L Okay, I will.
+	H.L. Okay, I will.
 </p>
 <p>
 <span class="douglas">Douglas:</span> So we all know that Donald Trump won in November. But when everyone else is watching our new president-elect, I have my eyes firmly fixed on my captor; Barack Obama.
@@ -1038,7 +1038,7 @@ But instinctually I always felt Obama would never tolerate that. But again, I ma
 <p>
 <span class="douglas">Douglas:</span> Well if you are going to suppress another man’s spirit and his accomplishments you are not going to get much more energy off anyone else than with me.
 <span class="break"></span>
-I have a large amount male energy and a brilliant discovery. They are, and were, living off my back by suppressing me. They were harvesting my energy, to prop themselves up.
+I have a large amount of male energy and a brilliant discovery. They are, and were, living off my back by suppressing me. They were harvesting my energy, to prop themselves up.
 </p>
 <p class="h-l">
 	H.L. That’s wild. So just as Bill Clinton lives off of Hillary’s back to offset his lack of female energy, you are saying that he is gaining male energy from living off of your back.
@@ -1056,8 +1056,7 @@ I can tell the minute that I meet another man, right away what type of father he
 <p>
 <span class="douglas">Douglas:</span> That’s not true. You most definitely have; charisma and confidence. I am just taking you behind the scenes, and showing you what is behind the curtain of those blanket observations.
 <span class="break"></span>
-Actually John Lennon said it best years ago in the song Come Together:
-<span class="italic">He’s got to be good looking because he is so hard to see.</span>
+Actually John Lennon said it best years ago in the song <span class="italic bold">Come Together</span>: <span class="italic">"He’s got to be good looking because he is so hard to see."</span>
 <span class="break"></span>
 My interpretation of those words at least, was that someone who is lacking internal energy, who radiates nothing has to compensate for it by being perfect, remarkable or as Lennon said; good looking.
 <span class="break"></span>
@@ -1075,7 +1074,7 @@ For most of us to be ignored is no big deal; but for others, those who have suff
 	H.L. So then all of that pain is pulled up as well?
 </p>
 <p>
-<span class="douglas">Douglas:</span> Right. So then to avoid that pain; this early struggle for survival, they make sure they are not ignored. They make sure they are noticed. And since they do not posses their own energy to generate or radiate noticeable qualities or charisma, they cheat. They harvest the energy off of another woman or in this case a man, to obtain that threshold or equilibrium organically lacking.
+<span class="douglas">Douglas:</span> Right. So then to avoid that pain; this early struggle for survival, they make sure they are not ignored. They make sure they are noticed. And since they do not possess their own energy to generate or radiate noticeable qualities or charisma, they cheat. They harvest the energy off of another woman or in this case a man, to obtain that threshold or equilibrium organically lacking.
 </p>
 <p class="h-l">
 	H.L. That is very true, it is fascinating. So they have been indulging in male energy that is not theirs to indulge in, by suppressing your book and therefore indirectly suppressing you. This gives them more confidence with men?
@@ -1156,7 +1155,7 @@ They have said something to the affect that no one can ‘work a room’, the wa
 This of course was back in his day, back many years ago.
 </p>
 <p class="h-l">
-	H.L Yes, I have. It’s very well known or even accepted that at the peak of his popularity he was one of the best at it. Maybe even the best ever. It was a large key to his political success.
+	H.L. Yes, I have. It’s very well known or even accepted that at the peak of his popularity he was one of the best at it. Maybe even the best ever. It was a large key to his political success.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Okay, so knowing what you know now about how his childhood went can you begin to piece together how he would end up the ‘king of the room’ in political arenas?
@@ -1242,7 +1241,7 @@ But keep in mind, behind the façade, and the props, is a man. It is a man, I th
 	H.L. Of course we do.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Nobody wants to talk about this. But his mental health is being used as a human shield by some very unsavory characters, some people who have no idea what the implications of their actions are going to be in regards to the fate of this great Nation. All they care about is concealing their pain. All they care about is concealing their embarrassment of being exposed as pretending to be something they are not. So to untangle this nest of deception we have to first untangle one its key players: Barack Obama.
+<span class="douglas">Douglas:</span> Nobody wants to talk about this. But his mental health is being used as a human shield by some very unsavory characters, some people who have no idea what the implications of their actions are going to be in regards to the fate of this great Nation. All they care about is concealing their pain. All they care about is concealing their embarrassment of being exposed as pretending to be something they are not. So to untangle this nest of deception we have to first untangle one of its key players: Barack Obama.
 </p>
 <p class="h-l">
 	H.L. That’s so true. A human shield, this is exactly what the Clintons’ see Obama as. It’s sad.
@@ -1272,8 +1271,6 @@ So when do you think this disintegration really started?
 </p>
 <p>
 <span class="douglas">Douglas:</span> That is where a good amount of it took place. You know at this point Barack Obama needs some serious professional mental health counseling, not friends and nostalgic places to spark up good memories and bad. It‘s just too destabilizing to revisit those places where the trauma occurred.
-<span class="break"></span>
-So yes you are right.
 </p>
 <p class="h-l">
 	H.L. Do you think those around him saw it?
@@ -1306,7 +1303,7 @@ So yes you are right.
 <span class="douglas">Douglas:</span>  Well, I need to backtrack for a quick story to explain why running here is telling.
 </p>
 <p class="h-l">
-	H.L Sure, let’s hear it. This is really insightful <span class="douglas">Douglas:</span> it is very good.
+	H.L. Sure, let’s hear it. This is really insightful Douglas; it is very good.
 </p>
 <p>
 <span class="douglas">Douglas:</span> When I was very young, about 11 or 12 years old, I was not a very good kid. Like many kids I was into drugs, though my pain was more severe so I had started earlier and used heavier than most. While I spent my very early years in Las Vegas, we eventually moved to Southern California. By the time I was 12, I was so wrapped up in drugs and hanging around delinquents that my father fretted for my fate. In response he moved us up the coast about 200 miles. I missed my friends, as delinquent and devious as they were, they were still my friends.
@@ -1314,7 +1311,7 @@ So yes you are right.
 So on the weekends I would go to Southern California and visit them. On one of these visits, the final visit, I was elected by our little gang of thugs to steal a chainsaw; a big concrete chainsaw we noticed in a neighbors open garage. The reasoning was that by the time the cops figured out who did it, I would be safely up the coast. Well I stole the saw, we sold it for drugs and that was that. Then the police came looking for us.
 </p>
 <p class="h-l">
-	H.L That’s not good.
+	H.L. That’s not good.
 </p>
 <p>
 <span class="douglas">Douglas:</span> Now my friends were a rare breed. Even the 10-year-old who hung out with us had been kicked out of school, and he was so bad that the truancy officers would just wave at him when they would go by; this, even during school hours. These were great friends, but to everyone else they were hardcore juvenile criminals.
@@ -1372,7 +1369,7 @@ After all Branson wasn’t an American citizen so there would have been little p
 He in fact will be visiting Branson’s Nekar Island for another reason altogether. A reason that nothing to do with <span class="italic">The Legacy Letter</span>, nothing to do directly with me, and nothing to do with promises made a few years before. As you will see his Barack Obama’s interest in this island and this man, at this point is for a much more sinister intent altogether.
 </p>
 <p class="h-l">
-	H.L. So let’s just clarify where we are here. The inauguration is over. Barack Obama is about to leave Washington D.C as a private citizen for the first time in eight years. He takes his family and heads to the Palm Springs Area. In three days he will depart, with all of the family to the Caribbean to Richard Branson’s Neckar Island for 10 days. Correct?
+	H.L. So let’s just clarify where we are here. The inauguration is over. Barack Obama is about to leave Washington D.C as a private citizen for the first time in eight years. He takes his family and heads to the Palm Springs Area. In three days he will depart, with all of the family to the Caribbean to Richard Branson’s Necker Island for 10 days. Correct?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, and thank you for that, we start talking and I forget to give reference to what we are talking about. I forget this is an interview sometimes. So it is the weekend of January, 20, 2017.
@@ -1425,7 +1422,7 @@ The stress would have hit him. No, there is a reason former presidents do not tr
 	H.L. That’s so ridiculous. Kite surfing.
 </p>
 <p>
-<span class="douglas">Douglas:</span> The list of improbabilities goes on and on. Why take your kids with you? He had just taken them to Hawaii less than a month earlier. That’s plenty tropical. If you want to go on a family vacation why not wait until summer?
+<span class="douglas">Douglas:</span> The list of improbabilities goes on and on.
 <span class="break"></span>
 Hawaii would have made sense, and at least it would have been in the USA, the country you just spent eight years building. It is where he had been going on vacation to for years.
 </p>
@@ -1468,12 +1465,12 @@ No, what Barack Obama needed to offset this magnified perception was a father fi
 <span class="douglas">Douglas:</span> I couldn’t have said it better. This too is going to be a big problem, you’re right.
 </p>
 <p class="h-l">
-	H.L. She is just not going to go along with him, with his panicked state, which you’re describing and subject her children to a life on the run.
+	H.L. She is just not going to go along with him, with his panicked state, which you’re describing and desert or subject her children to a life on the run.
 </p>
 <p>
 <span class="douglas">Douglas:</span> No, she’s not. You are so right about that. But Obama has no one he can relate this trauma to. He is trying to contain it within himself, but it’s coming out.
 <span class="break"></span>
-She is first worried about her children. But she also loves her husband and as favor, she will give into his paranoia just this one time. He is a convincing speaker, and he has convinced her without a shadow of a doubt that President Trump is going to arrest them.
+She is first worried about her children. But she also loves her husband and as a favor, she will give into his paranoia just this one time. He is a convincing speaker, and he has convinced her without a shadow of a doubt that President Trump is going to arrest them.
 <span class="break"></span>
 Plus he has given her the heights of the American accomplishment. That is worth something, it might get a woman on a plane once, maybe even if she’s a mother, but it won’t be easy.
 </p>
@@ -1509,9 +1506,9 @@ I don’t mean to sound unsympathetic to her needs, but I am first concerned abo
 	H.L Certainly Michelle Obama had no long terms plans on fleeing with her husband if more information came out about the cover-up as the former president feared.
 </p>
 <p>
-<span class="douglas">Douglas:</span> You’re right; and that is a very good point. You see Nekar Island was a departure point. If President Trump released more, disclosing what he likely knew, and the dialogue in Washington was circulating around prosecuting Barack Obama, then some decisions would have to be made. Like you said, his wife is not going to subject her children, her immortality, to a life on the run. So there, in the Caribbean, they would part ways. Michelle Obama would return to the United States with her children, and one of Branson’s private jets would shuttle off Barack Obama to an undisclosed location. This until the Liberal Elite in D.C. could reason and negotiate with the newly minted president who would have likely been furious over the entire ordeal. Then Obama would return to the U.S. and face the music.
+<span class="douglas">Douglas:</span> You’re right; and that is a very good point. You see Necker Island was a departure point. If President Trump released more, disclosing what he likely knew, and the dialogue in Washington was circulating around prosecuting Barack Obama, then some decisions would have to be made. Like you said, his wife is not going to subject her children, her immortality, to a life on the run. So there, in the Caribbean, they would part ways. Michelle Obama would return to the United States to her children, and one of Branson’s private jets would shuttle off Barack Obama to an undisclosed location. This until the Liberal Elite in D.C. could reason and negotiate with the newly minted president who would have likely been furious over the entire ordeal. Then Obama would return to the U.S. and face the music.
 <span class="break"></span>
-But at least Nekar Island was a place where they could spend some quality family time before the split, which at this point Barack Obama was convinced would be inevitable.
+But at least Necker Island was a place where they could spend some quality time before the split, which at this point Barack Obama was convinced would be inevitable.
 </p>
 <p class="h-l">
 	H.L. That makes sense; must have been some plane ride.
@@ -1536,7 +1533,7 @@ This time he is not planning on coming back.
 	Of course coming down off of surveillance is not like coming off of a drug, but for him it is close. The lack of ability to know is going to eat at him, especially when now he is on the other end.
 </p>
 <p class="h-l">
-	H.L. To clarify, you are talking about the time between Trumps Inauguration and Obama’s potential flight from the U.S to Neckar Island and the March 4th tweet, so February?
+	H.L. To clarify, you are talking about the time between Trumps Inauguration and Obama’s potential flight from the U.S to Necker Island and the March 4th tweet, so February?
 </p>
 <p>
 <span class="douglas">Douglas:</span> Yes, it’s February and he doesn’t have the surveillance tools at his disposal he once had just weeks before. He may have some privately, but he doesn’t want to show his hand to President Trump by using them. Obama is really going to be in the dark at this point.
@@ -1586,7 +1583,7 @@ Now I am not saying he was on drugs or anything like that. Do not pin that on me
 <span class="douglas">Douglas:</span> Sure he was exhausted. If they were taken, it was for the well-being of the country and not for recreation. That is what I am attempting to say here.
 </p>
 <p class="h-l">
-	H.L. Could be. Whatever ever the case he is in trouble at this point.
+	H.L. Could be. Whatever the case he is in trouble at this point.
 </p>
 <p>
 <span class="douglas">Douglas:</span> So it’s February and he is thinking to himself about the Clintons. He realizes something very profound. Even in this deteriorating state he gains clarity when he thinks of them.  He quickly realizes that they are old. They are really old. He also realizes that in 10 or 15 years they will likely not be here anymore, but he will.
@@ -1619,7 +1616,7 @@ He has way more to lose than them.
 </p>
 <p>
 <span class="douglas">Douglas:</span> But it just never stops. This is Jaws on a big day with huge swells pounding the Maui Coastline; one after another, wave upon relentless wave!
-He realizes the terror of living every day, waking up not knowing if this will be his last day of freedom, waiting for that knock on the door, or no knock at all. This fear alone has driven a many a criminal to confession. It’s a big deal, a really big issue. Getting away with something is not always getting away with something; the stress on the human body is severe.
+He realizes the terror of living every day, waking up not knowing if this will be his last day of freedom, waiting for that knock on the door, or no knock at all. This fear alone has driven many a criminal to confession. It’s a big deal, a really big issue. Getting away with something is not always getting away with something; the stress on the human body is severe.
 <span class="break"></span>
 We have all heard of people who lived on the run for years, and one day just confess and surrender. It happens. Only a certain type of person can withhold that sin inside of them, and he is not that kind of person.
 <span class="break"></span>
@@ -1705,7 +1702,7 @@ It is one emotion that dominates over all the other reasons, all the problems we
 <span class="break"></span>
 Another reason I have a hard time with it is because, again, I suffer from it as well. In my case it is due to my sexual abuse; the multiple instances of rape I experienced as a young child.
 <p class="h-l">
-HL. Understandable.
+H.L. Understandable.
 </p>
 <p>
 <span class="douglas">Douglas:</span> But Barack Obama has it about as bad as I have seen it in anyone. There are many reasons for this, and we can’t go into all of them. But as you would imagine a large progenitor for shame is abandonment by the mother; in this case, by his mother.
@@ -1836,7 +1833,7 @@ So he could have been looking for a symbolic surrogate to please, having Hillary
 	H.L. Yes, and it is just what has happened.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Well tomorrow we are going get into the neurobiological reasons why that is the case.
+<span class="douglas">Douglas:</span> Well tomorrow we are going to get into the neurobiological reasons why that is the case.
 </p>
 <p class="h-l">
 	H.L. Sounds good; really excited about that.
@@ -1872,7 +1869,7 @@ Hillary then deserts him, “You’re on your own Barack!” Now he is left feel
 <p>
 <span class="douglas">Douglas:</span> Maybe. One thing I am almost sure you are right on though, there is a female behind it. Certainly it makes the most sense.
 <span class="break"></span>
-While fleeing perceived prosecution and fleeing the vicinity after the inauguration was male-dominated, as we saw in him wanting to go to Neckar Island and have Branson fly him via one of his airplanes to safety. That was male-focused, as in Branson he saw a father figure, a protector, someone he could confide in.
+While fleeing perceived prosecution and fleeing the vicinity after the inauguration was male-dominated, as we saw in him wanting to go to Necker Island and have Branson fly him via one of his airplanes to safety. That was male-focused, as in Branson he saw a father figure, a protector, someone he could confide in.
 <span class="break"></span>
 The Caribbean trip however culminated over six months of male-dominated focus. But now, like a bi-annual cycling manic-depressive the switches deep within his limbic regions are depleted of the essential sodium needed to keep his focus on his patriarchal abandonment. Suddenly they malfunction, and his feminine desertions and betrayals rise to surface with the action of a coiled spring.
 <span class="break"></span>
@@ -2006,7 +2003,7 @@ When he stopped by for a ‘secret meeting’ with the tech executives and the o
 <p>
 <span class="douglas">Douglas:</span> No, I already know who most of them are. They have been dogging me for years. They are irrelevant; they are what I worked so hard for 25 years to never become.
 <span class="break"></span>
-But I know a man who now lives on Pennsylvania Ave who is going to be very interested in their names.
+But I know a man who now lives on Pennsylvania Avenue who is going to be very interested in their names.
 </p>
 <p class="h-l">
 	H.L. Because they have been financing the coup?
@@ -2083,10 +2080,10 @@ I don’t know; it’s interesting. Maybe then in a way that is what he needed. 
 <span class="douglas">Douglas:</span> I think so. And that is their business, they should be allowed privacy. No one wants to violate that.
 </p>
 <p class="h-l">
-	H.L. But when there is potential suicide involved of a president?
+	H.L. But when there is a potential suicide involved of a president?
 </p>
 <p>
-<span class="douglas">Douglas:</span> Then all bets are off. Then it becomes a country’s business, it one thing you surrender when you become president. So yes, his wife arrived there first.
+<span class="douglas">Douglas:</span> Then all bets are off. Then it becomes a country’s business, it's one thing you surrender when you become president. So yes, his wife arrived there first.
 </p>
 <p class="h-l">
 	H.L. She still loved him.
@@ -2172,7 +2169,7 @@ We, as a nation, really came that close to losing a President by one of the foul
 	H.L. It makes you wonder doesn’t it?
 </p>
 <p>
-<span class="douglas">Douglas:</span> Well, yes. You have to give President Trump the benefit of the doubt. He is man in his seventies, he has likely seen many men on the verge of suicide and it is possible, he said enough is enough; and released nothing more.
+<span class="douglas">Douglas:</span> Well, yes. You have to give President Trump the benefit of the doubt. He is a man in his seventies, he has likely seen many men on the verge of suicide and it is possible, he said enough is enough; and released nothing more.
 <span class="break"></span>
 It certainly makes you wonder. Barack Obama was certainly convinced more was going to come out.
 <span class="break"></span>
