@@ -235,6 +235,9 @@
 				<p>
 					<span class="dates">2020 September 5)</span> An Ode to Martha Mitchell is published for the general public via a link from <span class="italic">The Theorem</span>'s website TheTheorem.net.
 				</p>
+				<p>
+					<span class="dates">2020 October 5)</span> Final proofread and edit to An Ode to Martha Mitchell, in preparation for international release.
+				</p>
 			</v-col>
 		</v-row>
 	</v-container>

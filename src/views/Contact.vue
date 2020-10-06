@@ -14,7 +14,7 @@
 				<p class="px-5">
 					<span style="font-weight: bold;">H.L.</span> Interviewer<br />
 					<span style="font-weight: bold;">L.A. Sean:</span> Content Editor/General Editor<br />
-					<span style="font-weight: bold;">Mountain Crimp Jesse:</span> Lead Developer/ Web and Concept Design<br />
+					<span style="font-weight: bold;">Mountain Crimp Jesse:</span> Lead Developer/ Web and Concept Design/Final Proofread<br />
 					<span style="font-weight: bold;">Miss Keli:</span> Lead Graphic Artist/ Assistant Web Developer/Lead Photographer<br />
 					<span style="font-weight: bold;">Southpark Mike:</span> Lead Artist/ Graphic Artist/ Original Artwork Creation<br />
 					<span style="font-weight: bold;">Pastor Stacey:</span> Secondary Web Development, Conceptualization<br />
@@ -50,6 +50,9 @@
 				</p>
 				<p class="px-5">
 					All correspondence will be 100 percent confidential. No Exceptions.
+				</p>
+				<p class="px-5">
+					Or you can contact Douglas directly by phone or text +1.310.427.4896
 				</p>
 				<p class="px-5">
 					Permissions &amp; Legal contact:
