@@ -321,9 +321,11 @@ H.L. At the same time what?
 <span class="douglas">Douglas:</span> This leaves a mark on you. I was up much of the night thinking about it. It is such a lie, all the cheering and the victory laps; really I will never be the same after this. It was just so much for so long. It will define the rest of my life. It was a lifetime of events and pain in just six years.
 <span class="break"></span>
 Reliving it now, while helpful, makes me realize just how intense it all was. No one escapes from something like this unaffected; while it is a necessary lie you tell yourself all in order to get through it, still it’s a lie nonetheless. A part of me died during these events. While I can say it was a bad part, a good part to get rid of, in the end I have my doubts. They took something I can never get back. I see that now.
-<span class="break"></span>
+</p>
+<p class="h-l">
 	H.L. Having something so much out of your control define you is not something you ever really saw coming, I imagine.
-<span class="break"></span>
+</p>
+<p>
 <span class="douglas">Douglas:</span> No it wasn’t. You are right on that.
 </p>
 <p class="h-l">
@@ -353,7 +355,7 @@ H.L. Interesting.
 <span class="douglas">Douglas:</span> That went right over your head didn’t it?
 </p>
 <p class="h-l">
-H.L Obviously.
+H.L. Obviously.
 </p>
 <p>
 <span class="douglas">Douglas:</span> On my soul, my dead soul. That was the first book of Gogol’s I fell in love with. It was supposed to be a double entendre based on Gogol’s <span class="italic">Dead Souls.</span>
@@ -609,7 +611,7 @@ H.L. Was it politically motivated? Was he politically motivated, a part of the l
 <span class="douglas">Douglas:</span> Well, I suspected he was hiding there and I was right; but he wasn’t interested in the policies of the Democratic Party, not at all. His motivations were something different altogether, much more sinister; he was someone different altogether.
 </p>
 <p class="h-l">
-H.L. I love it! We are going on a hunt for a serial killer. Bravo <span class="douglas">Douglas:</span> I like where you are going with this!
+H.L. I love it! We are going on a hunt for a serial killer. Bravo Douglas, I like where you are going with this!
 </p>
 <p>
 <span class="douglas">Douglas:</span> Well, don’t get too excited. Of course the back side of that is the human tragedy. And at the same time they are people I care about, and cared about deeply.
@@ -634,7 +636,7 @@ H.L. So they are wealthy? They are someone you sent <span class="italic">The Leg
 <span class="break"></span>
 This killer also only goes after the rich, as most of his victims are wealthy; many were even billionaires. He doesn’t seem to have any interest in killing the poor.
 <span class="break"></span>
-He is an elitist serial killer, if such a thing exists? He may be the one of the first of this type in history. Certainly he will end up one of the most infamous ones.
+He is an elitist serial killer, if such a thing exists? He may be one of the first of this type in history. Certainly he will end up one of the most infamous ones.
 </p>
 <p class="h-l">
 H.L. When did you find out about him? When did you realize that you may have been or were dealing with a serial killer?
@@ -666,7 +668,7 @@ We need to expose him as soon as possible, or else witness the consequences.
 H.L. Yes, I can see why expediency is suddenly important.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Yes, it is an interesting scenario for sure. I still did not answer your question in regards to the exact date I was sure. That was for a reason. Because the exact date I realized that there was a serial killer responsible was related to the death I going to cover here. Yet, I do not believe that the serial killer was responsible for this death; instead the Obama administration, indirectly at least.
+<span class="douglas">Douglas:</span> Yes, it is an interesting scenario for sure. I still did not answer your question in regards to the exact date I was sure. That was for a reason. Because the exact date I realized that there was a serial killer responsible was related to the death I am going to cover here. Yet, I do not believe that the serial killer was responsible for this death; instead the Obama Administration, indirectly at least.
 </p>
 <p class="h-l">
 H.L. I don’t quite understand. So we are going to look at another death, though not related to the serial killer?
@@ -795,7 +797,7 @@ H.L. Sure.
 H.L. But you’re not buying it.
 </p>
 <p>
-<span class="douglas">Douglas:</span> No, not at all. I am not buying what they are selling. You see they really piled it on Aubrey McClendon. He was smart too, and he was very intuitive. In many ways he was similar to me. He could see patterns; I think Aubrey, unlike many others who were harassed, realized it was due to his interest in The Theorem. I also know he was an exceptionally brave man, very brave. I think he threatened to expose the Obama administration.
+<span class="douglas">Douglas:</span> No, not at all. I am not buying what they are selling. You see they really piled it on Aubrey McClendon. He was smart too, and he was very intuitive. In many ways he was similar to me. He could see patterns; I think Aubrey, unlike many others who were harassed, realized it was due to his interest in The Theorem. I also know he was an exceptionally brave man, very brave. I think he threatened to expose the Obama Administration.
 </p>
 <p class="h-l">
 H.L. You think he connected the dots?
@@ -959,7 +961,7 @@ H.L. Posed?
 <p>
 <span class="douglas">Douglas:</span> Absolutely. This is a very personal murder as you will see, but I will continue with the reaction.
 <span class="break"></span>
-Initially the police called it a murder/ suicide. But it was obvious to the grown Sherman children that such a verdict was not consistent with their parents’ state of mind, or even the facts of the crime scene. Therefore they hired a team of private investigators and the children’s suspicious were confirmed; it was indeed murder.
+Initially the police called it a murder/suicide. But it was obvious to the grown Sherman children that such a verdict was not consistent with their parents’ state of mind, or even the facts of the crime scene. Therefore they hired a team of private investigators and the children’s suspicious were confirmed; it was indeed murder.
 </p>
 <p class="h-l">
 H.L. Never solved?
@@ -1091,13 +1093,13 @@ H.L. Sounds like he was the ideal candidate.
 <p>
 <span class="douglas">Douglas:</span> He really was. Also his coal operations were in Illinois and his headquarters of his Company; Foresight Energy was located in St. Louis, Missouri. So our move to Missouri could have been seen as a move closer to his operational hub. Christopher Cline was a risk taker, and <span class="italic">The Legacy Letter</span> was tailored especially to someone with his personality in mind.
 <span class="break"></span>
-To make all of this even more painful, Chris Cline was one of my favorites. While I like most all of the billionaires, some more than others, Chris Clines story was one that I returned to over and over again. Maybe it was because we were living in Tennessee, maybe it a number of things, but his life certainly never stopped inspiring me. This is why it is too painful to go into too much detail in regards to his life and his multitude of accomplishments.
+To make all of this even more painful, Chris Cline was one of my favorites. While I like most all of the billionaires, some more than others, Chris Clines story was one that I returned to over and over again. Maybe it was because we were living in Tennessee, maybe it was a number of things, but his life certainly never stopped inspiring me. This is why it is too painful to go into too much detail in regards to his life and his multitude of accomplishments.
 </p>
 <p class="h-l">
 H.L. Sure, everyone has their favorites. Was he interested in investing though?
 </p>
 <p>
-<span class="douglas">Douglas:</span> That is a difficult question to answer. It was hard to detect Chris Cline’s interest. He would come and go off my detection tool over the years. I believe I called his company a few times and again he very likely received a Christmas card from me in 2015. So honestly, it is hard to give you an exact answer as to whether he was interested in 2019 or not. In some ways I think his interest was exaggerated by the killer.
+<span class="douglas">Douglas:</span> That is a difficult question to answer. It was hard to detect Chris Cline’s interest. He would come and go off my detection tool over the years. I believe I called his company a few times and again he very likely received a Holiday card from me in 2015. So honestly, it is hard to give you an exact answer as to whether he was interested in 2019 or not. In some ways I think his interest was exaggerated by the killer.
 </p>
 <p class="h-l">
 H.L. What does that mean?
@@ -1215,7 +1217,7 @@ So if he waits for seven days to stage this next homicide, and I sent the letter
 H.L. Sure.
 </p>
 <p>
-<span class="douglas">Douglas:</span> So what I am trying to say is that the killer cannot wait. He has to assume that I sent it to Rome via express mail, and therefore on the third day; on January 26, I will expect to see The Popes reaction, perhaps a tweet, perhaps something grander in response to the correspondence that I sent out to The Vatican.
+<span class="douglas">Douglas:</span> So what I am trying to say is that the killer cannot wait. He has to assume that I sent it to Rome via express mail, and therefore on the third day; on January 26, I will expect to see The Pope's reaction, perhaps a tweet, perhaps something grander in response to the correspondence that I sent out to The Vatican.
 <span class="break"></span>
 	So it is on January 26, when the killer assumes my eyes will be fixed to the screen of the news service or even on the television. And it is on that day, January 26th of 2020, when the killer will strike again.
 </p>
@@ -1654,7 +1656,7 @@ H.L. True.
 Remember people do not become monsters on their own. And it is very rare when a killer has only organic issues with no outside influence; completely Nature and not lack of nurture. No, as you will see this killer experienced some horrors that will dwarf the nightmares experienced by all the others we examined combined.
 </p>
 <p class="h-l">
-H.L. So who is?
+H.L. So who is it?
 </p>
 <p>
 <span class="douglas">Douglas:</span> All right. You ready?
@@ -1675,7 +1677,7 @@ H.L. What do you mean you are not sure?
 H.L. Oh come on. It is obvious you are stalling. Story time is over. Let’s get this finished so I can get out of here. Let’s go now.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Just one quick story and I am will reveal his name. It’s important, in fact it is necessary. Just indulge me one last time, we are almost done.
+<span class="douglas">Douglas:</span> Just one quick story and I will reveal his name. It’s important, in fact it is necessary. Just indulge me one last time, we are almost done.
 </p>
 <p class="h-l">
 H.L. There is just no time.
@@ -1721,7 +1723,7 @@ Over the years and through five more years of college and many more of writing, 
 <span class="break"></span>
 Every year, I would pick one day; typically in the spring, and on that day I would take my entire paycheck, cash it at the casinos and gamble it all away. It was as a sort of homage to my origins. When I won, as I often did, I would stay until I lost it all. I would leave my bank cards at home, and only play with what my check was. Sometimes it took a couple of days to lose it all, but I always would. It was out of my system, or at least subdued.
 <span class="break"></span>
-Then I would go home, and wait until a year past to repeat the process. Once year I even took someone with me, though I never did that again. It was a mistake to have them see me that way, almost frothing at the mouth. I was embarrassed of that part of me. I was embarrassed of that part of my father. But it was in my genes, twisting inside of me.
+Then I would go home, and wait until a year past to repeat the process. One year I even took someone with me, though I never did that again. It was a mistake to have them see me that way, almost frothing at the mouth. I was embarrassed of that part of me. I was embarrassed of that part of my father. But it was in my genes, twisting inside of me.
 <span class="break"></span>
 Over the years I watched many of my friends win big money, I would indulge in their excitement with them; knowing that soon they would be in bad shape. I knew that winning was really losing. So I never gambled.
 </p>
@@ -1743,7 +1745,7 @@ You see earlier I said that this is one of the most irresponsible things that I 
 <span class="break"></span>
 Here I am only 75 percent or 80 percent positive. While inside me I may be close to 100 percent, I could be wrong as well. These events are just too close. As you will see he was certainly in the wrong place in the wrong time. He certainly has the motives, as twisted as those are, and he certainly has the resources. Indeed I should be able to build a compelling case.
 <span class="break"></span>
-I will tell you that Kobe Bryant’s death 100 percent is not an accident; I can sleep easy on that tragic fact the rest of my life. It is nearly mathematically impossible for it to be anything other than murder, for reasons I have stated and more. I can also tell you the Shermans deaths are 100 percent murder and now we all know that, even the police have verified that. But I cannot tell you 100 percent that this man is the one responsible.
+I will tell you that Kobe Bryant’s death 100 percent is not an accident; I can sleep easy on that tragic fact the rest of my life. It is nearly mathematically impossible for it to be anything other than murder, for reasons I have stated and more. I can also tell you the Sherman's deaths are 100 percent murder and now we all know that, even the police have verified that. But I cannot tell you 100 percent that this man is the one responsible.
 <span class="break"></span>
 I am not a detective, an investigator or even an amateur sleuth. This was not my interest; this is certainly not my passion. Indeed I am way over my head. By chance I ended up here, somewhere I don’t want to be. While I know a great deal, more than any man should ever know about human behavior; the behavior of criminals is something that should be better left to the authorities. So no matter how convincing my argument is for his guilt, remember as with everyone he is innocent until proven guilty. And this should be true not just in the court of law, but also in the court of public opinion.
 </p>
@@ -1857,7 +1859,7 @@ H.L. Good job.
 H.L. I see.
 </p>
 <p>
-<span class="douglas">Douglas:</span> In overview, this is just another casualty of World War II. In our quest to keep man alive longer, sometimes we forget that Nature has her own idea for our allocated lifespan; as this relic has does nothing but cause misery to those around him for many years.
+<span class="douglas">Douglas:</span> In overview, this is just another casualty of World War II. In our quest to keep man alive longer, sometimes we forget that Nature has her own idea for our allocated lifespan; as this relic has done nothing but cause misery to those around him for many years.
 <span class="break"></span>
 While it will be sad to see the real heroes and survivors of WW2 perish, the extinction of these fossilized dinosaurs like Soros who act out their pain instead of swallowing; well, it will be welcomed.
 </p>
@@ -1919,7 +1921,7 @@ H.L. Did that really happen?
 H.L. Sometimes it is better to die a hero than live as a coward.
 </p>
 <p>
-<span class="douglas">Douglas:</span> Exactly, and that is what George Soros dealt with his entire life. He tries to find to find some value in survival, but all he can find is shame and embarrassment.
+<span class="douglas">Douglas:</span> Exactly, and that is what George Soros dealt with his entire life. He tries to find some value in survival, but all he can find is shame and embarrassment.
 </p>
 <p class="h-l">
 H.L. So he hopes in death, in peddling death he can find some honor.
@@ -1943,7 +1945,7 @@ H.L. Soros sees Americans as stupid, easy to deceive. It is great place to hideo
 <p>
 <span class="douglas">Douglas:</span> Of course he does, and in a way he is right. We are stuck in our own guilt in regards to the war, as we knew what was going on with the concentration camps long before what is recorded in the history books; we had intelligence all over the place in Eastern Europe. So Soros effectively hides around the fringes of the Jewish Community, and the Democratic Elites; he sings the song of a survivor, though he is never really at home anywhere. No one accepts him fully, because he comes from shame, from humiliation and not pride. This was his inheritance.
 <span class="break"></span>
-He goes and tries to recreate anarchy in distant places as it brings him closer to his father. There he can witness real men and women suffering and struggling; all the while he is locked in his past, trying to repeat it, and old vinyl record stuck in some forgotten groove. He is a wealthy, wounded, casualty of war.
+He goes and tries to recreate anarchy in distant places as it brings him closer to his father. There he can witness real men and women suffering and struggling; all the while he is locked in his past, trying to repeat it, an old vinyl record stuck in some forgotten groove. He is a wealthy, wounded, casualty of war.
 <span class="break"></span>
 Finally he realizes America is ripe for the taking. He has an experienced eye, is an experienced anarchist, and knows the signs to look for; a country that has become lazy and complacent, and is dominated and indoctrinated by the liberal media. A country where anger of child toward parent can be exploited and cashed in; thus pointing their angst at the very institutions they should be embracing. He has seen it all before. Like all parasites he can detect the compromised tree where he will flourish; in this case, a Democratic Party stale and still recycling policies from the past.
 <span class="break"></span>
