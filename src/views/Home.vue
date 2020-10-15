@@ -20,7 +20,7 @@
           style="
             margin-top: 20px;
           " class="px-15">
-            What are you are about to experience is the disentanglement of one the largest scandals and cover-ups the world has ever known. It is, in fact, so large that all others substantially pale in comparison.
+            What you are about to experience is the disentanglement of one the largest scandals and cover-ups the world has ever known. It is, in fact, so large that all others substantially pale in comparison.
           </p>
           <p class="px-15">
           The cover-up involves three (3) U.S. Presidents, Senators, House Members, Governors, Mayors and hundreds of elected officials. Yet, this is only the beginning, as it encompasses at least 15 leaders of foreign countries, celebrities; actors, musicians, athletes and this again, is only the start.

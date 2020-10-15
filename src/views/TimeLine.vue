@@ -56,7 +56,7 @@
 					<span class="dates">2014 January 17)</span> Barrack Obama gave a public address on mass surveillance, promising increased restriction on data collection. Within months of this speech, he would undertake a major operation to put boots on the ground in regards to physical surveillance of Douglas Arone’s Tennessee residence.
 				</p>
 				<p>
-					<span class="dates">2014 January)</span> Douglas Arone begins working on <span class="italic">The Legacy Letter</span>; the letter deals with themes of the pursuit of immortality though accomplishment, fearless youthful ambition, and aspects of a major psychological discovery chronicled in his 2006 book <span class="italic">The Theorem: A Complete Answer to Human Behavior</span>. This request for funding will be sent to the ruling financial elite of the world.
+					<span class="dates">2014 January)</span> Douglas Arone begins working on <span class="italic">The Legacy Letter</span>; the letter deals with themes of the pursuit of immortality through accomplishment, fearless youthful ambition, and aspects of a major psychological discovery chronicled in his 2006 book <span class="italic">The Theorem: A Complete Answer to Human Behavior</span>. This request for funding will be sent to the ruling financial elite of the world.
 				</p>
 				<p>
 					<span class="dates">2014 February 10)</span> Douglas Arone sends out first copy of <span class="italic">The Legacy Letter</span> via email from the Tennessee residence.
@@ -98,10 +98,10 @@
 					<span class="dates">2014 September 25)</span> Eric Holder announced his resignation as Attorney General of The United States. He agreed to stay on until a successor was confirmed.
 				</p>
 				<p>
-					<span class="dates">2014 December)</span> Douglas Arone’s live-in girlfriend receives a job offer from an international surveillance and Intelligence Company based in the U.S. Areas of specialization for the company includes pandemic monitoring and support tools for intelligence agents, according to their website.
+					<span class="dates">2014 December)</span> Douglas Arone’s live-in girlfriend receives a job offer from an international surveillance and intelligence company based in the U.S. Areas of specialization for the company includes pandemic monitoring and support tools for intelligence agents, according to their website.
 				</p>
 				<p>
-					<span class="dates">2014 December)</span> Facing eviction, Douglas Arone leaves the Tennessee and obtains employment in Missouri. His girlfriend and her daughter will also vacate the property within weeks, during the school break.
+					<span class="dates">2014 December)</span> Facing eviction, Douglas Arone leaves the Tennessee area and obtains employment in Missouri. His girlfriend and her daughter will also vacate the property within weeks, during the school break.
 				</p>
 				<p>
 					<span class="dates">2015 April 12)</span> Hillary Clinton announces her candidacy for the 2016 presidential race.
@@ -116,10 +116,10 @@
 					<span class="dates">2015 December 8)</span> President Obama signs into law the Cybersecurity Information Sharing Act or CISA. The bill was originally introduced into the Senate by Senator Diane Feinstein of California. The law allowed enhanced sharing of internet traffic information between technology companies and the U.S. Government. Critics of CISA suggested it would do little to actually thwart a cyberattack, while increasing the vulnerability of personal private information.
 				</p>
 				<p>
-					<span class="dates">2015 summer)</span> Douglas Arone reunites with his girlfriend and her daughter in Concordia, Missouri. It is a small farming hamlet 60 miles of Kansas City. Arone’s initial intention was to cease sending out copies of <span class="italic">The Legacy Letter</span>. However the demand and interest was very high,    therefore he continued marketing of the letter.
+					<span class="dates">2015 summer)</span> Douglas Arone reunites with his girlfriend and her daughter in Concordia, Missouri. It is a small farming hamlet 60 miles east of Kansas City. Arone’s initial intention was to cease sending out copies of <span class="italic">The Legacy Letter</span>. However the demand and interest was very high,    therefore he continued marketing of the letter.
 				</p>
 				<p>
-					<span class="dates">2016 February)</span> Douglas Arone temporarily suspends operations in relation to sending out copies of <span class="italic">The Legacy Letter</span>. The primary reason is the upcoming election season.  While he will send out a handful of Legacy Letters in 2017, operations are essentially suspended indefinitely. Ultimately 10, 100 copies are sent out to the most powerful men and women in the world. Now over two years later, the initial intention was to send out 300 copies and be finished in three months.
+					<span class="dates">2016 February)</span> Douglas Arone temporarily suspends operations in relation to sending out copies of <span class="italic">The Legacy Letter</span>. The primary reason is the upcoming election season.  While he will send out a handful of Legacy Letters in 2017, operations are essentially suspended indefinitely. Ultimately 10,100 copies are sent out to the most powerful men and women in the world. Now over two years later, the initial intention was to send out 300 copies and be finished in three months.
 				</p>
 				<p>
 					<span class="dates">2016 March 2)</span> Aubrey McClendon, a billionaire and energy magnate, was killed in a single vehicle car crash in Oklahoma City, Oklahoma. The previous day Aubrey had been indicted by a federal grand jury on charges conspiring to rig bids in relation to his energy company. He is survived by a wife and three children.
@@ -184,14 +184,14 @@
 					<span class="dates">2017 October)</span> Concerned about the safety of those around him, Douglas Arone leaves the Concordia, Missouri residence and moves to Southern Missouri near the Arkansas border.
 				</p>
 				<p>
-					<span class="dates">2017 December 13)</span> Barry Sherman and his wife, Honey Sherman are murdered in their Toronto, Ontario, Canada Home
+					<span class="dates">2017 December 13)</span> Barry Sherman and his wife, Honey Sherman are murdered in their Toronto, Ontario, Canada Home.
 				</p>
 				<p>
-					<span class="dates">2017 December 15)</span> The bodies of Barry Sherman and his wife are discovered by a real estate agent who was showing their home for sale. Initially the Toronto police suspected murder/ suicide. However the assessment was later modified to that of a double homicide. The killer has never been caught. The Shermans are survived by four children.
+					<span class="dates">2017 December 15)</span> The bodies of Barry Sherman and his wife are discovered by a real estate agent who was showing their home for sale. Initially the Toronto police suspected murder/suicide. However the assessment was later modified to that of a double homicide. The killer has never been caught. The Shermans are survived by four children.
 					Barry Sherman was one of the earliest billionaires to receive a copy of <span class="italic">The Legacy Letter</span>; Dr. Bernard Sherman ‘Barry’ received it on February 11, 2014.
 				</p>
 				<p>
-					<span class="dates">2018 November 19)</span> After spearheading Nissan Motor Company turnaround from nearly imminent bankruptcy into solid profitability, and being considered one of the moist respected business leaders in the world; Carlos Ghosn, Chairman and CEO of the Renault-Nissan-Mitsubishi alliance was arrested in Japan for alleged false accounting.
+					<span class="dates">2018 November 19)</span> After spearheading The Nissan Motor Company's turnaround from nearly imminent bankruptcy into solid profitability, and being considered one of the moist respected business leaders in the world; Carlos Ghosn, Chairman and CEO of the Renault-Nissan-Mitsubishi alliance was arrested in Japan for alleged false accounting.
 					Carlos Ghosn received a copy of <span class="italic">The Legacy Letter</span> on 9/3/15.
 				</p>
 				<p>
