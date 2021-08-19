@@ -75,6 +75,15 @@
 					Douglas
 				</p>
 			</v-col>
+			<v-col class="text-center" cols="12">
+				<p style="
+					margin-top: -20px;
+				" class="px-5">
+					* From 8/13/21 to 8/18/21 we experienced service disruptions on this Site. We have taken the appropriate steps, including upgrading our server package, to prevent this from happening in the future. We apologize for the inconvenience.
+					<br />
+					The Martha Team
+				</p>
+			</v-col>
 			<v-col class="text-h5 text-center" cols="12">
 				<p class="px-5 bold">
 					Dit boek is opgedragen aan Karin en onze kinderen.
